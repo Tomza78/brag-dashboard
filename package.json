@@ -1,0 +1,18 @@
+{
+  "name": "brag-dashboard",
+  "version": "1.0.0",
+  "description": "BRAGG Gaming (BRAG) Intelligence Dashboard - Stock, iGaming & Regulatory Monitoring",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "job": "node run_daily_job.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0",
+    "express": "^4.18.2",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^2.7.0",
+    "dotenv": "^16.3.1",
+    "@google/generative-ai": "^0.21.0"
+  }
+}
