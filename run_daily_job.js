@@ -5,6 +5,7 @@
 require('dotenv').config();
 const { fetchRedditTrends } = require('./src/scraper');
 const { getXIntelligence } = require('./src/x_trends');
+const { fetchStockData } = require('./src/finance');
 const { summarizePost, categorizePost, summarizeComments } = require('./src/ai');
 const { initDB, getTrend, saveTrend, saveXIntelligence, getLatestXIntelligence } = require('./src/db');
 const path = require('path');
@@ -22,6 +23,108 @@ function generateHTMLReport(trends, xIntel) {
     console.log('Report data generated at public/data.js');
 }
 
+function generateIntelReport(financeData, trends, xIntelData) {
+    const stock = financeData?.stock || {};
+    const chartData = financeData?.chartData || null;
+
+    // Build social media articles from Reddit trends
+    const socialArticles = trends
+        .filter(t => t.source === 'reddit')
+        .slice(0, 5)
+        .map(t => ({
+            date: new Date(t.created_utc * 1000).toISOString().split('T')[0],
+            title: `Reddit: ${t.title}`,
+            summary_he: t.summary_he || 'תקציר לא זמין',
+            source: `Reddit r/${t.subreddit}`,
+            url: t.url
+        }));
+
+    // Build opinions from Grok data
+    const opinions = [];
+    if (xIntelData) {
+        const topics = ['brag_stock', 'us_regulation', 'brazil_market', 'netherlands_ksa', 'igaming_industry'];
+        topics.forEach(key => {
+            const info = xIntelData[key];
+            if (info && info.summary) {
+                opinions.push({
+                    text: info.summary,
+                    platform: `X/Grok · ${key.replace(/_/g, ' ')}`
+                });
+            }
+        });
+    }
+
+    // Calculate sentiment
+    let sentimentScore = 5;
+    let sentimentLabel = 'ניטרלי';
+    if (xIntelData) {
+        let pos = 0, neg = 0, total = 0;
+        ['brag_stock', 'us_regulation', 'brazil_market', 'netherlands_ksa', 'igaming_industry'].forEach(key => {
+            const info = xIntelData[key];
+            if (info && info.sentiment) {
+                total++;
+                if (info.sentiment.includes('חיובי')) pos++;
+                if (info.sentiment.includes('שלילי')) neg++;
+            }
+        });
+        if (total > 0) {
+            sentimentScore = Math.round(((pos * 8 + (total - pos - neg) * 5 + neg * 2) / total) * 10) / 10;
+            if (sentimentScore >= 7) sentimentLabel = 'חיובי';
+            else if (sentimentScore >= 5) sentimentLabel = 'מעורב-חיובי';
+            else if (sentimentScore >= 3) sentimentLabel = 'מעורב-שלילי';
+            else sentimentLabel = 'שלילי';
+        }
+    }
+
+    // Read existing intel-data.js to preserve curated sections
+    let existingSections = {};
+    let existingWatchpoints = [];
+    let existingOpinions = [];
+    const existingPath = path.join(__dirname, 'public/intel-data.js');
+    if (fs.existsSync(existingPath)) {
+        try {
+            const content = fs.readFileSync(existingPath, 'utf8');
+            const match = content.match(/window\.intelData\s*=\s*({[\s\S]*});?\s*$/);
+            if (match) {
+                const parsed = JSON.parse(match[1]);
+                existingSections = parsed.sections || {};
+                existingWatchpoints = parsed.watchpoints || [];
+                existingOpinions = parsed.socialMedia?.opinions || [];
+            }
+        } catch (e) {
+            console.warn('Could not parse existing intel-data.js:', e.message);
+        }
+    }
+
+    // Merge sections - update social media with fresh Reddit data
+    const sections = { ...existingSections };
+    if (socialArticles.length > 0) {
+        sections.social_media = {
+            title: 'BRAG ברשתות החברתיות',
+            icon: '💬',
+            color: 'rgba(255,214,0,0.15)',
+            articles: socialArticles
+        };
+    }
+
+    const intelData = {
+        stock: stock,
+        chartData: chartData,
+        socialMedia: {
+            sentimentScore,
+            sentimentLabel,
+            opinions: opinions.length > 0 ? opinions : existingOpinions
+        },
+        watchpoints: existingWatchpoints,
+        xIntelligence: xIntelData,
+        sections: sections
+    };
+
+    const intelJsContent = `window.intelData = ${JSON.stringify(intelData, null, 2)};`;
+    fs.writeFileSync(path.join(__dirname, 'public/intel-data.js'), intelJsContent);
+    console.log('Intel report data generated at public/intel-data.js');
+}
+
 async function runDailyJob() {
     const jobStartTime = new Date();
     console.log(`\n${'='.repeat(70)}`);
@@ -33,15 +136,19 @@ async function runDailyJob() {
         console.log('Step 0: Initializing Supabase...');
         initDB();
 
-        // Step 1: Fetch Reddit trends
-        console.log('\nStep 1: Fetching trends from Reddit...');
+        // Step 1: Fetch stock data from Yahoo Finance
+        console.log('\nStep 1: Fetching stock data from Yahoo Finance...');
+        const financeData = await fetchStockData();
+
+        // Step 2: Fetch Reddit trends
+        console.log('\nStep 2: Fetching trends from Reddit...');
         const rawTrends = await fetchRedditTrends();
         const processedTrends = [];
 
         console.log(`Fetched ${rawTrends.length} potential candidates.`);
 
-        // Step 2: Fetch X/Twitter intelligence via Grok
-        console.log('\nStep 2: Fetching X/Twitter intelligence via Grok...');
+        // Step 3: Fetch X/Twitter intelligence via Grok
+        console.log('\nStep 3: Fetching X/Twitter intelligence via Grok...');
         let xIntel = await getLatestXIntelligence();
         if (!xIntel) {
             const freshXData = await getXIntelligence();
@@ -53,8 +160,8 @@ async function runDailyJob() {
             console.log('  Using cached X intelligence from today.');
         }
 
-        // Step 3: Process Reddit trends with AI
-        console.log('\nStep 3: Processing trends with AI...');
+        // Step 4: Process Reddit trends with AI
+        console.log('\nStep 4: Processing trends with AI...');
         for (const trend of rawTrends) {
             let existingTrend = null;
             try {
@@ -93,13 +200,11 @@ async function runDailyJob() {
             console.log(`    Saved to database`);
         }
 
-        // Step 4: Generate report
-        if (processedTrends.length > 0 || xIntel) {
-            console.log('\nStep 4: Generating HTML report...');
-            generateHTMLReport(processedTrends, xIntel);
-        } else {
-            console.log('\nNo relevant trends found in this run.');
-        }
+        // Step 5: Generate both reports
+        const xIntelData = xIntel ? (xIntel.data || xIntel) : null;
+        console.log('\nStep 5: Generating reports...');
+        generateHTMLReport(processedTrends, xIntel);
+        generateIntelReport(financeData, processedTrends, xIntelData);
 
         const duration = ((new Date() - jobStartTime) / 1000).toFixed(2);
         console.log(`\n${'='.repeat(70)}`);
@@ -107,6 +212,7 @@ async function runDailyJob() {
         console.log(`  Duration: ${duration} seconds`);
         console.log(`  Trends processed: ${processedTrends.length}`);
         console.log(`  X Intelligence: ${xIntel ? 'Yes' : 'No'}`);
+        console.log(`  Stock data: NASDAQ $${financeData?.stock?.price || '-'} | TSX $${financeData?.stock?.priceTSX || '-'}`);
         console.log(`${'='.repeat(70)}\n`);
 
         process.exit(0);

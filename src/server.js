@@ -3,6 +3,7 @@ const { fetchRedditTrends } = require('./scraper');
 const { getXIntelligence } = require('./x_trends');
 const { summarizePost, categorizePost, summarizeComments } = require('./ai');
 const { initDB, saveTrend, getTrend, saveXIntelligence, getLatestXIntelligence, getTrendsByDate } = require('./db');
+const { fetchStockData } = require('./finance');
 const cron = require('node-cron');
 const path = require('path');
 const fs = require('fs');
@@ -28,15 +29,19 @@ async function runDailyJob() {
     console.log(`[${jobStartTime.toLocaleString()}] Starting daily job...`);
 
     try {
-        // Step 1: Fetch Reddit trends
-        console.log('Step 1: Fetching trends from Reddit...');
+        // Step 1: Fetch stock data from Yahoo Finance
+        console.log('Step 1: Fetching stock data from Yahoo Finance...');
+        const financeData = await fetchStockData();
+
+        // Step 2: Fetch Reddit trends
+        console.log('Step 2: Fetching trends from Reddit...');
         const rawTrends = await fetchRedditTrends();
         const processedTrends = [];
 
         console.log(`Fetched ${rawTrends.length} potential candidates.`);
 
-        // Step 2: Fetch X/Twitter intelligence via Grok
-        console.log('Step 2: Fetching X/Twitter intelligence via Grok...');
+        // Step 3: Fetch X/Twitter intelligence via Grok
+        console.log('Step 3: Fetching X/Twitter intelligence via Grok...');
         let xIntel = await getLatestXIntelligence();
         if (!xIntel) {
             const freshXData = await getXIntelligence();
@@ -48,8 +53,8 @@ async function runDailyJob() {
             console.log('  Using cached X intelligence from today.');
         }
 
-        // Step 3: Process Reddit trends with AI
-        console.log('Step 3: Processing trends with AI...');
+        // Step 4: Process Reddit trends with AI
+        console.log('Step 4: Processing trends with AI...');
         for (const trend of rawTrends) {
             let existingTrend = null;
             try {
@@ -89,13 +94,11 @@ async function runDailyJob() {
 
         latestTrends = processedTrends;
 
-        // Step 4: Generate report
-        if (latestTrends.length > 0 || xIntel) {
-            generateHTMLReport(latestTrends, xIntel);
-            console.log(`Updated report with ${latestTrends.length} trends.`);
-        } else {
-            console.log('No relevant trends found in this run.');
-        }
+        // Step 5: Generate both reports
+        const xIntelData = xIntel ? (xIntel.data || xIntel) : null;
+        generateHTMLReport(latestTrends, xIntelData);
+        generateIntelReport(financeData, latestTrends, xIntelData);
+        console.log(`Updated reports with ${latestTrends.length} trends.`);
 
         const duration = ((new Date() - jobStartTime) / 1000).toFixed(2);
         console.log(`Daily job completed in ${duration} seconds. Processed: ${processedTrends.length} trends.`);
@@ -117,6 +120,121 @@ function generateHTMLReport(trends, xIntel) {
     const dataJsContent = `window.dashboardData = ${JSON.stringify(reportData, null, 2)};`;
     fs.writeFileSync(path.join(__dirname, '../public/data.js'), dataJsContent);
     console.log('Report data generated at public/data.js');
+}
+
+/**
+ * Generates public/intel-data.js with the full intelligence report data.
+ * Used by intel.html (the professional dashboard).
+ */
+function generateIntelReport(financeData, trends, xIntelData) {
+    const now = new Date();
+    const stock = financeData?.stock || {};
+    const chartData = financeData?.chartData || null;
+
+    // Build social media articles from Reddit trends
+    const socialArticles = trends
+        .filter(t => t.source === 'reddit')
+        .slice(0, 5)
+        .map(t => ({
+            date: new Date(t.created_utc * 1000).toISOString().split('T')[0],
+            title: `Reddit: ${t.title}`,
+            summary_he: t.summary_he || 'תקציר לא זמין',
+            source: `Reddit r/${t.subreddit}`,
+            url: t.url
+        }));
+
+    // Build X intelligence social opinions from Grok data
+    const opinions = [];
+    if (xIntelData) {
+        const topics = ['brag_stock', 'us_regulation', 'brazil_market', 'netherlands_ksa', 'igaming_industry'];
+        topics.forEach(key => {
+            const info = xIntelData[key];
+            if (info && info.summary) {
+                opinions.push({
+                    text: info.summary,
+                    platform: `X/Grok · ${key.replace(/_/g, ' ')}`
+                });
+            }
+        });
+    }
+
+    // Calculate sentiment score from X intel
+    let sentimentScore = 5;
+    let sentimentLabel = 'ניטרלי';
+    if (xIntelData) {
+        let pos = 0, neg = 0, total = 0;
+        const topics = ['brag_stock', 'us_regulation', 'brazil_market', 'netherlands_ksa', 'igaming_industry'];
+        topics.forEach(key => {
+            const info = xIntelData[key];
+            if (info && info.sentiment) {
+                total++;
+                if (info.sentiment.includes('חיובי')) pos++;
+                if (info.sentiment.includes('שלילי')) neg++;
+            }
+        });
+        if (total > 0) {
+            sentimentScore = Math.round(((pos * 8 + (total - pos - neg) * 5 + neg * 2) / total) * 10) / 10;
+            if (sentimentScore >= 7) sentimentLabel = 'חיובי';
+            else if (sentimentScore >= 5) sentimentLabel = 'מעורב-חיובי';
+            else if (sentimentScore >= 3) sentimentLabel = 'מעורב-שלילי';
+            else sentimentLabel = 'שלילי';
+        }
+    }
+
+    // Read existing intel-data.js sections (news articles) if available
+    let existingSections = {};
+    const existingPath = path.join(__dirname, '../public/intel-data.js');
+    if (fs.existsSync(existingPath)) {
+        try {
+            const content = fs.readFileSync(existingPath, 'utf8');
+            const match = content.match(/window\.intelData\s*=\s*({[\s\S]*});?\s*$/);
+            if (match) {
+                existingSections = JSON.parse(match[1]).sections || {};
+            }
+        } catch (e) {
+            console.warn('Could not parse existing intel-data.js:', e.message);
+        }
+    }
+
+    // Merge: keep existing curated sections, update social media with fresh Reddit data
+    const sections = { ...existingSections };
+    if (socialArticles.length > 0) {
+        sections.social_media = {
+            title: 'BRAG ברשתות החברתיות',
+            icon: '💬',
+            color: 'rgba(255,214,0,0.15)',
+            articles: socialArticles
+        };
+    }
+
+    // Read existing watchpoints (keep them as-is, they're manually curated)
+    let existingWatchpoints = [];
+    if (fs.existsSync(existingPath)) {
+        try {
+            const content = fs.readFileSync(existingPath, 'utf8');
+            const match = content.match(/window\.intelData\s*=\s*({[\s\S]*});?\s*$/);
+            if (match) {
+                existingWatchpoints = JSON.parse(match[1]).watchpoints || [];
+            }
+        } catch (e) { /* ignore */ }
+    }
+
+    const intelData = {
+        stock: stock,
+        chartData: chartData,
+        socialMedia: {
+            sentimentScore,
+            sentimentLabel,
+            opinions: opinions.length > 0 ? opinions : undefined
+        },
+        watchpoints: existingWatchpoints,
+        xIntelligence: xIntelData,
+        sections: sections
+    };
+
+    const intelJsContent = `window.intelData = ${JSON.stringify(intelData, null, 2)};`;
+    fs.writeFileSync(path.join(__dirname, '../public/intel-data.js'), intelJsContent);
+    console.log('Intel report data generated at public/intel-data.js');
 }
 
 // API endpoints
@@ -177,4 +295,4 @@ app.listen(PORT, async () => {
     });
 });
 
-module.exports = { runDailyJob, generateHTMLReport };
+module.exports = { runDailyJob, generateHTMLReport, generateIntelReport };

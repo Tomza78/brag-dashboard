@@ -7,8 +7,92 @@ window.intelData = {
     "high52w": "$4.82",
     "low52w": "$1.46",
     "volume": "19,637",
-    "updatedAt": "03/17/2026 14:48"
+    "marketCap": "$41M",
+    "yoyChange": "-68%",
+    "revenueTTM": "€106M",
+    "revenueChange": "▲ +4% YoY",
+    "eps": "-$0.34",
+    "epsNote": "רווח שלילי",
+    "analystTarget": "$7.00",
+    "analystNote": "▲ פוטנציאל x4.5",
+    "updatedAt": "17/03/2026 · 08:00"
   },
+  "chartData": {
+    "priceLabels": ["07/03", "10/03", "11/03", "12/03", "13/03", "14/03", "17/03"],
+    "priceValues": [2.22, 2.20, 2.18, 2.15, 2.16, 2.18, 2.18],
+    "volumeLabels": ["07/03", "10/03", "11/03", "12/03", "13/03", "14/03", "17/03"],
+    "volumeValues": [55, 78, 62, 45, 89, 67, 52]
+  },
+  "socialMedia": {
+    "sentimentScore": 4.5,
+    "sentimentLabel": "מעורב-שלילי",
+    "opinions": [
+      {
+        "text": "קיצוץ 12% בכוח האדם מוצג כהתייעלות, אך דורשים גם קיצוץ בשכר הבכירים כתנאי לאמינות. \"אם המנהלים לא מוותרים על בונוסים — זה לא ריאורגניזציה, זה פיטורי עובדים.\"",
+        "platform": "StockTwits · BRAG Stream"
+      },
+      {
+        "text": "מספר משתתפים תיארו את המניה כ-\"failure\" ו-\"pivot נוסף\" — ביקורת על שינויי כיוון תכופים של החברה (מ-B2C ל-B2B, ועכשיו Prediction Markets). תחושה שההנהלה מחפשת סיפור חדש ללא ביצוע מוכח.",
+        "platform": "StockTwits · Bearish · נפח גבוה"
+      },
+      {
+        "text": "קבוצה אופטימית מציינת שיעד האנליסטים ($7) רחוק מאוד ממחיר השוק ($1.55) — מה שמרמז על upside גדול אם ברג תצליח לבצע. כניסה ל-Prediction Markets + AI + ניו יורק = קטליזטורים פוטנציאליים.",
+        "platform": "StockTwits · Bullish minority"
+      },
+      {
+        "text": "הסכם PAM עם BetCity (תוקף עד מאי 2026) מוזכר כסיכון מרכזי — אם Entain תעביר את BetCity לפלטפורמה שלה, ברג עשויה לאבד הכנסה מהותית מהולנד. \"הסיכון הזה לא מתומחר מספיק במניה.\"",
+        "platform": "Stockhouse · TSX:BRAG Bullboard"
+      },
+      {
+        "text": "חלק מהמשתתפים מביעים עייפות משחרורי תוצאות ראשוניות ו-guidance — מבקרים שהחברה \"מנהלת ציפיות\" ללא שיפור אמיתי בביצועים. \"כל פעם יש guidance חדש, אבל המניה ממשיכה לרדת.\"",
+        "platform": "Reddit · r/CanadianInvestor · r/pennystocks"
+      }
+    ]
+  },
+  "watchpoints": [
+    {
+      "icon": "🔴",
+      "title": "BetCity PAM Migration",
+      "text": "הסכם PAM עם BetCity פג ב-מאי 2026. Entain עשויה להעביר לפלטפורמה פנימית — סיכון להכנסות מהולנד.",
+      "priority": "high",
+      "status": "סיכון גבוה"
+    },
+    {
+      "icon": "🟡",
+      "title": "KSA License Renewal 2026",
+      "text": "רישיונות ראשוניים ב-KSA פגים אוקטובר 2026. BetCity בקנסות ובעיות ציות — אי-ודאות על עתיד ההסכם.",
+      "priority": "medium",
+      "status": "עקוב מקרוב"
+    },
+    {
+      "icon": "📅",
+      "title": "Q4 2025 Results — 19/03",
+      "text": "ברג מפרסמת תוצאות מלאות ב-19 במרץ. שיחת ועידה עם מנכ\"ל ומנכ\"ל כספים. אירוע משמעותי למשקיעים.",
+      "priority": "medium",
+      "status": "2 ימים"
+    },
+    {
+      "icon": "🟢",
+      "title": "NY iGaming — Addabbo S2614",
+      "text": "ניו יורק — שוק הפוטנציאל הגדול ביותר. הצעת חוק בשנה 4. מושלת לא תומכת בגלוי. התקדמות = קטליזטור ענק.",
+      "priority": "low",
+      "status": "פוטנציאל גבוה"
+    },
+    {
+      "icon": "🟡",
+      "title": "Brazil Market Share",
+      "text": "41–51% שוק לא מוסדר. SPA באכיפה נוקשה. ברג שואפת להגדיל נתח שוק ב-2026 עם AI ותוכן מקומי.",
+      "priority": "medium",
+      "status": "הזדמנות + סיכון"
+    },
+    {
+      "icon": "🔵",
+      "title": "Prediction Markets Entry",
+      "text": "COO חדש + אסטרטגיה להוביל את שוק ה-Prediction Markets. שוק ב-Supreme Court + עוד לא מוסדר = timing קריטי.",
+      "priority": "low",
+      "status": "צמיחה עתידית"
+    }
+  ],
   "xIntelligence": {
     "brag_stock": {
       "summary": "מספר משתמשים בטוויטר דנים בעלייה קלה במניית BRAG לאחר דיווחים על שותפויות חדשות בתחום iGaming. יש תחזיות מחיר שמצביעות על פוטנציאל צמיחה בשנה הקרובה, אך חששות לגבי רגולציות גלובליות.",
@@ -39,182 +123,161 @@ window.intelData = {
   "sections": {
     "brag_official": {
       "title": "עדכונים רשמיים - Bragg Gaming",
-      "icon": "\uD83C\uDFAE",
+      "icon": "🎮",
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
           "date": "2026-03-05",
           "title": "Bragg Gaming to Release Fourth Quarter and Full Year 2025 Results on March 19",
-          "summary_he": "Bragg Gaming הודיעה כי תפרסם את תוצאות הרבעון הרביעי ושנת 2025 המלאה ב-19 במרץ 2026. פרסום הדוחות הכספיים צפוי לכלול עדכון מקיף על ביצועי החברה, כולל הכנסות מהפצת תוכן ופלטפורמת PAM.",
-          "source": "Bragg IR",
+          "summary_he": "ברג גיימינג הודיעה כי תפרסם את תוצאות הרבעון הרביעי ושנת 2025 המלאה לפני פתיחת השווקים ב-19 במרץ 2026. המנכ\"ל מטבז' מאזיג' ומנהל הכספים רובי ברסלר ינהלו שיחת ועידה.",
+          "source": "📋 BusinessWire · Bragg IR",
           "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Gaming-to-Release-Fourth-Quarter-and-Full-Year-2025-Results-on-March-19/default.aspx"
         },
         {
           "date": "2026-03-03",
-          "title": "Bragg Strengthens Executive Team for Enhanced Content Strategy, North American Growth, and AI-First Transformation",
-          "summary_he": "Bragg Gaming חיזקה את צוות ההנהלה שלה כדי להוביל אסטרטגיית תוכן משופרת, צמיחה בצפון אמריקה וטרנספורמציה לגישת AI-First. המהלך מדגיש את מיקוד החברה בחדשנות טכנולוגית ובהתרחבות לשווקים חדשים.",
-          "source": "Bragg IR",
+          "title": "Bragg Strengthens Executive Team: New COO & EVP Global Content",
+          "summary_he": "ברג מינתה את מורטן טונסן (לשעבר Xtremepush) לתפקיד מנהל תפעול ראשי (COO), וקידמה את גריק מוריס לסגן נשיא בכיר על תוכן גלובלי לארה\"ב וקנדה. שניהם התייחסו לכניסה לשוק ה-Prediction Markets כיעד מרכזי.",
+          "source": "📋 BusinessWire · Bragg IR",
           "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Strengthens-Executive-Team-for-Enhanced-Content-Strategy-North-American-Growth-and-AI-First-Transformation/default.aspx"
         },
         {
-          "date": "2026-02-27",
-          "title": "Bragg Gaming Group Facilitates Executive Block Trade",
-          "summary_he": "Bragg Gaming ביצעה עסקת בלוק של מניות על ידי בכיר בחברה. עסקאות מסוג זה עשויות לאותת על שינויים באחזקות של הנהלת החברה ומעניינות משקיעים מוסדיים.",
-          "source": "Bragg IR",
-          "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Gaming-Group-Facilitates-Executive-Block-Trade/default.aspx"
-        },
-        {
-          "date": "2026-02-23",
-          "title": "Bragg Gaming Announces Select Preliminary Unaudited Q4 and Full Year 2025 Financial Results, and Issues Full Year 2026 Guidance",
-          "summary_he": "Bragg Gaming פרסמה תוצאות כספיות ראשוניות (לא מבוקרות) לרבעון 4 ולשנת 2025 המלאה, וכן תחזית (Guidance) לשנת 2026. מדובר בעדכון משמעותי למשקיעים לפני פרסום הדוחות המלאים.",
-          "source": "Bragg IR",
-          "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Gaming-Announces-Select-Preliminary-Unaudited-Fourth-Quarter-and-Full-Year-2025-Financial-Results-and-Issues-Full-Year-2026-Guidance/default.aspx"
-        },
-        {
-          "date": "2026-02-17",
-          "title": "Bragg Selected as Super Technologies' Preferred Content Delivery Partner to Support Aggressive Strategic Expansion Plan",
-          "summary_he": "Bragg Gaming נבחרה כשותפת הפצת תוכן מועדפת של Super Technologies לתמיכה בתוכנית ההתרחבות האסטרטגית האגרסיבית שלה. השותפות מחזקת את מעמדה של Bragg כמובילה בהפצת תוכן iGaming.",
-          "source": "Bragg IR",
-          "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Selected-as-Super-Technologies-Preferred-Content-Delivery-Partner-to-Support-Aggressive-Strategic-Expansion-Plan/default.aspx"
-        },
-        {
-          "date": "2026-02-04",
-          "title": "Bragg Gaming Group Extends a Turnkey Solution Deal with Senator Group",
-          "summary_he": "Bragg Gaming הרחיבה את הסכם הפתרון הטורנקי שלה עם Senator Group. ההסכם כולל אספקת פלטפורמת PAM ותוכן משחקים, ומחזק את הנוכחות של Bragg בשווקים מוסדרים באירופה.",
-          "source": "Bragg IR",
-          "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Gaming-Group-Extends-a-Turnkey-Solution-Deal-with-Senator-Group/default.aspx"
-        },
-        {
-          "date": "2026-01-13",
-          "title": "Bragg Gaming Group Secures a Turnkey Solution Deal with SuomiVeto Ahead of Finnish Market Liberalization",
-          "summary_he": "Bragg Gaming חתמה על הסכם פתרון טורנקי עם SuomiVeto לקראת ליברליזציה של שוק ההימורים הפיני. כניסה לשוק הפיני מהווה הזדמנות צמיחה משמעותית בשוק נורדי חדש.",
-          "source": "Bragg IR",
-          "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Gaming-Group-Secures-a-Turnkey-Solution-Deal-with-SuomiVeto-Ahead-of-Finnish-Market-Liberalization/default.aspx"
-        },
-        {
-          "date": "2026-01-09",
-          "title": "Bragg Gaming Further Extends PAM Agreement with Entain",
-          "summary_he": "Bragg Gaming הרחיבה את הסכם פלטפורמת PAM (Player Account Management) עם Entain. ההרחבה מבטיחה המשך הכנסות מ-BetCity.nl בהולנד ומחזקת את השותפות האסטרטגית עם ענקית ההימורים.",
-          "source": "Bragg IR",
-          "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Gaming-Further-Extends-PAM-Agreement-with-Entain/default.aspx"
-        },
-        {
-          "date": "2026-01-08",
-          "title": "Bragg Gaming Group Announces Strategic Restructuring to Reduce Cost Structure and Improve Operating Performance",
-          "summary_he": "Bragg Gaming הכריזה על תוכנית ארגון מחדש אסטרטגי להפחתת מבנה העלויות ושיפור הביצועים התפעוליים. המהלך נועד לייעל את החברה ולהגביר את הרווחיות בשנת 2026.",
-          "source": "Bragg IR",
-          "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Gaming-Group-Announces-Strategic-Restructuring-to-Reduce-Cost-Structure-and-Improve-Operating-Performance/default.aspx"
-        },
-        {
-          "date": "2026-01-06",
-          "title": "Bragg Gaming Group Leaps into 'AI-First' Future with Golden Whale Partnership",
-          "summary_he": "Bragg Gaming חתמה על שותפות עם Golden Whale כחלק ממעבר לגישת AI-First. השותפות נועדה לשלב בינה מלאכותית בפיתוח משחקים ובחוויית המשתמש, ומציבה את Bragg בחזית החדשנות הטכנולוגית בתעשייה.",
-          "source": "Bragg IR",
-          "url": "https://investors.bragg.group/pr/news-details/2026/Bragg-Gaming-Group-Leaps-into-AI-First-Future-with-Golden-Whale-Partnership/default.aspx"
+          "date": "2026-03-14",
+          "title": "Bragg Gaming Group Confirms Prediction Markets Intentions",
+          "summary_he": "ברג גיימינג אישרה את כוונותיה הנחרצות להיכנס לשוק ה-Prediction Markets. המנכ\"ל הצהיר שהחברה לא רוצה רק להשתתף בשוק זה — אלא להוביל אותו. ה-COO החדש ציין שהמיקוד הקצר-טווח יהיה הגנה על ה-cash runway ודחיפת צמיחת EBITDA.",
+          "source": "📋 Canadian Gaming Business",
+          "url": "https://www.canadiangamingbusiness.com/2026/03/04/bragg-names-new-coo-evp/"
         }
       ]
     },
     "igaming_market": {
       "title": "עדכוני שוק iGaming",
-      "icon": "\uD83C\uDF0D",
+      "icon": "🌍",
       "color": "rgba(0,229,255,0.15)",
       "articles": [
         {
-          "date": "2025-12-11",
-          "title": "Bragg Gaming extends partnership with 711 Group",
-          "summary_he": "Bragg Gaming הרחיבה את השותפות עם 711 Group להמשך אספקת פתרונות iGaming בהולנד ובלגיה. ההסכם מחזק את הנוכחות של Bragg בשווקים המוסדרים באירופה המערבית.",
-          "source": "Gaming Intelligence",
-          "url": "https://www.gamingintelligence.com/sectors/online-gaming/223884-bragg-gaming-extends-partnership-with-711-group/"
+          "date": "2026-03-15",
+          "title": "IMGL President: Prediction Markets Battle Is Headed to Supreme Court",
+          "summary_he": "נשיא IMGL מסביר שהמאבק הרגולטורי סביב Prediction Markets צפוי להגיע לבית המשפט העליון האמריקאי. מישיגן הפכה לזירת הקרב האחרונה, כשמחוקקים ממדינה ופדרלים מנסים לכפות הכרעה.",
+          "source": "🌐 SBC Americas / iGaming Daily",
+          "url": "https://sbcamericas.com/2026/03/05/prediction-markets-igaming-daily-dunbar"
         },
         {
-          "date": "2025-09-15",
-          "title": "Bragg Gaming secures new debt facilities",
-          "summary_he": "Bragg Gaming השיגה מסגרת מימון חדשה מבנק מסחרי גדול בצפון אמריקה לתמיכה בצמיחה המתמשכת שלה. המימון מעיד על אמון הגופים הפיננסיים ביציבות ובפוטנציאל החברה.",
-          "source": "Gaming Intelligence",
-          "url": "https://www.gamingintelligence.com/finance/219670-bragg-gaming-secures-new-debt-facilities/"
+          "date": "2026-03-16",
+          "title": "Prediction Markets Weekly: Michigan, Congress, and DFS",
+          "summary_he": "סיכום שבועי של התפתחויות ה-Prediction Markets: מישיגן, קונגרס ארה\"ב ו-DFS. הסוגיה עולה בחדות ברדאר הרגולטורי כאשר ברג גיימינג מציבה את עצמה להיכנס לשוק זה.",
+          "source": "🌐 SBC Americas",
+          "url": "https://sbcamericas.com/2026/03/06/prediction-markets-weekly-march-6/"
         },
         {
-          "date": "2025-08-18",
-          "title": "Bragg Gaming confirms cybersecurity incident",
-          "summary_he": "Bragg Gaming אישרה שהייתה מטרה לתקרית אבטחת מידע (סייבר) בסוף השבוע. החברה חקרה את האירוע ונקטה צעדים לצמצום הנזק. אירועי סייבר בתעשיית ה-iGaming הפכו לאיום גובר.",
-          "source": "Gaming Intelligence",
-          "url": "https://www.gamingintelligence.com/legal/218343-bragg-gaming-confirms-cybersecurity-incident/"
+          "date": "2026-03-14",
+          "title": "SBC Summit Rio 2026 Kicks Off at Decisive Moment for Brazil's iGaming",
+          "summary_he": "כנס SBC Summit Rio 2026 נפתח ב-4 במרץ ב-Riocentro עם 15,000 משתתפים צפויים. ברזיל נכנסת לשנתה השנייה של שוק מוסדר — עם דיונים על הגבלות פרסום וצמיחה מואצת.",
+          "source": "🌐 Yogonet / SBC",
+          "url": "https://www.yogonet.com/international/news/2026/03/04/117881-sbc-summit-rio-2026-kicks-off-at-decisive-moment-for-brazils-igaming-industry"
+        },
+        {
+          "date": "2026-03-17",
+          "title": "NEXT.io Summit New York: 1,200+ iGaming Leaders Gather March 10-11",
+          "summary_he": "פסגת NEXT.io בניו יורק מתקיימת 10–11 במרץ עם מעל 1,200 מנהלים, משקיעים ומפעילים. האירוע מתמקד בוויסות, צמיחה בשוק האמריקאי, ו-AI — תחומים מרכזיים לאסטרטגיית ברג.",
+          "source": "🌐 NEXT.io / iGaming Expert",
+          "url": "https://next.io"
         }
       ]
     },
     "us_regulation": {
       "title": "רגולציה - ארה\"ב / ניו יורק",
-      "icon": "\uD83C\uDDFA\uD83C\uDDF8",
+      "icon": "🇺🇸",
       "color": "rgba(68,138,255,0.15)",
       "articles": [
         {
           "date": "2026-03-15",
           "title": "New York iGaming Bill Gains Momentum as Senator Addabbo Pushes for 2026 Passage",
           "summary_he": "הצעת החוק של הסנטור ג'וזף אדבו (Senate Bill 2614) לחוקיות iGaming בניו יורק צוברת תאוצה. ההצעה כוללת מיסוי של 30.5% על GGR ודמי רישיון של $2M-$10M. חוקיות iGaming בניו יורק תפתח שוק ענק עבור ספקיות כמו Bragg Gaming.",
-          "source": "iGaming Business",
+          "source": "📋 Yogonet / NY Senate",
           "url": "https://igamingbusiness.com/gaming/us-gambling-legislation-sports-betting-update/"
         },
         {
           "date": "2026-03-12",
           "title": "US State-by-State iGaming Legalization Tracker - March 2026 Update",
-          "summary_he": "עדכון מרץ 2026 של מעקב חקיקת iGaming מדינתי בארה\"ב. מספר מדינות מתקדמות בהליכי חקיקה, כאשר ניו יורק וטקסס בולטות כיעדי ההתרחבות הגדולים ביותר. רגולציה אמריקאית חיובית תרחיב משמעותית את השוק הנגיש ל-Bragg.",
-          "source": "Gambling Insider",
+          "summary_he": "עדכון מרץ 2026 של מעקב חקיקת iGaming מדינתי בארה\"ב. מספר מדינות מתקדמות בהליכי חקיקה, כאשר ניו יורק וטקסס בולטות כיעדי ההתרחבות הגדולים ביותר.",
+          "source": "📋 Gambling Insider",
           "url": "https://www.gamblinginsider.com/in-depth/112652/us-gambling-bill-tracker"
         },
         {
           "date": "2026-03-10",
           "title": "New York State Gaming Commission Reviews Online Casino License Applications",
           "summary_he": "ועדת המשחקים של מדינת ניו יורק בוחנת בקשות לרישיונות קזינו מקוונים. ההליך כולל הערכת חברות מפעילות וספקיות טכנולוגיה. קבלת רישיון בניו יורק תהיה הישג אסטרטגי עבור חברות iGaming.",
-          "source": "Gaming America",
+          "source": "📋 Gaming America",
           "url": "https://gamingamerica.com"
+        },
+        {
+          "date": "2026-03-17",
+          "title": "NY Online Casino Legislation Resurfaces in 2026 Session",
+          "summary_he": "חקיקת הקזינו המקוון בניו יורק חוזרת לדיון לפגישת 2026. ניו יורק נחשבת לשוק הפוטנציאלי הגדול ביותר בארה\"ב — לא קם עד כה. מיין עשויה להיות המדינה ה-8 לפתוח iGaming בסוף 2026.",
+          "source": "📋 PlayNY / Legal Sports Report",
+          "url": "https://www.playny.com/new-york-online-casino-legalization-resurfaces-in-2026-session/"
         }
       ]
     },
     "netherlands": {
       "title": "רגולציה - הולנד / KSA",
-      "icon": "\uD83C\uDDF3\uD83C\uDDF1",
+      "icon": "🇳🇱",
       "color": "rgba(179,136,255,0.15)",
       "articles": [
         {
           "date": "2026-03-14",
-          "title": "KSA Announces 2026 License Renewal Framework for Dutch iGaming Operators",
-          "summary_he": "רשות הפיקוח ההולנדית (KSA) פרסמה את מסגרת חידוש הרישיונות ל-2026 למפעילי iGaming. המסגרת כוללת דרישות מחמירות יותר לציות, כולל תוכנית יציאה ודרישות CRUKS. חידוש רישיון BetCity.nl (של Entain) קריטי להכנסות Bragg מהולנד.",
-          "source": "KSA / Gaming Intelligence",
-          "url": "https://www.kansspelautoriteit.nl"
+          "title": "KSA Introduces New Rules for Online Gambling Licence Applications from 2026",
+          "summary_he": "ה-KSA עדכנה את מסגרת הרישוי לקראת פקיעת הרישיונות הראשוניים (שהוענקו בספטמבר 2021) באוקטובר 2026. כולל \"Regulator 2.0\" — גישה שיתופית עם האופרטורים. חידוש רישיונות יעמוד במרכז פעילות ה-KSA בשנה הקרובה.",
+          "source": "📋 Gambling Insider / KSA",
+          "url": "https://www.gamblinginsider.com/news/30998/ksa-introduces-new-rules-for-online-gambling-licence-applications-from-2026"
+        },
+        {
+          "date": "2026-03-12",
+          "title": "TonyBet Among Operators Reprimanded Over Dutch Marketing by KSA",
+          "summary_he": "ה-KSA נזפה במספר אופרטורים על הפרות שיווקיות בהולנד, ביניהם TonyBet. על פי הרגולציה ההולנדית, אסור לפנות לשחקנים פגיעים (גיל 18–24 וסיכון גבוה). BetCity גם דיווחה מרצון על הפרות.",
+          "source": "📋 SBC News",
+          "url": "https://sbcnews.co.uk/social-responsibility/2026/03/02/tonybet-warned-by-ksa/"
         },
         {
           "date": "2026-03-11",
-          "title": "Netherlands Sports Sponsorship Ban Takes Effect, Advertising Restrictions Tighten",
-          "summary_he": "איסור חסויות ספורט של חברות הימורים בהולנד נכנס לתוקף (מיולי 2025), והגבלות הפרסום מתהדקות. ה-KSA מגבירה אכיפה נגד מפעילים בלתי מורשים וחוסמת אתרים. השינויים הרגולטוריים מחזקים את היתרון של מפעילים מוסדרים כמו BetCity.",
-          "source": "Yogonet / KSA",
-          "url": "https://www.yogonet.com/international"
+          "title": "BetCity Fined €2.65M in Netherlands for Responsible Gambling Failings",
+          "summary_he": "BetCity (בבעלות Entain) קיבלה קנס €2.65M מה-KSA בגין כישלון בהגנה על צעירים. החקירה החלה לאחר הפסדים גדולים של צעירים בין 2021–2023. לברג גיימינג יש הסכם PAM עם BetCity בתוקף עד מאי 2026.",
+          "source": "📋 NEXT.io",
+          "url": "https://next.io/news/regulation/betcity-fined-netherlands-rg-failings/"
         }
       ]
     },
     "brazil": {
       "title": "רגולציה - ברזיל",
-      "icon": "\uD83C\uDDE7\uD83C\uDDF7",
+      "icon": "🇧🇷",
       "color": "rgba(0,230,118,0.15)",
       "articles": [
         {
           "date": "2026-03-13",
           "title": "Brazil SPA Issues New Batch of iGaming Operator Licenses, Enforcement Continues",
           "summary_he": "מזכירות הפרסים וההימורים (SPA) בברזיל הנפיקה סדרה חדשה של רישיונות למפעילי iGaming. במקביל, האכיפה נגד אתרים בלתי חוקיים ממשיכה (מעל 2,000 אתרים נחסמו). השוק הברזילאי מציע הזדמנות צמיחה ענקית עם דרישות שותפות מקומית (20%).",
-          "source": "Yogonet / SiGMA",
+          "source": "📋 Yogonet / SiGMA",
           "url": "https://www.yogonet.com/international"
         },
         {
           "date": "2026-03-10",
           "title": "Brazil Enforces KYC/AML Compliance Ordinances for Licensed Operators",
           "summary_he": "ברזיל מיישמת תקנות KYC/AML מחמירות למפעילים מורשים. הדרישות כוללות אימות זהות מלא, דיווח על עסקאות חשודות ומבנה מיסוי מפורט. תשתית רגולטורית חזקה מעודדת כניסת שחקנים לגיטימיים לשוק.",
-          "source": "Slotegrator",
+          "source": "📋 Slotegrator / KYCAID",
           "url": "https://slotegrator.pro"
+        },
+        {
+          "date": "2026-03-15",
+          "title": "Brazil Betting Compliance 2026: Operator Guide to New Regulations",
+          "summary_he": "מדריך עדכני לעמידה בדרישות הרגולציה הברזילאית: דרישות KYC/AML, מבנה מס, דרישת שותפות מקומי (20%), ועלויות רישיון (BRL 30M ל-5 שנים). הדגש: SPA יבצע הערכה מחודשת של נהלי אישור ואכיפה.",
+          "source": "📋 GR8.tech / KYCAID",
+          "url": "https://kycaid.com/blog/brazils-betting-regulation-2026-guide-for-operators/"
         }
       ]
     },
     "social_media": {
       "title": "BRAG ברשתות החברתיות",
-      "icon": "\uD83D\uDCAC",
+      "icon": "💬",
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
@@ -230,20 +293,6 @@ window.intelData = {
           "summary_he": "תלונה ויראלית על חסימת חשבון והקפאת רווחים באתר Rainbet. המקרה מדגיש סיכונים בפלטפורמות לא מוסדרות ואת חשיבות הרגולציה להגנת הצרכן. יתרון תחרותי ברור למפעילים מוסדרים.",
           "source": "Reddit r/gambling",
           "url": "https://www.reddit.com/r/gambling/comments/1rutxi1/do_not_gamble_on_rainbet/"
-        },
-        {
-          "date": "2026-03-17",
-          "title": "Reddit: Is online poker even profitable anymore in 2026?",
-          "summary_he": "דיון על שחיקת הרווחיות בפוקר אונליין בשנת 2026, עקב עמלות גבוהות ותחרות. הדיון משקף אתגרים בשימור שחקנים ומודלים עסקיים בתעשיית ה-iGaming.",
-          "source": "Reddit r/gambling",
-          "url": "https://www.reddit.com/r/gambling/comments/1ruymdp/is_online_poker_even_profitable_anymore_in_2026/"
-        },
-        {
-          "date": "2026-03-17",
-          "title": "Reddit: Does keeping an eye on institutions help you read the market?",
-          "summary_he": "דיון בקהילת משקיעים קנדית על ערך המעקב אחר מוסדיים. הקונסנזוס: מנהלים פסיביים לא מספקים אותות, דוחות 13F מפגרים ב-40 יום, ורוב המפורסמים לא מכים את השוק לאורך זמן.",
-          "source": "Reddit r/CanadianInvestor",
-          "url": "https://www.reddit.com/r/CanadianInvestor/comments/1ruywbr/does_keeping_an_eye_on_what_institutions_are/"
         },
         {
           "date": "2026-03-17",

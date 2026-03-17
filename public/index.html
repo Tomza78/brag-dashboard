@@ -1,490 +1,662 @@
 <!DOCTYPE html>
 <html lang="he" dir="rtl">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BRAG Intelligence Dashboard</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Outfit:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        :root {
-            --bg-color: #0a0d12;
-            --card-bg: rgba(20, 26, 34, 0.85);
-            --accent-green: #00e676;
-            --accent-red: #ff1744;
-            --accent-gold: #ffd600;
-            --accent-blue: #448aff;
-            --accent-purple: #b388ff;
-            --text-main: #e1e1e1;
-            --text-dim: #8a9099;
-            --glass-border: rgba(255, 255, 255, 0.06);
-        }
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BRAG Intelligence Dashboard</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Noto+Sans+Hebrew:wght@300;400;600;700&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg:         #0b0d11;
+    --bg2:        #12151c;
+    --bg3:        #1a1e28;
+    --border:     #252a38;
+    --gold:       #f5b731;
+    --gold-dim:   #a8791e;
+    --green:      #2ecc8a;
+    --red:        #e05252;
+    --orange:     #f07d2a;
+    --blue:       #4a9eff;
+    --purple:     #9b7ff5;
+    --text:       #e8ecf4;
+    --text-dim:   #7a8499;
+    --text-muted: #4a5168;
+  }
 
-        * { box-sizing: border-box; margin: 0; padding: 0; }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
 
-        body {
-            font-family: 'Inter', 'Segoe UI', system-ui, sans-serif;
-            background-color: var(--bg-color);
-            background-image:
-                radial-gradient(circle at 15% 25%, rgba(0, 230, 118, 0.04) 0%, transparent 40%),
-                radial-gradient(circle at 85% 75%, rgba(255, 214, 0, 0.03) 0%, transparent 40%);
-            color: var(--text-main);
-            min-height: 100vh;
-        }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Noto Sans Hebrew', sans-serif;
+    font-size: 14px;
+    line-height: 1.6;
+    direction: rtl;
+  }
 
-        .dashboard { max-width: 1500px; margin: 0 auto; padding: 30px 20px; }
+  .header {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 16px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  .header-left { display: flex; align-items: center; gap: 16px; }
+  .ticker-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 22px; font-weight: 600;
+    color: var(--gold); letter-spacing: 2px;
+    border: 1px solid var(--gold-dim);
+    padding: 4px 14px; border-radius: 4px;
+  }
+  .header-title { font-size: 13px; color: var(--text-dim); line-height: 1.4; }
+  .header-title strong { color: var(--text); font-size: 16px; display: block; }
+  .header-right { display: flex; align-items: center; gap: 24px; }
+  .live-dot {
+    width: 8px; height: 8px; background: var(--green);
+    border-radius: 50%; display: inline-block; margin-left: 6px;
+    animation: pulse 2s infinite;
+  }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+  .update-time { font-family: 'Space Mono', monospace; font-size: 11px; color: var(--text-dim); }
+  .nav-btns { display: flex; gap: 8px; }
+  .nav-btn {
+    background: transparent; border: 1px solid var(--border); color: var(--text-dim);
+    font-family: 'Space Mono', monospace; font-size: 11px;
+    padding: 6px 14px; border-radius: 5px; text-decoration: none; transition: all 0.2s;
+  }
+  .nav-btn:hover { border-color: var(--gold); color: var(--gold); }
 
-        /* Header */
-        .header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 30px;
-            padding: 18px 25px;
-            background: var(--card-bg);
-            backdrop-filter: blur(10px);
-            border-radius: 16px;
-            border: 1px solid var(--glass-border);
-        }
+  .pdf-btn {
+    display: flex; align-items: center; gap: 8px;
+    background: transparent; border: 1px solid var(--gold-dim);
+    color: var(--gold); font-family: 'Space Mono', monospace;
+    font-size: 11px; letter-spacing: 1px; padding: 8px 16px;
+    border-radius: 5px; cursor: pointer; transition: all 0.2s; text-transform: uppercase;
+  }
+  .pdf-btn:hover { background: rgba(245,183,49,0.12); border-color: var(--gold); box-shadow: 0 0 12px rgba(245,183,49,0.2); }
+  .pdf-btn:active { transform: scale(0.97); }
+  .pdf-btn.loading { opacity: 0.6; cursor: wait; pointer-events: none; }
+  .pdf-btn svg { width: 14px; height: 14px; flex-shrink: 0; }
+  .pdf-spinner {
+    width: 14px; height: 14px; border: 2px solid var(--gold-dim);
+    border-top-color: var(--gold); border-radius: 50%;
+    animation: spin 0.7s linear infinite; display: none;
+  }
+  .pdf-btn.loading .pdf-spinner { display: block; }
+  .pdf-btn.loading .pdf-icon { display: none; }
+  @keyframes spin { to { transform: rotate(360deg); } }
 
-        .logo-area { display: flex; align-items: center; gap: 14px; }
+  @media print { .header { position: relative; } .pdf-btn, .nav-btns { display: none; } }
 
-        .logo-icon {
-            width: 42px; height: 42px;
-            background: linear-gradient(135deg, var(--accent-gold), #ff6d00);
-            border-radius: 12px;
-            display: flex; align-items: center; justify-content: center;
-            font-family: 'Outfit', sans-serif;
-            font-weight: bold; font-size: 18px; color: #000;
-            box-shadow: 0 0 20px rgba(255, 214, 0, 0.3);
-        }
+  .main { max-width: 1400px; margin: 0 auto; padding: 24px 32px; display: grid; grid-template-columns: 1fr; gap: 24px; }
 
-        h1 {
-            font-family: 'Outfit', sans-serif;
-            font-size: 22px;
-            letter-spacing: -0.5px;
-        }
+  .section-header { display: flex; align-items: center; gap: 10px; margin-bottom: 16px; }
+  .section-dot { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+  .section-label {
+    font-family: 'Space Mono', monospace; font-size: 11px;
+    letter-spacing: 2px; text-transform: uppercase; color: var(--text-dim);
+  }
+  .section-title { font-size: 18px; font-weight: 700; color: var(--text); }
+  .verified-badge {
+    font-family: 'Space Mono', monospace; font-size: 10px;
+    padding: 2px 8px; border-radius: 3px;
+    background: rgba(46,204,138,0.12); color: var(--green);
+    border: 1px solid rgba(46,204,138,0.3); margin-right: auto;
+  }
+  .social-badge {
+    font-family: 'Space Mono', monospace; font-size: 10px;
+    padding: 2px 8px; border-radius: 3px;
+    background: rgba(240,125,42,0.12); color: var(--orange);
+    border: 1px solid rgba(240,125,42,0.3); margin-right: auto;
+  }
 
-        .header-info { color: var(--text-dim); font-size: 13px; font-weight: 600; }
+  .kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; }
+  .kpi-card {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: 8px; padding: 16px; position: relative;
+    overflow: hidden; transition: border-color 0.2s;
+  }
+  .kpi-card:hover { border-color: var(--gold-dim); }
+  .kpi-card::before { content: ''; position: absolute; top: 0; right: 0; width: 3px; height: 100%; }
+  .kpi-card.gold::before { background: var(--gold); }
+  .kpi-card.green::before { background: var(--green); }
+  .kpi-card.red::before { background: var(--red); }
+  .kpi-card.blue::before { background: var(--blue); }
+  .kpi-card.purple::before { background: var(--purple); }
+  .kpi-label {
+    font-family: 'Space Mono', monospace; font-size: 10px;
+    color: var(--text-muted); letter-spacing: 1px;
+    text-transform: uppercase; margin-bottom: 8px;
+  }
+  .kpi-value { font-family: 'IBM Plex Mono', monospace; font-size: 22px; font-weight: 600; color: var(--text); }
+  .kpi-sub { font-family: 'Space Mono', monospace; font-size: 11px; margin-top: 4px; }
+  .kpi-sub.up { color: var(--green); }
+  .kpi-sub.down { color: var(--red); }
+  .kpi-sub.neutral { color: var(--text-dim); }
 
-        .controls { display: flex; gap: 12px; }
+  .charts-row { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; }
+  .chart-card { background: var(--bg2); border: 1px solid var(--border); border-radius: 8px; padding: 20px; }
+  .chart-title {
+    font-family: 'Space Mono', monospace; font-size: 11px;
+    color: var(--text-dim); letter-spacing: 1.5px;
+    text-transform: uppercase; margin-bottom: 16px;
+  }
+  .chart-note { font-size: 10px; color: var(--text-muted); margin-top: 8px; font-family: 'Space Mono', monospace; }
+  .chart-note a { color: var(--blue); }
 
-        .btn {
-            background: var(--card-bg);
-            color: white;
-            border: 1px solid var(--glass-border);
-            padding: 9px 18px;
-            border-radius: 10px;
-            cursor: pointer;
-            font-weight: 600;
-            text-decoration: none;
-            font-size: 13px;
-        }
+  .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 12px; }
+  .news-card {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: 8px; padding: 16px;
+    transition: border-color 0.2s, transform 0.15s;
+    display: flex; flex-direction: column; gap: 8px;
+  }
+  .news-card:hover { border-color: var(--gold-dim); transform: translateY(-1px); }
+  .news-card.official { border-right: 3px solid var(--blue); }
+  .news-card.analysis { border-right: 3px solid var(--purple); }
+  .news-card.industry { border-right: 3px solid var(--green); }
+  .news-card.social { border-right: 3px solid var(--orange); }
+  .news-source {
+    font-family: 'Space Mono', monospace; font-size: 10px;
+    color: var(--text-muted); letter-spacing: 1px; text-transform: uppercase;
+  }
+  .news-title-en {
+    font-family: 'Space Mono', monospace; font-size: 12px;
+    color: var(--gold); line-height: 1.5; direction: ltr; text-align: left;
+  }
+  .news-summary { font-size: 13px; color: var(--text-dim); line-height: 1.65; }
+  .news-footer { display: flex; align-items: center; justify-content: space-between; margin-top: 4px; }
+  .news-date { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--text-muted); }
+  .news-link {
+    font-family: 'Space Mono', monospace; font-size: 10px;
+    color: var(--blue); text-decoration: none; letter-spacing: 0.5px; transition: color 0.2s;
+  }
+  .news-link:hover { color: var(--gold); text-decoration: underline; }
 
-        .btn:hover {
-            background: rgba(255, 255, 255, 0.1);
-            border-color: var(--accent-gold);
-        }
+  .tabs { display: flex; gap: 0; border-bottom: 1px solid var(--border); margin-bottom: 20px; direction: ltr; }
+  .tab {
+    padding: 10px 24px; cursor: pointer;
+    font-family: 'Space Mono', monospace; font-size: 12px;
+    color: var(--text-muted); border-bottom: 2px solid transparent;
+    transition: all 0.2s; user-select: none;
+  }
+  .tab:hover { color: var(--text); }
+  .tab.active { color: var(--gold); border-bottom-color: var(--gold); }
+  .tab-content { display: none; }
+  .tab-content.active { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 12px; }
 
-        /* X Intelligence Section */
-        .x-intel-section {
-            margin-bottom: 30px;
-            background: var(--card-bg);
-            border-radius: 16px;
-            border: 1px solid var(--glass-border);
-            padding: 25px;
-        }
+  .opinions-list { display: flex; flex-direction: column; gap: 10px; }
+  .opinion-card {
+    background: var(--bg3); border: 1px solid var(--border);
+    border-radius: 8px; padding: 14px 16px;
+    border-right: 3px solid var(--orange); position: relative;
+  }
+  .opinion-num { font-family: 'IBM Plex Mono', monospace; font-size: 11px; color: var(--orange); font-weight: 600; margin-bottom: 6px; }
+  .opinion-text { font-size: 13px; color: var(--text-dim); line-height: 1.6; }
+  .opinion-platform { font-family: 'Space Mono', monospace; font-size: 10px; color: var(--text-muted); margin-top: 6px; }
 
-        .x-intel-header {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 20px;
-            font-family: 'Outfit', sans-serif;
-            font-size: 18px;
-            font-weight: 700;
-        }
+  .sentiment-meter {
+    display: flex; align-items: center; gap: 10px;
+    background: var(--bg3); border: 1px solid var(--border);
+    border-radius: 8px; padding: 14px 20px; margin-bottom: 16px;
+  }
+  .sentiment-label { font-family: 'Space Mono', monospace; font-size: 11px; color: var(--text-dim); white-space: nowrap; }
+  .sentiment-bar { flex: 1; height: 8px; background: var(--bg); border-radius: 4px; overflow: hidden; }
+  .sentiment-fill { height: 100%; border-radius: 4px; }
+  .sentiment-score { font-family: 'IBM Plex Mono', monospace; font-size: 16px; font-weight: 600; white-space: nowrap; }
 
-        .x-badge {
-            background: #000;
-            color: #fff;
-            padding: 3px 8px;
-            border-radius: 6px;
-            font-size: 12px;
-            font-weight: 700;
-            border: 1px solid #333;
-        }
+  .watchpoints { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+  .wp-card {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: 8px; padding: 14px 16px; border-top: 2px solid var(--gold);
+  }
+  .wp-title {
+    font-family: 'Space Mono', monospace; font-size: 11px;
+    color: var(--gold); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px;
+  }
+  .wp-text { font-size: 13px; color: var(--text-dim); line-height: 1.6; }
+  .wp-status {
+    display: inline-block; font-family: 'Space Mono', monospace;
+    font-size: 10px; padding: 2px 8px; border-radius: 3px; margin-top: 8px;
+  }
+  .wp-status.high { background: rgba(224,82,82,0.15); color: var(--red); border: 1px solid rgba(224,82,82,0.3); }
+  .wp-status.medium { background: rgba(240,125,42,0.15); color: var(--orange); border: 1px solid rgba(240,125,42,0.3); }
+  .wp-status.low { background: rgba(46,204,138,0.15); color: var(--green); border: 1px solid rgba(46,204,138,0.3); }
 
-        .intel-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 15px;
-        }
+  .disclaimer {
+    background: rgba(224,82,82,0.06); border: 1px solid rgba(224,82,82,0.2);
+    border-radius: 8px; padding: 12px 16px; font-size: 11px;
+    color: var(--text-muted); font-family: 'Space Mono', monospace; direction: rtl;
+  }
 
-        .intel-card {
-            background: rgba(0, 0, 0, 0.3);
-            border-radius: 12px;
-            padding: 16px;
-            border-right: 3px solid var(--accent-gold);
-        }
+  .section {
+    background: var(--bg2); border: 1px solid var(--border);
+    border-radius: 10px; padding: 20px 24px;
+  }
 
-        .intel-card-title {
-            font-size: 13px;
-            font-weight: 700;
-            color: var(--accent-gold);
-            margin-bottom: 8px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
+  .social-warning {
+    background: rgba(240,125,42,0.08); border: 1px solid rgba(240,125,42,0.25);
+    border-radius: 6px; padding: 10px 14px;
+    font-family: 'Space Mono', monospace; font-size: 11px;
+    color: var(--orange); margin-bottom: 16px; direction: rtl;
+  }
 
-        .intel-card-body { font-size: 14px; line-height: 1.6; color: var(--text-main); }
+  .divider { height: 1px; background: var(--border); margin: 16px 0; }
 
-        .sentiment-tag {
-            display: inline-block;
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-size: 11px;
-            font-weight: 700;
-            margin-top: 8px;
-        }
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: var(--bg); }
+  ::-webkit-scrollbar-thumb { background: var(--bg3); border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: var(--border); }
 
-        .sentiment-positive { background: rgba(0, 230, 118, 0.15); color: var(--accent-green); }
-        .sentiment-negative { background: rgba(255, 23, 68, 0.15); color: var(--accent-red); }
-        .sentiment-neutral { background: rgba(138, 144, 153, 0.15); color: var(--text-dim); }
-
-        /* Stats Row */
-        .stats-row {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-            gap: 15px;
-            margin-bottom: 25px;
-        }
-
-        .stat-card {
-            background: var(--card-bg);
-            padding: 18px;
-            border-radius: 14px;
-            border: 1px solid var(--glass-border);
-            text-align: center;
-        }
-
-        .stat-value {
-            font-family: 'Outfit', sans-serif;
-            font-size: 28px;
-            font-weight: 700;
-            color: var(--accent-green);
-            margin-bottom: 4px;
-        }
-
-        .stat-label {
-            color: var(--text-dim);
-            font-size: 12px;
-            text-transform: uppercase;
-            letter-spacing: 1px;
-        }
-
-        /* Alert Banner */
-        .alert-banner {
-            background: linear-gradient(135deg, rgba(255, 214, 0, 0.1), rgba(255, 109, 0, 0.1));
-            border: 1px solid rgba(255, 214, 0, 0.3);
-            border-radius: 12px;
-            padding: 15px 20px;
-            margin-bottom: 25px;
-            display: none;
-        }
-
-        .alert-banner.visible { display: flex; align-items: center; gap: 12px; }
-
-        .alert-icon { font-size: 20px; }
-        .alert-text { font-size: 14px; font-weight: 600; color: var(--accent-gold); }
-
-        /* Trends Grid */
-        .trends-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
-            gap: 20px;
-        }
-
-        @media (max-width: 500px) {
-            .trends-grid { grid-template-columns: 1fr; }
-            .intel-grid { grid-template-columns: 1fr; }
-        }
-
-        .trend-card {
-            background: var(--card-bg);
-            border-radius: 18px;
-            border: 1px solid var(--glass-border);
-            padding: 22px;
-            position: relative;
-            overflow: hidden;
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-            backdrop-filter: blur(5px);
-            transition: all 0.2s ease;
-        }
-
-        .trend-card:hover {
-            border-color: rgba(0, 230, 118, 0.3);
-            transform: translateY(-4px);
-            box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
-        }
-
-        .trend-card::before {
-            content: '';
-            position: absolute;
-            top: 0; right: 0;
-            width: 4px; height: 100%;
-            background: var(--accent-green);
-        }
-
-        .card-header { display: flex; justify-content: space-between; align-items: flex-start; }
-
-        .category-tag {
-            font-size: 11px;
-            font-weight: 700;
-            padding: 4px 10px;
-            border-radius: 6px;
-            background: rgba(0, 230, 118, 0.1);
-            color: var(--accent-green);
-            border: 1px solid rgba(0, 230, 118, 0.2);
-        }
-
-        .score-tag {
-            font-family: 'Outfit', sans-serif;
-            font-size: 13px;
-            color: var(--accent-gold);
-            font-weight: bold;
-        }
-
-        .source-tag {
-            font-size: 10px;
-            padding: 2px 6px;
-            border-radius: 4px;
-            background: rgba(68, 138, 255, 0.1);
-            color: var(--accent-blue);
-            margin-right: 8px;
-        }
-
-        .trend-title {
-            font-size: 16px;
-            font-weight: 700;
-            color: #fff;
-            text-align: left;
-            direction: ltr;
-            line-height: 1.4;
-        }
-
-        .content-summary {
-            font-size: 14px;
-            line-height: 1.6;
-            color: var(--text-main);
-            background: rgba(255, 255, 255, 0.03);
-            padding: 14px;
-            border-radius: 10px;
-            border-right: 2px solid var(--accent-purple);
-        }
-
-        .discussion-section { margin-top: auto; }
-
-        .discussion-label {
-            font-size: 12px;
-            font-weight: 700;
-            color: var(--text-dim);
-            margin-bottom: 8px;
-        }
-
-        .discussion-content {
-            font-size: 13px;
-            color: var(--text-dim);
-            background: rgba(0, 0, 0, 0.2);
-            padding: 12px;
-            border-radius: 10px;
-        }
-
-        .discussion-content ul { margin: 0; padding-right: 18px; }
-        .discussion-content li { margin-bottom: 4px; }
-
-        .card-footer { display: flex; justify-content: flex-end; padding-top: 8px; }
-
-        .link-icon {
-            color: var(--accent-blue);
-            text-decoration: none;
-            font-size: 12px;
-            font-weight: 600;
-        }
-
-        .link-icon:hover { color: #fff; }
-
-        /* Scrollbar */
-        ::-webkit-scrollbar { width: 8px; }
-        ::-webkit-scrollbar-track { background: var(--bg-color); }
-        ::-webkit-scrollbar-thumb { background: #333; border-radius: 10px; }
-    </style>
+  @media (max-width: 768px) {
+    .header { flex-wrap: wrap; gap: 12px; padding: 12px 16px; }
+    .main { padding: 16px; }
+    .charts-row { grid-template-columns: 1fr; }
+    .news-grid { grid-template-columns: 1fr; }
+    .tab-content.active { grid-template-columns: 1fr; }
+    .kpi-grid { grid-template-columns: repeat(2, 1fr); }
+    .watchpoints { grid-template-columns: 1fr; }
+  }
+</style>
 </head>
-
 <body>
-    <div class="dashboard">
-        <header class="header">
-            <div class="logo-area">
-                <div class="logo-icon">B</div>
-                <h1>BRAG<span style="color: var(--accent-gold); font-weight: 400;"> INTEL</span></h1>
-            </div>
-            <div class="header-info" id="runtime"></div>
-            <div class="controls">
-                <a href="intel.html" class="btn" style="background:linear-gradient(135deg,rgba(255,214,0,0.2),rgba(255,109,0,0.2));border-color:rgba(255,214,0,0.3)">דוח מודיעין</a>
-                <a href="history.html" class="btn">היסטוריה</a>
-            </div>
-        </header>
 
-        <!-- Alert Banner -->
-        <div class="alert-banner" id="alert-banner">
-            <span class="alert-icon">&#9888;</span>
-            <span class="alert-text" id="alert-text"></span>
-        </div>
-
-        <!-- X Intelligence Section -->
-        <div class="x-intel-section" id="x-intel-section" style="display:none;">
-            <div class="x-intel-header">
-                <span class="x-badge">X</span>
-                <span>מודיעין מ-X (Twitter) - Grok</span>
-            </div>
-            <div class="intel-grid" id="intel-grid"></div>
-        </div>
-
-        <!-- Stats -->
-        <div class="stats-row">
-            <div class="stat-card">
-                <div class="stat-value" id="count-total">0</div>
-                <div class="stat-label">פוסטים</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value" style="color: var(--accent-gold);">48h</div>
-                <div class="stat-label">חלון זמן</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value" style="color: var(--accent-blue);" id="top-subreddit">-</div>
-                <div class="stat-label">קהילה מובילה</div>
-            </div>
-            <div class="stat-card">
-                <div class="stat-value" style="color: var(--accent-purple);" id="x-sentiment">-</div>
-                <div class="stat-label">סנטימנט X</div>
-            </div>
-        </div>
-
-        <!-- Trends Grid -->
-        <div class="trends-grid" id="trends-container"></div>
+<!-- HEADER -->
+<div class="header">
+  <div class="header-left">
+    <div class="ticker-badge">BRAG</div>
+    <div class="header-title">
+      <strong>Bragg Gaming Group Inc.</strong>
+      <span id="header-subtitle"></span>
     </div>
+  </div>
+  <div class="header-right">
+    <div class="nav-btns">
+      <a href="index.html" class="nav-btn">דשבורד ראשי</a>
+      <a href="history.html" class="nav-btn">היסטוריה</a>
+    </div>
+    <div class="update-time">
+      <span class="live-dot"></span>
+      <span id="update-time-text"></span>
+    </div>
+    <button class="pdf-btn" id="pdfBtn" onclick="downloadPDF()">
+      <svg class="pdf-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/>
+        <polyline points="14 2 14 8 20 8"/>
+        <line x1="12" y1="18" x2="12" y2="12"/>
+        <polyline points="9 15 12 18 15 15"/>
+      </svg>
+      <div class="pdf-spinner"></div>
+      הורד PDF
+    </button>
+  </div>
+</div>
 
-    <script src="data.js"></script>
-    <script>
-        // Update runtime
-        const now = new Date();
-        document.getElementById('runtime').innerText = now.toLocaleDateString('he-IL') + ' | ' + now.toLocaleTimeString('he-IL', { hour: '2-digit', minute: '2-digit' });
+<div class="main" id="main-content">
 
-        const data = window.dashboardData || {};
-        const trends = data.trends || [];
-        const xIntel = data.xIntelligence || null;
+  <!-- 1. KPI CARDS -->
+  <div>
+    <div class="section-header">
+      <span class="section-dot" style="background:var(--gold)"></span>
+      <span class="section-label">SECTION 01</span>
+      <span class="section-title">נתוני מסחר</span>
+      <span class="verified-badge">✓ מידע רשמי ומאומת</span>
+    </div>
+    <div class="kpi-grid" id="kpi-grid"></div>
+  </div>
 
-        // X Intelligence Section
-        if (xIntel && typeof xIntel === 'object' && !xIntel.raw_response) {
-            const section = document.getElementById('x-intel-section');
-            section.style.display = 'block';
-            const grid = document.getElementById('intel-grid');
+  <!-- 2. CHARTS -->
+  <div class="charts-row">
+    <div class="chart-card">
+      <div class="chart-title">📈 מחיר מניה — 7 ימי מסחר אחרונים (TSX · CAD)</div>
+      <canvas id="priceChart" height="120"></canvas>
+      <div class="chart-note">* נתונים אינדיקטיביים · לנתונים מלאים: <a href="https://ca.finance.yahoo.com/quote/BRAG.TO/" target="_blank">Yahoo Finance BRAG.TO</a></div>
+    </div>
+    <div class="chart-card">
+      <div class="chart-title">📊 מחזורי מסחר יחסיים</div>
+      <canvas id="volumeChart" height="120"></canvas>
+      <div class="chart-note">* נתוני נפח יחסיים · מקור: Yahoo Finance / Nasdaq</div>
+    </div>
+  </div>
 
-            const topics = [
-                { key: 'brag_stock', title: 'מניית BRAG' },
-                { key: 'us_regulation', title: 'רגולציה - ארה"ב' },
-                { key: 'brazil_market', title: 'שוק ברזיל' },
-                { key: 'netherlands_ksa', title: 'הולנד / KSA' },
-                { key: 'igaming_industry', title: 'תעשיית iGaming' }
-            ];
+  <!-- 3. OFFICIAL COMPANY NEWS -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-dot" style="background:var(--blue)"></span>
+      <span class="section-label">SECTION 02</span>
+      <span class="section-title">חדשות רשמיות Bragg Gaming</span>
+      <span class="verified-badge">✓ מקורות רשמיים ומאומתים</span>
+    </div>
+    <div class="news-grid" id="news-official"></div>
+  </div>
 
-            topics.forEach(topic => {
-                const info = xIntel[topic.key];
-                if (!info) return;
+  <!-- 4. INDUSTRY NEWS -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-dot" style="background:var(--green)"></span>
+      <span class="section-label">SECTION 03</span>
+      <span class="section-title">חדשות תעשייה — iGaming עולמי</span>
+      <span class="verified-badge">✓ פרסומים מקצועיים מאומתים</span>
+    </div>
+    <div class="news-grid" id="news-industry"></div>
+  </div>
 
-                const card = document.createElement('div');
-                card.className = 'intel-card';
+  <!-- 5. REGIONAL NEWS (TABS) -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-dot" style="background:var(--purple)"></span>
+      <span class="section-label">SECTION 04</span>
+      <span class="section-title">חדשות גיאוגרפיות</span>
+      <span class="verified-badge">✓ מקורות מקצועיים ורגולטוריים</span>
+    </div>
+    <div class="tabs">
+      <div class="tab active" onclick="showTab('us')">🇺🇸 ארה"ב / ניו יורק</div>
+      <div class="tab" onclick="showTab('br')">🇧🇷 ברזיל</div>
+      <div class="tab" onclick="showTab('nl')">🇳🇱 הולנד / BetCity</div>
+    </div>
+    <div class="tab-content active" id="tab-us"></div>
+    <div class="tab-content" id="tab-br"></div>
+    <div class="tab-content" id="tab-nl"></div>
+  </div>
 
-                const sentimentClass = (info.sentiment || '').includes('חיובי') ? 'sentiment-positive' :
-                    (info.sentiment || '').includes('שלילי') ? 'sentiment-negative' : 'sentiment-neutral';
+  <!-- 6. SOCIAL MEDIA -->
+  <div class="section" id="social-section" style="border-color: rgba(240,125,42,0.3);">
+    <div class="section-header">
+      <span class="section-dot" style="background:var(--orange)"></span>
+      <span class="section-label">SECTION 05</span>
+      <span class="section-title">רשתות חברתיות — פרשנויות</span>
+      <span class="social-badge">⚠ תוכן לא מאומת · דעות בלבד</span>
+    </div>
+    <div class="social-warning">
+      ⚠️ תוכן זה מקורו ברשתות חברתיות ואינו מאומת. הוא משקף דעות ופרשנויות של משתמשים ואינו מידע פיננסי מוסמך.
+    </div>
+    <div id="sentiment-container"></div>
+    <div style="margin-bottom: 12px;">
+      <div class="section-label" style="margin-bottom: 10px;">💬 הדעות המובילות בדיון הציבורי</div>
+      <div class="opinions-list" id="opinions-list"></div>
+    </div>
+  </div>
 
-                card.innerHTML = `
-                    <div class="intel-card-title">${topic.title}</div>
-                    <div class="intel-card-body">${info.summary || 'אין מידע'}</div>
-                    ${info.breaking && info.breaking !== 'אין' && info.breaking !== '-' ?
-                        `<div style="margin-top:8px;font-size:12px;color:var(--accent-red);">&#9888; ${info.breaking}</div>` : ''}
-                    <span class="sentiment-tag ${sentimentClass}">${info.sentiment || 'ניטרלי'}</span>
-                `;
-                grid.appendChild(card);
-            });
+  <!-- 7. KEY WATCHPOINTS -->
+  <div>
+    <div class="section-header">
+      <span class="section-dot" style="background:var(--gold)"></span>
+      <span class="section-label">SECTION 06</span>
+      <span class="section-title">נקודות מעקב קריטיות</span>
+    </div>
+    <div class="watchpoints" id="watchpoints"></div>
+  </div>
 
-            // Overall sentiment
-            if (xIntel.overall_sentiment) {
-                document.getElementById('x-sentiment').innerText = xIntel.overall_sentiment;
-            }
+  <!-- DISCLAIMER -->
+  <div class="disclaimer" id="disclaimer"></div>
 
-            // Top alert
-            if (xIntel.top_alert && xIntel.top_alert !== 'אין') {
-                const banner = document.getElementById('alert-banner');
-                document.getElementById('alert-text').innerText = xIntel.top_alert;
-                banner.classList.add('visible');
-            }
-        } else if (xIntel && xIntel.raw_response) {
-            // Fallback for raw text response
-            const section = document.getElementById('x-intel-section');
-            section.style.display = 'block';
-            const grid = document.getElementById('intel-grid');
-            grid.innerHTML = `<div class="intel-card" style="grid-column:1/-1;">
-                <div class="intel-card-title">סיכום מ-X</div>
-                <div class="intel-card-body" style="white-space:pre-wrap;">${xIntel.raw_response}</div>
-            </div>`;
-        }
+</div>
 
-        // Trends
-        const container = document.getElementById('trends-container');
+<script src="intel-data.js"></script>
+<script>
+const data = window.intelData || {};
+const now = new Date();
+const sevenDaysAgo = new Date(now.getTime() - 7 * 24 * 60 * 60 * 1000);
 
-        if (trends.length > 0) {
-            document.getElementById('count-total').innerText = trends.length;
+// Format date for display
+function formatDate(dateStr) {
+  if (!dateStr) return '';
+  const d = new Date(dateStr);
+  return d.toLocaleDateString('he-IL', { day: '2-digit', month: '2-digit', year: 'numeric' });
+}
 
-            const subMap = {};
-            trends.forEach(t => subMap[t.subreddit] = (subMap[t.subreddit] || 0) + 1);
-            const topSub = Object.keys(subMap).reduce((a, b) => subMap[a] > subMap[b] ? a : b);
-            document.getElementById('top-subreddit').innerText = topSub;
+// Filter articles within 7 days
+function filterRecent(articles) {
+  if (!articles) return [];
+  return articles.filter(a => {
+    if (!a.date) return false;
+    return new Date(a.date) >= sevenDaysAgo;
+  }).sort((a, b) => new Date(b.date) - new Date(a.date));
+}
 
-            trends.forEach(trend => {
-                const card = document.createElement('div');
-                card.className = 'trend-card';
+// Header
+const stock = data.stock || {};
+document.getElementById('header-subtitle').textContent =
+  `דוח מודיעין יומי · TSX / NASDAQ`;
+document.getElementById('update-time-text').textContent =
+  `עודכן: ${stock.updatedAt || now.toLocaleDateString('he-IL') + ' · ' + now.toLocaleTimeString('he-IL', {hour:'2-digit',minute:'2-digit'})}`;
 
-                const discussionHtml = trend.comments_summary_he ?
-                    trend.comments_summary_he.split('\n').map(l => l.trim()).filter(l => l).map(l => `<li>${l.replace(/^[*-]\s*/, '')}</li>`).join('') :
-                    '<li>אין סיכום דיון זמין.</li>';
+// KPI Cards
+const kpis = data.kpis || [
+  { label: 'מחיר NASDAQ (USD)', value: '$' + (stock.price || '-'), sub: stock.change || '', subClass: parseFloat(stock.change) >= 0 ? 'up' : 'down', color: 'gold' },
+  { label: 'מחיר TSX (CAD)', value: '$' + (stock.priceTSX || '-'), sub: '', subClass: 'neutral', color: 'gold' },
+  { label: 'שווי שוק', value: stock.marketCap || '-', sub: 'USD', subClass: 'neutral', color: 'blue' },
+  { label: 'שינוי שנתי', value: stock.yoyChange || '-', sub: 'YoY', subClass: 'down', color: 'red' },
+  { label: 'הכנסות TTM', value: stock.revenueTTM || '-', sub: stock.revenueChange || '', subClass: 'up', color: 'green' },
+  { label: 'EPS מדולל', value: stock.eps || '-', sub: stock.epsNote || '', subClass: 'down', color: 'red' },
+  { label: 'יעד אנליסטים', value: stock.analystTarget || '-', sub: stock.analystNote || '', subClass: 'up', color: 'purple' },
+  { label: 'טווח 52 שבועות', value: (stock.low52w || '-') + '–' + (stock.high52w || '-'), sub: 'CAD · TSX', subClass: 'neutral', color: 'blue', smallValue: true }
+];
+const kpiGrid = document.getElementById('kpi-grid');
+kpis.forEach(k => {
+  kpiGrid.innerHTML += `
+    <div class="kpi-card ${k.color}">
+      <div class="kpi-label">${k.label}</div>
+      <div class="kpi-value" ${k.smallValue ? 'style="font-size:16px"' : ''}>${k.value}</div>
+      <div class="kpi-sub ${k.subClass}">${k.sub}</div>
+    </div>`;
+});
 
-                card.innerHTML = `
-                    <div class="card-header">
-                        <div>
-                            <span class="source-tag">Reddit</span>
-                            <span class="category-tag">${trend.category_he || 'כללי'}</span>
-                        </div>
-                        <span class="score-tag">&#8593; ${(trend.score || 0).toLocaleString()}</span>
-                    </div>
-                    <div class="trend-title">${trend.title}</div>
-                    <div class="content-summary">${trend.summary_he}</div>
-                    <div class="discussion-section">
-                        <div class="discussion-label">&#128172; דעות מהקהילה</div>
-                        <div class="discussion-content"><ul>${discussionHtml}</ul></div>
-                    </div>
-                    <div class="card-footer">
-                        <a href="${trend.url}" target="_blank" class="link-icon">&#8592; קרא עוד ב-Reddit</a>
-                    </div>
-                `;
-                container.appendChild(card);
-            });
-        } else {
-            container.innerHTML = '<div style="grid-column:1/-1;text-align:center;padding:80px;color:var(--text-dim);font-size:16px;">אין נתונים להצגה כרגע. הרץ את הג\'וב היומי לעדכון.</div>';
-        }
-    </script>
+// News card renderer
+function renderNewsCard(article, type) {
+  return `
+    <div class="news-card ${type}">
+      <div class="news-source">${article.source || ''}</div>
+      <div class="news-title-en">${article.title}</div>
+      <div class="news-summary">${article.summary_he}</div>
+      <div class="news-footer">
+        <span class="news-date">${formatDate(article.date)}</span>
+        <a href="${article.url || '#'}" target="_blank" class="news-link">→ קרא מקור</a>
+      </div>
+    </div>`;
+}
+
+// Section 2: Official News
+const sections = data.sections || {};
+const officialArticles = filterRecent((sections.brag_official || {}).articles);
+const officialGrid = document.getElementById('news-official');
+if (officialArticles.length === 0) {
+  officialGrid.innerHTML = '<div style="color:var(--text-muted);text-align:center;padding:20px">אין חדשות רשמיות מ-7 הימים האחרונים</div>';
+} else {
+  officialGrid.innerHTML = officialArticles.map(a => renderNewsCard(a, 'official')).join('');
+}
+
+// Section 3: Industry News
+const industryArticles = filterRecent((sections.igaming_market || {}).articles);
+const industryGrid = document.getElementById('news-industry');
+if (industryArticles.length === 0) {
+  industryGrid.innerHTML = '<div style="color:var(--text-muted);text-align:center;padding:20px">אין חדשות תעשייה מ-7 הימים האחרונים</div>';
+} else {
+  industryGrid.innerHTML = industryArticles.map(a => renderNewsCard(a, 'industry')).join('');
+}
+
+// Section 4: Regional tabs
+const usArticles = filterRecent((sections.us_regulation || {}).articles);
+const brArticles = filterRecent((sections.brazil || {}).articles);
+const nlArticles = filterRecent((sections.netherlands || {}).articles);
+
+function renderTabContent(articles) {
+  if (articles.length === 0) return '<div style="color:var(--text-muted);text-align:center;padding:20px;grid-column:1/-1">אין חדשות מ-7 הימים האחרונים</div>';
+  return articles.map(a => renderNewsCard(a, 'analysis')).join('');
+}
+document.getElementById('tab-us').innerHTML = renderTabContent(usArticles);
+document.getElementById('tab-br').innerHTML = renderTabContent(brArticles);
+document.getElementById('tab-nl').innerHTML = renderTabContent(nlArticles);
+
+// Section 5: Social Media
+const social = data.socialMedia || {};
+const sentimentScore = social.sentimentScore || 5;
+const sentimentLabel = social.sentimentLabel || 'ניטרלי';
+const sentimentPct = (sentimentScore / 10) * 100;
+const sentimentColor = sentimentScore <= 3 ? 'var(--red)' :
+                       sentimentScore <= 5 ? 'var(--orange)' :
+                       sentimentScore <= 7 ? 'var(--gold)' : 'var(--green)';
+const sentimentGradient = sentimentScore <= 5
+  ? 'linear-gradient(90deg, var(--red), var(--orange))'
+  : 'linear-gradient(90deg, var(--gold), var(--green))';
+
+document.getElementById('sentiment-container').innerHTML = `
+  <div class="sentiment-meter">
+    <span class="sentiment-label">סנטימנט כולל:</span>
+    <div class="sentiment-bar">
+      <div class="sentiment-fill" style="width:${sentimentPct}%;background:${sentimentGradient}"></div>
+    </div>
+    <span class="sentiment-score" style="color:${sentimentColor}">${sentimentScore}/10 · ${sentimentLabel}</span>
+  </div>`;
+
+const opinions = social.opinions || [];
+const opinionsList = document.getElementById('opinions-list');
+opinions.forEach((op, i) => {
+  opinionsList.innerHTML += `
+    <div class="opinion-card">
+      <div class="opinion-num">דעה #${i + 1}${i === 0 ? ' — מובילה' : ''}</div>
+      <div class="opinion-text">${op.text}</div>
+      <div class="opinion-platform">📍 ${op.platform}</div>
+    </div>`;
+});
+
+// Also add social media articles if any
+const socialArticles = filterRecent((sections.social_media || {}).articles);
+if (socialArticles.length > 0) {
+  const socialGrid = document.createElement('div');
+  socialGrid.className = 'news-grid';
+  socialGrid.style.marginTop = '16px';
+  socialGrid.innerHTML = socialArticles.map(a => renderNewsCard(a, 'social')).join('');
+  document.getElementById('social-section').appendChild(socialGrid);
+}
+
+// Section 6: Watchpoints
+const watchpoints = data.watchpoints || [];
+const wpContainer = document.getElementById('watchpoints');
+watchpoints.forEach(wp => {
+  wpContainer.innerHTML += `
+    <div class="wp-card">
+      <div class="wp-title">${wp.icon || ''} ${wp.title}</div>
+      <div class="wp-text">${wp.text}</div>
+      <div class="wp-status ${wp.priority}">${wp.status}</div>
+    </div>`;
+});
+
+// Disclaimer
+document.getElementById('disclaimer').innerHTML =
+  `⚠️ דוח זה נועד למטרות מידע ומחקר בלבד. אין לראות בתכנים ניתוח פיננסי מקצועי או המלצת השקעה.
+   מקורות רשמיים מסומנים בבירור ומקורות חברתיים הם דעות בלבד ואינם מאומתים.
+   תאריך עדכון: ${stock.updatedAt || '-'} | מקורות: Yahoo Finance, BusinessWire, SBC Americas, Gambling Insider, NEXT.io, Yogonet, iGaming Business, StockTwits`;
+
+// ── PDF DOWNLOAD ──
+function downloadPDF() {
+  const btn = document.getElementById('pdfBtn');
+  btn.classList.add('loading');
+  const today = new Date().toISOString().slice(0, 10);
+  html2pdf()
+    .set({
+      margin: [8, 6, 8, 6],
+      filename: `BRAG-Intelligence-${today}.pdf`,
+      image: { type: 'jpeg', quality: 0.97 },
+      html2canvas: { scale: 2, useCORS: true, backgroundColor: '#0b0d11', scrollY: 0, windowWidth: 1400 },
+      jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait', compress: true },
+      pagebreak: { mode: ['avoid-all', 'css', 'legacy'] }
+    })
+    .from(document.body)
+    .save()
+    .then(() => btn.classList.remove('loading'))
+    .catch(() => { btn.classList.remove('loading'); alert('שגיאה ביצירת PDF. נסה שוב.'); });
+}
+
+// ── TAB SWITCHING ──
+function showTab(id) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+  document.getElementById('tab-' + id).classList.add('active');
+  event.target.classList.add('active');
+}
+
+// ── CHARTS ──
+const chartData = data.chartData || {};
+const priceLabels = chartData.priceLabels || ['Mon', 'Tue', 'Wed', 'Thu', 'Fri'];
+const priceValues = chartData.priceValues || [2.20, 2.18, 2.15, 2.20, 2.18];
+const volumeLabels = chartData.volumeLabels || priceLabels;
+const volumeValues = chartData.volumeValues || [50, 60, 80, 45, 55];
+
+const priceCtx = document.getElementById('priceChart').getContext('2d');
+new Chart(priceCtx, {
+  type: 'line',
+  data: {
+    labels: priceLabels,
+    datasets: [{
+      label: 'BRAG.TO (CAD)',
+      data: priceValues,
+      borderColor: '#f5b731',
+      backgroundColor: 'rgba(245,183,49,0.08)',
+      borderWidth: 2,
+      pointBackgroundColor: '#f5b731',
+      pointRadius: 4,
+      pointHoverRadius: 6,
+      tension: 0.3,
+      fill: true,
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { labels: { color: '#7a8499', font: { family: 'Space Mono', size: 10 } } },
+      tooltip: {
+        backgroundColor: '#1a1e28', borderColor: '#252a38', borderWidth: 1,
+        titleColor: '#f5b731', bodyColor: '#e8ecf4',
+        callbacks: { label: ctx => ` CAD $${ctx.parsed.y.toFixed(2)}` }
+      }
+    },
+    scales: {
+      x: { grid: { color: '#1a1e28' }, ticks: { color: '#7a8499', font: { family: 'Space Mono', size: 10 } } },
+      y: {
+        grid: { color: '#1a1e28' },
+        ticks: { color: '#7a8499', font: { family: 'Space Mono', size: 10 }, callback: v => '$' + v.toFixed(2) }
+      }
+    }
+  }
+});
+
+const volCtx = document.getElementById('volumeChart').getContext('2d');
+new Chart(volCtx, {
+  type: 'bar',
+  data: {
+    labels: volumeLabels,
+    datasets: [{
+      label: 'נפח יחסי',
+      data: volumeValues,
+      backgroundColor: ctx => volumeValues[ctx.dataIndex] > 100 ? 'rgba(245,183,49,0.6)' : 'rgba(74,158,255,0.4)',
+      borderColor: 'transparent',
+      borderRadius: 3,
+    }]
+  },
+  options: {
+    responsive: true,
+    plugins: {
+      legend: { display: false },
+      tooltip: {
+        backgroundColor: '#1a1e28', borderColor: '#252a38', borderWidth: 1,
+        bodyColor: '#e8ecf4',
+        callbacks: { label: ctx => ` נפח: ${ctx.parsed.y}K` }
+      }
+    },
+    scales: {
+      x: { grid: { color: '#1a1e28' }, ticks: { color: '#7a8499', font: { family: 'Space Mono', size: 10 } } },
+      y: { grid: { color: '#1a1e28' }, ticks: { color: '#7a8499', font: { family: 'Space Mono', size: 10 }, callback: v => v + 'K' } }
+    }
+  }
+});
+</script>
 </body>
-
 </html>
