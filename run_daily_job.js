@@ -6,6 +6,7 @@ require('dotenv').config();
 const { fetchRedditTrends } = require('./src/scraper');
 const { getXIntelligence } = require('./src/x_trends');
 const { fetchStockData } = require('./src/finance');
+const { fetchAllNews } = require('./src/news_scraper');
 const { summarizePost, categorizePost, summarizeComments } = require('./src/ai');
 const { initDB, getTrend, saveTrend, saveXIntelligence, getLatestXIntelligence } = require('./src/db');
 const path = require('path');
@@ -23,7 +24,7 @@ function generateHTMLReport(trends, xIntel) {
     console.log('Report data generated at public/data.js');
 }
 
-function generateIntelReport(financeData, trends, xIntelData) {
+function generateIntelReport(financeData, trends, xIntelData, newsSections) {
     const stock = financeData?.stock || {};
     const chartData = financeData?.chartData || null;
 
@@ -76,8 +77,7 @@ function generateIntelReport(financeData, trends, xIntelData) {
         }
     }
 
-    // Read existing intel-data.js to preserve curated sections
-    let existingSections = {};
+    // Read existing watchpoints and opinions (keep them)
     let existingWatchpoints = [];
     let existingOpinions = [];
     const existingPath = path.join(__dirname, 'public/intel-data.js');
@@ -87,7 +87,6 @@ function generateIntelReport(financeData, trends, xIntelData) {
             const match = content.match(/window\.intelData\s*=\s*({[\s\S]*});?\s*$/);
             if (match) {
                 const parsed = JSON.parse(match[1]);
-                existingSections = parsed.sections || {};
                 existingWatchpoints = parsed.watchpoints || [];
                 existingOpinions = parsed.socialMedia?.opinions || [];
             }
@@ -96,8 +95,8 @@ function generateIntelReport(financeData, trends, xIntelData) {
         }
     }
 
-    // Merge sections - update social media with fresh Reddit data
-    const sections = { ...existingSections };
+    // Build sections from scraped news + Reddit social media
+    const sections = { ...(newsSections || {}) };
     if (socialArticles.length > 0) {
         sections.social_media = {
             title: 'BRAG ברשתות החברתיות',
@@ -139,6 +138,11 @@ async function runDailyJob() {
         // Step 1: Fetch stock data from Yahoo Finance
         console.log('\nStep 1: Fetching stock data from Yahoo Finance...');
         const financeData = await fetchStockData();
+
+        // Step 1b: Fetch news from industry sources
+        console.log('\nStep 1b: Fetching news from industry sources...');
+        const newsSections = await fetchAllNews(5);
+        console.log(`  Fetched ${Object.keys(newsSections).length} news sections`);
 
         // Step 2: Fetch Reddit trends
         console.log('\nStep 2: Fetching trends from Reddit...');
@@ -204,13 +208,14 @@ async function runDailyJob() {
         const xIntelData = xIntel ? (xIntel.data || xIntel) : null;
         console.log('\nStep 5: Generating reports...');
         generateHTMLReport(processedTrends, xIntel);
-        generateIntelReport(financeData, processedTrends, xIntelData);
+        generateIntelReport(financeData, processedTrends, xIntelData, newsSections);
 
         const duration = ((new Date() - jobStartTime) / 1000).toFixed(2);
         console.log(`\n${'='.repeat(70)}`);
         console.log(`DAILY JOB COMPLETED SUCCESSFULLY`);
         console.log(`  Duration: ${duration} seconds`);
         console.log(`  Trends processed: ${processedTrends.length}`);
+        console.log(`  News sections: ${Object.keys(newsSections).length}`);
         console.log(`  X Intelligence: ${xIntel ? 'Yes' : 'No'}`);
         console.log(`  Stock data: NASDAQ $${financeData?.stock?.price || '-'} | TSX $${financeData?.stock?.priceTSX || '-'}`);
         console.log(`${'='.repeat(70)}\n`);

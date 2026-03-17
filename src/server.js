@@ -4,6 +4,7 @@ const { getXIntelligence } = require('./x_trends');
 const { summarizePost, categorizePost, summarizeComments } = require('./ai');
 const { initDB, saveTrend, getTrend, saveXIntelligence, getLatestXIntelligence, getTrendsByDate } = require('./db');
 const { fetchStockData } = require('./finance');
+const { fetchAllNews } = require('./news_scraper');
 const cron = require('node-cron');
 const path = require('path');
 const fs = require('fs');
@@ -32,6 +33,10 @@ async function runDailyJob() {
         // Step 1: Fetch stock data from Yahoo Finance
         console.log('Step 1: Fetching stock data from Yahoo Finance...');
         const financeData = await fetchStockData();
+
+        // Step 1b: Fetch news from industry sources
+        console.log('Step 1b: Fetching news from industry sources...');
+        const newsSections = await fetchAllNews(5);
 
         // Step 2: Fetch Reddit trends
         console.log('Step 2: Fetching trends from Reddit...');
@@ -97,7 +102,7 @@ async function runDailyJob() {
         // Step 5: Generate both reports
         const xIntelData = xIntel ? (xIntel.data || xIntel) : null;
         generateHTMLReport(latestTrends, xIntelData);
-        generateIntelReport(financeData, latestTrends, xIntelData);
+        generateIntelReport(financeData, latestTrends, xIntelData, newsSections);
         console.log(`Updated reports with ${latestTrends.length} trends.`);
 
         const duration = ((new Date() - jobStartTime) / 1000).toFixed(2);
@@ -126,7 +131,7 @@ function generateHTMLReport(trends, xIntel) {
  * Generates public/intel-data.js with the full intelligence report data.
  * Used by intel.html (the professional dashboard).
  */
-function generateIntelReport(financeData, trends, xIntelData) {
+function generateIntelReport(financeData, trends, xIntelData, newsSections) {
     const now = new Date();
     const stock = financeData?.stock || {};
     const chartData = financeData?.chartData || null;
@@ -181,23 +186,8 @@ function generateIntelReport(financeData, trends, xIntelData) {
         }
     }
 
-    // Read existing intel-data.js sections (news articles) if available
-    let existingSections = {};
-    const existingPath = path.join(__dirname, '../public/intel-data.js');
-    if (fs.existsSync(existingPath)) {
-        try {
-            const content = fs.readFileSync(existingPath, 'utf8');
-            const match = content.match(/window\.intelData\s*=\s*({[\s\S]*});?\s*$/);
-            if (match) {
-                existingSections = JSON.parse(match[1]).sections || {};
-            }
-        } catch (e) {
-            console.warn('Could not parse existing intel-data.js:', e.message);
-        }
-    }
-
-    // Merge: keep existing curated sections, update social media with fresh Reddit data
-    const sections = { ...existingSections };
+    // Build sections from scraped news + Reddit social media
+    const sections = { ...(newsSections || {}) };
     if (socialArticles.length > 0) {
         sections.social_media = {
             title: 'BRAG ברשתות החברתיות',
