@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BRAG Intel - History</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Outfit:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #0a0d12;
+            --card-bg: rgba(20, 26, 34, 0.85);
+            --accent-gold: #ffd600;
+            --accent-green: #00e676;
+            --text-main: #e1e1e1;
+            --text-dim: #8a9099;
+            --glass-border: rgba(255, 255, 255, 0.06);
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Inter', system-ui, sans-serif;
+            background: var(--bg-color);
+            color: var(--text-main);
+            min-height: 100vh;
+            padding: 30px 20px;
+        }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .header {
+            display: flex; justify-content: space-between; align-items: center;
+            margin-bottom: 30px; padding: 18px 25px;
+            background: var(--card-bg); border-radius: 16px;
+            border: 1px solid var(--glass-border);
+        }
+        h1 { font-family: 'Outfit', sans-serif; font-size: 22px; }
+        .btn {
+            background: var(--card-bg); color: white;
+            border: 1px solid var(--glass-border);
+            padding: 9px 18px; border-radius: 10px;
+            text-decoration: none; font-size: 13px; font-weight: 600;
+        }
+        .btn:hover { border-color: var(--accent-gold); }
+        .history-item {
+            background: var(--card-bg); border-radius: 14px;
+            border: 1px solid var(--glass-border);
+            padding: 20px; margin-bottom: 15px;
+        }
+        .history-date {
+            font-family: 'Outfit', sans-serif;
+            color: var(--accent-gold); font-size: 14px;
+            margin-bottom: 8px;
+        }
+        .history-title { font-size: 15px; font-weight: 600; direction: ltr; text-align: left; margin-bottom: 6px; }
+        .history-summary { font-size: 13px; color: var(--text-dim); line-height: 1.5; }
+        .history-meta { font-size: 11px; color: var(--text-dim); margin-top: 8px; }
+        #loading { text-align: center; padding: 60px; color: var(--text-dim); }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>BRAG INTEL <span style="color:var(--accent-gold);font-weight:400;">History</span></h1>
+            <a href="index.html" class="btn">&#8592; חזרה לדשבורד</a>
+        </header>
+        <div id="loading">&#8987; טוען היסטוריה...</div>
+        <div id="history-container"></div>
+    </div>
+    <script>
+        async function loadHistory() {
+            try {
+                const res = await fetch('/api/history');
+                const trends = await res.json();
+                const container = document.getElementById('history-container');
+                document.getElementById('loading').style.display = 'none';
+
+                if (!trends.length) {
+                    container.innerHTML = '<div style="text-align:center;padding:60px;color:var(--text-dim);">אין היסטוריה עדיין.</div>';
+                    return;
+                }
+
+                trends.forEach(t => {
+                    const date = t.saved_at ? new Date(t.saved_at).toLocaleDateString('he-IL') : t.date_string || '-';
+                    const div = document.createElement('div');
+                    div.className = 'history-item';
+                    div.innerHTML = `
+                        <div class="history-date">${date} | ${t.category_he || ''}</div>
+                        <div class="history-title">${t.title}</div>
+                        <div class="history-summary">${t.summary_he || ''}</div>
+                        <div class="history-meta">r/${t.subreddit || '-'} | Score: ${t.score || 0}</div>
+                    `;
+                    container.appendChild(div);
+                });
+            } catch (e) {
+                document.getElementById('loading').innerText = 'Error loading history. Server must be running.';
+            }
+        }
+        loadHistory();
+    </script>
+</body>
+</html>
