@@ -18,7 +18,7 @@ const EXCLUDE_FILTER = /horse racing|cheltenham|kentucky derby|lottery|lotto|pow
 const REGION_FILTERS = {
     netherlands: /dutch|netherlands|holland|KSA|kansspelautoriteit|NLO|betcity|ksa\.nl|novatech|nl\b.*regulat/i,
     brazil: /brazil|brasil|brazilian|latam|latin america|loterj|apostas|colombia|colombian/i,
-    us_regulation: /united states|(?:^|\b)US\s+(?:regulat|gaming|igaming)|new york|new jersey|michigan|pennsylvania|illinois|ohio|connecticut|virginia|nevada|nebraska|massachusetts|maryland|west virginia|georgia|minnesota|washington|american gaming|AGA|tribal gaming|congress.*gambl|DraftKings|FanDuel|BetMGM|CFTC|prediction market|POINTS act|PGCB|NCAA.*betting|sportsbook.*fine|online casino.*bill|igaming.*bill|sports betting.*bill/i,
+    us_regulation: /united states|(?:^|\b)US\s+(?:regulat|gaming|igaming)|new york|new jersey|michigan|pennsylvania|illinois|ohio|connecticut|virginia|nevada|nebraska|massachusetts|maryland|west virginia|georgia|minnesota|washington|american gaming|AGA|tribal gaming|(?:US|U\.S\.|american|federal)\s+congress|DraftKings|FanDuel|BetMGM|CFTC|prediction market|POINTS act|PGCB|NCAA.*betting|sportsbook.*fine|online casino.*bill|igaming.*bill|sports betting.*bill/i,
     global_regulation: /regulat|legislat|compliance|license|licensing|fine.*million|penalty|enforcement|gambling act|betting act|tax.*gambling|tax.*gaming|ban.*gambling|ban.*betting|crackdown|illegal.*gambling|framework|directive|EU.*gaming|European.*gaming|UK.*gaming|UKGC|MGA|malta.*gaming|Gibraltar|Isle of Man|Curaçao|Curacao|Alderney/i
 };
 
@@ -174,9 +174,10 @@ async function fetchAllNews(maxPerSource = 10) {
         };
     }
 
-    // 4. US regulation
+    // 4. US regulation (exclude articles already in NL or Brazil)
+    const alreadyRegional = new Set([...bragArticles, ...nlArticles, ...brArticles]);
     const usArticles = allArticles.filter(a =>
-        a.sourceKey !== 'brag_official' && REGION_FILTERS.us_regulation.test(`${a.title} ${a.summary_he}`)
+        !alreadyRegional.has(a) && REGION_FILTERS.us_regulation.test(`${a.title} ${a.summary_he}`)
     );
     if (usArticles.length > 0) {
         sections.us_regulation = {
