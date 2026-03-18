@@ -17,12 +17,6 @@ async function fetchStockData() {
         volume: '-',
         marketCap: '-',
         yoyChange: '-',
-        revenueTTM: '-',
-        revenueChange: '-',
-        eps: '-',
-        epsNote: '-',
-        analystTarget: '-',
-        analystNote: '-',
         updatedAt: new Date().toLocaleDateString('he-IL') + ' · ' + new Date().toLocaleTimeString('he-IL', { hour: '2-digit', minute: '2-digit' })
     };
 

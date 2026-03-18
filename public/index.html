@@ -151,6 +151,13 @@
   .chart-note { font-size: 10px; color: var(--text-muted); margin-top: 8px; font-family: 'Space Mono', monospace; }
   .chart-note a { color: var(--blue); }
 
+  .analysis-link {
+    font-family: 'Space Mono', monospace; font-size: 11px; color: var(--text-dim);
+    background: var(--bg3); border: 1px solid var(--border); border-radius: 6px;
+    padding: 6px 12px; text-decoration: none; transition: all 0.2s;
+  }
+  .analysis-link:hover { background: var(--bg2); border-color: var(--blue); color: var(--blue); }
+
   .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 12px; }
   .news-card {
     background: var(--bg2); border: 1px solid var(--border);
@@ -326,6 +333,17 @@
     </div>
   </div>
 
+  <!-- FINANCIAL ANALYSIS LINKS -->
+  <div style="display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; margin-bottom:24px; justify-content:center;">
+    <a href="https://ca.finance.yahoo.com/quote/BRAG.TO/" target="_blank" class="analysis-link">📈 Yahoo Finance</a>
+    <a href="https://simplywall.st/stocks/ca/consumer-services/tsx-brag/bragg-gaming-group-shares" target="_blank" class="analysis-link">📊 Simply Wall St</a>
+    <a href="https://seekingalpha.com/symbol/BRAG" target="_blank" class="analysis-link">📋 Seeking Alpha</a>
+    <a href="https://www.morningstar.com/stocks/xtse/brag/quote" target="_blank" class="analysis-link">⭐ Morningstar</a>
+    <a href="https://public.com/stocks/brag/forecast-price-target" target="_blank" class="analysis-link">🎯 Public.com</a>
+    <a href="https://stocktwits.com/symbol/BRAG" target="_blank" class="analysis-link">💬 StockTwits</a>
+    <a href="https://stockhouse.com/companies/bullboard?symbol=t.brag" target="_blank" class="analysis-link">🏠 Stockhouse</a>
+  </div>
+
   <!-- 3. OFFICIAL COMPANY NEWS -->
   <div class="section">
     <div class="section-header">
@@ -337,33 +355,35 @@
     <div class="news-grid" id="news-official"></div>
   </div>
 
-  <!-- 4. INDUSTRY NEWS -->
-  <div class="section">
-    <div class="section-header">
-      <span class="section-dot" style="background:var(--green)"></span>
-      <span class="section-label">SECTION 03</span>
-      <span class="section-title">חדשות תעשייה — iGaming עולמי</span>
-      <span class="verified-badge">✓ פרסומים מקצועיים מאומתים</span>
-    </div>
-    <div class="news-grid" id="news-industry"></div>
-  </div>
-
-  <!-- 5. REGIONAL NEWS (TABS) -->
+  <!-- 4. REGIONAL NEWS (TABS) - Markets affecting BRAG -->
   <div class="section">
     <div class="section-header">
       <span class="section-dot" style="background:var(--purple)"></span>
-      <span class="section-label">SECTION 04</span>
-      <span class="section-title">חדשות גיאוגרפיות</span>
+      <span class="section-label">SECTION 03</span>
+      <span class="section-title">רגולציה ושווקים — השפעה על BRAG</span>
       <span class="verified-badge">✓ מקורות מקצועיים ורגולטוריים</span>
     </div>
     <div class="tabs">
-      <div class="tab active" onclick="showTab('us')">🇺🇸 ארה"ב / ניו יורק</div>
-      <div class="tab" onclick="showTab('br')">🇧🇷 ברזיל</div>
-      <div class="tab" onclick="showTab('nl')">🇳🇱 הולנד / BetCity</div>
+      <div class="tab active" onclick="showTab('us')">🇺🇸 ארה"ב / Prediction Markets</div>
+      <div class="tab" onclick="showTab('br')">🇧🇷 ברזיל / LatAm</div>
+      <div class="tab" onclick="showTab('nl')">🇳🇱 הולנד / KSA</div>
+      <div class="tab" onclick="showTab('global')">🌍 רגולציה עולמית</div>
     </div>
     <div class="tab-content active" id="tab-us"></div>
     <div class="tab-content" id="tab-br"></div>
     <div class="tab-content" id="tab-nl"></div>
+    <div class="tab-content" id="tab-global"></div>
+  </div>
+
+  <!-- 5. iGaming B2B & PLATFORMS -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-dot" style="background:var(--green)"></span>
+      <span class="section-label">SECTION 04</span>
+      <span class="section-title">שוק ה-iGaming — B2B ופלטפורמות</span>
+      <span class="verified-badge">✓ פרסומים מקצועיים מאומתים</span>
+    </div>
+    <div class="news-grid" id="news-industry"></div>
   </div>
 
   <!-- 6. SOCIAL MEDIA -->
@@ -371,7 +391,7 @@
     <div class="section-header">
       <span class="section-dot" style="background:var(--orange)"></span>
       <span class="section-label">SECTION 05</span>
-      <span class="section-title">רשתות חברתיות — פרשנויות</span>
+      <span class="section-title">רשתות חברתיות — X · StockTwits · Stockhouse · Reddit</span>
       <span class="social-badge">⚠ תוכן לא מאומת · דעות בלבד</span>
     </div>
     <div class="social-warning">
@@ -379,7 +399,7 @@
     </div>
     <div id="sentiment-container"></div>
     <div style="margin-bottom: 12px;">
-      <div class="section-label" style="margin-bottom: 10px;">💬 הדעות המובילות בדיון הציבורי</div>
+      <div class="section-label" style="margin-bottom: 10px;">💬 הדעות המובילות בדיון הציבורי (לפי פלטפורמה)</div>
       <div class="opinions-list" id="opinions-list"></div>
     </div>
   </div>
@@ -434,10 +454,10 @@ const kpis = data.kpis || [
   { label: 'מחיר TSX (CAD)', value: '$' + (stock.priceTSX || '-'), sub: '', subClass: 'neutral', color: 'gold' },
   { label: 'שווי שוק', value: stock.marketCap || '-', sub: 'USD', subClass: 'neutral', color: 'blue' },
   { label: 'שינוי שנתי', value: stock.yoyChange || '-', sub: 'YoY', subClass: 'down', color: 'red' },
-  { label: 'הכנסות TTM', value: stock.revenueTTM || '-', sub: stock.revenueChange || '', subClass: 'up', color: 'green' },
-  { label: 'EPS מדולל', value: stock.eps || '-', sub: stock.epsNote || '', subClass: 'down', color: 'red' },
-  { label: 'יעד אנליסטים', value: stock.analystTarget || '-', sub: stock.analystNote || '', subClass: 'up', color: 'purple' },
-  { label: 'טווח 52 שבועות', value: (stock.low52w || '-') + '–' + (stock.high52w || '-'), sub: 'CAD · TSX', subClass: 'neutral', color: 'blue', smallValue: true }
+  { label: 'טווח 52 שבועות', value: (stock.low52w || '-') + '–' + (stock.high52w || '-'), sub: 'CAD · TSX', subClass: 'neutral', color: 'blue', smallValue: true },
+  { label: 'טווח יומי', value: (stock.dayLow || '-') + '–' + (stock.dayHigh || '-'), sub: 'USD · NASDAQ', subClass: 'neutral', color: 'green', smallValue: true },
+  { label: 'מחזור NASDAQ', value: stock.volume || '-', sub: 'מניות', subClass: 'neutral', color: 'purple' },
+  { label: 'מחזור TSX', value: stock.volumeTSX || '-', sub: 'מניות', subClass: 'neutral', color: 'purple' }
 ];
 const kpiGrid = document.getElementById('kpi-grid');
 kpis.forEach(k => {
@@ -482,10 +502,11 @@ if (industryArticles.length === 0) {
   industryGrid.innerHTML = industryArticles.map(a => renderNewsCard(a, 'industry')).join('');
 }
 
-// Section 4: Regional tabs
+// Section 3: Regional tabs (markets affecting BRAG)
 const usArticles = filterRecent((sections.us_regulation || {}).articles);
 const brArticles = filterRecent((sections.brazil || {}).articles);
 const nlArticles = filterRecent((sections.netherlands || {}).articles);
+const globalRegArticles = filterRecent((sections.global_regulation || {}).articles);
 
 function renderTabContent(articles) {
   if (articles.length === 0) return '<div style="color:var(--text-muted);text-align:center;padding:20px;grid-column:1/-1">אין חדשות מ-7 הימים האחרונים</div>';
@@ -494,6 +515,30 @@ function renderTabContent(articles) {
 document.getElementById('tab-us').innerHTML = renderTabContent(usArticles);
 document.getElementById('tab-br').innerHTML = renderTabContent(brArticles);
 document.getElementById('tab-nl').innerHTML = renderTabContent(nlArticles);
+document.getElementById('tab-global').innerHTML = renderTabContent(globalRegArticles);
+
+// Hide empty tabs dynamically
+const tabData = [
+  { id: 'us', articles: usArticles },
+  { id: 'br', articles: brArticles },
+  { id: 'nl', articles: nlArticles },
+  { id: 'global', articles: globalRegArticles }
+];
+const tabs = document.querySelectorAll('.tabs .tab');
+tabData.forEach((t, i) => {
+  if (t.articles.length === 0 && tabs[i]) {
+    tabs[i].style.opacity = '0.4';
+    tabs[i].title = 'אין כתבות השבוע';
+  }
+});
+// Auto-select first non-empty tab
+const firstNonEmpty = tabData.find(t => t.articles.length > 0);
+if (firstNonEmpty) {
+  showTab(firstNonEmpty.id);
+  const idx = tabData.indexOf(firstNonEmpty);
+  tabs.forEach(t => t.classList.remove('active'));
+  if (tabs[idx]) tabs[idx].classList.add('active');
+}
 
 // Section 5: Social Media
 const social = data.socialMedia || {};
