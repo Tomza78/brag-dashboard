@@ -151,6 +151,13 @@
   .chart-note { font-size: 10px; color: var(--text-muted); margin-top: 8px; font-family: 'Space Mono', monospace; }
   .chart-note a { color: var(--blue); }
 
+  .analysis-link {
+    font-family: 'Space Mono', monospace; font-size: 11px; color: var(--text-dim);
+    background: var(--bg3); border: 1px solid var(--border); border-radius: 6px;
+    padding: 6px 12px; text-decoration: none; transition: all 0.2s;
+  }
+  .analysis-link:hover { background: var(--bg2); border-color: var(--blue); color: var(--blue); }
+
   .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(380px, 1fr)); gap: 12px; }
   .news-card {
     background: var(--bg2); border: 1px solid var(--border);
@@ -326,6 +333,17 @@
     </div>
   </div>
 
+  <!-- FINANCIAL ANALYSIS LINKS -->
+  <div style="display:flex; flex-wrap:wrap; gap:8px; margin-top:12px; margin-bottom:24px; justify-content:center;">
+    <a href="https://ca.finance.yahoo.com/quote/BRAG.TO/" target="_blank" class="analysis-link">📈 Yahoo Finance</a>
+    <a href="https://simplywall.st/stocks/ca/consumer-services/tsx-brag/bragg-gaming-group-shares" target="_blank" class="analysis-link">📊 Simply Wall St</a>
+    <a href="https://seekingalpha.com/symbol/BRAG" target="_blank" class="analysis-link">📋 Seeking Alpha</a>
+    <a href="https://www.morningstar.com/stocks/xtse/brag/quote" target="_blank" class="analysis-link">⭐ Morningstar</a>
+    <a href="https://public.com/stocks/brag/forecast-price-target" target="_blank" class="analysis-link">🎯 Public.com</a>
+    <a href="https://stocktwits.com/symbol/BRAG" target="_blank" class="analysis-link">💬 StockTwits</a>
+    <a href="https://stockhouse.com/companies/bullboard?symbol=t.brag" target="_blank" class="analysis-link">🏠 Stockhouse</a>
+  </div>
+
   <!-- 3. OFFICIAL COMPANY NEWS -->
   <div class="section">
     <div class="section-header">
@@ -373,7 +391,7 @@
     <div class="section-header">
       <span class="section-dot" style="background:var(--orange)"></span>
       <span class="section-label">SECTION 05</span>
-      <span class="section-title">רשתות חברתיות — פרשנויות</span>
+      <span class="section-title">רשתות חברתיות — X · StockTwits · Stockhouse · Reddit</span>
       <span class="social-badge">⚠ תוכן לא מאומת · דעות בלבד</span>
     </div>
     <div class="social-warning">
@@ -381,7 +399,7 @@
     </div>
     <div id="sentiment-container"></div>
     <div style="margin-bottom: 12px;">
-      <div class="section-label" style="margin-bottom: 10px;">💬 הדעות המובילות בדיון הציבורי</div>
+      <div class="section-label" style="margin-bottom: 10px;">💬 הדעות המובילות בדיון הציבורי (לפי פלטפורמה)</div>
       <div class="opinions-list" id="opinions-list"></div>
     </div>
   </div>
