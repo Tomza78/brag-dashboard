@@ -349,8 +349,8 @@
     <div class="section-header">
       <span class="section-dot" style="background:var(--blue)"></span>
       <span class="section-label">SECTION 02</span>
-      <span class="section-title">חדשות רשמיות Bragg Gaming</span>
-      <span class="verified-badge">✓ מקורות רשמיים ומאומתים</span>
+      <span class="section-title">חדשות רשמיות Bragg Gaming — 30 יום</span>
+      <span class="verified-badge">✓ Business Wire · bragg.group</span>
     </div>
     <div class="news-grid" id="news-official"></div>
   </div>
@@ -483,12 +483,16 @@ function renderNewsCard(article, type) {
     </div>`;
 }
 
-// Section 2: Official News
+// Section 2: Official News (30 days for BRAG official)
 const sections = data.sections || {};
-const officialArticles = filterRecent((sections.brag_official || {}).articles);
+const thirtyDaysAgo = new Date(now.getTime() - 30 * 24 * 60 * 60 * 1000);
+const officialArticles = ((sections.brag_official || {}).articles || []).filter(a => {
+  if (!a.date) return true;
+  return new Date(a.date) >= thirtyDaysAgo;
+});
 const officialGrid = document.getElementById('news-official');
 if (officialArticles.length === 0) {
-  officialGrid.innerHTML = '<div style="color:var(--text-muted);text-align:center;padding:20px">אין חדשות רשמיות מ-7 הימים האחרונים</div>';
+  officialGrid.innerHTML = '<div style="color:var(--text-muted);text-align:center;padding:20px">אין חדשות רשמיות מ-30 הימים האחרונים</div>';
 } else {
   officialGrid.innerHTML = officialArticles.map(a => renderNewsCard(a, 'official')).join('');
 }

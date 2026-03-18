@@ -67,39 +67,6 @@ window.dashboardData = {
       "saved_at": "2026-03-18T06:35:24.524+00:00"
     },
     {
-      "id": "1rw3m5p",
-      "source": "reddit",
-      "title": "What is the best instant withdrawal casino available today?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1rw3m5p/what_is_the_best_instant_withdrawal_casino/",
-      "author": "Nappile_Marquon",
-      "score": 1,
-      "selftext": "I’m looking for an online casino that actually does instant withdrawals.\n\nI’m in the US and mostly play slots with small deposits, usually around $50 or so. I just want something legit where I don’t have to wait days to cash out if I win.\n\nWhat you've tried: I’ve tried a couple sites before but the withdrawal times were slow.\n\nAny recommendations for casinos with really fast payouts?",
-      "subreddit": "onlinegambling",
-      "created_utc": 1773746049,
-      "top_comments": [
-        {
-          "body": "Your contribution was removed because we believe it was written by AI.",
-          "score": 1,
-          "author": "onlinegambling-ModTeam"
-        },
-        {
-          "body": "I play with this vendor on telegram \n\nhttps://linkie.bio/thegamingclub\n\nFor referral bonus, please use code 45621 to claim $20 bonus. If you don’t mention my code, you only get $10 freeplay so you get better rewards using this code. ",
-          "score": 1,
-          "author": "Previous_State_1758"
-        },
-        {
-          "body": "Hmm, instant is an odd term for me. I mean, I do get my payouts pretty quickly, but for that you have to register yourself and get KYC approved before making your first withdrawal. That's where I see multiple people complaining but if I get registered and fulfill their KYC, it works fine. \n\nPersonally, Zula casino worked out fine for me. ",
-          "score": 1,
-          "author": "Diligent_Chain_212"
-        }
-      ],
-      "summary_he": "הפוסט משקף את הדרישה הגוברת בשוק ה-iGaming האמריקאי למשיכות כספים מיידיות כסטנדרט שירות קריטי עבור שחקנים. מגמה זו מדגישה את הצורך של מפעילים בפלטפורמות טכנולוגיות מתקדמות, דוגמת אלו של Bragg Gaming, המאפשרות חוויית משתמש חלקה ועמידה בדרישות הרגולציה בשווקים מוסדרים.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות בשרשור, המחולק לנקודות מרכזיות:\n\n*   **מדיניות ניהול קהילה:** קיימת הקפדה בפורום על הסרת תכנים שנחשדים ככאלו שנכתבו על ידי בינה מלאכותית (AI), מה שמעיד על ניסיון לשמור על אותנטיות הדיון.\n*   **הימורים דרך אפליקציות מסרים:** משתמשים מקדמים פעילות מול ספקי הימורים (Vendors) הפועלים ישירות דרך פלטפורמת הטלגרם.\n*   **חשיבות קודי הפניה (Referral):** מושם דגש על כך ששימוש בקוד הפניה ספציפי יכול להכפיל את בונוס ההצטרפות (לדוגמה, קבלת 20$ במקום 10$ ללא קוד).\n*   **ניהול ציפיות לגבי מהירות תשלום:** המונח \"תשלום מיידי\" נתפס כסובייקטיבי; משתמשים מציינים כי למרות שהתשלום מהיר, הוא אינו באמת רגעית בשל תהליכים נלווים.\n*   **חשיבות תהליך ה-KYC (אימות לקוח):** הדגשת הצורך בביצוע אימות זהות מלא לפני משיכת הכספים הראשונה. לפי הדיון, תלונות רבות של משתמשים על עיכובים נובעות למעשה מאי-השלמת שלב האימות הזה.\n*   **המלצות על פלטפורמות ספציפיות:** הקזינו המקוון \"Zula Casino\" צוין לחיוב כפלטפורמה שעובדת בצורה חלקה עבור משתמשים המקפידים על תנאי הרישום והאימות.",
-      "date_string": "2026-03-18",
-      "saved_at": "2026-03-18T07:14:24.22+00:00"
-    },
-    {
       "id": "1rvog99",
       "source": "reddit",
       "title": "Out of state gambling",
@@ -131,6 +98,39 @@ window.dashboardData = {
       "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות ודעות שונות:\n\n*   **אזהרה מפני ביצוע הפעולה:** אחד המגיבים ממליץ באופן חד-משמעי שלא לבצע את הפעולה הנדונה בשרשור (ככל הנראה ניסיון לעקוף מגבלות או פעולה פיננסית מסוימת).\n*   **מגבלות גיאוגרפיות קשיחות:** קיימת עדות לכך שבמדינות מסוימות בארה\"ב (כמו וושינגטון) ישנן הגבלות חמורות המונעות הרשמה לפלטפורמות הימורים או גיימינג מקוון.\n*   **בעיות באימות תעודות זהות:** משתמשים נתקלים בסירוב מצד אתרים כאשר תעודת הזהות שלהם שייכת למדינה שבה השירות אינו חוקי או מוסדר, גם אם הם מנסים להירשם ממקום אחר.\n*   **הבדלים ברגולציה בין מדינות שכנות:** הדיון מדגיש את הפער בין מדינות סמוכות (כמו אורגון וושינגטון), כאשר תושבי מדינה אחת נתקלים בחסמים שאינם קיימים לאחרים.\n*   **אישור המצב על בסיס ניסיון אישי:** אחד המגיבים מאשר ב-100% את קיומם של קשיי הרישום הללו, בהתבסס על מקרים שקרו לחברים קרובים המנסים להשתמש בשירותים אלו.\n*   **אכיפה נגד תוכן בינה מלאכותית:** השרשור כולל התערבות של מנהלי הקהילה (Moderators) שהסירו תגובות שנחשדו ככאלו שנכתבו על ידי בינה מלאכותית (AI), מה שמעיד על ניסיון לשמור על אותנטיות הדיון.",
       "date_string": "2026-03-18",
       "saved_at": "2026-03-18T07:14:39.549+00:00"
+    },
+    {
+      "id": "1rw3m5p",
+      "source": "reddit",
+      "title": "What is the best instant withdrawal casino available today?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1rw3m5p/what_is_the_best_instant_withdrawal_casino/",
+      "author": "Nappile_Marquon",
+      "score": 1,
+      "selftext": "I’m looking for an online casino that actually does instant withdrawals.\n\nI’m in the US and mostly play slots with small deposits, usually around $50 or so. I just want something legit where I don’t have to wait days to cash out if I win.\n\nWhat you've tried: I’ve tried a couple sites before but the withdrawal times were slow.\n\nAny recommendations for casinos with really fast payouts?",
+      "subreddit": "onlinegambling",
+      "created_utc": 1773746049,
+      "top_comments": [
+        {
+          "body": "Your contribution was removed because we believe it was written by AI.",
+          "score": 1,
+          "author": "onlinegambling-ModTeam"
+        },
+        {
+          "body": "I play with this vendor on telegram \n\nhttps://linkie.bio/thegamingclub\n\nFor referral bonus, please use code 45621 to claim $20 bonus. If you don’t mention my code, you only get $10 freeplay so you get better rewards using this code. ",
+          "score": 1,
+          "author": "Previous_State_1758"
+        },
+        {
+          "body": "Hmm, instant is an odd term for me. I mean, I do get my payouts pretty quickly, but for that you have to register yourself and get KYC approved before making your first withdrawal. That's where I see multiple people complaining but if I get registered and fulfill their KYC, it works fine. \n\nPersonally, Zula casino worked out fine for me. ",
+          "score": 1,
+          "author": "Diligent_Chain_212"
+        }
+      ],
+      "summary_he": "הפוסט משקף את הדרישה הגוברת בשוק ה-iGaming האמריקאי למשיכות כספים מיידיות כסטנדרט שירות קריטי עבור שחקנים. מגמה זו מדגישה את הצורך של מפעילים בפלטפורמות טכנולוגיות מתקדמות, דוגמת אלו של Bragg Gaming, המאפשרות חוויית משתמש חלקה ועמידה בדרישות הרגולציה בשווקים מוסדרים.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות בשרשור, המחולק לנקודות מרכזיות:\n\n*   **מדיניות ניהול קהילה:** קיימת הקפדה בפורום על הסרת תכנים שנחשדים ככאלו שנכתבו על ידי בינה מלאכותית (AI), מה שמעיד על ניסיון לשמור על אותנטיות הדיון.\n*   **הימורים דרך אפליקציות מסרים:** משתמשים מקדמים פעילות מול ספקי הימורים (Vendors) הפועלים ישירות דרך פלטפורמת הטלגרם.\n*   **חשיבות קודי הפניה (Referral):** מושם דגש על כך ששימוש בקוד הפניה ספציפי יכול להכפיל את בונוס ההצטרפות (לדוגמה, קבלת 20$ במקום 10$ ללא קוד).\n*   **ניהול ציפיות לגבי מהירות תשלום:** המונח \"תשלום מיידי\" נתפס כסובייקטיבי; משתמשים מציינים כי למרות שהתשלום מהיר, הוא אינו באמת רגעית בשל תהליכים נלווים.\n*   **חשיבות תהליך ה-KYC (אימות לקוח):** הדגשת הצורך בביצוע אימות זהות מלא לפני משיכת הכספים הראשונה. לפי הדיון, תלונות רבות של משתמשים על עיכובים נובעות למעשה מאי-השלמת שלב האימות הזה.\n*   **המלצות על פלטפורמות ספציפיות:** הקזינו המקוון \"Zula Casino\" צוין לחיוב כפלטפורמה שעובדת בצורה חלקה עבור משתמשים המקפידים על תנאי הרישום והאימות.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T07:14:24.22+00:00"
     }
   ],
   "xIntelligence": {
@@ -162,5 +162,5 @@ window.dashboardData = {
     },
     "overall_sentiment": "חיובי"
   },
-  "generatedAt": "2026-03-18T10:17:07.511Z"
+  "generatedAt": "2026-03-18T10:38:22.854Z"
 };
