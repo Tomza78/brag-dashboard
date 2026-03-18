@@ -76,6 +76,24 @@ const NEWS_SOURCES = [
         url: 'https://deadspin.com/legal-betting/',
         type: 'html_deadspin',
         filter: IGAMING_FILTER
+    },
+    {
+        key: 'igaming_future',
+        title: 'iGaming Future',
+        icon: '🚀',
+        color: 'rgba(103,58,183,0.12)',
+        url: 'https://igamingfuture.com/feed/',
+        type: 'rss',
+        filter: IGAMING_FILTER
+    },
+    {
+        key: 'igaming_expert',
+        title: 'iGaming Expert',
+        icon: '🧠',
+        color: 'rgba(63,81,181,0.12)',
+        url: 'https://igamingexpert.com/feed/',
+        type: 'rss',
+        filter: IGAMING_FILTER
     }
 ];
 
@@ -563,4 +581,67 @@ function extractTag(xml, tag) {
         .trim();
 }
 
-module.exports = { fetchAllNews, translateArticlesToHebrew, fetchStockhouseDiscussions, NEWS_SOURCES };
+/**
+ * Fetches StockTwits BRAG stream for social media opinions.
+ * Uses StockTwits API (public, no auth required for basic access).
+ */
+async function fetchStockTwitsStream() {
+    console.log('  Fetching StockTwits BRAG stream...');
+    try {
+        const response = await fetch('https://api.stocktwits.com/api/2/streams/symbol/BRAG.json', {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+            },
+            timeout: 15000
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+
+        const data = await response.json();
+        const messages = data?.messages || [];
+
+        const posts = messages.slice(0, 10).map(msg => ({
+            text: msg.body?.substring(0, 300) || '',
+            platform: 'StockTwits · $BRAG',
+            sentiment: msg.entities?.sentiment?.basic || null,
+            date: msg.created_at,
+            username: msg.user?.username || ''
+        })).filter(p => p.text.length > 5);
+
+        console.log(`    Found ${posts.length} StockTwits messages`);
+        return posts;
+    } catch (error) {
+        console.error('  Error fetching StockTwits:', error.message);
+        // Fallback: try HTML scraping
+        try {
+            const response = await fetch('https://stocktwits.com/symbol/BRAG', {
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+                },
+                timeout: 15000
+            });
+            if (!response.ok) throw new Error(`HTTP ${response.status}`);
+            const html = await response.text();
+
+            // Extract message bodies from HTML
+            const msgRegex = /<div[^>]*class="[^"]*RichTextMessage[^"]*"[^>]*>([\s\S]*?)<\/div>/gi;
+            const posts = [];
+            let match;
+            while ((match = msgRegex.exec(html)) !== null && posts.length < 8) {
+                const text = match[1].replace(/<[^>]+>/g, '').trim();
+                if (text.length > 10) {
+                    posts.push({ text: text.substring(0, 300), platform: 'StockTwits · $BRAG' });
+                }
+            }
+            console.log(`    Found ${posts.length} StockTwits messages (HTML fallback)`);
+            return posts;
+        } catch (e2) {
+            console.error('  StockTwits HTML fallback also failed:', e2.message);
+            return [];
+        }
+    }
+}
+
+module.exports = { fetchAllNews, translateArticlesToHebrew, fetchStockhouseDiscussions, fetchStockTwitsStream, NEWS_SOURCES };

@@ -4,7 +4,7 @@ const { getXIntelligence } = require('./x_trends');
 const { summarizePost, categorizePost, summarizeComments } = require('./ai');
 const { initDB, saveTrend, getTrend, saveXIntelligence, getLatestXIntelligence, getTrendsByDate } = require('./db');
 const { fetchStockData } = require('./finance');
-const { fetchAllNews, translateArticlesToHebrew, fetchStockhouseDiscussions } = require('./news_scraper');
+const { fetchAllNews, translateArticlesToHebrew, fetchStockhouseDiscussions, fetchStockTwitsStream } = require('./news_scraper');
 const cron = require('node-cron');
 const path = require('path');
 const fs = require('fs');
@@ -41,8 +41,12 @@ async function runDailyJob() {
         const aiForTranslation = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY).getGenerativeModel({ model: 'gemini-3-flash-preview' });
         await translateArticlesToHebrew(newsSections, aiForTranslation);
 
-        // Step 1c: Fetch Stockhouse discussions
-        console.log('Step 1c: Fetching Stockhouse discussions...');
+        // Step 1c: Fetch StockTwits BRAG stream
+        console.log('Step 1c: Fetching StockTwits BRAG stream...');
+        const stocktwitsPosts = await fetchStockTwitsStream();
+
+        // Step 1d: Fetch Stockhouse discussions
+        console.log('Step 1d: Fetching Stockhouse discussions...');
         const stockhousePosts = await fetchStockhouseDiscussions();
 
         // Step 2: Fetch Reddit trends
@@ -109,7 +113,7 @@ async function runDailyJob() {
         // Step 5: Generate both reports
         const xIntelData = xIntel ? (xIntel.data || xIntel) : null;
         generateHTMLReport(latestTrends, xIntelData);
-        generateIntelReport(financeData, latestTrends, xIntelData, newsSections, stockhousePosts);
+        generateIntelReport(financeData, latestTrends, xIntelData, newsSections, stockhousePosts, stocktwitsPosts);
         console.log(`Updated reports with ${latestTrends.length} trends.`);
 
         const duration = ((new Date() - jobStartTime) / 1000).toFixed(2);
@@ -138,7 +142,7 @@ function generateHTMLReport(trends, xIntel) {
  * Generates public/intel-data.js with the full intelligence report data.
  * Used by intel.html (the professional dashboard).
  */
-function generateIntelReport(financeData, trends, xIntelData, newsSections, stockhousePosts) {
+function generateIntelReport(financeData, trends, xIntelData, newsSections, stockhousePosts, stocktwitsPosts) {
     const now = new Date();
     const stock = financeData?.stock || {};
     const chartData = financeData?.chartData || null;
@@ -155,11 +159,10 @@ function generateIntelReport(financeData, trends, xIntelData, newsSections, stoc
             url: t.url
         }));
 
-    // Build social opinions from Grok data + Stockhouse
+    // Build social opinions in order: X/Grok → StockTwits → Stockhouse → Reddit
     const opinions = [];
-    if (stockhousePosts && stockhousePosts.length > 0) {
-        opinions.push(...stockhousePosts);
-    }
+
+    // 1. X/Grok intelligence first
     if (xIntelData) {
         const topics = ['brag_stock', 'us_regulation', 'brazil_market', 'netherlands_ksa', 'igaming_industry'];
         topics.forEach(key => {
@@ -171,6 +174,16 @@ function generateIntelReport(financeData, trends, xIntelData, newsSections, stoc
                 });
             }
         });
+    }
+
+    // 2. StockTwits
+    if (stocktwitsPosts && stocktwitsPosts.length > 0) {
+        opinions.push(...stocktwitsPosts);
+    }
+
+    // 3. Stockhouse
+    if (stockhousePosts && stockhousePosts.length > 0) {
+        opinions.push(...stockhousePosts);
     }
 
     // Calculate sentiment score from X intel
