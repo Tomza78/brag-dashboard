@@ -364,10 +364,10 @@
       <span class="verified-badge">✓ מקורות מקצועיים ורגולטוריים</span>
     </div>
     <div class="tabs">
-      <div class="tab active" onclick="showTab('us')">🇺🇸 ארה"ב / Prediction Markets</div>
-      <div class="tab" onclick="showTab('br')">🇧🇷 ברזיל / LatAm</div>
-      <div class="tab" onclick="showTab('nl')">🇳🇱 הולנד / KSA</div>
-      <div class="tab" onclick="showTab('global')">🌍 רגולציה עולמית</div>
+      <div class="tab active" onclick="showTab('us', this)">🇺🇸 ארה"ב / Prediction Markets</div>
+      <div class="tab" onclick="showTab('br', this)">🇧🇷 ברזיל / LatAm</div>
+      <div class="tab" onclick="showTab('nl', this)">🇳🇱 הולנד / KSA</div>
+      <div class="tab" onclick="showTab('global', this)">🌍 רגולציה עולמית</div>
     </div>
     <div class="tab-content active" id="tab-us"></div>
     <div class="tab-content" id="tab-br"></div>
@@ -621,11 +621,11 @@ function downloadPDF() {
 }
 
 // ── TAB SWITCHING ──
-function showTab(id) {
-  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+function showTab(id, clickedEl) {
+  document.querySelectorAll('.tabs .tab').forEach(t => t.classList.remove('active'));
   document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
   document.getElementById('tab-' + id).classList.add('active');
-  event.target.classList.add('active');
+  if (clickedEl) clickedEl.classList.add('active');
 }
 
 // ── CHARTS ──
