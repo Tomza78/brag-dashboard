@@ -337,33 +337,35 @@
     <div class="news-grid" id="news-official"></div>
   </div>
 
-  <!-- 4. INDUSTRY NEWS -->
-  <div class="section">
-    <div class="section-header">
-      <span class="section-dot" style="background:var(--green)"></span>
-      <span class="section-label">SECTION 03</span>
-      <span class="section-title">חדשות תעשייה — iGaming עולמי</span>
-      <span class="verified-badge">✓ פרסומים מקצועיים מאומתים</span>
-    </div>
-    <div class="news-grid" id="news-industry"></div>
-  </div>
-
-  <!-- 5. REGIONAL NEWS (TABS) -->
+  <!-- 4. REGIONAL NEWS (TABS) - Markets affecting BRAG -->
   <div class="section">
     <div class="section-header">
       <span class="section-dot" style="background:var(--purple)"></span>
-      <span class="section-label">SECTION 04</span>
-      <span class="section-title">חדשות גיאוגרפיות</span>
+      <span class="section-label">SECTION 03</span>
+      <span class="section-title">רגולציה ושווקים — השפעה על BRAG</span>
       <span class="verified-badge">✓ מקורות מקצועיים ורגולטוריים</span>
     </div>
     <div class="tabs">
-      <div class="tab active" onclick="showTab('us')">🇺🇸 ארה"ב / ניו יורק</div>
-      <div class="tab" onclick="showTab('br')">🇧🇷 ברזיל</div>
-      <div class="tab" onclick="showTab('nl')">🇳🇱 הולנד / BetCity</div>
+      <div class="tab active" onclick="showTab('us')">🇺🇸 ארה"ב / Prediction Markets</div>
+      <div class="tab" onclick="showTab('br')">🇧🇷 ברזיל / LatAm</div>
+      <div class="tab" onclick="showTab('nl')">🇳🇱 הולנד / KSA</div>
+      <div class="tab" onclick="showTab('global')">🌍 רגולציה עולמית</div>
     </div>
     <div class="tab-content active" id="tab-us"></div>
     <div class="tab-content" id="tab-br"></div>
     <div class="tab-content" id="tab-nl"></div>
+    <div class="tab-content" id="tab-global"></div>
+  </div>
+
+  <!-- 5. iGaming B2B & PLATFORMS -->
+  <div class="section">
+    <div class="section-header">
+      <span class="section-dot" style="background:var(--green)"></span>
+      <span class="section-label">SECTION 04</span>
+      <span class="section-title">שוק ה-iGaming — B2B ופלטפורמות</span>
+      <span class="verified-badge">✓ פרסומים מקצועיים מאומתים</span>
+    </div>
+    <div class="news-grid" id="news-industry"></div>
   </div>
 
   <!-- 6. SOCIAL MEDIA -->
@@ -482,10 +484,11 @@ if (industryArticles.length === 0) {
   industryGrid.innerHTML = industryArticles.map(a => renderNewsCard(a, 'industry')).join('');
 }
 
-// Section 4: Regional tabs
+// Section 3: Regional tabs (markets affecting BRAG)
 const usArticles = filterRecent((sections.us_regulation || {}).articles);
 const brArticles = filterRecent((sections.brazil || {}).articles);
 const nlArticles = filterRecent((sections.netherlands || {}).articles);
+const globalRegArticles = filterRecent((sections.global_regulation || {}).articles);
 
 function renderTabContent(articles) {
   if (articles.length === 0) return '<div style="color:var(--text-muted);text-align:center;padding:20px;grid-column:1/-1">אין חדשות מ-7 הימים האחרונים</div>';
@@ -494,6 +497,7 @@ function renderTabContent(articles) {
 document.getElementById('tab-us').innerHTML = renderTabContent(usArticles);
 document.getElementById('tab-br').innerHTML = renderTabContent(brArticles);
 document.getElementById('tab-nl').innerHTML = renderTabContent(nlArticles);
+document.getElementById('tab-global').innerHTML = renderTabContent(globalRegArticles);
 
 // Section 5: Social Media
 const social = data.socialMedia || {};
