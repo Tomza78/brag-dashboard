@@ -1,361 +1,354 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1ruy0r3",
+      "id": "1rv9za8",
       "source": "reddit",
-      "title": "Ok Sugar Rush i see you",
-      "url": "https://www.reddit.com/r/gambling/comments/1ruy0r3/ok_sugar_rush_i_see_you/",
-      "author": "CaffeineAndClaws",
-      "score": 21,
-      "selftext": "Finally wanted to like me lol",
+      "title": "Nice hit on huff n puff",
+      "url": "https://www.reddit.com/r/gambling/comments/1rv9za8/nice_hit_on_huff_n_puff/",
+      "author": "peacelovemurdaink",
+      "score": 34,
+      "selftext": "Last night I played sweet bonanza super scatter and my last 10 dollars I went from 20 cents to $1.25 a spin and got a 4 scatter with one of the them being a super scatter I won about $280 in the free spins then stopped playing after that win, couple hours later I logged back in to play huff n puff moving my bets around from 20 cents to 40, then stayed at 60 cents. I was gonna play it down to 260. Then landed a hard hat bonus winning the major, I’ve won the major at 20 cents and 60 cents now ",
       "subreddit": "gambling",
-      "created_utc": 1773629921,
+      "created_utc": 1773669005,
       "top_comments": [
         {
-          "body": "Literally just went on it and bought the free for 20 lollll ",
+          "body": "Lol, nice hit. Further lends credence that the only way to pop the Major is to bet low wagers!\n\nI got the Green Hat Bonus on High Rise for $3.60 and ended up with a near Full Screen of mansions with 7 coins flipping over for ALL Mini Jackpots and one of them was a Mini x 2 Jackpot...\n\nEven one Minor woulda paid me $720 and a major was $7200, but alas I have to wait for my day!",
           "score": 1,
-          "author": "CaffeineAndClaws"
+          "author": "Winter_Tangerine7492"
         },
         {
-          "body": "Nice bro how long have you played until this happened?",
+          "body": "amazing hit, anything above 250x is awesome",
           "score": 1,
-          "author": "jumbojuicebox"
+          "author": "dko84"
         },
-        {
-          "body": "Gratz dude, solid win. I've never won that much money before.",
-          "score": 1,
-          "author": "LateNeverr1"
-        }
-      ],
-      "summary_he": "הפוסט מתאר חוויית משתמש חיובית וזכייה במשחק הסלוט הפופולרי \"Sugar Rush\", דבר המעיד על המעורבות הגבוהה של שחקנים בכותרים מובילים בתעשייה. הצלחת משחקים מסוג זה מחזקת את הביקוש לתוכן איכותי מצד ספקיות ומפיצות iGaming, דוגמת Bragg Gaming (BRAG), הנהנות מהפופולריות של כותרים אלו בפלטפורמות ההפצה שלהן.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון בפורום על פי התגובות שהוצגו:\n\n*   **דיווח על זכייה מהירה:** אחד המשתתפים משתף בחוויה של הצלחה מיידית, ומציין שנכנס למשחק וזכה תוך זמן קצר מאוד.\n*   **שימוש במכניקת \"קניית בונוס\" (Feature Buy):** המשתמש מציין כי הזכייה התרחשה לאחר שרכש את הגישה לסבב הבונוס/הסיבובים החינמיים בסכום של 20.\n*   **סקרנות לגבי משך הזמן להישג:** עולה שאלה מצד משתמש אחר לגבי פרק הזמן שהשחקן נדרש לשחק עד שהגיע לרגע הזכייה המדובר.\n*   **פרגון ואיחולי הצלחה:** ניכרת אווירה חיובית בקהילה, כאשר משתמשים מברכים את הזוכה על \"זכייה מוצקה\" (solid win).\n*   **השוואה לניסיון אישי:** אחד המגיבים מציין שמעולם לא הגיע לזכייה בסכום כזה, מה שמדגיש את נדירות או עוצמת ההישג עבורו.",
-      "date_string": "2026-03-17",
-      "saved_at": "2026-03-17T18:44:08.742+00:00"
-    },
-    {
-      "id": "1rutxi1",
-      "source": "reddit",
-      "title": "Do not gamble on Rainbet",
-      "url": "https://www.reddit.com/r/gambling/comments/1rutxi1/do_not_gamble_on_rainbet/",
-      "author": "secoundaccount2121",
-      "score": 16,
-      "selftext": "Been gambling on Rainbet for 1 month without issue while being level 1 KYC. Weeks of losses with no issues at all. This last week had a good streak and went into profit, and thats when they locked my account until I got a lvl 4 KYC. I completed the KYC, but soon after got banned, and support wouldnt tell me why. My friend who is a Diamond asked his host to look into my account, and they said I was \"counting cards\" on online blackjack like thats even possible. Worst part is I cant withraw any of my winnings. Scam site",
-      "subreddit": "gambling",
-      "created_utc": 1773618787,
-      "top_comments": [
-        {
-          "body": "The Thank you for choosing Rainbet! is comical ",
-          "score": 12,
-          "author": "Nicky____Santoro"
-        },
-        {
-          "body": "I think you're knicked, sunshine.",
-          "score": 7,
-          "author": "TM761152"
-        },
-        {
-          "body": "What are we even talking here. You clearly know the real reason. ",
-          "score": 6,
-          "author": "AmishAmish"
-        }
-      ],
-      "summary_he": "הפוסט מזהיר מפני התנהלות פולשנית של אתר ההימורים Rainbet, שחסם משתמש ומנע ממנו למשוך רווחים בטענה מופרכת של \"ספירת כרטיסים\" לאחר שעבר תהליך אימות (KYC) מחמיר. המקרה מדגיש את הסיכונים במפעילי iGaming לא מוסדרים ואת חשיבות הרגולציה והציות (Compliance) להגנת הצרכן. עבור חברות כמו Bragg Gaming (BRAG), הפועלות בשווקים מוסדרים, אירועים כאלו מחזקים את הערך של עבודה בסביבה חוקית ושקופה המבטיחה את הגינות המשחקים.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והתגובות בנושא ה-iGaming/הימורים בפורום:\n\n* **לעג לתקשורת התאגידית:** המגיבים מוצאים את נימת הדיבור המנומסת והרשמית של הפלטפורמה (Rainbet) כמגוחכת וצינית, במיוחד לאור העובדה שהמשתמש ככל הנראה נמצא בבעיה או הפסיד כסף.\n* **תחושת חוסר אונים והפסד:** השימוש בביטוי \"knicked\" מרמז על כך שהמגיבים סבורים שהמשתמש \"נעקץ\", הונה או פשוט איבד את כספו ללא תקווה להחזירו.\n* **רמיזה להיתממות של הכותב:** אחד המגיבים טוען כי הסיבה האמיתית למצב ידועה היטב לכותב הפוסט, וכי אין טעם להעמיד פנים שמדובר בטעות או באי-הבנה.\n* **ספקנות כלפי המניעים:** עולה תפיסה שהמשתמש המקורי מנסה להציג עצמו כקורבן, בעוד שהמגיבים מאמינים שהוא מודע היטב לסיכונים או לכללים שהפר.\n* **זלזול וחוסר אמפתיה:** הדיון מתאפיין בטון מזלזל (\"sunshine\") כלפי מי שמתלונן על הפסדים או בעיות בפלטפורמות הימורים, מתוך גישה ש\"זה חלק מהמשחק\".\n* **חוסר אמון במערכת:** התגובות משקפות חוסר אמון כללי בהגינות של אתרי iGaming ובדרך שבה הם מנהלים אינטראקציות עם לקוחות שנקלעו לקשיים.",
-      "date_string": "2026-03-17",
-      "saved_at": "2026-03-17T18:44:25.442+00:00"
-    },
-    {
-      "id": "1ruywbr",
-      "source": "reddit",
-      "title": "Does keeping an eye on what institutions are doing help you read the market?",
-      "url": "https://www.reddit.com/r/CanadianInvestor/comments/1ruywbr/does_keeping_an_eye_on_what_institutions_are/",
-      "author": "natnic0",
-      "score": 7,
-      "selftext": "I’m really curious do you guys pay attention to institutions buying and selling, or more to what famous investors are doing? Do their moves actually help us make decisions, or is it mostly just noise?",
-      "subreddit": "CanadianInvestor",
-      "created_utc": 1773632461,
-      "top_comments": [
-        {
-          "body": "These are passive asset managers so no, it tells you nothing. ",
-          "score": 4,
-          "author": "Powerful-Load-4684"
-        },
-        {
-          "body": "These guys hold whatever is in the index, and the active managers you cant track them in real time, the 13f lags by like 40 days & it doesn't show short positions. I mean its fun to look at, but dont blindly follow.",
-          "score": 2,
-          "author": "Rockefeller07"
-        },
-        {
-          "body": "No, because 1) as others noted, these are passive asset managers (same as how some people think BlackRock and Vanguard \"actually run the world\") 2) you can look at famous investors' track records already. If you look at actual long term track records, very few have consistently beaten the market. Most had a hot streak, got famous for it, and the subsequent record is a lot more ordinary. Cathie Wood is probably the most recent example of that pattern.\n\nBuffett is the genuine outlier, but even he has said repeatedly that most people are better off just buying an index fund and leaving it alone.\n\nSo to directly answer your question, I don't think either tells you much that's actionable for your own portfolio.",
-          "score": 1,
-          "author": "greenline-sam"
-        }
-      ],
-      "summary_he": "הפוסט דן בחשיבות המעקב אחר השקעות מוסדיות ככלי לניתוח שוק, נושא קריטי עבור מניות במגזר ה-iGaming כמו Bragg Gaming (BRAG). עבור משקיעים בתעשיית ההימורים, תנועות של גופים מוסדיים עשויות לאותת על אמון ביציבות הרגולטורית של החברה ובפוטנציאל הצמיחה שלה בשווקים גלובליים.",
-      "category_he": "שווקים פיננסיים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות בנוגע למעקב אחר אחזקות של מנהלי נכסים ומוסדיים:\n\n*   **חוסר רלוונטיות של מנהלים פסיביים:** מנהלי נכסים גדולים (כמו BlackRock ו-Vanguard) הם לרוב פסיביים. הם מחזיקים במניות פשוט כי הן חלק מהמדד, ולכן האחזקות שלהם לא מספקות שום מידע על איכות המניה או על תחזית עתידית.\n*   **מגבלות הדיווח (דוחות 13F):** המידע שמתפרסם לציבור לוקה בחסר ואינו רלוונטי בזמן אמת. הדוחות מפורסמים בעיכוב של כ-40 יום, והם אינם כוללים פוזיציות שורט (מכירה בחסר), מה שיוצר תמונה חלקית ומטעה.\n*   **מלכודת \"רצף ההצלחה\":** רוב מנהלי ההשקעות המפורסמים אינם מצליחים להכות את השוק לאורך זמן. הם לרוב נהנים מ\"תקופה חמה\" שהופכת אותם למפורסמים, אך לאחר מכן ביצועיהם הופכים לממוצעים ואף פחות מכך.\n*   **מקרה הבוחן של קאת'י ווד (Cathie Wood):** המשתמשים מציינים אותה כדוגמה עכשווית למנהלת השקעות שזכתה לתהילה בזכות זינוק בטווח הקצר, אך לא הצליחה לשמור על עקביות לאורך זמן.\n*   **המלצתו של וורן באפט:** הדיון מדגיש שאפילו באפט, שנחשב לחריג ביכולתו להכות את השוק, ממליץ לרוב האנשים להימנע מבחירת מניות ספציפית ובמקום זאת להשקיע בקרנות מדד (Index Funds) פסיביות.\n*   **היעדר ערך מעשי למשקיע הפרטי:** השורה התחתונה של המגיבים היא שמעקב אחר אחזקות של גופים מוסדיים אינו מספק \"מידע בר-ביצוע\" (actionable) לבניית תיק השקעות אישי, ואסור לעקוב אחריו בצורה עיוורת.",
-      "date_string": "2026-03-17",
-      "saved_at": "2026-03-17T18:44:45.824+00:00"
-    },
-    {
-      "id": "1rupmpz",
-      "source": "reddit",
-      "title": "Turned $5 into this a couple weeks ago…still processing it",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1rupmpz/turned_5_into_this_a_couple_weeks_agostill/",
-      "author": "Lee_Minjae",
-      "score": 7,
-      "selftext": "Still kinda shocked this actually hit lol. What’s the biggest win you guys have had from a small bet?",
-      "subreddit": "onlinegambling",
-      "created_utc": 1773608372,
-      "top_comments": [
-        {
-          "body": "Withdraw the money speaking from experience ",
-          "score": 2,
-          "author": "Amazing_War624"
-        },
-        {
-          "body": "I hit for 2500 on Zula casino with 5 bucks spins deposited 20 bucks ",
-          "score": 1,
-          "author": "DubiDubua"
-        },
-        {
-          "body": "$5 to a big hit is the dream right there. What game was this on? I had a similar thing happen on a Hacksaw slot a while back, turned like $3 into over $800 during a bonus round. Still one of my best sessions ever. Definitely cash it out though, don't feed it back lol",
-          "score": 1,
-          "author": "minhtuan_88"
-        }
-      ],
-      "summary_he": "הפוסט מתאר מקרה של \"זכייה גדולה\" מהימור קטן, מגמה המדגישה את הביקוש לתוכן בעל תנודתיות גבוהה המיוצר על ידי חברות כמו Bragg Gaming. שיתוף חוויות כאלו ברשתות החברתיות מחזק את המעורבות בקהילת ה-iGaming, אך גם מחדד את חשיבות הרגולציה וההימורים האחראיים סביב נרטיבים של רווחים מהירים.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בתחום ה-iGaming וההימורים:\n\n*   **המלצה חד-משמעית למשיכת כספים:** המגיבים מדגישים פה אחד את החשיבות של משיכת כספי הזכייה באופן מיידי. העצה היא \"לא להחזיר את הכסף לקזינו\" (Don't feed it back), אלא לפדות אותו כל עוד הרווח קיים.\n*   **שיתוף סיפורי הצלחה (ROI גבוה):** המשתמשים משתפים חוויות על זכיות מרשימות ביחס להפקדה נמוכה, כמו זכייה של 2,500 דולר מהפקדה של 20 דולר בלבד, או הפיכת 3 דולרים ל-800 דולר.\n*   **השאיפה ל\"זכייה מהחלומות\":** הפיכת הימור קטן (של כ-5 דולרים) לזכייה גדולה נתפסת בקהילה כ\"חלום\" האולטימטיבי של כל שחקן בתחום.\n*   **חשיבות סבבי הבונוס:** מצוין כי זכיות משמעותיות מתרחשות לעיתים קרובות במהלך \"סבבי בונוס\" (Bonus Rounds) במכונות סלוטים, מה שמאפשר זינוק חד ברווחים מהימור בסיסי נמוך.\n*   **התייחסות לפלטפורמות וספקים ספציפיים:** בשיחה מוזכרים שמות של בתי קזינו מקוונים (Zula casino) וספקי משחקים (Hacksaw), מה שמעיד על עניין של הקהילה במיקום ובסוג המשחקים שבהם \"קל\" יותר לזכות.\n*   **למידה מניסיון עבר:** העצה למשוך את הכסף מגיעה מתוך \"ניסיון אישי\", מה שמרמז על כך ששחקנים מנוסים כבר חוו בעבר אובדן של זכיות גדולות בגלל חוסר איפוק והמשך משחק.",
-      "date_string": "2026-03-17",
-      "saved_at": "2026-03-17T18:45:03.259+00:00"
-    },
-    {
-      "id": "1ruvd8k",
-      "source": "reddit",
-      "title": "Avoid Rainbet",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1ruvd8k/avoid_rainbet/",
-      "author": "secoundaccount2121",
-      "score": 5,
-      "selftext": "Been gambling on Rainbet for 1 month without issue while being level 1 KYC. Weeks of losses with no issues at all. This last week had a good streak and went into profit, and thats when they locked my account until I got a lvl 4 KYC. I completed the KYC, but soon after got banned, and support wouldnt tell me why. My friend who is a Diamond asked his host to look into my account, and they said I was \"counting cards\" on online blackjack like thats even possible. Worst part is I cant withraw any of my winnings. Scam site",
-      "subreddit": "onlinegambling",
-      "created_utc": 1773622598,
-      "top_comments": [
-        {
-          "body": "Thank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט מתאר מקרה של חסימת משתמש והקפאת רווחים באתר Rainbet לאחר זכיות, בתואנה של \"ספירת קלפים\" במשחק בלאק ג'ק מקוון. המקרה מדגיש את הסיכונים הכרוכים בפלטפורמות שאינן מפוקחות כראוי ואת החשיבות הקריטית של רגולציה בתעשיית ה-iGaming. עבור חברות הפועלות בשווקים מוסדרים, כמו Bragg Gaming, מקרים אלו מדגישים את היתרון התחרותי של עמידה בסטנדרטים מחמירים המבטיחים את אמון השחקנים והגינות המשחק.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון (מבוסס על התגובה שסיפקת, שהיא הודעת ניהול אוטומטית):\n\n* **הנחיות למשתמשים חדשים:** ההודעה מדגישה את החשיבות של קריאת כללי הקהילה המופיעים בסרגל הצד (Sidebar) לפני תחילת הפעילות בפורום.\n* **דגש על חוקי הפורום:** קיים דגש על כך שכל משתמש, במיוחד חדש, מחויב להכיר את הנהלים כדי לשמור על סדר בקהילה.\n* **הרחבת הקהילה לפלטפורמות נוספות:** המנהלים מזמינים את המשתמשים להצטרף לשרת הדיסקורד הרשמי של הקהילה לצורך אינטראקציה ישירה ומהירה יותר.\n* **עידוד מעורבות (Subscription):** המערכת מעודדת את הגולשים להירשם לעדכונים שוטפים מהפורום כדי להישאר מעורב בשיח בנושאי הימורים מקוונים.\n* **ניהול אוטומטי:** התגובה ממחישה את השימוש בבוטים לניהול קהילות iGaming, במטרה לספק מידע חיוני באופן מיידי לכל כותב פוסט.",
-      "date_string": "2026-03-17",
-      "saved_at": "2026-03-17T18:45:38.418+00:00"
-    },
-    {
-      "id": "1ruzg18",
-      "source": "reddit",
-      "title": "Yay casino redemption",
-      "url": "https://www.reddit.com/r/gambling/comments/1ruzg18/yay_casino_redemption/",
-      "author": "Strange_Dot_3036",
-      "score": 3,
-      "selftext": "Hello! Yaycasino is telling me that there is no timeframe they have for approval of a redemption request. Any ideas on this?",
-      "subreddit": "gambling",
-      "created_utc": 1773634113,
-      "top_comments": [
-        {
-          "body": "This post has been removed because it appears to be crafted by an AI program, not written by a human.",
-          "score": 1,
-          "author": "gambling-ModTeam"
-        },
-        {
-          "body": "yeah that usually just means the wait could be a while unfortunately.",
-          "score": 1,
-          "author": "TooManyApps54"
-        },
-        {
-          "body": "Yes I am fully verified, and I did the bank redemption method and my bank is also already verified. I bought a $5 pack and after purchasing I realized my balance was $1005. I had won a tournament. My withdrawal was $2600. I definitely played through the $1000",
-          "score": 1,
-          "author": "Strange_Dot_3036"
-        }
-      ],
-      "summary_he": "הפוסט עוסק בתלונה של משתמש על חוסר שקיפות בלוחות הזמנים לאישור משיכת כספים (redemption) באתר Yaycasino. מקרה זה משקף מגמה רחבה בתעשיית ה-iGaming שבה עיכובי תשלומים מהווים נקודת חיכוך משמעותית, ומדגיש את החשיבות של רגולציה קפדנית להבטחת שירות אמין ושקוף עבור השחקנים.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורטו, מחולק לנקודות מרכזיות:\n\n* **אכיפה נגד תוכן שנוצר על ידי בינה מלאכותית (AI):** אחת התגובות מציינת כי פוסטים מוסרים מהפורום במידה והם נחשדים ככאלו שנכתבו על ידי תוכנת AI ולא על ידי אדם, מה שמעיד על ניסיון לשמור על אותנטיות הדיון.\n* **צפי לזמני המתנה ממושכים:** קיימת הבנה בין המשתמשים כי במצבים מסוימים (כנראה סביב תהליכי פדיון או תמיכה), המשמעות היא לצערם המתנה ארוכה מהרגיל.\n* **חשיבות אימות החשבון (Verification):** המשתמשים מדגישים את הצורך בביצוע אימות מלא של זהות המשתמש ושל חשבון הבנק מול הפלטפורמה כדי לאפשר משיכת כספים חלקה.\n* **חוויית זכייה משמעותית מהשקעה מינימלית:** אחד המשתתפים שיתף כיצד רכישת חבילה בשווי 5 דולר בלבד הובילה לזכייה בטורניר שהגדילה את היתרה שלו ליותר מ-1,000 דולר.\n* **תהליך פדיון כספים (Redemption):** הדיון נוגע בשימוש בשיטת פדיון ישירות לחשבון הבנק כאמצעי המועדף למשיכת רווחים מהפלטפורמה.\n* **עמידה בתנאי המשחק (Playthrough):** המשתמש מציין כי הקפיד לשחק בסכום הזכייה (Play through) כנדרש לפני שביקש למשוך סכום כולל של 2,600 דולר, כדי להבטיח את תקינות המשיכה.",
-      "date_string": "2026-03-17",
-      "saved_at": "2026-03-17T18:45:53.013+00:00"
-    },
-    {
-      "id": "1ruymdp",
-      "source": "reddit",
-      "title": "Is online poker even profitable anymore in 2026?",
-      "url": "https://www.reddit.com/r/gambling/comments/1ruymdp/is_online_poker_even_profitable_anymore_in_2026/",
-      "author": "crystalgaylexx",
-      "score": 2,
-      "selftext": "Been playing for 3 years and it feels harder than ever with rake and tougher fields. Anyone still making consistent money or is it just entertainment at this point?",
-      "subreddit": "gambling",
-      "created_utc": 1773631645,
-      "top_comments": [
-        {
-          "body": "It’s possible but you need an edge and volume.",
-          "score": 2,
-          "author": "ilovemkgee"
-        },
-        {
-          "body": "playing in online clubs with other humans have boosted my win rate to like 150bb/hr. ",
-          "score": 1,
-          "author": "shannieeee_"
-        },
-        {
-          "body": "are you in the US ?  clubwptgold is the softest and best for tournaments.  coinpoker is second best especially once you figure out rakeback.  the truth is it will never be even close to how good it was 15 years ago but if you are very very disciplined you can still make a little money.  the problem is even to make a couple hundred dollars a weekend you have to play ALOT of volume.  and I can’t think of anything more boring then grinding out micro cash games just to make a few hundred a weekend at 10+ hours a day.",
-          "score": 1,
-          "author": "Neat_Barracuda4596"
-        }
-      ],
-      "summary_he": "הפוסט דן בשחיקת הרווחיות של שחקני פוקר אונליין בשנת 2026, המיוחסת לעמלות (rake) גבוהות ולתחרות גוברת בשוק. מגמה זו משקפת אתגרים רחבים בתעשיית ה-iGaming בנוגע לשימור שחקנים ומודלים עסקיים, נושאים המשפיעים ישירות על ספקי טכנולוגיה ותוכן כמו Bragg Gaming (BRAG).",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המוצג בנקודות בעברית:\n\n* **צורך ביתרון ונפח משחק:** הצלחה בתחום אפשרית, אך היא מחייבת שילוב של \"יתרון יחסי\" (Edge) על פני שחקנים אחרים יחד עם נפח משחק (Volume) משמעותי.\n* **עדיפות למשחק מול בני אדם במועדונים:** נטען כי משחק במועדונים מקוונים מול אנשים אמיתיים (להבדיל אולי מבוטים או מקצוענים בפלטפורמות הגדולות) מעלה משמעותית את שיעור הזכייה.\n* **המלצות על פלטפורמות ספציפיות:** עבור שחקנים (בעיקר בארה\"ב), הפלטפורמה ClubWPT Gold נחשבת לטובה ו\"רכה\" ביותר לטורנירים, בעוד ש-CoinPoker מדורגת במקום השני, במיוחד עבור אלו המבינים כיצד לנצל את החזרי העמלות (Rakeback).\n* **שינוי בשוק לאורך זמן:** השוק כיום הרבה פחות רווחי וקשה יותר ממה שהיה לפני כ-15 שנה; עם זאת, שחקנים ממושמעים מאוד עדיין יכולים לייצר רווח קטן.\n* **השקעת זמן מול תגמול:** כדי להרוויח סכומים צנועים (כמה מאות דולרים בסופ\"ש), יש צורך להשקיע שעות רבות מאוד (מעל 10 שעות ביום), מה שהופך את העניין למאמץ תובעני.\n* **שחיקה ושעמום:** העיסוק ב\"גרינד\" (שחיקה איטית) במשחקי \"מיקרו-קאש\" (סכומים קטנים) מתואר כפעילות משעממת ומונוטונית ביותר, למרות פוטנציאל הרווח המועט.",
-      "date_string": "2026-03-17",
-      "saved_at": "2026-03-17T18:46:16.54+00:00"
-    },
-    {
-      "id": "1ruxikk",
-      "source": "reddit",
-      "title": "Novelty betting apps",
-      "url": "https://www.reddit.com/r/gambling/comments/1ruxikk/novelty_betting_apps/",
-      "author": "slimribbons",
-      "score": 2,
-      "selftext": "Hi, I’ve spent the last 20 minutes trying to locate a novelty betting app that’s on the apple App Store. Idk if I’m just stupid or not googling properly, but I can’t find any non-sports apps. I’m looking for something I can vote on politics, tv, etc just not sports. It’s ok if sports are offered, but I just wanna bet on dumb stuff. \n\nI’m sorry if this is a common question and I’m also sorry if it’s obvious/easily googleable. One that I did find has horrible reviews recently for not paying out. I’ve never gambled, but I’d like a really easy, good experience for my first time.\n\nThank you in advance",
-      "subreddit": "gambling",
-      "created_utc": 1773628468,
-      "top_comments": [
         {
           "body": "\nThank you for posting to /r/gambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/NNzYG7HFr4)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/gambling) if you have any questions or concerns.*",
           "score": 1,
           "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט משקף דרישה גוברת מצד משתמשים חדשים להימורים על אירועי \"Novelty\" (כמו פוליטיקה ובידור) מעבר לספורט מסורתי. הקושי של המשתמש למצוא אפליקציה אמינה מדגיש את החשיבות של רגולציה, אמינות תשלומים וחוויית משתמש איכותית בתעשיית ה-iGaming עבור משיכת קהלים לא מסורתיים.",
+      "summary_he": "הפוסט מתאר חוויית משתמש חיובית וזכיות משמעותיות בהימורים נמוכים במשחקי סלוטים פופולריים כמו \"Sweet Bonanza\" ו-\"Huff n' Puff\". למרות שאין התייחסות ישירה ל-Bragg Gaming, המקרה מדגים את מגמת המעורבות הגבוהה של שחקנים בכותרים מובילים ואת האטרקטיביות של מנגנוני הבונוס והג'קפוט בשוק ה-iGaming. הקטע משקף את התנהגות הצרכנים והדינמיקה של שחקני קזינו מקוון המשלבים אסטרטגיות הימור משתנות.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הנקודות המרכזיות שעלו מהתגובה שפורסמה (הערת מערכת: התגובה שסופקה היא הודעה אוטומטית של מנהלי הקהילה):\n\n* **הנחיות הצטרפות וכללים:** המנהלים מברכים משתמשים חדשים ומדגישים את החשיבות של קריאת חוקי הקהילה המופיעים בסרגל הצד של הפורום.\n* **הרחבת הקהילה:** קיימת קריאה למשתתפים להירשם לערוץ ולהצטרף לשרת הדיסקורד הרשמי של הקהילה לצורך אינטראקציה נוספת.\n* **קידום הימורים אחראיים:** הקהילה חורטת על דגלה קידום של סביבת הימורים בריאה ואחראית בתוך הסאב-רדיט.\n* **סיוע במצבי אובדן שליטה:** המנהלים מפנים משתמשים שמרגישים שהרגלי ההימורים שלהם הופכים לבעייתיים או יוצאים משליטה לקבלת עזרה.\n* **משאבים מקצועיים:** הקהילה מספקת גישה למאגר מידע (Wiki) ייעודי הכולל מידע וכלים להתמודדות עם התמכרות והימורים בעייתיים.",
-      "date_string": "2026-03-17",
-      "saved_at": "2026-03-17T18:46:29.209+00:00"
+      "comments_summary_he": "להלן סיכום הדיון מתוך תגובות ה-Reddit, המציג 6 נקודות ודעות מרכזיות:\n\n* **אסטרטגיית הימורים נמוכים:** קיימת סברה בקרב חלק מהמהמרים שהדרך הטובה ביותר לזכות בקופות הגדולות (Jackpots) היא דווקא באמצעות הימורים בסכומים נמוכים (\"Low wagers\"), מה שמעניק תחושה שהמערכת מתגמלת השקעות קטנות.\n* **הגדרת הצלחה (Benchmark):** בקהילת ההימורים, זכייה שגובהה עולה על פי 250 מסכום ההימור המקורי נחשבת לזכייה מרשימה ומצוינת (\"Amazing hit\").\n* **חוויית ה\"כמעט\" והתמדה:** שחקנים משתפים חוויות של זכיות בבונוסים ובפרסים קטנים (Mini Jackpots) תוך תחושת החמצה על כך שהיו קרובים מאוד לפרסים הגדולים יותר (Minor/Major). למרות זאת, נשמרת אופטימיות והמתנה ל\"יום המזל\" שיגיע.\n* **פירוט מכאניקת משחקים:** המגיבים דנים בפרטים טכניים של משחקים ספציפיים (כמו \"High Rise\"), כולל סוגי בונוסים (\"Green Hat Bonus\") ושילובי סמלים המובילים לזכייה, מה שמעיד על הבנה עמוקה של חוקי המשחק.\n* **חשיבות הקהילה והכללים:** הדיון מדגיש את הצורך בשמירה על חוקי הפורום ועידוד הצטרפות לערוצי תקשורת נוספים (כמו דיסקורד) כדי לייצר קהילה מגובשת סביב תחום ההימורים.\n* **קידום הימורים אחראיים:** חלק בלתי נפרד מהשיח מוקדש למודעות לנזקי ההימורים. הקהילה מספקת משאבים, מידע וסיוע למי שמרגיש שהרגלי ההימורים שלו יוצאים משליטה, תוך דגש על הימורים בריאים ומבוקרים.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:33:43.536+00:00"
     },
     {
-      "id": "1rwi3ko",
+      "id": "1rvbuv3",
       "source": "reddit",
-      "title": "what else can drive the stock market going up today?",
-      "url": "https://www.reddit.com/r/stocks/comments/1rwi3ko/what_else_can_drive_the_stock_market_going_up/",
-      "author": "Important_Bat7919",
-      "score": 1,
-      "selftext": "even assuming the war is ending soon, what else can drive the stock price up from where we stand today?\n\n  \nAI bubble\n\nOil price potentially driving CPI\n\npotential inflation from war\n\nTariff still going on (in case you forgot)\n\n  \non top of this - war is still going on.\n\n  \nin order for anyone to believe that the market is picking up soon, what can actually drive the market up amongst these things i listed?",
-      "subreddit": "stocks",
-      "created_utc": 1773778662,
+      "title": "I started tracking every single gambling session – here's what I learned after 6 months",
+      "url": "https://www.reddit.com/r/gambling/comments/1rvbuv3/i_started_tracking_every_single_gambling_session/",
+      "author": "ReYa8000",
+      "score": 20,
+      "selftext": "About 6 months ago I started logging every session in a spreadsheet: date, game, buy-in, cash-out, duration, and how I felt emotionally. Some takeaways:\n\n* I'm net negative overall (surprise surprise), but not as bad as I expected\n* My worst sessions are ALWAYS when I'm tired, drunk, or chasing losses from a previous session\n* Blackjack is my most profitable game, slots are a black hole\n* Setting a hard stop-loss AND a win-limit made a massive difference\n* The sessions where I \"felt lucky\" were consistently my worst performers\n\nAnyone else track their sessions? Highly recommend it, even if the truth hurts.",
+      "subreddit": "gambling",
+      "created_utc": 1773673257,
       "top_comments": [
         {
-          "body": "200 day Moving Average bounce, don’t overthink it. Then we’ll see what happens.",
-          "score": 1,
-          "author": "SpringFuzzy"
+          "body": "Yea, I thought it was an online thing at first. But many recent trips to real casinos have proved otherwise!\n\nThis weekend, I put over $200 coin-in on Huff n Puff Grand and got the Wolf Howl trigger on a $4 bet! I thought awesome! Surely I'll get my $200 back and maybe some profit???\n\nIt got the regular Buzz Saw Bonus and zipped like 10 hats on the screen with no Wood or Mansions to start. So should be getting at least ONE mansion right?? NOPE!\n\n5 dead spins and two hats TOTAL dropped in with Zero re-triggers, and no hope of getting my money back..  Paid out $43 fuggin dollars and I'm like \"I'm done with this Huff n Puff shit!\"",
+          "score": 5,
+          "author": "Winter_Tangerine7492"
         },
         {
-          "body": "The market and reality don’t have to be in sync, COVID was a wake up call, everything was closed and the market was hitting new highs like everyday.",
-          "score": 1,
-          "author": "nottool"
+          "body": "Last 6 sessions: -19,000+, 2 hits over $500, 1 hit over $1100, 0 Handpays , All bets $2.50 to $25, the average is $11.25 a spin.  Worst Game: Dollar Link, -$9000 in , 3 bonus $40-$70-$450, Phoenix Link -$6000, recycled $1000 a few times and my only 2 $500 hits and $1100 hit , Dragon Link/Dollar Storm -$4000, best bonus $400, took $3500 before a bonus.  Is this gaming or FRAUD? ",
+          "score": 5,
+          "author": "ExpensiveAnalysis215"
         },
         {
-          "body": "Things that make market to up: \nInflation\nDollar hegemony (war)\nCheap energy (iran oil incoming)\nMarket always backstopped \nAI being a bubble is debatable. Ive spent $500 this year and im a cheapskate",
-          "score": 1,
-          "author": "Regular_Yesterday76"
+          "body": "I track all my gambling sessions and it definitely helps me see things\n\nSetting win and loss stops are very important.  I usually go and be like “if I can pay for groceries this week, I’m going to stop”. I went to the casino last Friday, hit a crazy bonus off free play, was up $280 and left after being there for 11 minutes.  3.5 hour drive. \n\nI never gamble, hungry, upset or impaired in anyway.  The only time I ever gambled upset was right after my grandma passed away.  In her will, she left me $1k in chips to play blackjack with because that was our favorite activity.  I never believe in luck or spirits before that day but I turned $1k into $7k within 45 minutes and it’s hard to say she wasn’t looking down on me \n\nI take every gambling session as its own thing.  I forgot my wins and losses from the previous sessions because, just like slots, they don’t determine the next thing\n\nMy most profitable is lots because of AP play and my worst is craps.  I’ve only caught one or two hot rolls but will quickly torch money on most",
+          "score": 5,
+          "author": "Glad-Midnight-1022"
         }
       ],
-      "summary_he": "הפוסט דן בספקנות לגבי התאוששות שוק ההון ומצביע על גורמי מאקרו מעכבים כמו אינפלציה, מחירי נפט ולחימה מתמשכת. למרות שאין התייחסות ישירה ל-Bragg Gaming, לסביבה כלכלית זו השפעה ישירה על מניות צמיחה ועל ההכנסה הפנויה של הצרכנים, המהווה מנוע מרכזי בתעשיית ה-iGaming. העדר \"זרזים\" חיוביים בשוק הכללי עלול להקשות על פריצה של מניות ספציפיות במגזר ההימורים בתקופה הקרובה.",
-      "category_he": "שווקים פיננסיים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות המובילות ב-Reddit, המציג 5 נקודות מבט מרכזיות על מצב השוק והכלכלה:\n\n*   **ניתוח טכני ופשטות בקבלת החלטות:** אחת הגישות המרכזיות מציעה להסתמך על אינדיקטורים טכניים פשוטים, ובמיוחד על \"ממוצע נע 200 ימים\" כנקודת תמיכה לעלייה (Bounce). המסר הוא לא לסבך את הניתוח יתר על המידה (\"don’t overthink it\").\n*   **הניתוק בין שוק ההון למציאות הכלכלית:** קיימת הבנה שהשוק אינו חייב לפעול בסנכרון עם המציאות היומיומית. כדוגמה לכך מובאת תקופת הקורונה, שבה למרות סגירת המשק והקשיים הריאליים, הבורסה המשיכה לשבור שיאים חדשים כמעט מדי יום.\n*   **גורמים מאקרו-כלכליים כמנועי צמיחה:** התגובות מזהות מספר גורמים שדווקא דוחפים את השוק למעלה, ביניהם: אינפלציה, הדומיננטיות של הדולר (הגמוניה המושפעת ממלחמות) וצפי לאנרגיה זולה (כמו כניסת נפט איראני לשוק).\n*   **רשת ביטחון מובנית לשוק:** קיימת תפיסה שהשוק תמיד זוכה לגיבוי או \"רשת ביטחון\" (Backstopped), מה שמונע קריסות עמוקות ומעודד המשך השקעות למרות סיכונים.\n*   **הוויכוח על בועת ה-AI:** בניגוד לטענות שמדובר בבועה, יש מי שטוען שלבינה מלאכותית יש ערך שימושי ממשי. הראיה לכך היא נכונותם של משתמשים (אפילו כאלו המגדירים את עצמם כחסכנים) להוציא סכומי כסף משמעותיים על שירותי AI, מה שמעיד על מודל עסקי בר-קיימא."
+      "summary_he": "הפוסט מדגיש את החשיבות של ניטור נתונים אישיים ושימוש בכלי הימורים אחראיים, כמו הגדרת מגבלות הפסד, לניהול סיכונים וצמצום הפסדים. מגמה זו משקפת את הצורך הגובר בתעשיית ה-iGaming ושל ספקיות טכנולוגיה כמו Bragg Gaming להטמיע בפלטפורמות שלהן כלי הגנה וניתוח התנהגות שחקנים בזמן אמת. התובנות בפוסט ממחישות כיצד דפוסי משחק ומצב רגשי משפיעים על המהמר, נושא העומד בלב הרגולציה המודרנית ופיתוח מוצרים בתחום.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות מרכזיות של המשתתפים:\n\n*   **אכזבה מהיחס בין סכומי ההימור לזכיות בבונוסים:** שחקנים מדווחים על תסכול עמוק כאשר הם מצליחים להפעיל סבבי בונוס (Bonus Rounds) לאחר השקעה כספית משמעותית, אך מקבלים בתמורה תשלומים נמוכים מאוד שאינם מכסים אפילו חלק קטן מההפסד.\n*   **ספקות לגבי הגינות המשחקים:** בעקבות רצף הפסדים כבדים (אלפי דולרים) בפרק זמן קצר ובמגוון מכונות פופולריות, חלק מהשחקנים מתחילים לתהות בקול רם האם מדובר בשיטת משחק הוגנת או שמא מדובר בהונאה מובנית של בתי הקזינו.\n*   **חשיבותה של אסטרטגיית \"עצור וצא\":** משתתפים מדגישים את הצורך בהצבת גבולות ברורים לרווח ולהפסד. דוגמה לכך היא החלטה מראש לעזוב את הקזינו מיד ברגע שהושג רווח מסוים (כמו כסף לקניות שבועיות), גם אם חלף זמן קצר מאוד מתחילת המשחק.\n*   **ניהול מצב רגשי ומנטלי:** קיימת המלצה גורפת שלא להמר במצבים של מצוקה רגשית, רעב או תחת השפעת חומרים. הימורים במצבים כאלו נתפסים כפגיעה בשיקול הדעת, למעט מקרים חריגים שבהם השחקן מרגיש \"חיבור רוחני\" או מזל יוצא דופן.\n*   **תיעוד ומעקב ככלי שליטה:** שחקנים מנוסים ממליצים לנהל רישום מדויק של כל סשן הימורים. המעקב עוזר לראות את התמונה המלאה, להבין אילו משחקים רווחיים יותר (כמו סלוטים בשיטת AP - Advantage Play) ואילו גורמים להפסדים מהירים (כמו משחקי קוביות/Craps).\n*   **הפרדה בין מפגשי הימורים:** גישה רווחת היא להתייחס לכל הגעה לקזינו כאירוע נפרד ועצמאי. לפי תפיסה זו, אין לתת להפסדים או לזכיות של העבר להשפיע על קבלת ההחלטות במפגש הנוכחי, שכן למכונות אין \"זיכרון\" של הסבבים הקודמים.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:34:06.475+00:00"
     },
     {
-      "id": "1rwhih2",
+      "id": "1rve6vo",
       "source": "reddit",
-      "title": "App/website to see watchlist + 1-year charts for all stocks on one page?",
-      "url": "https://www.reddit.com/r/stocks/comments/1rwhih2/appwebsite_to_see_watchlist_1year_charts_for_all/",
-      "author": "industriestitus",
-      "score": 1,
-      "selftext": "Hi everyone,\n\nI’m looking for an app or website where I can add my stock watchlist and see the 1-year price chart for all of them on a single page (like a grid of charts).\n\nIdeally something where I can quickly compare performance without clicking into each ticker individually.\n\nDoes anyone know a tool that can do this?\n\nI’ve looked at some platforms like TradingView and others, but I’m not sure if they support a full watchlist chart overview in one screen.\n\nAny recommendations would be appreciated.\n\nThanks!",
-      "subreddit": "stocks",
-      "created_utc": 1773777461,
+      "title": "888 Casino not paying out and account now temporarily disabled?",
+      "url": "https://www.reddit.com/r/gambling/comments/1rve6vo/888_casino_not_paying_out_and_account_now/",
+      "author": "havanabanana94",
+      "score": 9,
+      "selftext": "This is probably a long shot and I’m sure these winnings happened due to a site glitch. But I won the Jackpot Drop multiple times in one session and immediately made a withdrawal which was pending.\n\nThen the site goes down about an hour later and I’ve had emails to say that my withdrawals have been returned back to my gaming account.\n\nHowever, they have now temporarily disabled my account so I cannot log in. Live chat said the site is undergoing maintenance?\n\nLikelihood of me receiving these funds I imagine is 0%.\n\nAny advice? I have screen recordings of my wins and screenshots too. ",
+      "subreddit": "gambling",
+      "created_utc": 1773678306,
       "top_comments": [
         {
-          "body": "simplywallst pretty well reviews, better than 80% \"analysts\" with insiders transactions warnings as well",
+          "body": "I imagine the bad publicity could cost them even more in theory. They make that type of money in about a week.",
           "score": 1,
-          "author": "Consistent_Panda5891"
+          "author": "havanabanana94"
+        },
+        {
+          "body": "yes, this happened to me too at the same time yesterday and I ‘won’ a single £50k jackpot drop, so I thought it was legit. 😩\n\nTried to withdraw some of it and then the money got returned to my account and then my account was disabled. \n\nI went on a live chat and asked the person to confirm the amount in my account, which he did. So I screenshot the convo. But reading this thread, I think they’ll get out of paying up. ",
+          "score": 1,
+          "author": "endeavouring999"
+        },
+        {
+          "body": "So my buddy ran 500$ into 112,000$ on roulette on 888 and took 4 months to get the $ … do not give up. They are terrible at paying and honestly should be fuckin closed. Keep harrassing them. And maybe threaten a law suit especially for this amount",
+          "score": 1,
+          "author": "Suitable_Handle2661"
         }
       ],
-      "summary_he": "הפוסט עוסק בחיפוש אחר כלי טכני המאפשר תצוגה מרוכזת של גרפי מניות שנתיים להשוואה מהירה של ביצועים בתוך רשימת מעקב. למרות שהפנייה כללית, כלים מסוג זה חיוניים למשקיעים בתעשיית ה-iGaming לצורך ניטור מגמות שוק והשוואת ביצועי מניית Bragg Gaming (BRAG) מול מתחרותיה בענף.",
-      "category_he": "שווקים פיננסיים",
-      "comments_summary_he": "להלן סיכום הדיון והדעות העולות מהתגובה בנושאי פיננסים והשקעות (בהתבסס על המידע שסיפקת):\n\n*   **שביעות רצון גבוהה מ-Simply Wall St:** המשתמש ממליץ על הפלטפורמה ככלי יעיל ואיכותי לסקירה וניתוח של מניות וחברות.\n*   **עליונות על אנליסטים אנושיים:** קיימת תפיסה שהניתוחים הממוחשבים של האתר מדויקים ומוצלחים יותר מ-80% מהאנליסטים הפועלים בשוק.\n*   **חשיבות המעקב אחר בעלי עניין:** אחד היתרונות המרכזיים שצוינו הוא היכולת של המערכת לספק התראות ומידע על עסקאות של \"אינסיידרים\" (בעלי עניין בתוך החברה).\n*   **כלי עזר לקבלת החלטות:** התגובה מרמזת כי שימוש בכלים טכנולוגיים אלו מספק יתרון משמעותי בניתוח עסקאות, במיוחד בתחומים תנודתיים כמו פיננסים ו-iGaming."
+      "summary_he": "הפוסט מתאר מחלוקת בין שחקן לקזינו 888 סביב אי-תשלום זכיות והקפאת חשבון בעקבות מה שנראה ככשל טכני (גלִיץ') במערכת הג'קפוט. המקרה מדגיש את הסיכונים התפעוליים והחשיבות של יציבות פלטפורמות ה-iGaming, נושא קריטי עבור ספקיות טכנולוגיה ורגולטורים הנדרשים להבטיח הוגנות במקרי קצה טכנולוגיים.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא זכיות וקשיים במשיכת כספים מפלטפורמות הימורים (iGaming):\n\n*   **הנזק התדמיתי מול הרווח הכספי:** הועלתה טענה כי הפרסום השלילי הנובע מאי-תשלום זכיות עלול לעלות לחברה הרבה יותר מאשר סכום הזכייה עצמו, במיוחד בהתחשב בכך שחברות אלו מייצרות רווחים עצומים בפרקי זמן קצרים מאוד.\n*   **תקלות במשיכת סכומים גדולים:** משתמשים דיווחו על דפוס שבו לאחר זכייה בסכום משמעותי (כגון ג'קפוט), ניסיון המשיכה נכשל, הכסף מוחזר באופן אוטומטי לחשבון המשתמש, ולאחר מכן החשבון נחסם או מושבת על ידי החברה.\n*   **חשיבות התיעוד והראיות:** קיימת המלצה גורפת לתעד כל אינטראקציה. משתמשים שיתפו כיצד פנו לצ'אט התמיכה כדי לקבל אישור רשמי על יתרת החשבון ושמרו צילומי מסך של השיחות כהוכחה למקרה שהחברה תנסה להתנער מהתשלום.\n*   **ספקנות לגבי קבלת הכספים:** למרות התיעוד, קיימת פסימיות בקרב חלק מהגולשים שמאמינים כי חברות ההימורים ימצאו פרצות משפטיות או טכניות כדי להימנע מתשלום זכיות גדולות במקרה של תקלות מערכת.\n*   **התמדה היא מפתח:** מניסיון העבר של משתמשים, קבלת כספי זכייה גבוהים (כמו 112,000 דולר) היא אפשרית אך עלולה לקחת זמן רב (עד ארבעה חודשים). העצה המרכזית היא לא לוותר ולהמשיך לדרוש את הכסף.\n*   **שימוש בלחץ משפטי ואגרסיביות:** הועלתה הצעה לנקוט בגישה תקיפה הכוללת \"הטרדה\" בלתי פוסקת של שירות הלקוחות ואף איומים בתביעות משפטיות כדי לאלץ את החברה לשחרר את הכספים.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:34:23.699+00:00"
     },
     {
-      "id": "1rwgyaw",
+      "id": "1rv9kqg",
       "source": "reddit",
-      "title": "$50k short-term play",
-      "url": "https://www.reddit.com/r/stocks/comments/1rwgyaw/50k_shortterm_play/",
-      "author": "sugarbuzzlightyear",
-      "score": 1,
-      "selftext": "I have $50k not doing anything for me currently. I want to put that money into a single stock and won’t feel bad for heavy losses or ending up as a bagholder. \n\nLooking for something short-term and high-risk, high-reward.\n\nWhich stock would you recommend I put this money into?\n\nCurrent long-term stock positions:\n\n$MSFT\n\n$GOOGL \n\n$RKLB\n\n$SAAB\n\n ",
-      "subreddit": "stocks",
-      "created_utc": 1773776296,
+      "title": "Huff an’ More Puff",
+      "url": "https://www.reddit.com/r/gambling/comments/1rv9kqg/huff_an_more_puff/",
+      "author": "Toxikfoxx",
+      "score": 8,
+      "selftext": "I absolutely loath the volatility on this game. Had some cash built up in my online account. Figured I’d just spin at $1, kill some time. 420 spins. No bonuses, total winnings of $18.40 for a lovely 4% rate of return.  ",
+      "subreddit": "gambling",
+      "created_utc": 1773668025,
       "top_comments": [
         {
-          "body": "Weedstocks would be right up your alley. Been decimated last few  years. If Daddy Trump follows through of Cannabis reform as he promised and even signed an Executive Order 3 months ago, you are looking at easy 300-400% gains short term. Market is tired of broken promises and doesn’t believe its real this time. Either get rich or potentially hold bags\n\nBest name is hands down $GTBIF . \n\nIf that sounds of interest weedstocks has its on sub reddit",
-          "score": 1,
-          "author": "TroubledAcorn"
+          "body": "Content creators like Lady Luck are paid by casinos to play Huff n Puff on demo mode to create the illusion that the game hits. In reality that’s one of the worst slots ever created.",
+          "score": 9,
+          "author": "flashdurb"
         },
         {
-          "body": "I am amc a-list and tbh I don’t see how they can. Am an avid movie person but it’s not a money maker ",
-          "score": 1,
-          "author": "aspenextreme03"
+          "body": "this happened to me today. I've put 300 in multiple slots and lost everything, no single win",
+          "score": 2,
+          "author": "Careless-Heat-9873"
         },
         {
-          "body": "West Texas. That's in the same neighborhood that Rick Perry (co-founder/CEO) of Fermi America is building out a similar outfit.",
+          "body": "Ok copy never seen them chase a grand seriously , but I'll look into it.  I usually just view clips (commercials) not the full videos.  Influencing to chase a grand jackpot is stupidly reckless and dangerous. Thanks. ",
           "score": 1,
-          "author": "tabrizzi"
+          "author": "ExpensiveAnalysis215"
         }
       ],
-      "summary_he": "הפוסט מציג משקיע המחפש \"הימור\" פיננסי בסיכון גבוה (High-risk, high-reward) להשקעה קצרת טווח של 50 אלף דולר במניה בודדת. פרופיל השקעה ספקולטיבי כזה מאפיין לעיתים קרובות משקיעים במגזר ה-iGaming וחברות כמו Bragg Gaming (BRAG), המושפעות מאוד מתנודתיות בשוק ומהתפתחויות רגולטוריות בתחום ההימורים.",
+      "summary_he": "הפוסט מתאר חוויית משתמש שלילית בשל תנודתיות קיצונית במשחק ה-iGaming \"Huff an’ More Puff\", לאחר ששחקן חווה החזר (RTP) נמוך במיוחד של 4% בלבד לאורך מאות סבבים. המקרה מדגיש את האתגר של ספקיות תוכן כגון Bragg Gaming באיזון בין מודלים מתמטיים של סיכון גבוה לבין שביעות רצון השחקן. נושאים אלו עומדים במוקד המגמות בתעשייה והדיונים הרגולטוריים בנוגע לשקיפות והגינות המשחקים.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא הימורים ומשפיעני רשת (iGaming), המחולק לנקודות עיקריות:\n\n*   **אשליית הרווח בקרב יוצרי תוכן:** נטען כי משפיעני הימורים (כמו Lady Luck) מקבלים תשלום מבתי קזינו כדי לשחק בגרסאות \"דמו\" (Demo Mode). דבר זה יוצר מצג שווא שבו נראה כאילו המכונות \"מחלקות\" זכיות בקלות, בעוד שבמציאות הסיכויים נמוכים בהרבה.\n*   **ביקורת על משחקים ספציפיים:** ישנה טענה כי משחקי סלוט פופולריים שמוצגים ברשת (כמו Huff n Puff) הם למעשה מהמשחקים הגרועים והפחות רווחיים שנוצרו אי פעם, למרות התדמית החיובית שהם מקבלים בסרטונים.\n*   **הפסדים כואבים במציאות:** משתמשים משתפים חוויות אישיות של הפסדים מוחלטים (לדוגמה, הפסד של 300 דולר ברצף במספר מכונות שונות) ללא אף זכייה בודדת, מה שעומד בסתירה מוחלטת למה שמוצג בסרטוני המשפיענים.\n*   **סרטונים ככלי שיווקי בלבד:** קיימת הבנה בקרב הגולשים שסרטוני ההימורים ברשת הם למעשה \"פרסומות\" ערוכות (Clips) ולא שיקוף של משחק מלא, ולכן הם לא מציגים את ההפסדים הרבים שקורים בדרך.\n*   **הסכנה שברדיפה אחרי זכיות ענק:** הגולשים מציינים כי עידוד הצופים \"לרדוף\" אחרי ה-Grand Jackpot (הפרס הגדול ביותר) הוא צעד חסר אחריות, פזיז ומסוכן שעלול להוביל לנזקים כלכליים קשים.\n*   **הונאת הצופים:** עולה תחושה של חוסר אמון כלפי משפיענים, כאשר נטען שהם יוצרים מצג שווא מסוכן שגורם לאנשים רגילים להאמין שהם יכולים לשחזר את ההצלחות המבוימות שהם רואים על המסך.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:34:39.213+00:00"
+    },
+    {
+      "id": "1rvhqm6",
+      "source": "reddit",
+      "title": "Is trading success more about psychology than strategy?",
+      "url": "https://www.reddit.com/r/pennystocks/comments/1rvhqm6/is_trading_success_more_about_psychology_than/",
+      "author": "Worldly-Round-6241",
+      "score": 7,
+      "selftext": "Do most traders lose money because of strategy or psychology? Some people say strategy is everything, while others say discipline and psychology matter much more. For those with more experience in trading, what do you think plays the bigger role over the long run?",
+      "subreddit": "pennystocks",
+      "created_utc": 1773685668,
+      "top_comments": [
+        {
+          "body": "As someone still learning trading, this is something I think about a lot. People discuss this topic almost every day in a group I'm in, and it's interesting hearing different perspectives.",
+          "score": 2,
+          "author": "Worldly-Round-6241"
+        },
+        {
+          "body": "Yes, because even if you have a great strategy, if you don't have the correct mindset to stick to that strategy, the strategy is worthless.",
+          "score": 2,
+          "author": "captain_casino"
+        },
+        {
+          "body": "Your submission was removed from r/PennyStocks by a moderator because it was low-effort/spam.  If you feel this was a mistake, feel free to message a mod about your concerns.",
+          "score": 1,
+          "author": "pennystocks-ModTeam"
+        }
+      ],
+      "summary_he": "הפוסט עוסק במתח שבין אסטרטגיה למשמעת פסיכולוגית בעולם המסחר, נושא המשיק למגמות בתעשיית ה-iGaming בכל הנוגע לניתוח התנהגות שחקנים וניהול סיכונים. הבנת הפסיכולוגיה של המשתמש קריטית עבור חברות כמו Bragg Gaming (BRAG) בפיתוח כלים טכנולוגיים לשימור שחקנים וביישום רגולציה של \"משחק אחראי\".",
       "category_he": "שווקים פיננסיים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות שעלו:\n\n*   **פוטנציאל גבוה וסיכון במניות קנאביס:** מגזר מניות הקנאביס (Weedstocks) ספג ירידות חדות בשנים האחרונות, אך עשוי להוות הזדמנות לרווחים מהירים של 300%-400% בטווח הקצר במידה ותמומש רפורמה רגולטורית. עם זאת, קיים סיכון משמעותי להישאר עם \"תיקים מופסדים\" (bag holding).\n*   **השפעת המדיניות של טראמפ:** הדובר מציין כי אם דונלד טראמפ יעמוד בהבטחותיו לקידום רפורמת קנאביס (ואף חתימתו על צו נשיאותי בנושא), הדבר עשוי להזניק את השוק. עם זאת, השוק עייף מהבטחות שווא ומפגין חוסר אמון באפשרות שהשינוי אכן יקרה הפעם.\n*   **המלצה על מניה ספציפית:** המניה המומלצת ביותר בתחום הקנאביס לפי דעת הכותב היא **$GTBIF** (Green Thumb Industries).\n*   **ספקות לגבי מודל הרווחיות של AMC:** גם לקוחות נאמנים ומושקעים (חברי AMC A-list) המעידים על עצמם כחובבי קולנוע מושבעים, מביעים ספק רב לגבי היכולת של רשת בתי הקולנוע AMC להפוך לעסק רווחי שמייצר כסף עבור המשקיעים.\n*   **פיתוח תשתיות במערב טקסס:** מצוין כי ריק פרי (מנכ\"ל ומייסד שותף של Fermi America) מקים מתקן או תשתית חדשה במערב טקסס, באזור שבו קיימים מיזמים דומים.\n*   **דינמיקה של קהילות השקעה:** המגיבים מפנים לקהילות ייעודיות (כמו סאב-רדיט ספציפי למניות קנאביס) ומדגישים את הפער שבין רצון להתעשרות מהירה לבין המציאות הכלכלית המורכבת של החברות המדוברות."
+      "comments_summary_he": "להלן סיכום הדיון כפי שעולה מהתגובות שפורסמו, בחלוקה לנקודות מרכזיות:\n\n*   **חשיבות הלמידה המתמשכת:** עבור סוחרים הנמצאים בתחילת דרכם, הנושא הנדון מהווה מוקד למחשבה רבה ותהליך למידה מתמיד.\n*   **מרכזיות הדיון הקהילתי:** קיימות קהילות וקבוצות שבהן הנושאים הללו נידונים על בסיס יומיומי, דבר המעיד על העניין הרב והרלוונטיות של התחום לסוחרים.\n*   **ריבוי פרספקטיבות:** הדיונים בתחום המסחר וההשקעות מאופיינים במגוון רחב של דעות ונקודות מבט שונות, התורמות להבנת המורכבות של השוק.\n*   **עליונות החוסן המנטלי (Mindset):** הפסיכולוגיה של הסוחר נתפסת כגורם מכריע. ללא המצב המנטלי הנכון, גם האסטרטגיה הטובה ביותר לא תוכל להצליח.\n*   **הקשר בין משמעת לאסטרטגיה:** אסטרטגיית מסחר היא חסרת ערך אם לסוחר אין את היכולת או המשמעת העצמית לדבוק בה לאורך זמן ובתנאי שוק משתנים.\n*   **סטנדרטים של תוכן בקהילות מקצועיות:** בפורומים ייעודיים (כמו r/PennyStocks), קיימת אכיפה של מנהלים נגד תכנים הנחשבים ל\"ספאם\" או \"דלי תוכן\", במטרה לשמור על איכות הדיון.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:34:53.75+00:00"
+    },
+    {
+      "id": "1rv73ew",
+      "source": "reddit",
+      "title": "are there any online casino style games where you can play with friends?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1rv73ew/are_there_any_online_casino_style_games_where_you/",
+      "author": "Optimal_Lawyer_2551",
+      "score": 4,
+      "selftext": "i love playing online slots and blackjack on my phone but it feels kinda lonely just staring at the screen for an hour. usually i have a stream on in the background anyway, but i wish there was a way to actually play with the community or a group of friends instead of just watching someone else have all the fun.\n\nDoes anyone know any social casino sites that actually have a multiplayer mode or \"rooms\" where you can chat and play the same games together in real time? looking for something legal in the US that doesn't require a huge deposit just to hang out. does anything like that exist for online slots or casino games?",
+      "subreddit": "onlinegambling",
+      "created_utc": 1773661265,
+      "top_comments": [
+        {
+          "body": "yeah the ones with public tables or chat rooms feel way less lonely, otherwise it’s basically just a solo slot machine.",
+          "score": 1,
+          "author": "TooManyApps54"
+        },
+        {
+          "body": "If you’re looking for casino style games there are a lot of options like slots, blackjack, or crash games depending on the platform. I’ve been using Gamdom lately and it has a pretty big variety of those, plus their sportsbook odds are honestly some of the best I’ve seen.",
+          "score": 1,
+          "author": "Tasty_Bear_9062"
+        },
+        {
+          "body": "There are plenty out there. I am also into social casinos a lot. Pop Slots! is fun because you are actually in a virtual casino with other players. Also features a leaderboard for fun where you can win prizes if you are on top. ",
+          "score": 1,
+          "author": "WovenShadow6"
+        }
+      ],
+      "summary_he": "הפוסט מדגיש את הביקוש הגובר לאלמנטים חברתיים ומצבי \"רב-משתתפים\" בשוק ה-iGaming בארה\"ב, כאשר שחקנים מחפשים חוויות קהילתיות הכוללות חדרי צ'אט ומשחק משותף בזמן אמת. מגמה זו של שילוב חברתי וגיימיפיקציה מהווה הזדמנות משמעותית עבור ספקיות תוכן כמו Bragg Gaming (BRAG), המפתחות פתרונות טכנולוגיים להגברת מעורבות שחקנים ושימורם בשוק התחרותי.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בנושא iGaming והימורים:\n\n*   **חשיבות האינטראקציה החברתית:** המשתתפים מציינים כי שולחנות ציבוריים וחדרי צ'אט הופכים את חוויית המשחק לפחות \"בודדה\" ומשמימה לעומת משחק בודד במכונות מזל (Slots).\n*   **מגוון סוגי משחקים:** קיימות אפשרויות רבות ומגוונות עבור שחקנים, החל ממשחקי קזינו קלאסיים כמו בלאק ג'ק ומכונות מזל, ועד למשחקים מודרניים יותר כמו משחקי \"קראש\" (Crash).\n*   **המלצות על פלטפורמות ספציפיות:** משתמש אחד ממליץ על פלטפורמת Gamdom בזכות המגוון הרחב שהיא מציעה ובמיוחד בזכות יחסי הזכייה (Odds) בלוח הימורי הספורט שלה, שלטענתו הם מהטובים בשוק.\n*   **עלייתו של ה\"קזינו החברתי\":** ישנה התעניינות גוברת באפליקציות מסוג Social Casino (כמו Pop Slots!), המדמות שהייה פיזית בקזינו וירטואלי לצד שחקנים אחרים.\n*   **אלמנטים תחרותיים ופרסים:** השימוש בלוחות מובילים (Leaderboards) מוסיף רובד של הנאה ותחרותיות, כאשר שחקנים יכולים לזכות בפרסים אם הם מגיעים לראש הדירוג.\n*   **חוויית משתמש מבוססת קהילה:** באופן כללי, הדיון מדגיש שהערך המוסף במשחקי אונליין כיום נובע מהיכולת להרגיש חלק מקהילה ולא רק מהמשחק עצמו.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:35:08.474+00:00"
+    },
+    {
+      "id": "1rveidd",
+      "source": "reddit",
+      "title": "Where to find gambling buds online?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1rveidd/where_to_find_gambling_buds_online/",
+      "author": "Unlucky_Increase3509",
+      "score": 3,
+      "selftext": "Hello, I’m trying to quit gambling, and one method I’ve found really helpful is watching other people gambling with money I give them. I don’t want anything in return, literally nothing. Even if they win, I’m not interested in getting anything back.\nDo you know where I can find online gambling  buddies? Is there any subreddit or website where people find gambling friends? ",
+      "subreddit": "onlinegambling",
+      "created_utc": 1773678953,
+      "top_comments": [
+        {
+          "body": "Shoot I’ll gamble with your money 🤑",
+          "score": 2,
+          "author": "Leading-Visit2777"
+        },
+        {
+          "body": "You sound like an honest person because this is obviously legitimate! 🤓",
+          "score": 1,
+          "author": "Ill_Heat4397"
+        },
+        {
+          "body": "Give me 100$ and I'll return you 200$ in a weeks",
+          "score": 1,
+          "author": "nicee_boy"
+        }
+      ],
+      "summary_he": "הפוסט מתאר דפוס התנהגות בעייתי של מהמר המנסה להיגמל באמצעות מימון אחרים, דבר המדגיש את החשיבות הקריטית של נושא ה\"משחק האחראי\" (Responsible Gaming) בתעשיית ה-iGaming. עבור חברות כמו Bragg Gaming וספקי פלטפורמות אחרים, מקרה זה ממחיש את הצורך ברגולציה הדוקה ובכלים טכנולוגיים מתקדמים לניטור ומניעת התנהגויות ממכרות או ניסיונות לעקיפת מגבלות הימורים.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום התגובות מהדיון בנושאי iGaming, הימורים ופיננסים בתרגום לעברית:\n\n*   **ספקנות וסרקזם כלפי אמינות ההצעה:** המגיבים משתמשים בציניות מופגנת כדי להביע חוסר אמון בתוכן הפוסט המקורי. השימוש במילים כמו \"לגיטימי\" ו\"אדם ישר\" נעשה בלעג כדי לרמוז שההצעה נראית כמו הונאה.\n*   **נכונות להמר בכסף של אחרים:** אחד המגיבים מציע בבדיחות דעת להמר עם הכסף של המפרסם (\"אני אהמר עם הכסף שלך\"), מה שמשקף את הגישה חסרת האחריות שלעיתים מלווה את עולם ההימורים כשהסיכון אינו אישי.\n*   **לעג להבטחות לתשואה לא הגיונית:** התגובות לועגות להבטחות של \"רווח מהיר\" (כמו הכפלת סכום תוך שבוע), דבר המאפיין הונאות פירמידה או הונאות פיננסיות ברשת.\n*   **זיהוי דפוסי הונאה קלאסיים:** המגיבים מזהים מיד את הניסיונות לפתות משקיעים או שחקנים ובוחרים להגיב בגיחוך במקום בניהול דיון ענייני, מה שמעיד על כך שהקהל מנוסה בזיהוי \"מלכודות\".\n*   **הטלת ספק ביושרת המפרסם:** באמצעות שימוש באימוג'ים (כמו האימוג'י עם המשקפיים או אימוג'י של כסף), המגיבים מדגישים כי המפרסם נתפס בעיניהם כנוכל או כמי שמנסה לנצל אחרים.\n*   **הצגת \"הצעות נגד\" מגוחכות:** המגיב שמציע להחזיר 200 דולר תמורת 100 דולר עושה זאת כדי להקצין את חוסר הסבירות של ההצעה המקורית, ובכך הוא \"מראה למפרסם את המראה\" לגבי האופן שבו דבריו נתפסים.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:35:24.524+00:00"
+    },
+    {
+      "id": "1rv8tt9",
+      "source": "reddit",
+      "title": "My experience using Gamdom so far",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1rv8tt9/my_experience_using_gamdom_so_far/",
+      "author": "Tasty_Bear_9062",
+      "score": 3,
+      "selftext": "I’ve been trying a few crypto casinos over the past year and recently spent some time using Gamdom, so I wanted to share my experience for anyone considering it.\n\nThe platform itself feels pretty smooth and easy to navigate. Deposits were quick and I didn’t run into any issues getting started. There’s also a good variety of games available if you’re into slots or table games.\n\nWhat stood out the most for me though is the sportsbook. If you like betting on sports, the odds on Gamdom are honestly some of the best I’ve seen compared to other crypto sportsbooks I’ve tried. There are a lot of markets available and the live betting experience has been pretty good.\n\nSo far the overall experience has been solid for me, and the platform runs smoothly. Curious to hear what other people’s experiences have been like using Gamdom.",
+      "subreddit": "onlinegambling",
+      "created_utc": 1773666179,
+      "top_comments": [
+        {
+          "body": "Astroturfing will not be tolerated in this subreddit.",
+          "score": 1,
+          "author": "onlinegambling-ModTeam"
+        },
+        {
+          "body": "Thank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "הפוסט סוקר את חוויית המשתמש החיובית בפלטפורמת Gamdom, קזינו מבוסס קריפטו, תוך דגש על ממשק נוח והיצע רחב של משחקי סלוטים והימורי ספורט בעלי יחס זכייה (odds) תחרותי. סקירה זו משקפת את המגמה הגוברת בתעשיית ה-iGaming של אימוץ מטבעות דיגיטליים ודרישה לתוכן מגוון ואיכותי, המהווה זירה משמעותית עבור ספקיות תוכן ופלטפורמות כדוגמת Bragg Gaming.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הנקודות המרכזיות העולות מהתגובות בשרשור:\n\n* **מדיניות נגד פרסום סמוי:** קיימת הקפדה יתרה ומדיניות של אפס סובלנות כלפי \"אסטרוטורפינג\" (Astroturfing) – ניסיונות של גורמים מסחריים ליצור מצג שווא של תמיכה ציבורית אורגנית במוצר או שירות.\n* **ציות לכללי הקהילה:** על המשתמשים, ובמיוחד על משתמשים חדשים, לקרוא ולהישמע לסט החוקים המפורט בתפריט הצדדי (Sidebar) של הפורום.\n* **הרחבת הקהילה לפלטפורמות נוספות:** הנהלת הקהילה מעודדת את המשתתפים להצטרף לשרת הדיסקורד (Discord) הרשמי לצורך תקשורת נוספת.\n* **שימוש בכלי ניהול אוטומטיים:** ניהול הקהילה מתבצע באופן חלקי על ידי בוטים המיועדים להכוונת המשתמשים ושמירה על הסדר.\n* **עידוד מעורבות (Engagement):** המערכת מעודדת את הגולשים להירשם (Subscribe) לעמוד כדי להישאר מעודכנים בתכנים חדשים.\n* **דגש על סדר וארגון:** התגובות משקפות סביבה מנוהלת בקפידה המנסה לסנן תוכן שיווקי לא אמין ולהפנות את המשתמשים למקורות המידע הרשמיים של הקבוצה.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:35:39.133+00:00"
+    },
+    {
+      "id": "1rvaivh",
+      "source": "reddit",
+      "title": "Does anyone else not even get excited to get the bonus?",
+      "url": "https://www.reddit.com/r/gambling/comments/1rvaivh/does_anyone_else_not_even_get_excited_to_get_the/",
+      "author": "LFALexus",
+      "score": 2,
+      "selftext": "I’m playing Konami china mystery $1.50 bets and after a long session of at least $60 I finally get in an 8 spin bonus. Grand total win!!!!! .95\n\nNinety five fucking cents on a 1.50 bet. Fuck me I guess. I e noticed bonuses are less frequent and pay absolute dog shit anymore. I know it’s guaranteed to be a huge pay out but fuck at least give the best amount back. ",
+      "subreddit": "gambling",
+      "created_utc": 1773670271,
+      "top_comments": [
+        {
+          "body": "Yep. At this point when the bonus triggers my first thought is \"please don't be a minimum pay\" instead of actual excitement. Especially on those 8-pick or free spin bonuses where you can literally watch it add up to nothing in real time.\n\nThe worst offender for me is any slot with a hold and spin mechanic. You see those 6 empty spots light up and your brain goes \"this is it\" and then you get 3 minis and a minor for like 4x your bet after spending 200 spins to get there.",
+          "score": 1,
+          "author": "minhtuan_88"
+        },
+        {
+          "body": "Mo mummy barely hits for me, I have better luck on huff n puff actually. I hear people talk up china shores and I finally tried it and I gave it around $280 and not a single bonus just a ton of teases.",
+          "score": 1,
+          "author": "LFALexus"
+        },
+        {
+          "body": "Yeah I’m not sure the total amount because I would win some and how down and then win some and then go down it was probably 15-20 mins of actual playing. That’s insane, I hate when bonus is super hard to hit.",
+          "score": 1,
+          "author": "LFALexus"
+        }
+      ],
+      "summary_he": "הפוסט מציג תסכול של שחקן מהתנודתיות הגבוהה ומהתשלומים הנמוכים בסבבי בונוס, מגמה שעלולה לפגוע בשימור משתמשים ובתפיסת ההוגנות בתעשיית ה-iGaming. עבור חברות כמו Bragg Gaming, חוויות שליליות כאלו מדגישות את האתגר שבאיזון מתמטיקת המשחק מול שביעות רצון הלקוח במטרה למנוע נטישה. בנוסף, חוסר שביעות רצון גובר מהחזרי הבונוסים (RTP) עשוי להוביל להגברת הפיקוח הרגולטורי על שקיפות סיכויי הזכייה.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון בפורום, המציג 6 נקודות מבט ודעות מרכזיות של המשתמשים:\n\n*   **שחיקת תחושת ההתרגשות:** שחקנים חווים תחושת חרדה במקום התרגשות כאשר מופעל \"בונוס\". במקום לצפות לזכייה, המחשבה הראשונה היא החשש שהבונוס יניב את התשלום המינימלי בלבד (Minimum Pay), מה שהופך את חווית המשחק למתסכלת.\n*   **אכזבה ממכניקות משחק ספציפיות:** קיימת ביקורת על מנגנונים כמו \"Hold and Spin\" או בחירת פרסים (8-pick). שחקנים מרגישים שמנגנונים אלו יוצרים מצג שווא של זכייה גדולה, אך בפועל מסתיימים ברווח זעום (למשל, פי 4 מסכום ההימור) לאחר השקעה ממושכת.\n*   **תסכול מתופעת ה\"טיזינג\" (Teases):** משתמשים מתלוננים על משחקים שיוצרים תחושה שהנה עומד להגיע בונוס, אך בפועל לא מעניקים אותו. צוין מקרה שבו הושקע סכום משמעותי ($280) ללא כניסה אחת לסבב בונוס, למרות רמזים חוזרים מהמכונה.\n*   **הקושי בהפעלת סבבי בונוס:** ישנה תחושה שהבונוסים הפכו לקשים מאוד להשגה. שחקנים מציינים כי נדרשים מאות סיבובים כדי להפעיל בונוס, מה שמוביל לתחושת תשישות וחוסר הוגנות.\n*   **השוואה בין כותרים ומשחקים:** השחקנים מבצעים השוואות ישירות בין משחקים שונים (כמו Huff n Puff מול Mo Mummy). התפיסה היא שחלק מהמשחקים \"נדיבים\" יותר ואחרים נחשבים ל\"קמצנים\" או כאלו שרק נשמעים טוב בתיאוריה אך לא מספקים תוצאות בשטח.\n*   **מהירות איבוד הכסף:** הדיון מדגיש כי גם כאשר ישנן זכיות קטנות בדרך, היתרה הכספית יורדת במהירות. שחקנים מתארים מצב שבו סכומים משמעותיים נעלמים תוך זמן קצר מאוד (15-20 דקות של משחק), מה שמעיד על תנודתיות גבוהה וחוויית הפסד מהירה.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:36:01.326+00:00"
+    },
+    {
+      "id": "1rv6547",
+      "source": "reddit",
+      "title": "Best counterstrike gambling site!!! where u can also get free money is clash.gg",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1rv6547/best_counterstrike_gambling_site_where_u_can_also/",
+      "author": "jjijhuuhjh",
+      "score": 2,
+      "selftext": "Use the link to get 3 free cases and Apply on a 25$ giveaway [https://clash.gg/r/REMI3](https://clash.gg/r/REMI3) or just go on [clash.gg](http://clash.gg) and use the code REMI3",
+      "subreddit": "onlinegambling",
+      "created_utc": 1773658155,
+      "top_comments": [
+        {
+          "body": "Your post has been removed for breaking our rule regarding referral links and promo codes.",
+          "score": 1,
+          "author": "onlinegambling-ModTeam"
+        },
+        {
+          "body": "Thank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "הפוסט מקדם אתר להימורי \"סקינים\" (Skin Gambling) במשחק Counter-Strike בשם clash.gg, תוך שימוש בקודי הפניה ומתנות למשתמשים. פעילות זו מדגימה את המגמה המתמשכת של הימורים לא מפוקחים בקהילת הגיימינג, נושא המצוי תחת פיקוח רגולטורי גובר ועומד בניגוד לפעילותן של חברות ציבוריות ומוסדרות כמו Bragg Gaming.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון והנקודות העולות מהתגובות בשרשור:\n\n* **אכיפה נוקשה של חוקי הקהילה:** פוסטים המפרים את כללי הפורום מוסרים באופן מיידי על ידי מנהלי המערכת.\n* **איסור על שיווק וקידום עצמי:** קיים איסור מוחלט על פרסום קודי קופון (Promo Codes) או קישורי הפניה (Referral Links) במסגרת הדיונים.\n* **חשיבות היכרות עם נהלי הפורום:** משתמשים חדשים נדרשים לקרוא ולהבין את חוקי הקהילה המופיעים בסרגל הצד (Sidebar) לפני שהם מפרסמים תוכן.\n* **הנעה למעורבות חברתית:** הקהילה מעודדת את המשתמשים להירשם לעדכונים (Subscribe) כדי להישאר מעורבים בתוכן הערוץ.\n* **הרחבת הדיון לפלטפורמות נוספות:** קיימת הזמנה רשמית למשתמשים להצטרף לשרת הדיסקורד (Discord) של הקהילה לצורך אינטראקציה ודיונים נוספים.\n* **שימוש בניהול אוטומטי:** ניהול הקהילה מתבצע באופן שוטף בעזרת בוטים המבצעים פעולות פיקוח, הסרת תכנים והדרכת משתמשים חדשים.",
+      "date_string": "2026-03-18",
+      "saved_at": "2026-03-18T06:36:14.479+00:00"
     }
   ],
   "xIntelligence": {
-    "top_alert": "החדשות הבולטות כוללות אישור חקיקה בניו יורק וחידוש רישיון לבטסיטי, המצביעות על צמיחה בשווקים מפתח.",
+    "top_alert": "אין התראות דחופות, אך יש התקדמות ברגולציה בארה\"ב ובברזיל",
     "brag_stock": {
-      "summary": "מספר משתמשים בטוויטר דנים בעלייה קלה במניית BRAG לאחר דיווחים על שותפויות חדשות בתחום iGaming. יש תחזיות מחיר שמצביעות על פוטנציאל צמיחה בשנה הקרובה, אך חששות לגבי רגולציות גלובליות. הסנטימנט הכללי מבוסס על נתונים עדכניים מהבוקר, עם דגש על יציבות החברה.",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים מתמקדים בביצועים רבעוניים.",
-      "sentiment": "חיובי"
-    },
-    "brazil_market": {
-      "summary": "משתמשים בטוויטר מציינים את הרגולציה החדשה בברזיל שמאשרת רישיונות להימורים, עם דגש על אכיפה נגד פעילויות בלתי חוקיות. השוק צפוי לצמוח בזכות פתיחתו, אך יש דיונים על אתגרים ביישום. רישיונות חדשים יחולקו בקרוב.",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים ממשיכים מהשבוע שעבר.",
+      "summary": "הדיונים ב-X על מניית BRAG מתמקדים בגידול בחברה בתחום iGaming באירופה, עם דיווחים על שותפויות חדשות. משקיעים צופים עלייה במחיר אם תהיה התקדמות ברגולציה, אך יש חששות מתנודתיות בשוק. תחזיות מחיר נעות בין יציבות לעלייה קלה.",
+      "breaking": "לא דווח על חדשות חשובות מהשעות האחרונות",
       "sentiment": "ניטרלי"
     },
+    "brazil_market": {
+      "summary": "הדיונים ב-X על שוק ההימורים בברזיל מדגישים רגולציה חדשה שמאשרת רישיונות לחברות בינלאומיות. יש אכיפה נגד אתרי הימורים בלתי חוקיים, והשוק צפוי לגדול בזכות פתיחתו. רישיונות חדשים כבר הוענקו לכמה חברות גדולות.",
+      "breaking": "לא דווח על חדשות חשובות מהשעות האחרונות",
+      "sentiment": "חיובי"
+    },
     "us_regulation": {
-      "summary": "בטוויטר, משתמשים מדברים על חקיקה חדשה בניו יורק שמאשרת רישיונות נוספים להימורים מקוונים, עם דגש על הגנה על צרכנים. יש דיונים על השפעה כלכלית חיובית, אך גם חששות מפני בעיות אכיפה. רגולציה זו צפויה להרחיב את השוק בארה\"ב.",
-      "breaking": "דיווחים על אישור הצעת חוק בניו יורק לפני כשעתיים, שיכול להוביל לרישיונות חדשים.",
+      "summary": "בניו יורק, הדיונים ב-X עוסקים בחקיקה חדשה להסדרת iGaming, כולל רישיונות לחברות גדולות. יש התקדמות ברגולציה פדרלית, אך עדיין יש מחלוקות על אכיפה והגנה על צרכנים. רישיונות חדשים צפויים להיפתח בקרוב.",
+      "breaking": "דווח על דיון בסנאט ניו יורק בנוגע לרישיונות חדשים, אך ללא פרטים סופיים",
       "sentiment": "חיובי"
     },
     "netherlands_ksa": {
-      "summary": "בטוויטר, יש דיונים על חידוש רישיונות על ידי KSA, עם התמקדות בבטסיטי שזכתה במעמד חזק. האכיפה נגד אתרי הימורים בלתי מורשים מתגברת, ויש שבחים על שיפורי הרגולציה. זה תורם ליציבות השוק בהולנד.",
-      "breaking": "דיווח על חידוש רישיון לבטסיטי לפני שעה, שמחזק את מעמדה בשוק.",
-      "sentiment": "חיובי"
+      "summary": "ב-X, הדיונים על KSA בהולנד כוללים חידוש רישיונות לחברות כמו BetCity, עם אכיפה נגד הפרות. יש דגש על שיפור בטיחות המשתמשים והגברת פיקוח. BetCity זוכה למשוב חיובי על ציות לרגולציה.",
+      "breaking": "דווח על חידוש רישיון ל-BetCity, אך ללא פרטים נוספים",
+      "sentiment": "ניטרלי"
     },
     "igaming_industry": {
-      "summary": "משתמשים מדברים על עסקאות חדשות כמו שותפויות בין חברות iGaming גדולות, מגמות כלליות של מעבר למובייל והרחבת שווקים. יש דגש על צמיחה גלובלית, אך גם על אתגרים רגולטוריים. הענף צפוי להמשיך להתפתח ב-2024.",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים כוללים שותפויות חדשות מדווחות אתמול.",
+      "summary": "הדיונים ב-X על תעשיית iGaming כוללים עסקאות רכישה ושיתופי פעולה בין חברות גדולות, כמו שותפויות עם ספקי תשלומים. מגמות כלליות כוללות מעבר למובייל והתמקדות ברגולציה גלובלית. השוק צפוי לצמוח עם עלייה בביקוש.",
+      "breaking": "לא דווח על חדשות חשובות מהשעות האחרונות",
       "sentiment": "חיובי"
     },
     "overall_sentiment": "חיובי"
   },
-  "generatedAt": "2026-03-17T20:31:53.628Z"
+  "generatedAt": "2026-03-18T06:45:02.956Z"
 };

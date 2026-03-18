@@ -1,8 +1,8 @@
 window.intelData = {
   "stock": {
     "price": "1.56",
-    "change": "+0.04",
-    "changePercent": "+2.63%",
+    "change": "+0.00",
+    "changePercent": "+0.00%",
     "priceTSX": "2.18",
     "high52w": "$6.68",
     "low52w": "$1.99",
@@ -15,7 +15,7 @@ window.intelData = {
     "epsNote": "רווח חיובי",
     "analystTarget": "-",
     "analystNote": "-",
-    "updatedAt": "17.3.2026 · 20:30"
+    "updatedAt": "18.3.2026 · 08:42"
   },
   "chartData": {
     "priceLabels": [
@@ -35,7 +35,7 @@ window.intelData = {
       2.06,
       2.05,
       2.05,
-      null,
+      2.18,
       2.18
     ],
     "volumeLabels": [
@@ -60,27 +60,27 @@ window.intelData = {
     ]
   },
   "socialMedia": {
-    "sentimentScore": 7.4,
-    "sentimentLabel": "חיובי",
+    "sentimentScore": 6.8,
+    "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "מספר משתמשים בטוויטר דנים בעלייה קלה במניית BRAG לאחר דיווחים על שותפויות חדשות בתחום iGaming. יש תחזיות מחיר שמצביעות על פוטנציאל צמיחה בשנה הקרובה, אך חששות לגבי רגולציות גלובליות. הסנטימנט הכללי מבוסס על נתונים עדכניים מהבוקר, עם דגש על יציבות החברה.",
+        "text": "הדיונים ב-X על מניית BRAG מתמקדים בגידול בחברה בתחום iGaming באירופה, עם דיווחים על שותפויות חדשות. משקיעים צופים עלייה במחיר אם תהיה התקדמות ברגולציה, אך יש חששות מתנודתיות בשוק. תחזיות מחיר נעות בין יציבות לעלייה קלה.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "בטוויטר, משתמשים מדברים על חקיקה חדשה בניו יורק שמאשרת רישיונות נוספים להימורים מקוונים, עם דגש על הגנה על צרכנים. יש דיונים על השפעה כלכלית חיובית, אך גם חששות מפני בעיות אכיפה. רגולציה זו צפויה להרחיב את השוק בארה\"ב.",
+        "text": "בניו יורק, הדיונים ב-X עוסקים בחקיקה חדשה להסדרת iGaming, כולל רישיונות לחברות גדולות. יש התקדמות ברגולציה פדרלית, אך עדיין יש מחלוקות על אכיפה והגנה על צרכנים. רישיונות חדשים צפויים להיפתח בקרוב.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "משתמשים בטוויטר מציינים את הרגולציה החדשה בברזיל שמאשרת רישיונות להימורים, עם דגש על אכיפה נגד פעילויות בלתי חוקיות. השוק צפוי לצמוח בזכות פתיחתו, אך יש דיונים על אתגרים ביישום. רישיונות חדשים יחולקו בקרוב.",
+        "text": "הדיונים ב-X על שוק ההימורים בברזיל מדגישים רגולציה חדשה שמאשרת רישיונות לחברות בינלאומיות. יש אכיפה נגד אתרי הימורים בלתי חוקיים, והשוק צפוי לגדול בזכות פתיחתו. רישיונות חדשים כבר הוענקו לכמה חברות גדולות.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "בטוויטר, יש דיונים על חידוש רישיונות על ידי KSA, עם התמקדות בבטסיטי שזכתה במעמד חזק. האכיפה נגד אתרי הימורים בלתי מורשים מתגברת, ויש שבחים על שיפורי הרגולציה. זה תורם ליציבות השוק בהולנד.",
+        "text": "ב-X, הדיונים על KSA בהולנד כוללים חידוש רישיונות לחברות כמו BetCity, עם אכיפה נגד הפרות. יש דגש על שיפור בטיחות המשתמשים והגברת פיקוח. BetCity זוכה למשוב חיובי על ציות לרגולציה.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "משתמשים מדברים על עסקאות חדשות כמו שותפויות בין חברות iGaming גדולות, מגמות כלליות של מעבר למובייל והרחבת שווקים. יש דגש על צמיחה גלובלית, אך גם על אתגרים רגולטוריים. הענף צפוי להמשיך להתפתח ב-2024.",
+        "text": "הדיונים ב-X על תעשיית iGaming כוללים עסקאות רכישה ושיתופי פעולה בין חברות גדולות, כמו שותפויות עם ספקי תשלומים. מגמות כלליות כוללות מעבר למובייל והתמקדות ברגולציה גלובלית. השוק צפוי לצמוח עם עלייה בביקוש.",
         "platform": "X/Grok · igaming industry"
       }
     ]
@@ -100,30 +100,30 @@ window.intelData = {
     }
   ],
   "xIntelligence": {
-    "top_alert": "החדשות הבולטות כוללות אישור חקיקה בניו יורק וחידוש רישיון לבטסיטי, המצביעות על צמיחה בשווקים מפתח.",
+    "top_alert": "אין התראות דחופות, אך יש התקדמות ברגולציה בארה\"ב ובברזיל",
     "brag_stock": {
-      "summary": "מספר משתמשים בטוויטר דנים בעלייה קלה במניית BRAG לאחר דיווחים על שותפויות חדשות בתחום iGaming. יש תחזיות מחיר שמצביעות על פוטנציאל צמיחה בשנה הקרובה, אך חששות לגבי רגולציות גלובליות. הסנטימנט הכללי מבוסס על נתונים עדכניים מהבוקר, עם דגש על יציבות החברה.",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים מתמקדים בביצועים רבעוניים.",
-      "sentiment": "חיובי"
-    },
-    "brazil_market": {
-      "summary": "משתמשים בטוויטר מציינים את הרגולציה החדשה בברזיל שמאשרת רישיונות להימורים, עם דגש על אכיפה נגד פעילויות בלתי חוקיות. השוק צפוי לצמוח בזכות פתיחתו, אך יש דיונים על אתגרים ביישום. רישיונות חדשים יחולקו בקרוב.",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים ממשיכים מהשבוע שעבר.",
+      "summary": "הדיונים ב-X על מניית BRAG מתמקדים בגידול בחברה בתחום iGaming באירופה, עם דיווחים על שותפויות חדשות. משקיעים צופים עלייה במחיר אם תהיה התקדמות ברגולציה, אך יש חששות מתנודתיות בשוק. תחזיות מחיר נעות בין יציבות לעלייה קלה.",
+      "breaking": "לא דווח על חדשות חשובות מהשעות האחרונות",
       "sentiment": "ניטרלי"
     },
+    "brazil_market": {
+      "summary": "הדיונים ב-X על שוק ההימורים בברזיל מדגישים רגולציה חדשה שמאשרת רישיונות לחברות בינלאומיות. יש אכיפה נגד אתרי הימורים בלתי חוקיים, והשוק צפוי לגדול בזכות פתיחתו. רישיונות חדשים כבר הוענקו לכמה חברות גדולות.",
+      "breaking": "לא דווח על חדשות חשובות מהשעות האחרונות",
+      "sentiment": "חיובי"
+    },
     "us_regulation": {
-      "summary": "בטוויטר, משתמשים מדברים על חקיקה חדשה בניו יורק שמאשרת רישיונות נוספים להימורים מקוונים, עם דגש על הגנה על צרכנים. יש דיונים על השפעה כלכלית חיובית, אך גם חששות מפני בעיות אכיפה. רגולציה זו צפויה להרחיב את השוק בארה\"ב.",
-      "breaking": "דיווחים על אישור הצעת חוק בניו יורק לפני כשעתיים, שיכול להוביל לרישיונות חדשים.",
+      "summary": "בניו יורק, הדיונים ב-X עוסקים בחקיקה חדשה להסדרת iGaming, כולל רישיונות לחברות גדולות. יש התקדמות ברגולציה פדרלית, אך עדיין יש מחלוקות על אכיפה והגנה על צרכנים. רישיונות חדשים צפויים להיפתח בקרוב.",
+      "breaking": "דווח על דיון בסנאט ניו יורק בנוגע לרישיונות חדשים, אך ללא פרטים סופיים",
       "sentiment": "חיובי"
     },
     "netherlands_ksa": {
-      "summary": "בטוויטר, יש דיונים על חידוש רישיונות על ידי KSA, עם התמקדות בבטסיטי שזכתה במעמד חזק. האכיפה נגד אתרי הימורים בלתי מורשים מתגברת, ויש שבחים על שיפורי הרגולציה. זה תורם ליציבות השוק בהולנד.",
-      "breaking": "דיווח על חידוש רישיון לבטסיטי לפני שעה, שמחזק את מעמדה בשוק.",
-      "sentiment": "חיובי"
+      "summary": "ב-X, הדיונים על KSA בהולנד כוללים חידוש רישיונות לחברות כמו BetCity, עם אכיפה נגד הפרות. יש דגש על שיפור בטיחות המשתמשים והגברת פיקוח. BetCity זוכה למשוב חיובי על ציות לרגולציה.",
+      "breaking": "דווח על חידוש רישיון ל-BetCity, אך ללא פרטים נוספים",
+      "sentiment": "ניטרלי"
     },
     "igaming_industry": {
-      "summary": "משתמשים מדברים על עסקאות חדשות כמו שותפויות בין חברות iGaming גדולות, מגמות כלליות של מעבר למובייל והרחבת שווקים. יש דגש על צמיחה גלובלית, אך גם על אתגרים רגולטוריים. הענף צפוי להמשיך להתפתח ב-2024.",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים כוללים שותפויות חדשות מדווחות אתמול.",
+      "summary": "הדיונים ב-X על תעשיית iGaming כוללים עסקאות רכישה ושיתופי פעולה בין חברות גדולות, כמו שותפויות עם ספקי תשלומים. מגמות כלליות כוללות מעבר למובייל והתמקדות ברגולציה גלובלית. השוק צפוי לצמוח עם עלייה בביקוש.",
+      "breaking": "לא דווח על חדשות חשובות מהשעות האחרונות",
       "sentiment": "חיובי"
     },
     "overall_sentiment": "חיובי"
@@ -137,51 +137,151 @@ window.intelData = {
         {
           "date": "2026-03-16",
           "title": "Bragg Gaming Group Selects Salesforce to Power Global Partner Expansion",
-          "summary_he": "Toronto, March 16, 2026 – Bragg Gaming Group (NASDAQ: BRAG, TSX: BRAG) (“Bragg” or the “Company”), a leading content-driven iGaming technology provider, today announced the integration of Salesforce as its foundational customer relationship management (CRM) platform, marking a significant step in th",
+          "summary_he": "חברת Bragg Gaming Group מטמיעה את פלטפורמת Salesforce כבסיס לניהול קשרי הלקוחות (CRM) שלה, במטרה לייעל את ניהול השותפויות ולהאיץ את התרחבותה העסקית בשווקים הגלובליים. המהלך מחזק את התשתית המבצעית של החברה לתמיכה באסטרטגיית הצמיחה הבינלאומית שלה.",
           "source": "bragg.group",
-          "url": "https://bragg.group/bragg-gaming-group-selects-salesforce-to-power-global-partner-expansion/"
+          "url": "https://bragg.group/bragg-gaming-group-selects-salesforce-to-power-global-partner-expansion/",
+          "sourceKey": "brag_official"
         }
       ]
     },
-    "sbc_news": {
-      "title": "חדשות SBC",
-      "icon": "📰",
-      "color": "rgba(0,176,255,0.12)",
+    "brazil": {
+      "title": "שוק ברזיל",
+      "icon": "🇧🇷",
+      "color": "rgba(76,175,80,0.12)",
       "articles": [
         {
           "date": "2026-03-17",
-          "title": "Germany is losing high-value gamblers to the black market",
-          "summary_he": "A key study of German online gambling behaviours, views engagement with the black market as an ‘embedded symptom’ of Interstate liabilities. However, the GGL maintains that liabilities are no grounds for a review of the Interstate regime limiting the offering of licensed operators. Glücksspielbehörd",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/igaming/2026/03/17/germany-gambling-behaviour/"
-        },
-        {
-          "date": "2026-03-17",
           "title": "BETBY furthers global expansion with appointment of LatAm veteran manager",
-          "summary_he": "BETBY has strengthened its team with the appointment of Gonzalo Navarro as Senior Business Development Manager. The tier one B2B sportsbook supplier has taken particular note of its new hires experience of the Latin American markets. Navarro joins the business following roles at Brazil-headquartered",
+          "summary_he": "ספקית פלטפורמות ההימורים BETBY מחזקת את אחיזתה בשוק האמריקאי-לטיני באמצעות מינויו של גונזלו נבארו, מנהל ותיק בתחום, לתפקיד מנהל פיתוח עסקי בכיר. המהלך נועד להאיץ את הצמיחה האסטרטגית של החברה בשווקים מתעוררים באזור, בדגש על ברזיל.",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/sportsbook/2026/03/17/betby-appoints-latmam-exec/"
+          "url": "https://sbcnews.co.uk/sportsbook/2026/03/17/betby-appoints-latmam-exec/",
+          "sourceKey": "sbc_news"
         },
         {
           "date": "2026-03-17",
-          "title": "Katie Harbron takes lead of Allwyn’s National Lottery games",
-          "summary_he": "Allwyn UK has appointed Katie Harbron as its new Director of Games to lead the National Lottery’s product portfolio.&#160; Harbron joins from a stint as a Chief Product Officer at iGaming provider MrQ, following similar senior roles at other established brands such as Flutter Entertainment, includin",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/europe/uk/2026/03/17/allwyn-national-lottery-2/"
+          "title": "SAGSE's Alan Burak to lead G2E 2026’s new Latin America business development",
+          "summary_he": "אלן בוראק מונה להוביל את פיתוח העסקים של תערוכת G2E באמריקה הלטינית לשנת 2026, צעד המדגיש את ההתמקדות האסטרטגית של התעשייה בהרחבת פעילותה בשוק הלטיני הצומח.",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/03/17/118109-sagse-39s-alan-burak-to-lead-g2e-2026s-new-latin-america-business-development",
+          "sourceKey": "yogonet"
+        }
+      ]
+    },
+    "us_regulation": {
+      "title": "רגולציה - ארה\"ב",
+      "icon": "🇺🇸",
+      "color": "rgba(33,150,243,0.12)",
+      "articles": [
+        {
+          "date": "2026-03-13",
+          "title": "Integrity at the core of CFTC’s first advisory on prediction markets this year",
+          "summary_he": "ה-CFTC פרסם הנחיות רגולטוריות חדשות לשוקי חיזוי (prediction markets), המדגישות את חשיבות השקיפות והיושרה במסחר בחוזים מבוססי אירועים. המהלך מסמן הידוק של הפיקוח הממשלתי על מוצרי הימורים פיננסיים, ועשוי להשפיע על חברות iGaming המבקשות להרחיב את פעילותן לתחומים אלו בארה\"ב.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/integrity-at-core-of-cftcs-first-advisory-on-prediction-markets/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-03-12",
+          "title": "As Bowyer leaves prison, Congress mulls bill on problem gambling funding",
+          "summary_he": "הקונגרס האמריקאי מקדם הצעת חוק דו-מפלגתית ראשונה מזה כ-15 שנה למימון פדרלי לטיפול בנזקי הימורים. המהלך מסמן הידוק של הפיקוח הרגולטורי והגברת המעורבות הממשלתית במאבק בהתמכרויות, על רקע התרחבות שוק ההימורים.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/sports-betting/bowyer-leaves-prison-march-2026/",
+          "sourceKey": "igaming_market"
         },
         {
           "date": "2026-03-17",
-          "title": "Asia-facing bookie 8Xbet redirects URL to GamCare website",
-          "summary_he": "8Xbet, an unlicensed operator currently sponsoring a number of Premier League teams, has customers redirected to GamCare when trying to access its website. At the time of writing, for some unexplained reason, clicking on the operator’s Google-listed URL goes directly to the GamCare website &#8211; o",
+          "title": "Colombia revives tax decrees on gambling",
+          "summary_he": "הקונגרס בקולומביה מקדם מחדש צווים להטלת מיסים ישירים על מפעילי הימורים מקוונים, מהלך המגביר את חוסר הוודאות הרגולטורי ועשוי להשפיע על רווחיותן של חברות הפועלות בשוק זה, דוגמת Bragg Gaming.",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/sportsbook/2026/03/17/8xbet-gamcare-url/"
+          "url": "https://sbcnews.co.uk/southamerica/2026/03/17/colombia-petro-tax-returns/",
+          "sourceKey": "sbc_news"
         },
         {
           "date": "2026-03-17",
-          "title": "Betano: Ghana localisation is acid test of African emergence",
-          "summary_he": "As the dust settles on Latin America’s betting boom and European firms prepare for taxation onslaughts, a deeper attention falls on African markets to become new growth domains.&#160;&#160; A spotlight falls on Ghana as Kaizen Gaming’s flagship sportsbook brand Betano sets its sights on stamping its",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/features/interviews/2026/03/17/betano-ghana-africa-plans/"
+          "title": "Virginia’s iGaming Bill Fails to Pass Before the Session’s End",
+          "summary_he": "הצעת החוק ללגליזציה של קזינו מקוון (iGaming) בווירג'יניה נכשלה במושב החקיקה הנוכחי, מה שמעכב את התרחבות הענף במדינה. עבור Bragg Gaming, מדובר בדחייה של הזדמנות כניסה וצמיחה בשוק אמריקאי משמעותי נוסף.",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/virginias-igaming-bill-fails-to-pass-before-the-sessions-end/",
+          "sourceKey": "gambling_news"
+        },
+        {
+          "date": "2026-03-16",
+          "title": "Ohio: PENN Entertainment to open new hotel tower at Hollywood Casino Columbus",
+          "summary_he": "חברת PENN Entertainment מרחיבה את נוכחותה באוהיו באמצעות הקמת מגדל מלון חדש ב-Hollywood Casino Columbus, צעד שנועד לחזק את פעילותה העסקית והכנסותיה באזור. המהלך רלוונטי ל-Bragg Gaming בשל השותפות האסטרטגית בינה לבין PENN, הנחשבת ללקוחה מרכזית של בראג בתחום ה-iGaming בצפון אמריקה.",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/03/16/118065-ohio-penn-entertainment-to-open-new-hotel-tower-at-hollywood-casino-columbus",
+          "sourceKey": "yogonet"
+        }
+      ]
+    },
+    "igaming_market": {
+      "title": "שוק ה-iGaming",
+      "icon": "🎰",
+      "color": "rgba(0,230,118,0.12)",
+      "articles": [
+        {
+          "date": "2026-03-17",
+          "title": "Colombia reintroduces tax on online gambling deposits at reduced 16% rate",
+          "summary_he": "נשיא קולומביה הטיל מס חירום של 16% על הפקדות בהימורים מקוונים למימון שיקום נזקי שיטפונות. המהלך צפוי להכביד על הרווחיות בשוק המקומי ולהשפיע על ספקיות טכנולוגיה הפעילות בו, דוגמת Bragg Gaming.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/finance/tax/colombia-tax-online-gambling-deposits/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-03-16",
+          "title": "The who, what, why and how of aggregators",
+          "summary_he": "דוח חדש של iGB מנתח את התפקיד האסטרטגי של אגרגטורים בייעול תהליכי הפצה וציות רגולטורי בתעשיית ה-iGaming. הממצאים רלוונטיים במיוחד עבור בראג גיימינג (Bragg Gaming), שפתרון האגרגציה שלה מהווה נדבך מרכזי במודל העסקי ובצמיחתה הגלובלית.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/gaming/online-casino/who-why-how-aggregators-work-igaming-report-alea/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-03-16",
+          "title": "BGC warns of £60 million in illegal Cheltenham Festival bets",
+          "summary_he": "מועצת ההימורים הבריטית (BGC) מתריעה כי הימורים בשווי 60 מיליון ליש\"ט יופנו למפעילים לא חוקיים במהלך פסטיבל צ'לטנהאם, מהלך שפוגע ישירות בהכנסות ענף המרוצים. התחזקות השוק השחור, המהווה כיום כ-6% מכלל ההימורים בבריטניה, מדגישה את האתגר הרגולטורי בשמירה על השוק המורשה.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/offshore-gaming/bgc-warns-60-million-illegal-cheltenham-festival-bets/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-03-16",
+          "title": "Belgian gambling regulator investigating into Eden Hazard’s promotion with Stake",
+          "summary_he": "רשות ההימורים הבלגית בוחנת האם קידום המותג Stake על ידי כדורגלן העבר אדן הזאר מפר את מגבלות הפרסום המחמירות במדינה. חקירה זו מדגישה את הלחץ הרגולטורי הגובר בבלגיה ועלולה להוביל לסנקציות נגד המפעיל.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/regulation/belgian-gambling-regulator-investigates-eden-hazard-promotional-stake/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-03-16",
+          "title": "German gambling survey shows stability in gambling participation but risks remain",
+          "summary_he": "סקר חדש בגרמניה מצביע על יציבות בשוק ההימורים לצד סיכונים הדורשים פיקוח רגולטורי הדוק, מה שמספק ודאות עסקית אך מבוקרת עבור ספקיות תוכן בולטות בשוק כמו Bragg Gaming.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/sustainable-gambling/responsible-gambling/german-gambling-survey-stability-gambling-participation-risks-remain/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-03-13",
+          "title": "NLA intensifies crackdown on illegal mini slot machines in Liberia",
+          "summary_he": "רשות ההימורים של ליבריה (NLA) החלה במבצע אכיפה נרחב הכולל פשיטות והחרמת מכונות מזל לא חוקיות. המהלך נועד להדק את הפיקוח הרגולטורי על השוק המקומי ולמגר פעילות הימורים בלתי מורשית (לידיעה זו אין קשר ישיר לפעילותה של חברת Bragg Gaming).",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/regulation/nla-intensifies-crackdown-illegal-mini-slot-machines-montserrado/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-03-12",
+          "title": "H2 Gambling Capital predicts record March Madness wagering",
+          "summary_he": "חברת H2 Gambling Capital חוזה היקף הימורים שובר שיאים של עד 150 מיליון דולר במהלך טורניר ה-\"March Madness\", נתון המדגיש את המשך הצמיחה והפוטנציאל הכלכלי בשוק הימורי הספורט המוסדר בארה\"ב. (לא נמצא קשר ישיר ל-Bragg Gaming בידיעה זו).",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/sports-betting/h2-gambling-capital-march-madness-wagering-record/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-03-12",
+          "title": "Greece moves to protect youth from rising online betting harms",
+          "summary_he": "יוון מקדמת הגבלות חדשות על פרסום הימורים מקוונים ומסגרת לרגולציה עצמית בתעשייה, במטרה להגן על קטינים מפני נזקי הענף. המהלך צפוי להוביל להחמרה בתקני השיווק והציות עבור מפעילים הפועלים בשוק היווני.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/sustainable-gambling/responsible-gambling/greece-moves-protect-youth-rising-online-betting-harms/",
+          "sourceKey": "igaming_market"
         }
       ]
     },
@@ -192,38 +292,38 @@ window.intelData = {
       "articles": [
         {
           "date": "2026-03-16",
-          "title": "Reddit: Ok Sugar Rush i see you",
-          "summary_he": "הפוסט מתאר חוויית משתמש חיובית וזכייה במשחק הסלוט הפופולרי \"Sugar Rush\", דבר המעיד על המעורבות הגבוהה של שחקנים בכותרים מובילים בתעשייה. הצלחת משחקים מסוג זה מחזקת את הביקוש לתוכן איכותי מצד ספקיות ומפיצות iGaming, דוגמת Bragg Gaming (BRAG), הנהנות מהפופולריות של כותרים אלו בפלטפורמות ההפצה שלהן.",
+          "title": "Reddit: Nice hit on huff n puff",
+          "summary_he": "הפוסט מתאר חוויית משתמש חיובית וזכיות משמעותיות בהימורים נמוכים במשחקי סלוטים פופולריים כמו \"Sweet Bonanza\" ו-\"Huff n' Puff\". למרות שאין התייחסות ישירה ל-Bragg Gaming, המקרה מדגים את מגמת המעורבות הגבוהה של שחקנים בכותרים מובילים ואת האטרקטיביות של מנגנוני הבונוס והג'קפוט בשוק ה-iGaming. הקטע משקף את התנהגות הצרכנים והדינמיקה של שחקני קזינו מקוון המשלבים אסטרטגיות הימור משתנות.",
           "source": "Reddit r/gambling",
-          "url": "https://www.reddit.com/r/gambling/comments/1ruy0r3/ok_sugar_rush_i_see_you/"
-        },
-        {
-          "date": "2026-03-15",
-          "title": "Reddit: Do not gamble on Rainbet",
-          "summary_he": "הפוסט מזהיר מפני התנהלות פולשנית של אתר ההימורים Rainbet, שחסם משתמש ומנע ממנו למשוך רווחים בטענה מופרכת של \"ספירת כרטיסים\" לאחר שעבר תהליך אימות (KYC) מחמיר. המקרה מדגיש את הסיכונים במפעילי iGaming לא מוסדרים ואת חשיבות הרגולציה והציות (Compliance) להגנת הצרכן. עבור חברות כמו Bragg Gaming (BRAG), הפועלות בשווקים מוסדרים, אירועים כאלו מחזקים את הערך של עבודה בסביבה חוקית ושקופה המבטיחה את הגינות המשחקים.",
-          "source": "Reddit r/gambling",
-          "url": "https://www.reddit.com/r/gambling/comments/1rutxi1/do_not_gamble_on_rainbet/"
+          "url": "https://www.reddit.com/r/gambling/comments/1rv9za8/nice_hit_on_huff_n_puff/"
         },
         {
           "date": "2026-03-16",
-          "title": "Reddit: Does keeping an eye on what institutions are doing help you read the market?",
-          "summary_he": "הפוסט דן בחשיבות המעקב אחר השקעות מוסדיות ככלי לניתוח שוק, נושא קריטי עבור מניות במגזר ה-iGaming כמו Bragg Gaming (BRAG). עבור משקיעים בתעשיית ההימורים, תנועות של גופים מוסדיים עשויות לאותת על אמון ביציבות הרגולטורית של החברה ובפוטנציאל הצמיחה שלה בשווקים גלובליים.",
-          "source": "Reddit r/CanadianInvestor",
-          "url": "https://www.reddit.com/r/CanadianInvestor/comments/1ruywbr/does_keeping_an_eye_on_what_institutions_are/"
-        },
-        {
-          "date": "2026-03-15",
-          "title": "Reddit: Turned $5 into this a couple weeks ago…still processing it",
-          "summary_he": "הפוסט מתאר מקרה של \"זכייה גדולה\" מהימור קטן, מגמה המדגישה את הביקוש לתוכן בעל תנודתיות גבוהה המיוצר על ידי חברות כמו Bragg Gaming. שיתוף חוויות כאלו ברשתות החברתיות מחזק את המעורבות בקהילת ה-iGaming, אך גם מחדד את חשיבות הרגולציה וההימורים האחראיים סביב נרטיבים של רווחים מהירים.",
-          "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1rupmpz/turned_5_into_this_a_couple_weeks_agostill/"
+          "title": "Reddit: I started tracking every single gambling session – here's what I learned after 6 months",
+          "summary_he": "הפוסט מדגיש את החשיבות של ניטור נתונים אישיים ושימוש בכלי הימורים אחראיים, כמו הגדרת מגבלות הפסד, לניהול סיכונים וצמצום הפסדים. מגמה זו משקפת את הצורך הגובר בתעשיית ה-iGaming ושל ספקיות טכנולוגיה כמו Bragg Gaming להטמיע בפלטפורמות שלהן כלי הגנה וניתוח התנהגות שחקנים בזמן אמת. התובנות בפוסט ממחישות כיצד דפוסי משחק ומצב רגשי משפיעים על המהמר, נושא העומד בלב הרגולציה המודרנית ופיתוח מוצרים בתחום.",
+          "source": "Reddit r/gambling",
+          "url": "https://www.reddit.com/r/gambling/comments/1rvbuv3/i_started_tracking_every_single_gambling_session/"
         },
         {
           "date": "2026-03-16",
-          "title": "Reddit: Avoid Rainbet",
-          "summary_he": "הפוסט מתאר מקרה של חסימת משתמש והקפאת רווחים באתר Rainbet לאחר זכיות, בתואנה של \"ספירת קלפים\" במשחק בלאק ג'ק מקוון. המקרה מדגיש את הסיכונים הכרוכים בפלטפורמות שאינן מפוקחות כראוי ואת החשיבות הקריטית של רגולציה בתעשיית ה-iGaming. עבור חברות הפועלות בשווקים מוסדרים, כמו Bragg Gaming, מקרים אלו מדגישים את היתרון התחרותי של עמידה בסטנדרטים מחמירים המבטיחים את אמון השחקנים והגינות המשחק.",
-          "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1ruvd8k/avoid_rainbet/"
+          "title": "Reddit: 888 Casino not paying out and account now temporarily disabled?",
+          "summary_he": "הפוסט מתאר מחלוקת בין שחקן לקזינו 888 סביב אי-תשלום זכיות והקפאת חשבון בעקבות מה שנראה ככשל טכני (גלִיץ') במערכת הג'קפוט. המקרה מדגיש את הסיכונים התפעוליים והחשיבות של יציבות פלטפורמות ה-iGaming, נושא קריטי עבור ספקיות טכנולוגיה ורגולטורים הנדרשים להבטיח הוגנות במקרי קצה טכנולוגיים.",
+          "source": "Reddit r/gambling",
+          "url": "https://www.reddit.com/r/gambling/comments/1rve6vo/888_casino_not_paying_out_and_account_now/"
+        },
+        {
+          "date": "2026-03-16",
+          "title": "Reddit: Huff an’ More Puff",
+          "summary_he": "הפוסט מתאר חוויית משתמש שלילית בשל תנודתיות קיצונית במשחק ה-iGaming \"Huff an’ More Puff\", לאחר ששחקן חווה החזר (RTP) נמוך במיוחד של 4% בלבד לאורך מאות סבבים. המקרה מדגיש את האתגר של ספקיות תוכן כגון Bragg Gaming באיזון בין מודלים מתמטיים של סיכון גבוה לבין שביעות רצון השחקן. נושאים אלו עומדים במוקד המגמות בתעשייה והדיונים הרגולטוריים בנוגע לשקיפות והגינות המשחקים.",
+          "source": "Reddit r/gambling",
+          "url": "https://www.reddit.com/r/gambling/comments/1rv9kqg/huff_an_more_puff/"
+        },
+        {
+          "date": "2026-03-16",
+          "title": "Reddit: Is trading success more about psychology than strategy?",
+          "summary_he": "הפוסט עוסק במתח שבין אסטרטגיה למשמעת פסיכולוגית בעולם המסחר, נושא המשיק למגמות בתעשיית ה-iGaming בכל הנוגע לניתוח התנהגות שחקנים וניהול סיכונים. הבנת הפסיכולוגיה של המשתמש קריטית עבור חברות כמו Bragg Gaming (BRAG) בפיתוח כלים טכנולוגיים לשימור שחקנים וביישום רגולציה של \"משחק אחראי\".",
+          "source": "Reddit r/pennystocks",
+          "url": "https://www.reddit.com/r/pennystocks/comments/1rvhqm6/is_trading_success_more_about_psychology_than/"
         }
       ]
     }
