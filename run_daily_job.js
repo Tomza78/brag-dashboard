@@ -6,7 +6,8 @@ require('dotenv').config();
 const { fetchRedditTrends } = require('./src/scraper');
 const { getXIntelligence } = require('./src/x_trends');
 const { fetchStockData } = require('./src/finance');
-const { fetchAllNews } = require('./src/news_scraper');
+const { fetchAllNews, translateArticlesToHebrew } = require('./src/news_scraper');
+const { GoogleGenerativeAI } = require('@google/generative-ai');
 const { summarizePost, categorizePost, summarizeComments } = require('./src/ai');
 const { initDB, getTrend, saveTrend, saveXIntelligence, getLatestXIntelligence } = require('./src/db');
 const path = require('path');
@@ -139,9 +140,11 @@ async function runDailyJob() {
         console.log('\nStep 1: Fetching stock data from Yahoo Finance...');
         const financeData = await fetchStockData();
 
-        // Step 1b: Fetch news from industry sources
+        // Step 1b: Fetch news from industry sources + translate to Hebrew
         console.log('\nStep 1b: Fetching news from industry sources...');
-        const newsSections = await fetchAllNews(5);
+        const newsSections = await fetchAllNews(10);
+        const aiForTranslation = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY).getGenerativeModel({ model: 'gemini-3-flash-preview' });
+        await translateArticlesToHebrew(newsSections, aiForTranslation);
         console.log(`  Fetched ${Object.keys(newsSections).length} news sections`);
 
         // Step 2: Fetch Reddit trends

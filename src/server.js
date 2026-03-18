@@ -4,7 +4,7 @@ const { getXIntelligence } = require('./x_trends');
 const { summarizePost, categorizePost, summarizeComments } = require('./ai');
 const { initDB, saveTrend, getTrend, saveXIntelligence, getLatestXIntelligence, getTrendsByDate } = require('./db');
 const { fetchStockData } = require('./finance');
-const { fetchAllNews } = require('./news_scraper');
+const { fetchAllNews, translateArticlesToHebrew } = require('./news_scraper');
 const cron = require('node-cron');
 const path = require('path');
 const fs = require('fs');
@@ -34,9 +34,12 @@ async function runDailyJob() {
         console.log('Step 1: Fetching stock data from Yahoo Finance...');
         const financeData = await fetchStockData();
 
-        // Step 1b: Fetch news from industry sources
+        // Step 1b: Fetch news from industry sources + translate to Hebrew
         console.log('Step 1b: Fetching news from industry sources...');
-        const newsSections = await fetchAllNews(5);
+        const newsSections = await fetchAllNews(10);
+        const { GoogleGenerativeAI } = require('@google/generative-ai');
+        const aiForTranslation = new GoogleGenerativeAI(process.env.GOOGLE_API_KEY).getGenerativeModel({ model: 'gemini-3-flash-preview' });
+        await translateArticlesToHebrew(newsSections, aiForTranslation);
 
         // Step 2: Fetch Reddit trends
         console.log('Step 2: Fetching trends from Reddit...');
@@ -199,6 +202,7 @@ function generateIntelReport(financeData, trends, xIntelData, newsSections) {
 
     // Read existing watchpoints (keep them as-is, they're manually curated)
     let existingWatchpoints = [];
+    const existingPath = path.join(__dirname, '../public/intel-data.js');
     if (fs.existsSync(existingPath)) {
         try {
             const content = fs.readFileSync(existingPath, 'utf8');
