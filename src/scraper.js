@@ -5,23 +5,24 @@ const ARCTIC_SHIFT_BASE = 'https://arctic-shift.photon-reddit.com/api';
 
 // Subreddits relevant to BRAG (Bragg Gaming) and iGaming
 const SUBREDDITS = [
-    'stocks',
-    'pennystocks',
-    'CanadianInvestor',
-    'gambling',
+    'igaming',
     'onlinegambling',
-    'igaming'
+    'CanadianInvestor'
 ];
 
-// Search terms for finding BRAG-related posts
+// Search terms for finding BRAG-related posts (searched across ALL of Reddit)
 const SEARCH_TERMS = [
     'bragg gaming',
-    'BRAG',
+    'BRAG stock',
     'igaming regulation',
-    'online casino legislation',
-    'BetCity',
-    'iGaming license'
+    'online casino regulation',
+    'igaming netherlands',
+    'igaming brazil',
+    'sports betting regulation'
 ];
+
+// Filter: post must match at least one of these to be included
+const RELEVANCE_FILTER = /bragg|brag\b|igaming|i-gaming|online casino|online gambling|sports ?betting|gaming regulat|gaming license|gaming commission|betting regulat|KSA|kansspelautoriteit|netherlands.*gaming|dutch.*gaming|brazil.*gaming|brazil.*bet|us.*igaming|igaming.*us|gambling regulat|gambling legislat|online.*operator|gaming.*operator|PAM platform|B2B gaming|live casino|slot provider|gaming supplier/i;
 
 /**
  * Fetches posts from Reddit via Arctic Shift API (no auth required).
@@ -102,14 +103,16 @@ async function fetchRedditTrends() {
 
         console.log(`Total posts fetched: ${allItems.length}`);
 
-        // 3. Filter and sort by score
+        // 3. Filter by relevance (must be about BRAG/iGaming) and sort by score
         const candidates = allItems
             .filter(item => {
                 const content = item.selftext || item.body || '';
                 const title = item.title || '';
                 if (!title) return false;
                 if (!content || content.trim().length < 20) return false;
-                return true;
+                // Must match iGaming/BRAG relevance filter
+                const searchText = `${title} ${content.substring(0, 500)}`;
+                return RELEVANCE_FILTER.test(searchText);
             })
             .sort((a, b) => (b.score || 0) - (a.score || 0))
             .slice(0, 15);

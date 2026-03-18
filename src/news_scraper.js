@@ -61,6 +61,15 @@ const NEWS_SOURCES = [
         url: 'https://www.yogonet.com/international/',
         type: 'html_yogonet',
         filter: null  // Take all from Yogonet - it's already an iGaming site
+    },
+    {
+        key: 'deadspin',
+        title: 'Deadspin Legal Betting',
+        icon: '⚖️',
+        color: 'rgba(244,67,54,0.12)',
+        url: 'https://deadspin.com/legal-betting/',
+        type: 'html_deadspin',
+        filter: IGAMING_FILTER
     }
 ];
 
@@ -82,6 +91,8 @@ async function fetchAllNews(maxPerSource = 10) {
                 articles = await fetchRSS(source.url, source.filter);
             } else if (source.type === 'html_yogonet') {
                 articles = await fetchYogonet(source.url, source.filter);
+            } else if (source.type === 'html_deadspin') {
+                articles = await fetchDeadspin(source.url, source.filter);
             } else if (source.type === 'html_igaming_today') {
                 articles = await fetchIGamingToday(source.url, source.filter);
             }
@@ -354,6 +365,114 @@ async function fetchYogonet(url, filter) {
 }
 
 /**
+ * Scrapes Deadspin legal-betting page for US regulation news.
+ * The page has H2/H3 headers with article titles.
+ * Links are in sibling/parent elements, so we look for the nearby anchor.
+ */
+async function fetchDeadspin(url, filter) {
+    const response = await fetch(url, {
+        headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        },
+        timeout: 20000
+    });
+
+    if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`);
+    }
+
+    const html = await response.text();
+    const articles = [];
+    const seen = new Set();
+
+    // Strategy: find H2/H3 titles and look backward in HTML for nearby links
+    const headerRegex = /<h[23][^>]*>([\s\S]*?)<\/h[23]>/g;
+    let match;
+
+    while ((match = headerRegex.exec(html)) !== null) {
+        let title = match[1].replace(/<[^>]+>/g, '').trim();
+        if (!title || title.length < 25) continue;
+        if (seen.has(title)) continue;
+
+        // Look for a link within 500 chars before or within the H tag
+        const contextStart = Math.max(0, match.index - 500);
+        const context = html.substring(contextStart, match.index + match[0].length + 200);
+        const linkMatch = context.match(/href="(https?:\/\/deadspin\.com\/legal-betting\/[^"]+)"/);
+        const href = linkMatch ? linkMatch[1] : '';
+
+        // Skip promo/review pages
+        if (href && (href.includes('/reviews/') || href.includes('/promo-code') || href.includes('sweepstakes'))) continue;
+        if (/promo code|free slots|free sports|sweepstakes|promo codes|existing customers/i.test(title)) continue;
+
+        seen.add(title);
+        if (filter && !filter.test(title)) continue;
+
+        articles.push({
+            date: new Date().toISOString().split('T')[0],
+            title: title.substring(0, 200),
+            summary_he: '',
+            source: 'deadspin.com',
+            url: href || url
+        });
+    }
+
+    return articles.slice(0, 10);
+}
+
+/**
+ * Fetches BRAG discussions from Stockhouse.com bullboard.
+ * Returns posts as social media opinions (not news articles).
+ */
+async function fetchStockhouseDiscussions() {
+    console.log('  Fetching Stockhouse BRAG discussions...');
+    try {
+        const response = await fetch('https://stockhouse.com/companies/bullboard?symbol=t.brag', {
+            headers: {
+                'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+            },
+            timeout: 20000
+        });
+
+        if (!response.ok) {
+            throw new Error(`HTTP ${response.status}`);
+        }
+
+        const html = await response.text();
+        const posts = [];
+        const seen = new Set();
+
+        // Stockhouse uses H3-H5 tags for post subjects
+        const headerRegex = /<h[3-5][^>]*>([\s\S]*?)<\/h[3-5]>/gi;
+        let match;
+        const skipPatterns = /sign in|sign up|create|become a member|password|watchlist|report abusive|{{|join the community|it's free|portfolio|gold and silver|Sekur|Mobix|heavy construction|edge in heavy/i;
+        // Only keep BRAG-related posts
+        const bragFilter = /bragg|brag\b|Q\s?\d|earnings|revenue|quarter|press release|executive|CEO|stock|share|price|bull|bear|buy|sell|guidance|analyst|results|report|WTF|bailed|happened|Mathieu/i;
+
+        while ((match = headerRegex.exec(html)) !== null) {
+            let title = match[1].replace(/<[^>]+>/g, '').trim();
+            // Clean up RE: chains
+            title = title.replace(/^(RE:)+/g, '').trim();
+            if (!title || title.length < 10 || title.length > 200) continue;
+            if (skipPatterns.test(title)) continue;
+            if (!bragFilter.test(title) && !title.toLowerCase().includes('brag')) continue;
+            if (seen.has(title)) continue;
+            seen.add(title);
+
+            posts.push({
+                text: title,
+                platform: 'Stockhouse · TSX:BRAG'
+            });
+        }
+
+        console.log(`    Found ${posts.length} Stockhouse discussions`);
+        return posts.slice(0, 8);
+    } catch (error) {
+        console.error('  Error fetching Stockhouse:', error.message);
+        return [];
+    }
+}
+
+/**
  * Scrapes iGaming Today news page (HTML) since RSS returns 403.
  */
 async function fetchIGamingToday(url, filter) {
@@ -419,4 +538,4 @@ function extractTag(xml, tag) {
         .trim();
 }
 
-module.exports = { fetchAllNews, translateArticlesToHebrew, NEWS_SOURCES };
+module.exports = { fetchAllNews, translateArticlesToHebrew, fetchStockhouseDiscussions, NEWS_SOURCES };

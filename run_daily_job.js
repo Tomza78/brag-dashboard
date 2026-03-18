@@ -6,7 +6,7 @@ require('dotenv').config();
 const { fetchRedditTrends } = require('./src/scraper');
 const { getXIntelligence } = require('./src/x_trends');
 const { fetchStockData } = require('./src/finance');
-const { fetchAllNews, translateArticlesToHebrew } = require('./src/news_scraper');
+const { fetchAllNews, translateArticlesToHebrew, fetchStockhouseDiscussions } = require('./src/news_scraper');
 const { GoogleGenerativeAI } = require('@google/generative-ai');
 const { summarizePost, categorizePost, summarizeComments } = require('./src/ai');
 const { initDB, getTrend, saveTrend, saveXIntelligence, getLatestXIntelligence } = require('./src/db');
@@ -25,7 +25,7 @@ function generateHTMLReport(trends, xIntel) {
     console.log('Report data generated at public/data.js');
 }
 
-function generateIntelReport(financeData, trends, xIntelData, newsSections) {
+function generateIntelReport(financeData, trends, xIntelData, newsSections, stockhousePosts) {
     const stock = financeData?.stock || {};
     const chartData = financeData?.chartData || null;
 
@@ -41,8 +41,11 @@ function generateIntelReport(financeData, trends, xIntelData, newsSections) {
             url: t.url
         }));
 
-    // Build opinions from Grok data
+    // Build opinions from Stockhouse + Grok data
     const opinions = [];
+    if (stockhousePosts && stockhousePosts.length > 0) {
+        opinions.push(...stockhousePosts);
+    }
     if (xIntelData) {
         const topics = ['brag_stock', 'us_regulation', 'brazil_market', 'netherlands_ksa', 'igaming_industry'];
         topics.forEach(key => {
@@ -147,6 +150,10 @@ async function runDailyJob() {
         await translateArticlesToHebrew(newsSections, aiForTranslation);
         console.log(`  Fetched ${Object.keys(newsSections).length} news sections`);
 
+        // Step 1c: Fetch Stockhouse discussions
+        console.log('\nStep 1c: Fetching Stockhouse discussions...');
+        const stockhousePosts = await fetchStockhouseDiscussions();
+
         // Step 2: Fetch Reddit trends
         console.log('\nStep 2: Fetching trends from Reddit...');
         const rawTrends = await fetchRedditTrends();
@@ -211,7 +218,7 @@ async function runDailyJob() {
         const xIntelData = xIntel ? (xIntel.data || xIntel) : null;
         console.log('\nStep 5: Generating reports...');
         generateHTMLReport(processedTrends, xIntel);
-        generateIntelReport(financeData, processedTrends, xIntelData, newsSections);
+        generateIntelReport(financeData, processedTrends, xIntelData, newsSections, stockhousePosts);
 
         const duration = ((new Date() - jobStartTime) / 1000).toFixed(2);
         console.log(`\n${'='.repeat(70)}`);

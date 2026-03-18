@@ -26,23 +26,33 @@ async function fetchStockData() {
         updatedAt: new Date().toLocaleDateString('he-IL') + ' · ' + new Date().toLocaleTimeString('he-IL', { hour: '2-digit', minute: '2-digit' })
     };
 
+    // Known shares outstanding for BRAG (from latest SEC/SEDAR filing)
+    // Updated periodically from quarterly reports
+    const SHARES_OUTSTANDING = 30_500_000; // ~30.5M diluted shares
+
     try {
         // Fetch NASDAQ: BRAG
         const nasdaqData = await fetchYahooQuote('BRAG');
         if (nasdaqData) {
-            result.price = nasdaqData.regularMarketPrice?.toFixed(2) || '-';
+            const price = nasdaqData.regularMarketPrice;
+            result.price = price?.toFixed(2) || '-';
             const change = nasdaqData.regularMarketChange;
             const changePct = nasdaqData.regularMarketChangePercent;
             result.change = change >= 0 ? `+${change?.toFixed(2)}` : change?.toFixed(2);
             result.changePercent = changePct >= 0 ? `+${changePct?.toFixed(2)}%` : `${changePct?.toFixed(2)}%`;
             result.volume = formatNumber(nasdaqData.regularMarketVolume);
-            result.marketCap = formatMarketCap(nasdaqData.marketCap);
-            result.eps = nasdaqData.epsTrailingTwelveMonths ? `$${nasdaqData.epsTrailingTwelveMonths.toFixed(2)}` : '-';
-            result.epsNote = nasdaqData.epsTrailingTwelveMonths < 0 ? 'רווח שלילי' : 'רווח חיובי';
-            if (nasdaqData.targetMeanPrice) {
-                result.analystTarget = `$${nasdaqData.targetMeanPrice.toFixed(2)}`;
-                const upside = ((nasdaqData.targetMeanPrice / nasdaqData.regularMarketPrice - 1) * 100).toFixed(0);
-                result.analystNote = `▲ פוטנציאל +${upside}%`;
+            // Calculate market cap from shares outstanding
+            if (price) {
+                result.marketCap = formatMarketCap(price * SHARES_OUTSTANDING);
+            }
+            result.high52w = nasdaqData.fiftyTwoWeekHigh ? `$${nasdaqData.fiftyTwoWeekHigh.toFixed(2)}` : '-';
+            result.low52w = nasdaqData.fiftyTwoWeekLow ? `$${nasdaqData.fiftyTwoWeekLow.toFixed(2)}` : '-';
+            result.dayHigh = nasdaqData.regularMarketDayHigh ? `$${nasdaqData.regularMarketDayHigh.toFixed(2)}` : '-';
+            result.dayLow = nasdaqData.regularMarketDayLow ? `$${nasdaqData.regularMarketDayLow.toFixed(2)}` : '-';
+            // YoY change (from 52-week high)
+            if (nasdaqData.fiftyTwoWeekHigh && price) {
+                const yoy = ((price - nasdaqData.fiftyTwoWeekHigh) / nasdaqData.fiftyTwoWeekHigh * 100).toFixed(0);
+                result.yoyChange = `${yoy}%`;
             }
         }
 
@@ -50,13 +60,13 @@ async function fetchStockData() {
         const tsxData = await fetchYahooQuote('BRAG.TO');
         if (tsxData) {
             result.priceTSX = tsxData.regularMarketPrice?.toFixed(2) || '-';
-            result.high52w = `$${tsxData.fiftyTwoWeekHigh?.toFixed(2) || '-'}`;
-            result.low52w = `$${tsxData.fiftyTwoWeekLow?.toFixed(2) || '-'}`;
-            // YoY change
-            if (tsxData.fiftyTwoWeekLow && tsxData.fiftyTwoWeekHigh && tsxData.regularMarketPrice) {
-                const yoy = ((tsxData.regularMarketPrice - tsxData.fiftyTwoWeekHigh) / tsxData.fiftyTwoWeekHigh * 100).toFixed(0);
-                result.yoyChange = `${yoy}%`;
-            }
+            result.changeTSX = tsxData.regularMarketChange >= 0
+                ? `+${tsxData.regularMarketChange?.toFixed(2)}`
+                : tsxData.regularMarketChange?.toFixed(2);
+            result.changePercentTSX = tsxData.regularMarketChangePercent >= 0
+                ? `+${tsxData.regularMarketChangePercent?.toFixed(2)}%`
+                : `${tsxData.regularMarketChangePercent?.toFixed(2)}%`;
+            result.volumeTSX = formatNumber(tsxData.regularMarketVolume);
         }
 
         // Fetch chart data (7 days)
@@ -106,11 +116,10 @@ async function fetchYahooQuote(symbol) {
             regularMarketChange: meta.regularMarketPrice && prevClose ? meta.regularMarketPrice - prevClose : 0,
             regularMarketChangePercent: meta.regularMarketPrice && prevClose ? ((meta.regularMarketPrice - prevClose) / prevClose) * 100 : 0,
             regularMarketVolume: lastVolume,
-            marketCap: null, // Not available from chart endpoint
+            regularMarketDayHigh: meta.regularMarketDayHigh,
+            regularMarketDayLow: meta.regularMarketDayLow,
             fiftyTwoWeekHigh: meta.fiftyTwoWeekHigh,
             fiftyTwoWeekLow: meta.fiftyTwoWeekLow,
-            epsTrailingTwelveMonths: null,
-            targetMeanPrice: null,
             currency: meta.currency,
             exchangeName: meta.exchangeName
         };
