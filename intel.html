@@ -454,10 +454,10 @@ const kpis = data.kpis || [
   { label: 'מחיר TSX (CAD)', value: '$' + (stock.priceTSX || '-'), sub: '', subClass: 'neutral', color: 'gold' },
   { label: 'שווי שוק', value: stock.marketCap || '-', sub: 'USD', subClass: 'neutral', color: 'blue' },
   { label: 'שינוי שנתי', value: stock.yoyChange || '-', sub: 'YoY', subClass: 'down', color: 'red' },
-  { label: 'הכנסות TTM', value: stock.revenueTTM || '-', sub: stock.revenueChange || '', subClass: 'up', color: 'green' },
-  { label: 'EPS מדולל', value: stock.eps || '-', sub: stock.epsNote || '', subClass: 'down', color: 'red' },
-  { label: 'יעד אנליסטים', value: stock.analystTarget || '-', sub: stock.analystNote || '', subClass: 'up', color: 'purple' },
-  { label: 'טווח 52 שבועות', value: (stock.low52w || '-') + '–' + (stock.high52w || '-'), sub: 'CAD · TSX', subClass: 'neutral', color: 'blue', smallValue: true }
+  { label: 'טווח 52 שבועות', value: (stock.low52w || '-') + '–' + (stock.high52w || '-'), sub: 'CAD · TSX', subClass: 'neutral', color: 'blue', smallValue: true },
+  { label: 'טווח יומי', value: (stock.dayLow || '-') + '–' + (stock.dayHigh || '-'), sub: 'USD · NASDAQ', subClass: 'neutral', color: 'green', smallValue: true },
+  { label: 'מחזור NASDAQ', value: stock.volume || '-', sub: 'מניות', subClass: 'neutral', color: 'purple' },
+  { label: 'מחזור TSX', value: stock.volumeTSX || '-', sub: 'מניות', subClass: 'neutral', color: 'purple' }
 ];
 const kpiGrid = document.getElementById('kpi-grid');
 kpis.forEach(k => {
@@ -516,6 +516,29 @@ document.getElementById('tab-us').innerHTML = renderTabContent(usArticles);
 document.getElementById('tab-br').innerHTML = renderTabContent(brArticles);
 document.getElementById('tab-nl').innerHTML = renderTabContent(nlArticles);
 document.getElementById('tab-global').innerHTML = renderTabContent(globalRegArticles);
+
+// Hide empty tabs dynamically
+const tabData = [
+  { id: 'us', articles: usArticles },
+  { id: 'br', articles: brArticles },
+  { id: 'nl', articles: nlArticles },
+  { id: 'global', articles: globalRegArticles }
+];
+const tabs = document.querySelectorAll('.tabs .tab');
+tabData.forEach((t, i) => {
+  if (t.articles.length === 0 && tabs[i]) {
+    tabs[i].style.opacity = '0.4';
+    tabs[i].title = 'אין כתבות השבוע';
+  }
+});
+// Auto-select first non-empty tab
+const firstNonEmpty = tabData.find(t => t.articles.length > 0);
+if (firstNonEmpty) {
+  showTab(firstNonEmpty.id);
+  const idx = tabData.indexOf(firstNonEmpty);
+  tabs.forEach(t => t.classList.remove('active'));
+  if (tabs[idx]) tabs[idx].classList.add('active');
+}
 
 // Section 5: Social Media
 const social = data.socialMedia || {};
