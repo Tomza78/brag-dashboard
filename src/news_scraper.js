@@ -22,6 +22,8 @@ const REGION_FILTERS = {
     global_regulation: /regulat|legislat|compliance|license|licensing|fine.*million|penalty|enforcement|gambling act|betting act|tax.*gambling|tax.*gaming|ban.*gambling|ban.*betting|crackdown|illegal.*gambling|framework|directive|EU.*gaming|European.*gaming|UK.*gaming|UKGC|MGA|malta.*gaming|Gibraltar|Isle of Man|Curaçao|Curacao|Alderney/i
 };
 
+const BRAG_NAME_FILTER = /bragg|brag gaming/i;
+
 const NEWS_SOURCES = [
     {
         key: 'brag_official',
@@ -30,7 +32,18 @@ const NEWS_SOURCES = [
         color: 'rgba(255,214,0,0.15)',
         url: 'https://bragg.group/feed/',
         type: 'rss',
-        filter: null // Take all - it's the company's own feed
+        filter: null, // Take all - it's the company's own feed
+        maxDays: 30
+    },
+    {
+        key: 'brag_official',
+        title: 'BRAG - Google News',
+        icon: '📋',
+        color: 'rgba(255,214,0,0.15)',
+        url: 'https://news.google.com/rss/search?q=%22bragg+gaming%22&hl=en&gl=US&ceid=US:en',
+        type: 'rss',
+        filter: BRAG_NAME_FILTER,
+        maxDays: 30
     },
     {
         key: 'igaming_market',
@@ -112,7 +125,7 @@ async function fetchAllNews(maxPerSource = 10) {
             let articles = [];
 
             if (source.type === 'rss') {
-                articles = await fetchRSS(source.url, source.filter);
+                articles = await fetchRSS(source.url, source.filter, source.maxDays || 7);
             } else if (source.type === 'html_yogonet') {
                 articles = await fetchYogonet(source.url, source.filter);
             } else if (source.type === 'html_deadspin') {
@@ -137,14 +150,24 @@ async function fetchAllNews(maxPerSource = 10) {
     // Reorganize articles into topic-based sections
     const sections = {};
 
-    // 1. BRAG Official — always first
+    // 1. BRAG Official — always first (30 days, deduplicated, sorted by date)
     const bragArticles = allArticles.filter(a => a.sourceKey === 'brag_official');
-    if (bragArticles.length > 0) {
+    // Deduplicate by title similarity (Business Wire + bragg.group may overlap)
+    const seenBragTitles = new Set();
+    const uniqueBragArticles = bragArticles.filter(a => {
+        const key = a.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 40);
+        if (seenBragTitles.has(key)) return false;
+        seenBragTitles.add(key);
+        return true;
+    });
+    // Sort by date descending
+    uniqueBragArticles.sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+    if (uniqueBragArticles.length > 0) {
         sections.brag_official = {
-            title: 'BRAG רשמי',
+            title: 'BRAG רשמי — 30 יום אחרונים',
             icon: '🏢',
             color: 'rgba(255,214,0,0.15)',
-            articles: bragArticles.slice(0, 5)
+            articles: uniqueBragArticles.slice(0, 10)
         };
     }
 
@@ -262,7 +285,7 @@ Hebrew summary:`;
 /**
  * Parses RSS/XML feed and extracts articles.
  */
-async function fetchRSS(url, filter) {
+async function fetchRSS(url, filter, maxDays = 7) {
     const response = await fetch(url, {
         headers: {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
@@ -331,13 +354,13 @@ async function fetchRSS(url, filter) {
         });
     }
 
-    // Only return articles from last 7 days
-    const sevenDaysAgo = new Date();
-    sevenDaysAgo.setDate(sevenDaysAgo.getDate() - 7);
+    // Only return articles from last N days
+    const cutoff = new Date();
+    cutoff.setDate(cutoff.getDate() - maxDays);
 
     return articles.filter(a => {
         if (!a.date) return true;
-        return new Date(a.date) >= sevenDaysAgo;
+        return new Date(a.date) >= cutoff;
     });
 }
 
