@@ -162,5 +162,5 @@ window.dashboardData = {
     },
     "overall_sentiment": "חיובי"
   },
-  "generatedAt": "2026-03-18T09:47:25.175Z"
+  "generatedAt": "2026-03-18T10:17:07.511Z"
 };
