@@ -24,6 +24,9 @@ const REGION_FILTERS = {
 
 const BRAG_NAME_FILTER = /bragg|brag gaming/i;
 
+// Syndication aggregators that re-publish old articles with new dates — skip these
+const SYNDICATION_SOURCES = /^(msn|msn\.com|yahoo|yahoo\.com|aol|aol\.com|newsnow|newsnow\.co\.uk)$/i;
+
 const NEWS_SOURCES = [
     {
         key: 'brag_official',
@@ -312,7 +315,16 @@ async function fetchRSS(url, filter, maxDays = 7) {
         const description = extractTag(item, 'description');
         const category = extractTag(item, 'category');
 
+        // Google News RSS includes a <source> tag with the real publisher name
+        const sourceTag = extractTag(item, 'source');
+
         if (!title) continue;
+
+        // Skip syndication aggregators (MSN, Yahoo, etc.) — they re-publish old articles with new dates
+        if (sourceTag && SYNDICATION_SOURCES.test(sourceTag.trim())) {
+            console.log(`  ⏭ Skipping syndicated article from ${sourceTag}: ${title.substring(0, 60)}`);
+            continue;
+        }
 
         // Apply inclusion filter if provided
         if (filter) {
@@ -345,11 +357,17 @@ async function fetchRSS(url, filter, maxDays = 7) {
             .trim()
             .substring(0, 300);
 
+        // For Google News RSS, use the <source> tag as the real source name
+        const isGoogleNews = url.includes('news.google.com');
+        const articleSource = (isGoogleNews && sourceTag)
+            ? sourceTag.trim()
+            : new URL(url).hostname.replace('www.', '');
+
         articles.push({
             date: dateStr,
             title: title.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1').trim(),
             summary_he: cleanDesc, // English for now, translated to Hebrew by AI later
-            source: new URL(url).hostname.replace('www.', ''),
+            source: articleSource,
             url: link || ''
         });
     }

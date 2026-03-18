@@ -1,39 +1,6 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1rv73ew",
-      "source": "reddit",
-      "title": "are there any online casino style games where you can play with friends?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1rv73ew/are_there_any_online_casino_style_games_where_you/",
-      "author": "Optimal_Lawyer_2551",
-      "score": 4,
-      "selftext": "i love playing online slots and blackjack on my phone but it feels kinda lonely just staring at the screen for an hour. usually i have a stream on in the background anyway, but i wish there was a way to actually play with the community or a group of friends instead of just watching someone else have all the fun.\n\nDoes anyone know any social casino sites that actually have a multiplayer mode or \"rooms\" where you can chat and play the same games together in real time? looking for something legal in the US that doesn't require a huge deposit just to hang out. does anything like that exist for online slots or casino games?",
-      "subreddit": "onlinegambling",
-      "created_utc": 1773661265,
-      "top_comments": [
-        {
-          "body": "yeah the ones with public tables or chat rooms feel way less lonely, otherwise it’s basically just a solo slot machine.",
-          "score": 1,
-          "author": "TooManyApps54"
-        },
-        {
-          "body": "If you’re looking for casino style games there are a lot of options like slots, blackjack, or crash games depending on the platform. I’ve been using Gamdom lately and it has a pretty big variety of those, plus their sportsbook odds are honestly some of the best I’ve seen.",
-          "score": 1,
-          "author": "Tasty_Bear_9062"
-        },
-        {
-          "body": "There are plenty out there. I am also into social casinos a lot. Pop Slots! is fun because you are actually in a virtual casino with other players. Also features a leaderboard for fun where you can win prizes if you are on top. ",
-          "score": 1,
-          "author": "WovenShadow6"
-        }
-      ],
-      "summary_he": "הפוסט מדגיש את הביקוש הגובר לאלמנטים חברתיים ומצבי \"רב-משתתפים\" בשוק ה-iGaming בארה\"ב, כאשר שחקנים מחפשים חוויות קהילתיות הכוללות חדרי צ'אט ומשחק משותף בזמן אמת. מגמה זו של שילוב חברתי וגיימיפיקציה מהווה הזדמנות משמעותית עבור ספקיות תוכן כמו Bragg Gaming (BRAG), המפתחות פתרונות טכנולוגיים להגברת מעורבות שחקנים ושימורם בשוק התחרותי.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בנושא iGaming והימורים:\n\n*   **חשיבות האינטראקציה החברתית:** המשתתפים מציינים כי שולחנות ציבוריים וחדרי צ'אט הופכים את חוויית המשחק לפחות \"בודדה\" ומשמימה לעומת משחק בודד במכונות מזל (Slots).\n*   **מגוון סוגי משחקים:** קיימות אפשרויות רבות ומגוונות עבור שחקנים, החל ממשחקי קזינו קלאסיים כמו בלאק ג'ק ומכונות מזל, ועד למשחקים מודרניים יותר כמו משחקי \"קראש\" (Crash).\n*   **המלצות על פלטפורמות ספציפיות:** משתמש אחד ממליץ על פלטפורמת Gamdom בזכות המגוון הרחב שהיא מציעה ובמיוחד בזכות יחסי הזכייה (Odds) בלוח הימורי הספורט שלה, שלטענתו הם מהטובים בשוק.\n*   **עלייתו של ה\"קזינו החברתי\":** ישנה התעניינות גוברת באפליקציות מסוג Social Casino (כמו Pop Slots!), המדמות שהייה פיזית בקזינו וירטואלי לצד שחקנים אחרים.\n*   **אלמנטים תחרותיים ופרסים:** השימוש בלוחות מובילים (Leaderboards) מוסיף רובד של הנאה ותחרותיות, כאשר שחקנים יכולים לזכות בפרסים אם הם מגיעים לראש הדירוג.\n*   **חוויית משתמש מבוססת קהילה:** באופן כללי, הדיון מדגיש שהערך המוסף במשחקי אונליין כיום נובע מהיכולת להרגיש חלק מקהילה ולא רק מהמשחק עצמו.",
-      "date_string": "2026-03-18",
-      "saved_at": "2026-03-18T06:35:08.474+00:00"
-    },
-    {
       "id": "1rveidd",
       "source": "reddit",
       "title": "Where to find gambling buds online?",
@@ -100,6 +67,37 @@ window.dashboardData = {
       "saved_at": "2026-03-18T07:14:39.549+00:00"
     },
     {
+      "id": "1rx48c4",
+      "source": "reddit",
+      "title": "Tips about choosing online casino",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1rx48c4/tips_about_choosing_online_casino/",
+      "author": "Most-Neck1820",
+      "score": 1,
+      "selftext": "Australian guy here. I recently moved house and no longer have access to pokies nearby so I wanna start playing online. I'm aware most of you are gonna say don't go online or whatever, but it's a hobby and I enjoy playing with limited funds occasionally. I researched a bit and found a bunch of websites like australiangamblers.com, casinoguru, etc, that rate online casinos, but i'm wondering whether they're good or bad. Where do you guys play? How do you choose which online casino to use among the hundreds available?",
+      "subreddit": "onlinegambling",
+      "created_utc": 1773841326,
+      "top_comments": [
+        {
+          "body": "eesh, I don't know any australian sites, but the following steps would work when choosing an online casino\n\nI wrote about this earlier!\n\nI'll just copy and paste it for now, but you'll get the drift. The point is you're gambling with your money, so you'll have to do a bit of legwork. Look for casinos with the following in mind\n\n1. Trustpilot, it costs money and needs documents to have it set up. If the casino doesn't have it, I don't bother\n2. Trustpilot reviews - I check them, if they have multiple reviews from reviewers posting on multiple casino platforms, then I get suspicious. If the reviewers are posting on businesses other than casinos, that's better.\n3. If they ask for money for KYC or payout fees, run don't walk away\n4. Games which aren't shown anywhere else by unknown providers. Over time you'll notice certain game companies pop up, and they have well known branding like megaways. If your site has something else that you don't recognize or can't find with a cursory search, then leave.",
+          "score": 1,
+          "author": "Diligent_Chain_212"
+        },
+        {
+          "body": "i say go with australiangamblers.com, they helped me resolve a payout problem i had with a casino some 6 months or so, so their ratings should be good",
+          "score": 1,
+          "author": "Living-Ad9706"
+        },
+        {
+          "body": "I don't trust before I test, meaning I only play low stakes (think $50 deposits) when I start at a new casino until I verify my account and request a small payout. If the payout goes through without issues, then I will play as I intend to. But yeah, to choose an online casino in the first place, I'd stick with australiangamblers, it's a good site",
+          "score": 1,
+          "author": "khushvendra"
+        }
+      ],
+      "summary_he": "הפוסט מדגים את המגמה המתמשכת של מעבר שחקנים מהימורים בבתי קזינו פיזיים (\"pokies\") לפלטפורמות iGaming מקוונות מטעמי נוחות ונגישות. המשתמש מדגיש את החשיבות של אתרי דירוג וביקורות בתהליך בחירת המפעיל, מה שמשקף את הצורך הגובר באמינות ורגולציה בשוק המקוון. מגמה זו של אימוץ פתרונות דיגיטליים מחזקת את הרלוונטיות של ספקיות טכנולוגיה ותוכן כמו Bragg Gaming, המהוות עמוד שדרה לתעשייה זו.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בנושא בחירת פלטפורמות הימורים מקוונות (iGaming):\n\n*   **אימות אמינות דרך Trustpilot:** מומלץ לבדוק אם לקזינו יש פרופיל ב-Trustpilot, שכן הקמת פרופיל כזה דורשת מסמכים ותשלום. בנוסף, יש לבחון את איכות הביקורות – ביקורות של משתמשים המגיבים רק על אתרי הימורים עלולות להיות מזויפות וחשודות.\n*   **זיהוי \"נורות אדומות\" בתשלומים:** יש להתרחק באופן מיידי מאתרים הדורשים תשלום עבור תהליך אימות הלקוח (KYC) או גובים עמלות על עצם פעולת משיכת הכספים.\n*   **בדיקת ספקי המשחקים:** חשוב לוודא שהאתר מציע משחקים של חברות מוכרות ובעלות מותג ידוע (כמו Megaways). משחקים של ספקים לא ידועים שאינם מופיעים באתרים אחרים הם סימן לאתר שאינו אמין.\n*   **שימוש באתרי דירוג וסיוע:** קיימת המלצה להסתייע באתרים כמו australiangamblers.com, המדרגים קזינואים ומסייעים בפתרון בעיות מול הפלטפורמות (כמו עיכובי תשלומים).\n*   **אסטרטגיית \"הפקדה נמוכה\" לבדיקה:** מומלץ לא לתת אמון מלא באתר חדש לפני שבוחנים אותו. הדרך הטובה ביותר היא להפקיד סכום נמוך (כ-50 דולר) כדי לבדוק את המערכת בסיכון מינימלי.\n*   **בדיקת תהליך המשיכה בפועל:** לפני שמתחילים לשחק בסכומים גבוהים, כדאי לבצע אימות חשבון ולבקש משיכה קטנה. רק אם המשיכה עוברת בצורה חלקה וללא תקלות, ניתן להמשיך לשחק כרגיל."
+    },
+    {
       "id": "1rw3m5p",
       "source": "reddit",
       "title": "What is the best instant withdrawal casino available today?",
@@ -162,5 +160,5 @@ window.dashboardData = {
     },
     "overall_sentiment": "חיובי"
   },
-  "generatedAt": "2026-03-18T10:38:22.854Z"
+  "generatedAt": "2026-03-18T14:47:56.793Z"
 };
