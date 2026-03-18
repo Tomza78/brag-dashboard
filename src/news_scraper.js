@@ -6,14 +6,20 @@ const fetch = require('node-fetch');
  * Uses RSS feeds (XML) where available, HTML scraping as fallback.
  */
 
-// iGaming-focused filter: online platforms, regulation, B2B tech — excludes lottery, horse racing, land-based casinos
-const IGAMING_FILTER = /igaming|i-gaming|online casino|online gambling|sports ?betting|bragg|brag gaming|PAM platform|content aggregat|B2B gaming|slot provider|live casino|live dealer|mobile gaming|gaming platform|gaming supplier|gaming operator|gaming license|gaming regulat|gaming commission|gaming authority|compliance|responsible gaming|responsible gambling|KSA|kansspelautoriteit|dutch regul|netherlands.*gaming|holland.*gaming|brazil.*gaming|brazil.*bet|brasil.*gaming|new york.*gaming|US.*igaming|legali[sz]|fine.*million|penalty|illegal.*operat|enforcement|regulator.*impos|gambling act|betting.*regulat|casino.*regulat|GGR|revenue.*gaming|market.*entry|acquisition|merger.*gaming|partnership.*gaming|deal.*gaming|launch.*gaming|expand.*gaming|operator|supplier|provider|software.*gaming|RNG|random number|jackpot|turnover|wagering/i;
+// BRAG-impact filter: articles that could affect Bragg Gaming stock
+// Focused on: iGaming regulation, online platforms, B2B tech, key markets (US, Brazil, Netherlands)
+// Excludes: lottery, horse racing, land-based casinos, general sports news, Cheltenham, Liberia, etc.
+const IGAMING_FILTER = /igaming|i-gaming|online casino|online gambling|sports ?betting|bragg|brag gaming|PAM platform|content aggregat|B2B gaming|slot provider|live casino|live dealer|mobile gaming|gaming platform|gaming supplier|gaming operator|gaming license|gaming regulat|gaming commission|gaming authority|compliance|responsible gaming|responsible gambling|KSA|kansspelautoriteit|dutch regul|netherlands.*gaming|holland.*gaming|brazil.*gaming|brazil.*bet|brasil.*gaming|new york.*gaming|US.*igaming|legali[sz]|fine.*million|penalty|illegal.*operat|enforcement|regulator.*impos|gambling act|betting.*regulat|casino.*regulat|GGR|revenue.*gaming|market.*entry|acquisition.*gaming|merger.*gaming|partnership.*gaming|expand.*gaming|prediction market|sweepstakes.*regulat|gambling.*bill|gambling.*law|gambling.*tax/i;
+
+// Exclusion filter: topics NOT relevant to BRAG even if they match IGAMING_FILTER
+const EXCLUDE_FILTER = /horse racing|cheltenham|kentucky derby|lottery|lotto|powerball|mega millions|land.based casino|brick.and.mortar|slot machine(?!.*online)|mini slot|physical casino|tribal casino|hotel tower|poker tournament|WSOP|world series of poker|boxing|UFC|MMA|fantasy sport|daily fantasy|esport|e-sport|free.to.play/i;
 
 // Regional filters for category assignment
 const REGION_FILTERS = {
     netherlands: /dutch|netherlands|holland|KSA|kansspelautoriteit|NLO|betcity|ksa\.nl|novatech|nl\b.*regulat/i,
-    brazil: /brazil|brasil|brazilian|latam|latin america|loterj|apostas/i,
-    us_regulation: /united states|(?:^|\b)US\s+(?:regulat|gaming|igaming)|new york|new jersey|michigan|pennsylvania|illinois|ohio|connecticut|virginia|nevada|nebraska|american gaming|AGA|tribal gaming|congress.*gambl|DraftKings|FanDuel|BetMGM|CFTC/i
+    brazil: /brazil|brasil|brazilian|latam|latin america|loterj|apostas|colombia|colombian/i,
+    us_regulation: /united states|(?:^|\b)US\s+(?:regulat|gaming|igaming)|new york|new jersey|michigan|pennsylvania|illinois|ohio|connecticut|virginia|nevada|nebraska|massachusetts|maryland|west virginia|georgia|minnesota|washington|american gaming|AGA|tribal gaming|congress.*gambl|DraftKings|FanDuel|BetMGM|CFTC|prediction market|POINTS act|PGCB|NCAA.*betting|sportsbook.*fine|online casino.*bill|igaming.*bill|sports betting.*bill/i,
+    global_regulation: /regulat|legislat|compliance|license|licensing|fine.*million|penalty|enforcement|gambling act|betting act|tax.*gambling|tax.*gaming|ban.*gambling|ban.*betting|crackdown|illegal.*gambling|framework|directive|EU.*gaming|European.*gaming|UK.*gaming|UKGC|MGA|malta.*gaming|Gibraltar|Isle of Man|Curaçao|Curacao|Alderney/i
 };
 
 const NEWS_SOURCES = [
@@ -163,17 +169,33 @@ async function fetchAllNews(maxPerSource = 10) {
         };
     }
 
-    // 5. General iGaming market (everything else not already categorized)
+    // 5. Global iGaming regulation (not US/NL/BR but still regulation-related)
     const categorized = new Set([
         ...bragArticles, ...nlArticles, ...brArticles, ...usArticles
     ]);
-    const generalArticles = allArticles.filter(a => !categorized.has(a));
+    const globalRegArticles = allArticles.filter(a =>
+        !categorized.has(a) && REGION_FILTERS.global_regulation.test(`${a.title} ${a.summary_he}`)
+    );
+    if (globalRegArticles.length > 0) {
+        sections.global_regulation = {
+            title: 'רגולציה עולמית - iGaming',
+            icon: '🌍',
+            color: 'rgba(156,39,176,0.12)',
+            articles: globalRegArticles.slice(0, 5)
+        };
+    }
+
+    // 6. General iGaming market (B2B deals, platform launches, market moves — NOT general gambling)
+    const allCategorized = new Set([
+        ...bragArticles, ...nlArticles, ...brArticles, ...usArticles, ...globalRegArticles
+    ]);
+    const generalArticles = allArticles.filter(a => !allCategorized.has(a));
     if (generalArticles.length > 0) {
         sections.igaming_market = {
-            title: 'שוק ה-iGaming',
+            title: 'שוק ה-iGaming — B2B ופלטפורמות',
             icon: '🎰',
             color: 'rgba(0,230,118,0.12)',
-            articles: generalArticles.slice(0, 8)
+            articles: generalArticles.slice(0, 6)
         };
     }
 
@@ -250,11 +272,14 @@ async function fetchRSS(url, filter) {
 
         if (!title) continue;
 
-        // Apply filter if provided
+        // Apply inclusion filter if provided
         if (filter) {
             const searchText = `${title} ${description || ''} ${category || ''}`;
             if (!filter.test(searchText)) continue;
         }
+
+        // Apply exclusion filter - skip irrelevant topics
+        if (EXCLUDE_FILTER.test(`${title} ${description || ''}`)) continue;
 
         let dateStr = '';
         if (pubDate) {
