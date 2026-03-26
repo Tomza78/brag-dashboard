@@ -1,67 +1,96 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1s1ky8k",
+      "id": "1s3u222",
       "source": "reddit",
-      "title": "What defines the best payout in an online casino?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1s1ky8k/what_defines_the_best_payout_in_an_online_casino/",
-      "author": "KarenaHarton",
+      "title": "Winning streak",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1s3u222/winning_streak/",
+      "author": "Automatic-Repeat-725",
       "score": 1,
-      "selftext": "I’ve been trying out a few different online casinos lately, mostly just casually, and I keep noticing they all advertise high payouts.\n\nAt first I assumed that just meant better chances of winning, but now I’m seeing things like RTP, volatility, bonus terms, and even withdrawal speed being mentioned.\n\nSo now I’m kinda confused when people say a casino has good payouts, what are they actually referring to? Is it mostly RTP, or do other factors matter just as much?",
+      "selftext": "I am not posting this article to brag but I don’t understand what’s going on and when to stop. 2 weeks ago I bet $40 and won 10k I was in disbelief I had never won that much before. A week later I bet $100 and won 12k, I bet tonight and won another 2k every time I bet this week I’ve won anywhere from 400-2k per day. My question is when should I stop. I know I have an addiction but I keep winning, last year was nothing but loses with a few wins in between but this is something I’ve never experienced it’s like every time I play I win. Should I just stop or just slow play and see where it takes me?",
       "subreddit": "onlinegambling",
-      "created_utc": 1774281733,
+      "created_utc": 1774488999,
       "top_comments": [
         {
-          "body": "I would assume RTP is the main thing they talking about, although they all say you have good payouts when some most definitely do not.",
-          "score": 1,
-          "author": "joejoejoejoe420"
+          "body": "Yes I took it all out and put in like $50-100 at a time and once I hit close to 1-2k I take it all out next day do same thing ",
+          "score": 2,
+          "author": "Automatic-Repeat-725"
         },
         {
-          "body": "Good payouts is a bit vague, I agree. What you have to be careful of is who is saying that, they quite possibly could be someone from the casino itself or someone with incentive to say such things. \n\nGood payouts to me is like a saying its a good day, they're not all going to be that way. \n\nHigh RTP is a good thing. Fast payouts are a good thing. Ease of deposit and withdrawal is a good thing. \n\nTo me, best payout is whichever casino I just won on that day... and that may change day to day. ",
+          "body": "Yeah that’s prob my problem most I bet is $5 and that’s rare. I typically bet .20 cents to $2 at the most lol ",
+          "score": 1,
+          "author": "Glad-Fish5863"
+        },
+        {
+          "body": "Now don't do that balls out.  You have to set limits or you're fucked. I may  and do chase myself, but once I hit my limit, I'm done. I give myself the chance to chase. I may have a limit of $500 or whatever, but only do $100 at a time. That way I can chase 4 times, and if nothing happens after that then that's it. \n\nI have weekly limits, like it's built into my budget like a bill. How I break that up over the week daily may vary week to week and day to day.... but once it's gone, it's gone until next week. Ha. ",
           "score": 1,
           "author": "DFW-Extraterrestrial"
-        },
-        {
-          "body": "Typically “good payouts” refers to how quickly and efficiently an online casino gets you registered allows you to deposit and most importantly how quickly you see the money in your account after you withdraw. In my state all the legal online casinos pay me out within 24 hours but some like hard rock and golden nugget will pay me out within 5 minutes. ",
-          "score": 1,
-          "author": "Ango-Globlogian"
         }
       ],
-      "summary_he": "הפוסט דן במורכבות שמאחורי המושג \"אחוזי תשלום\" (Payouts) בקזינו אונליין, ומדגיש כי מדובר בשילוב של מדדים טכניים כמו RTP ותנודתיות (Volatility). נושאים אלו מהותיים עבור חברות כמו Bragg Gaming, המפתחות את התוכן והאלגוריתמים המכתיבים את חוויית המשחק ואת רווחיות המפעילים. המודעות הגוברת של השחקנים לנתונים אלו משקפת מגמה רחבה בתעשיית ה-iGaming של דרישה לשקיפות, דיוק בנתונים ורגולציה מחמירה.",
+      "summary_he": "הפוסט מתאר רצף זכיות יוצא דופן של מהמר המתמודד עם התמכרות, ומדגיש את הקושי הפסיכולוגי בעצירת המשחק למרות הרווחים. מקרה זה רלוונטי למגמות בתעשיית ה-iGaming סביב \"הימורים אחראיים\" (Responsible Gaming), נושא המהווה עמוד תווך ברגולציה ובפעילותן של חברות כמו Bragg Gaming בשווקים מוסדרים.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בנושא הימורים מקוונים ואיכות התשלומים:\n\n*   **מרכזיות ה-RTP (אחוז החזר לשחקן):** המגיבים מציינים כי RTP הוא המדד המרכזי לבחינת איכות התשלומים, אך מזהירים כי הצהרות של בתי קזינו על \"תשלומים טובים\" הן לעיתים קרובות מטעות ואינן תואמות את המציאות בשטח.\n*   **חשדנות כלפי מקור המידע:** יש לנקוט משנה זהירות לגבי הממליצים על בתי קזינו מסוימים. לעיתים קרובות מדובר באנשים מטעם הקזינו או בבעלי אינטרסים כלכליים (Affiliates) שתפקידם לקדם את הפלטפורמה.\n*   **מהירות ויעילות התשלום:** עבור שחקנים רבים, המונח \"תשלומים טובים\" אינו מתייחס רק לסכום הזכייה, אלא למהירות שבה הכסף מגיע לחשבון הבנק מרגע הבקשה למשיכה.\n*   **חווית משתמש כוללת:** איכות התשלומים נמדדת גם בפשטות של תהליכי ההרשמה, ההפקדה והמשיכה. ככל שהתהליך חלק ונטול חסמים, כך הקזינו נתפס כאמין ואיכותי יותר.\n*   **סובייקטיביות של הצלחה:** קיימת גישה הגורסת כי המושג \"התשלום הטוב ביותר\" הוא סובייקטיבי ומשתנה על בסיס יומי – השחקן נוטה להגדיר כ\"טוב\" את הקזינו שבו הוא זכה באותו הרגע.\n*   **סטנדרטים של זמן בשוק המוסדר:** בדיון עולה כי בבתי קזינו חוקיים, טווח הזמן המקובל לתשלום הוא עד 24 שעות, אך קיימות פלטפורמות מצטיינות שמצליחות להעביר את הכספים לשחקן בתוך פחות מ-5 דקות.",
-      "date_string": "2026-03-24",
-      "saved_at": "2026-03-24T07:06:27.446+00:00"
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג גישות שונות לניהול כספים והימורים:\n\n*   **אסטרטגיית משיכת רווחים מהירה:** חלק מהמשתמשים מעדיפים להפקיד סכומים קטנים יחסית (50–100 דולר) ולמשוך את כל הקופה ברגע שהם מגיעים לרווח משמעותי (1,000–2,000 דולר), במקום להמשיך להמר עם הזכייה.\n*   **הימורים בסכומים נמוכים (Low Stakes):** קיימת גישה של משחק זהיר מאוד, שבו סכומי ההימור נמוכים במיוחד (בין 20 סנט ל-2 דולר). המשתתפים מציינים כי הימור של 5 דולרים נחשב עבורם לנדיר וגבוה.\n*   **הצבת גבולות נוקשים למניעת קריסה:** המשתמשים מדגישים את החשיבות הקריטית של קביעת גבולות (Limits). ללא משמעת עצמית ועצירה בנקודה שנקבעה מראש, המהמר עלול למצוא את עצמו במצב כלכלי הרסני.\n*   **ניהול תקציב הדרגתי (\"רדיפה מבוקרת\"):** במקום להפקיד את כל התקציב בבת אחת, מוצע לחלק אותו למנות קטנות. כך ניתן \"לרדוף\" אחרי הפסדים מספר פעמים בתוך מסגרת התקציב הכוללת, אך ברגע שהמנות הללו נגמרות – עוצרים לחלוטין.\n*   **הימורים כסעיף בתקציב החודשי:** גישה פיננסית שמתייחסת להוצאות ההימורים כאל \"חשבון\" לכל דבר (כמו חשמל או שכר דירה). המהמר מקצה סכום שבועי קבוע מראש שנכלל בתוך מסגרת התקציב האישית שלו.\n*   **משמעת עצמית מוחלטת בסיום התקציב:** דגש על כך שברגע שתקציב ההימורים היומי או השבועי נגמר, אין לחרוג ממנו בשום אופן. המשתמשים מציינים כי אם הכסף נגמר, לא מהמרים יותר עד לשבוע הבא."
+    },
+    {
+      "id": "1s3gfus",
+      "source": "reddit",
+      "title": "Whats your go to online casino? I'm in PA",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1s3gfus/whats_your_go_to_online_casino_im_in_pa/",
+      "author": "Goddess_Ness",
+      "score": 1,
+      "selftext": "What are you using ? I literally think I have all of them- betmgm, draftkings, fanduel, ballys, betriver, parx, live, ceasers. \n\nMy recent favorite is draft kings & fanduel. \n\nWhat else is there? Or whats your favorite and why?I'm a live dealer girly, blackjack , roulette and crazy time. ",
+      "subreddit": "onlinegambling",
+      "created_utc": 1774457936,
+      "top_comments": [
+        {
+          "body": "if you love gambling …… Offshore accounts are where its at",
+          "score": 1,
+          "author": "Manifest-Destiny1833"
+        },
+        {
+          "body": "Slots.iv Cafecasino Bovada.iv & IgnitionCasino are all a 10 of 10 for Gast Withdrawels……. Then Betonline- Wild-superslots.ag are a 10 as well…… .",
+          "score": 1,
+          "author": "Manifest-Destiny1833"
+        },
+        {
+          "body": "I do a little bit of both.. honestly up until a few weeks ago I was just bouncing around all the apps that have the free. Daily games and would play with what I wonnon there. Then I had a offer from fanduel casino for a \"new customer \" which was weird bc I had already done the new player offer on the sportsbook side. So I had deposited and they had offered me 100$ bonus if I deposited 10$. I had been using betmgm originallt for months but honestly the way the bonus work for them suck. If I get bonus spins on fanduel or draftkings and I win anything $, the winnings are mine and can be withdrawln. Betmgm also doesn't give u many bonus or promos. Other then sometimes deposit bonus. Ever since I signed on for draftkings I've been super impressed.. daily promos which are reachable and u can get bonus casino cash in some way with them. Now since playing fanduel I'm like it alot also and since I've been winning on crazy time I went from level 1 to level 3 and have been getting even more promos. Its great. I'm interested in the crypto xasinos I have heard about. ",
+          "score": 1,
+          "author": "Goddess_Ness"
+        }
+      ],
+      "summary_he": "הפוסט דן בשוק ה-iGaming המוסדר בפנסילבניה, תוך ציון פלטפורמות מובילות כמו DraftKings ו-FanDuel שהן שותפות הפצה מרכזיות של חברות תוכן כדוגמת Bragg Gaming. המשתמשת מדגישה את הפופולריות של משחקי \"Live Dealer\", מגמה המשקפת את הביקוש הגובר לתוכן אינטראקטיבי המהווה מנוע צמיחה משמעותי עבור ספקי טכנולוגיה ומשחקים בתעשייה.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון וניתוח דעות הגולשים מהשרשור בנושא iGaming והימורים:\n\n*   **עדיפות לאתרי \"אופשור\" (Offshore):** חלק מהמשתמשים סבורים כי עבור חובבי הימורים מושבעים, חשבונות ואתרים הפועלים מחוץ למדינה (Offshore) הם האופציה המועדפת והטובה ביותר.\n*   **חשיבות מהירות המשיכה:** הגולשים נותנים דירוג גבוה (10 מתוך 10) לאתרים ספציפיים כמו Bovada, Ignition ו-Cafecasino, בעיקר בזכות היכולת שלהם לבצע משיכות כספים מהירות במיוחד.\n*   **השוואת פלטפורמות ומדיניות בונוסים:** קיימת ביקורת על אתר BetMGM בשל מערכת בונוסים מסורבלת ומעט מבצעים, לעומת פלטפורמות כמו FanDuel ו-DraftKings שנתפסות כעדיפות. המשתמשים מציינים לטובה את היכולת למשוך זכיות שמקורן בבונוסים ללא קשיים מיותרים.\n*   **אסטרטגיית \"דילוג\" בין אפליקציות:** שחקנים נוהגים לעבור בין אפליקציות שונות כדי לנצל משחקים יומיים בחינם ומבצעי הצטרפות אטרקטיביים (למשל, הפקדה של 10 דולר תמורת בונוס של 100 דולר), גם אם הם כבר רשומים בשירותים מקבילים של אותה חברה.\n*   **מערכות נאמנות והתקדמות:** שחקנים מעריכים מערכות שמעניקות תגמול על התקדמות ברמות (Levels). עלייה בדירוג השחקן מובילה להצעות שיווקיות ומבצעים משתלמים יותר, מה שמעודד נאמנות לאפליקציה.\n*   **עניין גובר בקריפטו:** ניכרת סקרנות מצד המהמרים לגבי בתי קזינו מבוססי קריפטו (Crypto Casinos) כאלטרנטיבה חדשה ומעניינת בשוק."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "בטוויטר, משתמשים מדברים על גידול במניית BRAG בעקבות שותפויות חדשות עם ספקי תוכן. יש תחזיות למחיר של 10-12 דולר תוך חודשים ספורים, אך חששות ממשבר כללי בשוק. הסנטימנט כולל דיונים על ביצועים רבעוניים חיוביים.",
+      "summary": "בטוויטר, משתמשים מדברים על עלייה במניית BRAG לאחר דיווחים על שותפויות חדשות בתחום iGaming. יש תחזיות מחיר חיוביות לטווח קצר, אך חששות מפני רגולציות. סנטימנט כללי מצביע על צמיחה פוטנציאלית.",
       "sentiment": "חיובי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; המידע האחרון הוא משבוע שעבר על שותפות עם ספק אירופאי."
+      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים מתמקדים בביצועים רבעוניים."
     },
     "us_regulation": {
-      "summary": "בטוויטר, משתמשים מתמקדים בחקיקה חדשה בניו יורק לאישור רישיונות iGaming, כולל דיונים על פוטנציאל הכנסות גבוהות. יש התייחסויות לרגולציות פדרליות אפשריות שיורחבו ב-2024, עם דגש על הגנה על צרכנים. רוב השיח עוסק בהשפעה על חברות כמו DraftKings.",
+      "summary": "בניו יורק, משתמשים בטוויטר דנים בחקיקה חדשה להרחבת רישיונות iGaming, כולל הימורים מקוונים. יש דגש על אישור רגולציות חדשות שיכולות להגביר את התחרות. רישיונות חדשים צפויים להניע צמיחה בשוק.",
       "sentiment": "חיובי",
-      "breaking": "דיווחים על הצעת חוק חדשה בניו יורק מהשעות האחרונות, שתאפשר רישיונות נוספים עד סוף 2024."
+      "breaking": "דיווחים על הצעת חוק חדשה בניו יורק מהשעות האחרונות, שתקדם רישיונות נוספים."
     },
     "brazil_market": {
-      "summary": "בטוויטר, משתמשים דנים ברגולציה החדשה של שוק ההימורים בברזיל, כולל מתן רישיונות ראשונים לחברות בינלאומיות. יש התייחסויות לאכיפה נגד הימורים בלתי חוקיים ופוטנציאל צמיחה כלכלית. השיח כולל חששות מעיכובים בביצוע.",
+      "summary": "בטוויטר, יש דיונים על רגולציות חדשות בשוק ההימורים בברזיל, כולל אכיפה נגד אתרי הימורים בלתי מורשים. רישיונות חדשים ניתנים לחברות בינלאומיות, עם פוטנציאל לצמיחה כלכלית. האכיפה מחמירה כדי למנוע הפרות.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; המידע האחרון הוא על אישור רישיונות ראשונים לפני שבוע."
+      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים ממשיכים להתמקד בתהליכי רישוי."
     },
     "netherlands_ksa": {
-      "summary": "בטוויטר, משתמשים מתמקדים בחידוש רישיונות על ידי KSA, כולל אכיפה נגד הפרות של BetCity. יש דיונים על שיפורי רגולציה להגנה על שחקנים ופיתוח שוק מקומי. הסנטימנט כולל שבחים על אכיפה יעילה.",
+      "summary": "בטוויטר, משתמשים מדברים על חידוש רישיונות על ידי KSA, כולל אכיפה נגד הפרות של BetCity. יש דגש על שיפור בטיחות המשתמשים ורגולציות חדשות. BetCity זוכה לתמיכה אך גם לביקורת על עמידה בתקנות.",
       "sentiment": "שלילי",
-      "breaking": "דיווחים על קנס חדש ל-BetCity מהשעות האחרונות עקב הפרות רגולטוריות."
+      "breaking": "דיווחים על אכיפה חדשה נגד BetCity מהשעות האחרונות, כולל קנסות אפשריים."
     },
     "igaming_industry": {
-      "summary": "בטוויטר, משתמשים מדברים על עסקאות כמו רכישת חברות ועל שותפויות חדשות בתחום iGaming, כולל מגמות גידול במובייל ובשווקים מתעוררים. יש דיונים על אתגרים כמו רגולציה גלובלית והשפעת AI. השיח כולל תחזיות לצמיחה של 10% בשנה הקרובה.",
+      "summary": "בטוויטר, הדיונים כוללים עסקאות שותפויות חדשות בין חברות iGaming, מגמות כלליות של מעבר למובייל והשקעות בטכנולוגיה. יש דגש על צמיחה עולמית למרות אתגרי רגולציה. עסקאות גדולות צפויות להמשיך ב-2024.",
       "sentiment": "חיובי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; המידע האחרון הוא על שותפות גלובלית בין שתי חברות מובילות."
+      "breaking": "אין חדשות חשובות מהשעות האחרונות; המגמות נשארות יציבות."
     },
     "overall_sentiment": "חיובי",
-    "top_alert": "החדשות החשובות ביותר הן הצעת החוק החדשה בניו יורק, שיכולה להשפיע על שוק iGaming הגלובלי."
+    "top_alert": "החדשות החשובות ביותר: הצעת חוק חדשה בניו יורק שעשויה להרחיב רישיונות iGaming."
   },
-  "generatedAt": "2026-03-25T07:03:42.742Z"
+  "generatedAt": "2026-03-26T07:10:27.055Z"
 };
