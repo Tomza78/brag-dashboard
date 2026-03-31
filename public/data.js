@@ -1,6 +1,48 @@
 window.dashboardData = {
   "trends": [
     {
+      "id": "1s8b28j",
+      "source": "reddit",
+      "title": "Betty.com referral illl send half deposit after proof of deposit",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1s8b28j/bettycom_referral_illl_send_half_deposit_after/",
+      "author": "Appropriate-Tax8280",
+      "score": 1,
+      "selftext": "If you spend 20$ CAD on Join me on Betty 🇨🇦✨, a real money online casino for slots lovers. Use my referral code william4ccevs or click the link to join: https://betty.com/join/william4ccevs you keep the 20 to withdrawal and withdrawal whatever you get on top of the deposit from the free spins i won 70 from mine good luck out there",
+      "subreddit": "onlinegambling",
+      "created_utc": 1774924292,
+      "top_comments": [
+        {
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "הפוסט עוסק בשיווק שותפים אגרסיבי עבור הקזינו המקוון Betty.com בשוק הקנדי, תוך הצעת תמריצים כספיים ישירים למצטרפים חדשים. פעילות זו משקפת את התחרות העזה ואת שיטות הרכישה של משתמשים בשוק ה-iGaming בקנדה, אזור פעילות אסטרטגי עבור חברת Bragg Gaming (BRAG). בנוסף, היא מדגישה את האתגרים הרגולטוריים סביב תוכניות הפניה והטבות בשוק הימורים מוסדר.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן ניתוח של הנקודות המרכזיות העולות מהתגובה שהוצגה (הודעת מנהל מערכת אוטומטית בפורום הימורים):\n\n* **ציות לכללי הקהילה:** קיימת דרישה ברורה ממשתתפים חדשים לקרוא ולהפנים את חוקי הפורום המופיעים בסרגל הצד כדי לשמור על סדר וארגון.\n* **הרחבת המעורבות החברתית:** הקהילה מעודדת את המשתמשים להצטרף לערוצי תקשורת נוספים, כמו שרת הדיסקורד (Discord), כדי להעמיק את האינטראקציה בין החברים.\n* **קידום הימורים אחראיים:** דגש מרכזי מושם על החשיבות של הימורים בריאים ומודעים, תוך ניסיון למנוע התנהגות הרסנית בקרב המשתמשים.\n* **מתן סיוע במקרה של אובדן שליטה:** הקהילה מציעה משאבים למשתמשים שחשים שהרגלי ההימורים שלהם הופכים לבעייתיים או יוצאים משליטה.\n* **הפניה למקורות מידע מקצועיים:** קיימת הפניה ישירה למדריך ייעודי (Wiki) העוסק בבעיות הימורים, הכולל כלים ועזרה למי שזקוק לכך.\n* **ניהול אוטומטי ומודרציה:** השימוש בבוט להצגת המידע מדגיש את החשיבות שהנהלת הפורום מייחסת להפצת אזהרות וכללים באופן עקבי לכל משתמש חדש."
+    },
+    {
+      "id": "1s83ack",
+      "source": "reddit",
+      "title": "Casino in ny",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1s83ack/casino_in_ny/",
+      "author": "Classic-Disaster3354",
+      "score": 1,
+      "selftext": "Any luck with finding a way to play online casino in ny...I miss crown coins. Card crush is a complete scam ut almost impossible to win on there. I made it to ruby status and found they take alot more than they give. ",
+      "subreddit": "onlinegambling",
+      "created_utc": 1774904646,
+      "top_comments": [
+        {
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "הפוסט מדגיש את הביקוש הגבוה למשחקי קזינו מקוונים (iGaming) בניו יורק, שוק שבו התחום טרם הוסדר בחוק. חוסר שביעות הרצון של המשתמש מפלטפורמות קיימות (כמו \"Card Crush\") מצביע על הצורך בפתרונות מוסדרים ובטוחים, מה שמסמן פוטנציאל צמיחה משמעותי עבור חברות כמו Bragg Gaming במידה ותאושר רגולציה במדינה.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "ניתוח התגובה בשרשור (המבוסס על הודעת הניהול האוטומטית בקהילת ההימורים) מעלה את הנקודות הבאות:\n\n* **ציות לכללי הקהילה:** קיימת חשיבות עליונה לקריאה והבנה של חוקי הפורום המופיעים בסרגל הצד (Sidebar) כדי לשמור על סדר ורלוונטיות.\n* **מעורבות חברתית ודיגיטלית:** עידוד המשתמשים להצטרף לערוצי תקשורת נוספים, כמו שרת הדיסקורד (Discord) הרשמי, כדי להרחיב את הדיון מעבר לפלטפורמת רדיט.\n* **קידום הימורים אחראיים:** הקהילה חורטת על דגלה את נושא ההימורים הבריאים והאחראיים ושואפת למנוע התנהגויות ממכרות.\n* **מתן משאבים לסיוע:** קיימת הפניה ישירה למדריכים ומשאבי עזרה (Wiki) עבור משתמשים שחשים שהרגלי ההימורים שלהם יוצאים מכלל שליטה.\n* **מעקב ועדכונים:** המלצה למשתמשים חדשים להירשם כמנויים (Subscribe) לערוץ כדי להישאר מעודכנים במידע ובדיונים חדשים בתחום.\n* **אוטומציה וניהול:** שימוש בבוטים לניהול קהילה על מנת להבטיח שכל משתמש חדש יקבל את המידע הבטיחותי והרגולטורי הנדרש באופן מיידי."
+    },
+    {
       "id": "1s6vq0p",
       "source": "reddit",
       "title": "just found a casino with no wagering requirements and i'm freaking out",
@@ -24,60 +66,39 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט דן במגמה גוברת בתעשיית ה-iGaming של מעבר לבתי קזינו המציעים בונוסים ללא דרישות הימור (No Wagering), כמענה לדרישת שחקנים לשקיפות רבה יותר. מגמה זו משקפת לחצים רגולטוריים לשיפור ההגינות בענף, דבר המשפיע על חברות כמו בראג גיימינג (Bragg Gaming) בפיתוח כלי מעורבות שחקנים מותאמים.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והתגובות בשרשור, המחולק ל-6 נקודות מרכזיות בעברית:\n\n* **דאגה מצד הקהילה:** משתמשים מביעים התעניינות וחשש לגבי מצבו של כותב הפוסט, תוך ניסיון להבין אם חלה התפתחות שלילית בחוויות ההימורים שלו.\n* **זיהוי משברים:** קיימת התייחסות לאפשרות שמשהו \"השתבש\" או שהתחושות החיוביות סביב ההימורים הפכו לשליליות (בסלנג: \"Something cooked in a bad way\").\n* **חשיבות כללי הקהילה:** הדגשת הצורך של משתמשים חדשים וותיקים לקרוא ולהישמע לנהלי הפורום המופיעים בסרגל הצד.\n* **הרחבת המעגל החברתי:** עידוד המשתמשים להצטרף לערוצי תקשורת נוספים, כמו שרת הדיסקורד של הקהילה, כדי לשמור על קשר.\n* **קידום הימורים אחראיים:** הקהילה שמה דגש מרכזי על קידום הרגלי הימורים בריאים ואחראיים בקרב חבריה.\n* **סיוע במצבי מצוקה:** מתן גישה מהירה למשאבים, מידע ועזרה (כגון דף Wiki ייעודי) עבור משתמשים שחשים שהרגלי ההימורים שלהם יוצאים משליטה וזקוקים לתמיכה מקצועית."
-    },
-    {
-      "id": "1s66kbq",
-      "source": "reddit",
-      "title": "Where can you realistically get an online casino license fast?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1s66kbq/where_can_you_realistically_get_an_online_casino/",
-      "author": "Fun-Fan-7070",
-      "score": 1,
-      "selftext": "Trying to figure out the fastest way to get an online casino license without getting stuck in a long, drawn-out process. What looked simple at first quickly turned into dealing with documentation, compliance checks, and unclear timelines that seem to depend on a lot of moving parts.\n\nRight now I am looking at options like Curaçao (under the new framework), Anjouan, and Kahnawà, but it’s hard to understand what actually moves quickly in practice. Some jurisdictions look fast on paper, but once you get into requirements, approvals, and setup, things can slow down in ways that aren’t obvious upfront.\n\nWould really appreciate input from anyone who’s gone through this recently. Which licenses were actually fast to obtain, what caused delays, and what trade-offs only became clear after launch?  \n",
-      "subreddit": "onlinegambling",
-      "created_utc": 1774719053,
-      "top_comments": [
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט בוחן את הדרכים המהירות ביותר לקבלת רישיון לקזינו מקוון, תוך השוואה בין תחומי שיפוט כמו קוראסאו וקאנאווקה והתמודדות עם חסמי רגולציה וציות. נושא זה משקף מגמה מרכזית בתעשיית ה-iGaming, שבה יעילות הרישוי קריטית לקיצור זמן ההשקה (time-to-market) של מפעילים וספקי פלטפורמות וטכנולוגיה דוגמת Bragg Gaming.",
-      "category_he": "רגולציית iGaming",
-      "comments_summary_he": "להלן ניתוח של הנקודות המרכזיות העולות מהתגובה שהוצגה (המתמקדת בעיקר בהנחיות קהילה ובטיחות בהימורים):\n\n*   **ציות לכללי הקהילה:** קיימת דרישה ברורה מכל המשתתפים החדשים לקרוא ולהבין את חוקי הפורום (Sidebar) כדי לשמור על סדר ואיכות הדיונים.\n*   **הרחבת המעורבות החברתית:** הקהילה מעודדת את המשתמשים להצטרף לערוץ הדיסקורד הרשמי, מה שמעיד על רצון לייצר שיח רציף ואינטראקטיבי מעבר לפלטפורמת רדיט.\n*   **קידום הימורים אחראיים:** הפורום מצהיר על מחויבות לקידום הימורים בריאים ואחראיים, תוך ניסיון ליצור סביבה שאינה מעודדת התנהגות פזיזה.\n*   **מודעות לבעיית הימורים:** קיימת הכרה מפורשת בכך שהימורים עלולים להפוך לבעיה, וישנה הפניה אקטיבית למשאבי עזרה עבור משתמשים שמרגישים שאיבדו שליטה.\n*   **הנגשת משאבי סיוע:** הקהילה מתחזקת דף מידע (\"ויקי\") ייעודי לנושא התמכרות להימורים, המרכז כלים ומידע לטיפול בבעיה.\n*   **שימוש באוטומציה לניהול סיכונים:** השימוש בבוט אוטומטי להצגת אזהרות אלו בכל פוסט מדגיש את החשיבות שרואה הנהלת הפורום בהנגשת נושאי הבטיחות לכל משתמש, ללא תלות בתוכן הפוסט.",
-      "date_string": "2026-03-29",
-      "saved_at": "2026-03-29T07:05:17.772+00:00"
+      "comments_summary_he": "להלן סיכום הדיון והתגובות בשרשור, המחולק ל-6 נקודות מרכזיות בעברית:\n\n* **דאגה מצד הקהילה:** משתמשים מביעים התעניינות וחשש לגבי מצבו של כותב הפוסט, תוך ניסיון להבין אם חלה התפתחות שלילית בחוויות ההימורים שלו.\n* **זיהוי משברים:** קיימת התייחסות לאפשרות שמשהו \"השתבש\" או שהתחושות החיוביות סביב ההימורים הפכו לשליליות (בסלנג: \"Something cooked in a bad way\").\n* **חשיבות כללי הקהילה:** הדגשת הצורך של משתמשים חדשים וותיקים לקרוא ולהישמע לנהלי הפורום המופיעים בסרגל הצד.\n* **הרחבת המעגל החברתי:** עידוד המשתמשים להצטרף לערוצי תקשורת נוספים, כמו שרת הדיסקורד של הקהילה, כדי לשמור על קשר.\n* **קידום הימורים אחראיים:** הקהילה שמה דגש מרכזי על קידום הרגלי הימורים בריאים ואחראיים בקרב חבריה.\n* **סיוע במצבי מצוקה:** מתן גישה מהירה למשאבים, מידע ועזרה (כגון דף Wiki ייעודי) עבור משתמשים שחשים שהרגלי ההימורים שלהם יוצאים משליטה וזקוקים לתמיכה מקצועית.",
+      "date_string": "2026-03-30",
+      "saved_at": "2026-03-30T07:29:31.003+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "המשתמשים בטוויטר מדברים על יציבות במניית BRAG לאחר דיווחים על שותפויות חדשות באירופה. יש תחזיות מחיר חיוביות לטווח הקצר, אך חששות ממגמות שוק כלליות. הסנטימנט כולל דיונים על צמיחה פוטנציאלית ב-iGaming.",
-      "sentiment": "חיובי",
-      "breaking": "דיווחים על שותפות חדשה עם ספק תוכנה, כפי שפורסם הבוקר"
+      "summary": "בטוויטר, משתמשים דנים בירידה קלה במניית BRAG לאחר דו\"ח רבעוני, אך יש אופטימיות לגבי שיתופי פעולה חדשים עם ספקי תוכן. תחזיות מחיר מצביעות על יציבות קרובה, עם מטרה של 5-6 דולר ללא שינויים דרמטיים. סנטימנט כללי כולל דיונים על אתגרי השוק הגלובלי.",
+      "sentiment": "ניטרלי",
+      "breaking": "אין חדשות חשובות מהשעות האחרונות; האחרונה היתה ציוץ על שותפות פוטנציאלית לפני כמה ימים."
     },
     "us_regulation": {
-      "summary": "בטוויטר, יש דיונים על חקיקה חדשה בניו יורק שמכוונת להרחיב רישיונות להימורים מקוונים. המשתמשים מציינים אתגרים ברגולציה פדרלית ואישורים מדינתיים. הדיונים כוללים השפעה על חברות iGaming גדולות.",
-      "sentiment": "ניטרלי",
-      "breaking": "חקיקה חדשה בניו יורק אושרה במסגרת הצעת חוק, כפי שדווח בשעות האחרונות"
+      "summary": "בטוויטר, משתמשים מדברים על התקדמות בחקיקה בניו יורק לקידום רישיונות נוספים להימורים מקוונים, כולל דיונים על מסים גבוהים יותר. יש התמקדות ברגולציות חדשות שמטרתן הגנה על צרכנים, עם ציפייה לאישור רישיונות נוספים ב-2024. הדיונים כוללים חששות מפני השפעה על חברות iGaming.",
+      "sentiment": "חיובי",
+      "breaking": "דיווחים על הצעת חוק חדשה בניו יורק להרחבת רישיונות, שפורסמה הבוקר וזכתה לתמיכה רחבה."
     },
     "brazil_market": {
-      "summary": "המשתמשים בטוויטר מדגישים את הרגולציה החדשה בשוק ההימורים בברזיל, כולל מתן רישיונות ראשונים לחברות בינלאומיות. יש דיונים על אכיפה נגד פעילות בלתי חוקית ועלייה בצפי ההשקעות. הסנטימנט כולל הזדמנויות צמיחה.",
+      "summary": "בטוויטר, משתמשים מציינים את פתיחת שוק ההימורים בברזיל עם רגולציות חדשות, כולל מתן רישיונות ראשונים לחברות בינלאומיות. יש דיונים על אכיפה נגד פעילות בלתי חוקית, עם ציפיות לשוק גדול אך אתגרים ביישום. הסנטימנט כולל הזדמנויות צמיחה לצד חששות מויסות.",
       "sentiment": "חיובי",
-      "breaking": "אישור רישיונות חדשים לחברות מרכזיות, כפי שפורסם היום"
+      "breaking": "אין חדשות חשובות מהשעות האחרונות; האחרונה היתה אישור רישיון לחברה גדולה לפני יומיים."
     },
     "netherlands_ksa": {
-      "summary": "בטוויטר, יש דיונים על חידוש רישיונות על ידי KSA, כולל אכיפה נגד אתרים בלתי מורשים ופעילות של BetCity. המשתמשים מציינים שיפורים בתקנות להגנה על משתמשים. הסנטימנט כולל דגש על יציבות רגולטורית.",
-      "sentiment": "ניטרלי",
-      "breaking": "KSA הודיעה על אכיפה חדשה נגד הפרות, כפי שדווח הבוקר"
+      "summary": "בטוויטר, משתמשים דנים בחידוש רישיונות על ידי KSA, כולל אכיפה נגד אתרים לא חוקיים ופעילות של BetCity. יש דגש על שיפור באבטחת משתמשים והגברת פיקוח, עם ציפיות להרחבת שוק ההימורים. הדיונים כוללים שבחים על אכיפה יעילה אך ביקורת על עיכובים.",
+      "sentiment": "שלילי",
+      "breaking": "דיווח על קנס גדול ל-BetCity על הפרות, שפורסם לפני שעה וגרם לדיונים סוערים."
     },
     "igaming_industry": {
-      "summary": "הדיונים בטוויטר כוללים עסקאות שותפויות חדשות בין חברות iGaming גדולות, מגמות כלליות של מעבר למובייל והשפעת טכנולוגיה חדשה. יש התייחסויות לעלייה בהכנסות גלובליות. הסנטימנט כולל הזדמנויות צמיחה לצד אתגרים רגולטוריים.",
+      "summary": "בטוויטר, משתמשים מדברים על עסקאות כמו רכישת חברות קטנות על ידי ענקים, שותפויות חדשות בתחום טכנולוגיה, ומגמות כלליות של צמיחה דיגיטלית. יש דגש על השפעת AI בהימורים והתמודדות עם רגולציות גלובליות. הסנטימנט כולל הזדמנויות חדשות לצד אתגרים כלכליים.",
       "sentiment": "חיובי",
-      "breaking": "שותפות גדולה בין שתי חברות מובילות הוכרזה היום"
+      "breaking": "אין חדשות חשובות מהשעות האחרונות; האחרונה היתה הודעה על שותפות גלובלית אתמול."
     },
-    "overall_sentiment": "חיובי",
-    "top_alert": "החדשות העיקריות כוללות חקיקה חדשה בניו יורק והרחבת שוק בברזיל, המצביעות על צמיחה פוטנציאלית בתעשייה"
+    "overall_sentiment": "ניטרלי",
+    "top_alert": "החדשה הבולטת היא הצעת החוק החדשה בניו יורק להרחבת רישיונות, שעשויה להשפיע על השוק הגלובלי של iGaming."
   },
-  "generatedAt": "2026-03-30T07:29:32.160Z"
+  "generatedAt": "2026-03-31T07:15:39.227Z"
 };
