@@ -1,6 +1,58 @@
 window.dashboardData = {
   "trends": [
     {
+      "id": "1sqzu7i",
+      "source": "reddit",
+      "title": "Someone PLEASE use my referral so we can both collect spins :((((( Join me on Betty 🇨🇦✨, a real money online casino for slots lovers. Use my referral code mackenzieaoibtg or click the link to join: https://betty.com/join/mackenzieaoibtg",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1sqzu7i/someone_please_use_my_referral_so_we_can_both/",
+      "author": "Obsessive0Compulsive",
+      "score": 1,
+      "selftext": "Join me on Betty 🇨🇦✨, a real money online casino for slots lovers. Use my referral code mackenzieaoibtg or click the link to join: https://betty.com/join/mackenzieaoibtg",
+      "subreddit": "onlinegambling",
+      "created_utc": 1776712976,
+      "top_comments": [
+        {
+          "body": "Your [submission](https://www.reddit.com/r/onlinegambling/comments/1sqzu7i/someone_please_use_my_referral_so_we_can_both/ in /r/onlinegambling) has been automatically removed because you used an emoji or other symbol. Please retry your submission using text characters only.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "הפוסט מציג ניסיון של משתמש לגייס שחקנים חדשים לקזינו המקוון Betty בקנדה באמצעות תוכנית הפניות (Referral). הפלטפורמה Betty פועלת בשוק המוסדר של אונטריו ומתבססת על טכנולוגיית הניהול והתוכן של חברת Bragg Gaming (BRAG). הדבר ממחיש את התחרות הגוברת ואת שיטות השיווק הישירות של מפעילים המשתמשים בתשתית של Bragg בשוק ה-iGaming הצפון אמריקאי.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הנקודות העולות מהטקסט שסיפקת (הכולל הודעת מערכת אוטומטית מפורום הימורים/iGaming):\n\n* **אכיפה אוטומטית של כללי הקהילה:** המערכת משתמשת בבוט לניטור מיידי של פוסטים, שמסיר תכנים שאינם עומדים בתקנון הטכני של הפורום.\n* **איסור על שימוש באימוג'ים וסמלים:** קיימת מדיניות קשיחה האוסרת על שילוב אימוג'ים או סמלים מיוחדים בפרסומים, דבר שמוביל לפסילה אוטומטית של התוכן.\n* **דרישה לפורמט טקסטואלי נקי:** על המשתמשים לנסח את הודעותיהם תוך שימוש בתווי טקסט בלבד (Text characters) כדי לעבור את שלב הסינון.\n* **אפשרות לתיקון והגשה מחדש:** המערכת אינה חוסמת את המשתמש לצמיתות, אלא מעודדת אותו לפרסם את התוכן שוב לאחר הסרת הסמלים הבעייתיים.\n* **מניעת ספאם ותוכן שיווקי:** השימוש בבוט ובמגבלות תווים מרמז על ניסיון של מנהלי הפורום לצמצם פרסום קישורי שותפים (Referrals) או תוכן שנראה כספאם.\n\n(הערה: מכיוון שסופקה רק תגובה אחת שהיא הודעת מערכת אוטומטית, הסיכום מתמקד בנהלים הטכניים המשתקפים ממנה)."
+    },
+    {
+      "id": "1sqwfub",
+      "source": "reddit",
+      "title": "[CFB] Best website to build a multi-season parlay? (Indiana as 3-time national champions)",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1sqwfub/cfb_best_website_to_build_a_multiseason_parlay/",
+      "author": "javascript",
+      "score": 1,
+      "selftext": "I would like to bet that Indiana will be the first team to win the CFB national championship 3 years in a row. Georgia was close to it not too long ago but Alabama knocked them out of contention. I think Curt Cignetti has what it takes.\n\nI've never used any sports betting platform before so I can leverage signup bonuses and such. Where should I place this bet for the best ROI?\n\nThanks!",
+      "subreddit": "onlinegambling",
+      "created_utc": 1776706754,
+      "top_comments": [
+        {
+          "body": "Which apps specifically? Any suggestions? I've literally never done this before. Could use some pointers",
+          "score": 1,
+          "author": "javascript"
+        },
+        {
+          "body": "wild bet considering they just made playoffs for first time but i respect the vision - most platforms let you build custom parlays over multiple seasons though odds gonna be absolutely brutal",
+          "score": 1,
+          "author": "Pleasant-Fly-9051"
+        },
+        {
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "הפוסט משקף את התרחבות שוק הימורי הספורט בארה\"ב דרך כניסת משתמשים חדשים המחפשים שווקי הימורים ייחודיים וארוכי טווח (Futures). עבור חברות כמו Bragg Gaming, מגמה זו מדגישה את הצורך בתשתית טכנולוגית המאפשרת למפעילים להציע מוצרים מורכבים וניהול בונוסים אטרקטיביים לגיוס לקוחות בסביבה תחרותית.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום של הנקודות והדעות העולות מתוך התגובות בשרשור:\n\n* **חיפוש אחר הכוונה למתחילים:** ניכר כי קיימים משתמשים חדשים בתחום שאינם מכירים את הפלטפורמות ומחפשים המלצות ספציפיות על אפליקציות והדרכה בסיסית (\"צעדים ראשונים\").\n* **אפשרויות הימור מורכבות:** רוב הפלטפורמות מאפשרות למשתמשים לבנות הימורים משולבים (Parlays) מותאמים אישית שמתפרסים על פני מספר עונות.\n* **אזהרה מפני יחסי זכייה (Odds) נמוכים:** למרות היכולת לבנות הימורים מורכבים וארוכי טווח, מצוין כי יחסי הזכייה בהימורים מסוג זה הם לרוב גרועים מאוד (\"אכזריים\") עבור המהמר.\n* **ניתוח סיכונים ספורטיבי:** קיימת ביקורת על הימורים הנחשבים ל\"פרועים\" או מסוכנים מדי, במיוחד כאשר מהמרים על קבוצות שרק עתה הגיעו להישגים משמעותיים ראשונים (כמו העפלה לפלייאוף).\n* **דגש על הימורים אחראיים:** קיימת התייחסות מרכזית לחשיבות של שמירה על הרגלי הימורים בריאים ומתן משאבים ועזרה לאלו שחשים שהשליטה שלהם בהימורים מתערערת.\n* **חשיבות הקהילה והכללים:** הדיון מדגיש את הצורך בקריאת חוקי הפורום והצטרפות לערוצי תקשורת נוספים (כמו דיסקורד) כדי להישאר מעורבים ומעודכנים בקהילת ההימורים."
+    },
+    {
       "id": "1sq0o72",
       "source": "reddit",
       "title": "Anyone ever tried Fliff?",
@@ -29,7 +81,9 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט דן בחוויות משתמש מפלטפורמת Fliff, המפעילה מודל של \"ספורט בוק חברתי\" (Social Sportsbook) המבוסס על הגרלות (Sweepstakes), מגמה גוברת בתעשיית ה-iGaming לעקיפת מגבלות רגולטוריות בארה\"ב. הכותב מתמקד באמינות תהליך הפדיון (Cash out) ובאטרקטיביות של מבצעי השיווק, נושאים קריטיים לבחינת אמון הצרכנים במפעילים חדשים בשוק ההימורים המקוון.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בנושאי iGaming ופיננסים:\n\n*   **אישור אמינות הפלטפורמה:** המשתמשים מאשרים כי הפלטפורמה לגיטימית (\"Legit\"), שכן הם הצליחו למשוך כספים שזכו בהם והכסף אכן הגיע לחשבונם.\n*   **ביקורת על איכות המשחקים:** קיימת הסכמה בין המגיבים כי משחקי ה-Slots (מכונות מזל) הם באיכות נמוכה, משעממים או \"עלובים\" למדי, למרות שניתן להרוויח בהם.\n*   **זמני משיכת כספים ותחושת ביטחון:** תהליך העברת הכספים לחשבון הבנק אורך כ-2 עד 4 ימים. עם זאת, משתמשים ציינו תחושת אי-נוחות או דאגה (\"Uneasy\") המלווה את ההמתנה עד שהכסף נוחת בחשבון בפועל.\n*   **השפעת המבצעים (Promotions):** המבצעים וההטבות של הפלטפורמה נתפסים ככלים אפקטיביים מאוד שמושכים את השחקנים פנימה במהירות (\"Pull you in quick\").\n*   **הקושי להפסיק לאחר זכייה:** המשתמשים מציינים כי קל מאוד להמשיך לשחק ולהמר לאחר זכייה קטנה, מה שמעיד על המנגנון הפסיכולוגי שמשאיר את השחקנים פעילים.\n*   **חוויית רווחיות בטווח הקצר:** חלק מהמשתמשים דיווחו על הצלחה ועלייה בסכום הכסף (למשל, זכייה של 280 דולר), מה שמעניק תחושה שהפלטפורמה מאפשרת רווחים לפני שלב המשיכה."
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בנושאי iGaming ופיננסים:\n\n*   **אישור אמינות הפלטפורמה:** המשתמשים מאשרים כי הפלטפורמה לגיטימית (\"Legit\"), שכן הם הצליחו למשוך כספים שזכו בהם והכסף אכן הגיע לחשבונם.\n*   **ביקורת על איכות המשחקים:** קיימת הסכמה בין המגיבים כי משחקי ה-Slots (מכונות מזל) הם באיכות נמוכה, משעממים או \"עלובים\" למדי, למרות שניתן להרוויח בהם.\n*   **זמני משיכת כספים ותחושת ביטחון:** תהליך העברת הכספים לחשבון הבנק אורך כ-2 עד 4 ימים. עם זאת, משתמשים ציינו תחושת אי-נוחות או דאגה (\"Uneasy\") המלווה את ההמתנה עד שהכסף נוחת בחשבון בפועל.\n*   **השפעת המבצעים (Promotions):** המבצעים וההטבות של הפלטפורמה נתפסים ככלים אפקטיביים מאוד שמושכים את השחקנים פנימה במהירות (\"Pull you in quick\").\n*   **הקושי להפסיק לאחר זכייה:** המשתמשים מציינים כי קל מאוד להמשיך לשחק ולהמר לאחר זכייה קטנה, מה שמעיד על המנגנון הפסיכולוגי שמשאיר את השחקנים פעילים.\n*   **חוויית רווחיות בטווח הקצר:** חלק מהמשתמשים דיווחו על הצלחה ועלייה בסכום הכסף (למשל, זכייה של 280 דולר), מה שמעניק תחושה שהפלטפורמה מאפשרת רווחים לפני שלב המשיכה.",
+      "date_string": "2026-04-20",
+      "saved_at": "2026-04-20T08:07:49.313+00:00"
     },
     {
       "id": "1sppzej",
@@ -60,70 +114,39 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט עוסק בשיטות שבהן שחקנים בקנדה מוודאים את אמינותם ובטיחותם של אתרי הימורים מקוונים באמצעות אתרי סקירות ייעודיים. מגמה זו מדגישה את חשיבות הרגולציה והאמון בשוק הקנדי, המהווה זירת פעילות אסטרטגית עבור חברות כמו Bragg Gaming (BRAG) הפועלות בשווקים מוסדרים.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות בשרשור:\n\n*   **אכיפת כללי קהילה נגד קידום עצמי:** הנהלת הפורום מקפידה על הסרת פוסטים המקדמים אתרים, בלוגים או חשבונות מדיה חברתית אישיים ללא ערך מוסף, במטרה לשמור על איכות הדיון.\n*   **איסור על פרסום פשוט של שידורים חיים וסרטונים:** הודעות שכל מטרתן היא לעדכן על עלייה לשידור ב-Twitch או פרסום סרטון חדש ב-YouTube נחשבות לבלתי הולמות ומוסרות מהפורום.\n*   **דרישה להקשר רלוונטי בקישורים חיצוניים:** משתמשים המבקשים לשתף קישורים לאתרים או בלוגים נדרשים לספק הקשר ומידע רלוונטי מעבר לקישור עצמו, כדי למנוע פרסום ספאמי.\n*   **ניטור היסטוריית משתמשים ומניעת \"העתק-הדבק\":** הקהילה מזהירה משתמשים שנוהגים להעתיק ולהדביק תגובות זהות בפוסטים שונים כי הם עלולים לעמוד בפני הגבלות וסנקציות.\n*   **המלצה על אתרי ביקורות ספציפיים:** משתמשים ממליצים על אתרים כגון \"AskGamblers\" ו-\"casinotipsdaily.com\" כמקורות מהימנים לקבלת סקירות ומידע על בתי קזינו ומשחקים.\n*   **זמינות גבוהה של מידע:** הדיון מצביע על כך שקיימים אתרי ביקורות רבים בתחום ה-iGaming, מה שמאפשר לשחקנים ולמתעניינים לבצע מחקר לפני קבלת החלטות פיננסיות."
-    },
-    {
-      "id": "1soy2xq",
-      "source": "reddit",
-      "title": "Which slots and crash games do you know?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1soy2xq/which_slots_and_crash_games_do_you_know/",
-      "author": "mano990502",
-      "score": 1,
-      "selftext": "Hi Gambler!\n\nI want to do some research on gambling. Please answer my 3 questions. I'm asking people from gambling, gamblers and affiliate marketers which brands they know, and later I'll share the survey results with all answers and the number of participants.\n\nMy questions:\n\n1. Which iGaming brands do you know? Please share up to 5.\n\n2. Which slot games do you know? Please share up to 5.\n\n3. Which crash games do you know? Please share up to 3.",
-      "subreddit": "onlinegambling",
-      "created_utc": 1776519981,
-      "top_comments": [
-        {
-          "body": "I’ve seen a mix depending on the site, but the ones that come up most often for me are Stake, Bet365, 888casino, Betway, and LeoVegas.\n\nFor slots, the ones I keep running into or hear people talk about are Book of Dead, Starburst, Sweet Bonanza, Gonzo’s Quest, and Mega Moolah.\n\nFor crash games it’s mostly Aviator, the generic “Crash” games (like Spribe’s version), and JetX. I’ve also seen Spaceman pop up a lot lately.\n\nCurious to see the results you end up collecting on this, since there’s a lot of overlap but also some regional differences depending on where people play.",
-          "score": 1,
-          "author": "pingAbus3r"
-        },
-        {
-          "body": "do you have any slot or crash game that design or colors  you remember?",
-          "score": 1,
-          "author": "mano990502"
-        },
-        {
-          "body": "Chicken, maestro, uh .. when moon bro ... Limbo, aviajet, uncrossable rush. Gl m8",
-          "score": 1,
-          "author": "RexWarfang"
-        }
-      ],
-      "summary_he": "הפוסט מציג סקר שוק הבוחן את רמת המודעות של שחקנים ואנשי תעשייה למותגי iGaming, משחקי סלוטים ומשחקי \"קראש\" (Crash games). תוצאות המחקר עשויות להצביע על מגמות צרכניות ופופולריות של כותרים, נתונים החיוניים לחברות כמו Bragg Gaming העוסקות בפיתוח והפצת תוכן בתחומים אלו.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בתחום ה-iGaming וההימורים:\n\n*   **פלטפורמות מובילות בתחום:** המשתמשים מציינים אתרים מרכזיים שזוכים לפופולריות גבוהה, ביניהם Stake, Bet365, 888casino, Betway ו-LeoVegas.\n*   **משחקי סלוטים (Slots) בולטים:** קיימת הסכמה על מספר כותרים מובילים שחוזרים על עצמם בשיח, כגון Book of Dead, Starburst, Sweet Bonanza, Gonzo’s Quest ומשחק הג'קפוט Mega Moolah.\n*   **דומיננטיות של משחקי \"קראש\" (Crash Games):** ז'אנר משחקי הקראש תופס תאוצה משמעותית, כאשר המשחקים Aviator, JetX ו-Spaceman הם השמות הבולטים ביותר בקטגוריה זו.\n*   **חשיבות העיצוב הוויזואלי:** עולה שאלה לגבי המידה שבה עיצוב גרפי וצבעוניות של משחק הופכים אותו לזכיר עבור השחקנים, מה שמעיד על חשיבות המיתוג הוויזואלי בתוך הממשק.\n*   **שונות אזורית וגיאוגרפית:** המגיבים מציינים כי למרות שישנה חפיפה רבה בין המשחקים הפופולריים בעולם, עדיין קיימים הבדלים בהעדפות השחקנים בהתאם לאזור הגיאוגרפי שבו הם נמצאים.\n*   **משחקים נישתיים וביטויי קהילה:** לצד המשחקים הגדולים, הוזכרו משחקים ספציפיים נוספים כמו Chicken ו-Limbo, וכן שימוש בסלנג המזוהה עם עולם הקריפטו וההימורים (כמו הביטוי \"When moon\").",
-      "date_string": "2026-04-19",
-      "saved_at": "2026-04-19T07:20:27.101+00:00"
+      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות בשרשור:\n\n*   **אכיפת כללי קהילה נגד קידום עצמי:** הנהלת הפורום מקפידה על הסרת פוסטים המקדמים אתרים, בלוגים או חשבונות מדיה חברתית אישיים ללא ערך מוסף, במטרה לשמור על איכות הדיון.\n*   **איסור על פרסום פשוט של שידורים חיים וסרטונים:** הודעות שכל מטרתן היא לעדכן על עלייה לשידור ב-Twitch או פרסום סרטון חדש ב-YouTube נחשבות לבלתי הולמות ומוסרות מהפורום.\n*   **דרישה להקשר רלוונטי בקישורים חיצוניים:** משתמשים המבקשים לשתף קישורים לאתרים או בלוגים נדרשים לספק הקשר ומידע רלוונטי מעבר לקישור עצמו, כדי למנוע פרסום ספאמי.\n*   **ניטור היסטוריית משתמשים ומניעת \"העתק-הדבק\":** הקהילה מזהירה משתמשים שנוהגים להעתיק ולהדביק תגובות זהות בפוסטים שונים כי הם עלולים לעמוד בפני הגבלות וסנקציות.\n*   **המלצה על אתרי ביקורות ספציפיים:** משתמשים ממליצים על אתרים כגון \"AskGamblers\" ו-\"casinotipsdaily.com\" כמקורות מהימנים לקבלת סקירות ומידע על בתי קזינו ומשחקים.\n*   **זמינות גבוהה של מידע:** הדיון מצביע על כך שקיימים אתרי ביקורות רבים בתחום ה-iGaming, מה שמאפשר לשחקנים ולמתעניינים לבצע מחקר לפני קבלת החלטות פיננסיות.",
+      "date_string": "2026-04-20",
+      "saved_at": "2026-04-20T08:08:05.077+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "הדיונים בטוויטר על מניית BRAG (Bragg Gaming Group) כוללים דאגות לגבי ירידת מחירים קלה לאחרונה עקב תנודתיות בשוק. משקיעים מצפים לחדשות על שיתופי פעולה חדשים או דו\"ח רבעוני, עם תחזיות מחירים מעורבות סביב 5-6 דולר. הסנטימנט הכללי מתמקד בהזדמנויות צמיחה למרות אתגרים.",
-      "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים מתמקדים בביצועים עבריים."
+      "summary": "בטוויטר, משתמשים דנים בעלייה פוטנציאלית במניית BRAG לאחר דיווחים על שותפויות חדשות עם ספקי תוכן. הסנטימנט כולל תחזיות מחיר חיוביות לטווח הקצר, אך יש חששות מפני תנודתיות בשוק. רוב ההערות מתמקדות בביצועים רבעוניים.",
+      "sentiment": "חיובי",
+      "breaking": "אין חדשות חשובות מהשעות האחרונות, אך דיונים על שותפות חדשה עם מפעיל באירופה מופיעים כנושא פופולרי."
     },
     "us_regulation": {
-      "summary": "בטוויטר, הדיונים על רגולציית iGaming בארה\"ב, במיוחד בניו יורק, מדגישים את אישור חקיקה חדשה להרחבת רישיונות הימורים מקוונים. יש התייחסויות לחקיקה פוטנציאלית נוספת שתשפיע על מסים ופיקוח, עם דגש על הזדמנויות צמיחה למפעילים. רגולציה זו צפויה להגביר את התחרות בשוק.",
+      "summary": "בטוויטר, יש דיונים על חקיקה חדשה בניו יורק שמכוונת להרחיב רישיונות להימורים מקוונים, כולל אישור למפעילים חדשים. המשתמשים מדגישים את ההשפעה על שוק הספורט ההימורים, עם דגש על רגולציות פדרליות אפשריות. רוב ההערות מתמקדות בהזדמנויות צמיחה.",
       "sentiment": "חיובי",
-      "breaking": "דווח על דיונים ראשוניים בקונגרס לגבי הרחבת רישיונות בניו יורק, אך ללא אישור סופי."
+      "breaking": "דיווחים על הצעת חוק חדשה בניו יורק להרחבת רישיונות, שפורסמה היום, מעוררת התרגשות בקרב משתמשים."
     },
     "brazil_market": {
-      "summary": "הדיונים בטוויטר על שוק ההימורים בברזיל מתמקדים ברגולציה החדשה שמאשרת רישיונות למפעילים בינלאומיים, עם אכיפה הדוקה נגד פעילות בלתי חוקית. יש התייחסויות לרישיונות חדשים שצפויים להגדיל את ההשקעות, אך גם דאגות לגבי אתגרי אכיפה ואי ודאות מס. השוק נחשב להזדמנות גדולה אך עם סיכונים.",
-      "sentiment": "חיובי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; ההתמקדות היא בהתפתחויות מהשבוע האחרון."
+      "summary": "בטוויטר, משתמשים מדברים על רגולציות חדשות בברזיל שמאשרות רישיונות להימורים מקוונים, עם דגש על אכיפה נגד פעילות בלתי חוקית. הדיונים כוללים ציפייה לשוק גדול יותר, אך גם חששות מפני עיכובים בהנפקת רישיונות. יש התייחסויות להשקעות מחברות בינלאומיות.",
+      "sentiment": "ניטרלי",
+      "breaking": "אין חדשות חשובות מהשעות האחרונות, אך דיונים על אישור רישיון ראשון למפעיל מקומי ממשיכים להתרחב."
     },
     "netherlands_ksa": {
-      "summary": "בטוויטר, הדיונים על רגולציה בהולנד דרך KSA כוללים חידוש רישיונות למפעילים כמו BetCity, עם אכיפה נגד הפרות כמו פרסום לא חוקי. יש התייחסויות לשיפור בפיקוח על הימורים אחראיים, אך גם ביקורת על עיכובים בתהליכים. KSA ממשיכה להדגיש שקיפות בשוק.",
+      "summary": "בטוויטר, יש דיונים על חידוש רישיונות על ידי KSA, כולל אכיפה נגד הפרות של BetCity. המשתמשים מדגישים את המאמצים להגן על שחקנים, עם התייחסויות לשינויים ברגולציה שמשפיעים על שוק ההימורים. רוב ההערות מתמקדות בשקיפות ובצמיחה.",
       "sentiment": "שלילי",
-      "breaking": "דווח על חקירה חדשה נגד BetCity בגלל הפרות קלות, אך ללא השלכות מיידיות."
+      "breaking": "דיווחים על קנס חדש ל-BetCity על ידי KSA בגלל הפרות, שפורסם היום, מעורר ביקורת בקרב משתמשים."
     },
     "igaming_industry": {
-      "summary": "הדיונים בטוויטר על חדשות תעשיית iGaming כוללים עסקאות כמו רכישת חברות ושיתופי פעולה בין מפעילים גדולים, עם מגמות כלליות של מעבר למובייל והתמקדות בהימורים אחראיים. יש התייחסויות לעלייה בביקוש בשווקים חדשים, אך גם דאגות לגבי רגולציות מחמירות. התעשייה צפויה לצמוח ב-2023 למרות אתגרים.",
+      "summary": "בטוויטר, הדיונים כוללים עסקאות רכישה בין חברות iGaming, שותפויות חדשות עם ספקי תשלומים, ומגמות כלליות כמו מעבר לטכנולוגיות AI. המשתמשים מדגישים צמיחה גלובלית, אך גם אתגרים רגולטוריים. יש התייחסויות להשקעות בסין ובאסיה.",
       "sentiment": "חיובי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים מתמקדים במגמות עולמיות."
+      "breaking": "אין חדשות חשובות מהשעות האחרונות, אך דיונים על שותפות גדולה בין שתי חברות מובילות ממשיכים להיות נושא מרכזי."
     },
-    "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראה מיוחדת; הדיונים כוללים התפתחויות רגולטוריות פוטנציאליות בארה\"ב וברזיל."
+    "overall_sentiment": "חיובי",
+    "top_alert": "החדשות הבולטות כוללות הצעת חוק בניו יורק והקנס ל-BetCity, המצביעות על שינויים רגולטוריים מהירים בשוק."
   },
-  "generatedAt": "2026-04-20T08:08:05.894Z"
+  "generatedAt": "2026-04-21T07:51:31.015Z"
 };
