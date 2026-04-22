@@ -1,25 +1,35 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1sqzu7i",
+      "id": "1sqlvon",
       "source": "reddit",
-      "title": "Someone PLEASE use my referral so we can both collect spins :((((( Join me on Betty 🇨🇦✨, a real money online casino for slots lovers. Use my referral code mackenzieaoibtg or click the link to join: https://betty.com/join/mackenzieaoibtg",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1sqzu7i/someone_please_use_my_referral_so_we_can_both/",
-      "author": "Obsessive0Compulsive",
-      "score": 1,
-      "selftext": "Join me on Betty 🇨🇦✨, a real money online casino for slots lovers. Use my referral code mackenzieaoibtg or click the link to join: https://betty.com/join/mackenzieaoibtg",
+      "title": "Can someone help me figure out if I lost all of my deposited money?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1sqlvon/can_someone_help_me_figure_out_if_i_lost_all_of/",
+      "author": "Swenyis",
+      "score": 8,
+      "selftext": "Hey. The other night I tried online gambling for the first time, using Vegastar. My card wouldn't allow me to put money in, and so I sent the money to a friend and used their card details, which were a disposable digital card. This is, looking back on it, very silly, as when I went to withdraw my winnings, I had to verify myself, including verifying proof of payment. I can't verify the card as mine (because it's not). Is there anything I could do in this situation? And would I be fine to delete my account, make a new account, and use a different card? Or would they continue asking for the original card, which is my friends?   \nThank you, sorry, I'm new to online gaming. ",
       "subreddit": "onlinegambling",
-      "created_utc": 1776712976,
+      "created_utc": 1776682549,
       "top_comments": [
         {
-          "body": "Your [submission](https://www.reddit.com/r/onlinegambling/comments/1sqzu7i/someone_please_use_my_referral_so_we_can_both/ in /r/onlinegambling) has been automatically removed because you used an emoji or other symbol. Please retry your submission using text characters only.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "body": "that’s a rough spot. once they ask for verification tied to that card, it usually doesn’t go away, even with a new account. i’ve had stuff like that where it felt fine at first, then everything gets locked when you try to cash out.",
           "score": 1,
-          "author": "AutoModerator"
+          "author": "Western-Kick2178"
+        },
+        {
+          "body": "Yeah, this is pretty common with gambling sites, especially once withdrawals trigger KYC checks.\n\nIf the card used for deposit isn’t in your name, that usually becomes a problem fast because they need to match payment method ownership for anti-fraud reasons. In most cases they won’t process withdrawals until that’s resolved, and sometimes they can even freeze or void winnings if the payment setup violates their terms.\n\nMaking a new account and switching cards won’t really fix it either. These platforms tend to flag device info, identity details, and payment patterns, so it’ll likely just get caught again.\n\nYour best realistic option is to contact support and be honest about what happened. They’ll tell you what’s possible in their system, but you should also be prepared that they may only allow withdrawal back to a verified original payment method, or in some cases not at all depending on their policy.\n\nFor future stuff, it’s a lot smoother (and safer) to only use payment methods that are fully in your own name from the start.",
+          "score": 1,
+          "author": "pingAbus3r"
+        },
+        {
+          "body": "There may  be hope don't despair just yet.  I won 5k at Chumba off the daily.  The only problem was I had 2 accounts. I had forgot I had signed up ages ago. I just told them I was only aware of 1 account, and that I need to get my money ASAP. Because my dog needed surgery.  Despite everyone on Discord laughing and saying I can forget about that 5k.  The laugh was on them Chumba allowed the money be redeemed. \n\nI would bet my life that my dog story was my saving grace. I say that because when I had some money   \nissues 15 year's ago, whenever I needed extensions on bill's etc. once the C.R. heard I had a dog it was like   \nmagic all good thing's happened!  We can't have the doggie living in darkness! 😂  \nAnyhooo... I say all this to give you hope.  Perhaps your pet is having an emergency (wink..wink) 😂   \n",
+          "score": 1,
+          "author": "Aggressive_Gate738"
         }
       ],
-      "summary_he": "הפוסט מציג ניסיון של משתמש לגייס שחקנים חדשים לקזינו המקוון Betty בקנדה באמצעות תוכנית הפניות (Referral). הפלטפורמה Betty פועלת בשוק המוסדר של אונטריו ומתבססת על טכנולוגיית הניהול והתוכן של חברת Bragg Gaming (BRAG). הדבר ממחיש את התחרות הגוברת ואת שיטות השיווק הישירות של מפעילים המשתמשים בתשתית של Bragg בשוק ה-iGaming הצפון אמריקאי.",
+      "summary_he": "הפוסט ממחיש את הקשיים במשיכת כספים מאתרי הימורים כאשר משתמשים עוברים על פרוטוקולי אימות זהות (KYC), כגון שימוש באמצעי תשלום של צד שלישי. המקרה מדגיש את הרגולציה הקפדנית והמאבק בהלבנת הון בתעשיית ה-iGaming, נושאים קריטיים עבור חברות כמו Bragg Gaming המספקות פתרונות טכנולוגיים מבוססי ציות למפעילים בתחום.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הנקודות העולות מהטקסט שסיפקת (הכולל הודעת מערכת אוטומטית מפורום הימורים/iGaming):\n\n* **אכיפה אוטומטית של כללי הקהילה:** המערכת משתמשת בבוט לניטור מיידי של פוסטים, שמסיר תכנים שאינם עומדים בתקנון הטכני של הפורום.\n* **איסור על שימוש באימוג'ים וסמלים:** קיימת מדיניות קשיחה האוסרת על שילוב אימוג'ים או סמלים מיוחדים בפרסומים, דבר שמוביל לפסילה אוטומטית של התוכן.\n* **דרישה לפורמט טקסטואלי נקי:** על המשתמשים לנסח את הודעותיהם תוך שימוש בתווי טקסט בלבד (Text characters) כדי לעבור את שלב הסינון.\n* **אפשרות לתיקון והגשה מחדש:** המערכת אינה חוסמת את המשתמש לצמיתות, אלא מעודדת אותו לפרסם את התוכן שוב לאחר הסרת הסמלים הבעייתיים.\n* **מניעת ספאם ותוכן שיווקי:** השימוש בבוט ובמגבלות תווים מרמז על ניסיון של מנהלי הפורום לצמצם פרסום קישורי שותפים (Referrals) או תוכן שנראה כספאם.\n\n(הערה: מכיוון שסופקה רק תגובה אחת שהיא הודעת מערכת אוטומטית, הסיכום מתמקד בנהלים הטכניים המשתקפים ממנה)."
+      "comments_summary_he": "להלן סיכום הדיון בפורום בנושא אימות חשבונות (KYC) ובעיות במשיכת כספים מאתרי הימורים ו-iGaming:\n\n*   **סיכוני אימות בשלב המשיכה:** בעיות אימות (KYC) לרוב אינן צפות בזמן ההפקדה, אלא רק ברגע שהמשתמש מנסה למשוך את כספי הזכייה. בשלב זה, האתר עשוי לנעול את החשבון אם מתגלה אי-תאימות בפרטים.\n*   **הקפדה על בעלות אמצעי התשלום:** שימוש בכרטיס אשראי שאינו רשום על שם בעל החשבון הוא עילה מרכזית לחסימה. אתרים דורשים התאמה מלאה בין זהות המשתמש לזהות בעל אמצעי התשלום כדי למנוע הונאות, ועלולים לבטל זכיות במקרה של הפרת תנאי זה.\n*   **חוסר היעילות של פתיחת חשבון חדש:** ניסיון לעקוף חסימה על ידי פתיחת חשבון חדש או החלפת כרטיס בדרך כלל נכשל. הפלטפורמות משתמשות בטכנולוגיות למעקב אחר מזהי מכשירים (Device ID), פרטי זהות ודפוסי תשלום כדי לזהות משתמשים \"מסומנים\".\n*   **פנייה לשירות הלקוחות בכנות:** ההמלצה המעשית היא ליצור קשר עם התמיכה, להודות בטעות ולהסביר את המצב. עם זאת, יש להתכונן לאפשרות שהאתר יסרב לשחרר את הכספים או יאפשר משיכה רק לאמצעי התשלום המקורי שבוצע ממנו ההפקדה.\n*   **השפעת \"סיפורים רגשיים\":** קיימת סברה (המבוססת על ניסיון אישי של חלק מהמשתמשים) ששימוש בתירוצים רגשיים או \"סיפורי סבתא\" (כמו צורך דחוף בכסף לניתוח של חיית מחמד) עשוי לרכך את נציגי השירות ולגרום להם לחרוג מהנהלים הקשיחים.\n*   **כלל אצבע למניעת בעיות:** כדי להבטיח משיכת כספים חלקה ובטוחה בעתיד, חיוני להשתמש אך ורק באמצעי תשלום שרשומים על שמכם המלא בלבד כבר מרגע ההרשמה וההפקדה הראשונה."
     },
     {
       "id": "1sqwfub",
@@ -50,103 +60,62 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט משקף את התרחבות שוק הימורי הספורט בארה\"ב דרך כניסת משתמשים חדשים המחפשים שווקי הימורים ייחודיים וארוכי טווח (Futures). עבור חברות כמו Bragg Gaming, מגמה זו מדגישה את הצורך בתשתית טכנולוגית המאפשרת למפעילים להציע מוצרים מורכבים וניהול בונוסים אטרקטיביים לגיוס לקוחות בסביבה תחרותית.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום של הנקודות והדעות העולות מתוך התגובות בשרשור:\n\n* **חיפוש אחר הכוונה למתחילים:** ניכר כי קיימים משתמשים חדשים בתחום שאינם מכירים את הפלטפורמות ומחפשים המלצות ספציפיות על אפליקציות והדרכה בסיסית (\"צעדים ראשונים\").\n* **אפשרויות הימור מורכבות:** רוב הפלטפורמות מאפשרות למשתמשים לבנות הימורים משולבים (Parlays) מותאמים אישית שמתפרסים על פני מספר עונות.\n* **אזהרה מפני יחסי זכייה (Odds) נמוכים:** למרות היכולת לבנות הימורים מורכבים וארוכי טווח, מצוין כי יחסי הזכייה בהימורים מסוג זה הם לרוב גרועים מאוד (\"אכזריים\") עבור המהמר.\n* **ניתוח סיכונים ספורטיבי:** קיימת ביקורת על הימורים הנחשבים ל\"פרועים\" או מסוכנים מדי, במיוחד כאשר מהמרים על קבוצות שרק עתה הגיעו להישגים משמעותיים ראשונים (כמו העפלה לפלייאוף).\n* **דגש על הימורים אחראיים:** קיימת התייחסות מרכזית לחשיבות של שמירה על הרגלי הימורים בריאים ומתן משאבים ועזרה לאלו שחשים שהשליטה שלהם בהימורים מתערערת.\n* **חשיבות הקהילה והכללים:** הדיון מדגיש את הצורך בקריאת חוקי הפורום והצטרפות לערוצי תקשורת נוספים (כמו דיסקורד) כדי להישאר מעורבים ומעודכנים בקהילת ההימורים."
+      "comments_summary_he": "להלן סיכום של הנקודות והדעות העולות מתוך התגובות בשרשור:\n\n* **חיפוש אחר הכוונה למתחילים:** ניכר כי קיימים משתמשים חדשים בתחום שאינם מכירים את הפלטפורמות ומחפשים המלצות ספציפיות על אפליקציות והדרכה בסיסית (\"צעדים ראשונים\").\n* **אפשרויות הימור מורכבות:** רוב הפלטפורמות מאפשרות למשתמשים לבנות הימורים משולבים (Parlays) מותאמים אישית שמתפרסים על פני מספר עונות.\n* **אזהרה מפני יחסי זכייה (Odds) נמוכים:** למרות היכולת לבנות הימורים מורכבים וארוכי טווח, מצוין כי יחסי הזכייה בהימורים מסוג זה הם לרוב גרועים מאוד (\"אכזריים\") עבור המהמר.\n* **ניתוח סיכונים ספורטיבי:** קיימת ביקורת על הימורים הנחשבים ל\"פרועים\" או מסוכנים מדי, במיוחד כאשר מהמרים על קבוצות שרק עתה הגיעו להישגים משמעותיים ראשונים (כמו העפלה לפלייאוף).\n* **דגש על הימורים אחראיים:** קיימת התייחסות מרכזית לחשיבות של שמירה על הרגלי הימורים בריאים ומתן משאבים ועזרה לאלו שחשים שהשליטה שלהם בהימורים מתערערת.\n* **חשיבות הקהילה והכללים:** הדיון מדגיש את הצורך בקריאת חוקי הפורום והצטרפות לערוצי תקשורת נוספים (כמו דיסקורד) כדי להישאר מעורבים ומעודכנים בקהילת ההימורים.",
+      "date_string": "2026-04-21",
+      "saved_at": "2026-04-21T07:51:21.362+00:00"
     },
     {
-      "id": "1sq0o72",
+      "id": "1sqzu7i",
       "source": "reddit",
-      "title": "Anyone ever tried Fliff?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1sq0o72/anyone_ever_tried_fliff/",
-      "author": "DFW-Extraterrestrial",
+      "title": "Someone PLEASE use my referral so we can both collect spins :((((( Join me on Betty 🇨🇦✨, a real money online casino for slots lovers. Use my referral code mackenzieaoibtg or click the link to join: https://betty.com/join/mackenzieaoibtg",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1sqzu7i/someone_please_use_my_referral_so_we_can_both/",
+      "author": "Obsessive0Compulsive",
       "score": 1,
-      "selftext": "Ok, this is not an advertisement and I can not vouch for them. I was checking horse races stats for my local track and saw the add pop up for them, so I clicked it. For $5, they give me $60. I figured why not. \n\nIt's dog shit for slots, but seemed pretty decent for sports betting. I threw some shots in the dark on some NBA games(I don't know shit about sports betting other than the horses.)  Anyways, a couple of my NBA picks landed. I cashed out $175. It says 3-5 days, that's why I won't vouch for them yet. So play at your own risk if you're going to do it, until I see money in my bank...it's up in the air for me. \n\nAnyone have experience with them? ",
+      "selftext": "Join me on Betty 🇨🇦✨, a real money online casino for slots lovers. Use my referral code mackenzieaoibtg or click the link to join: https://betty.com/join/mackenzieaoibtg",
       "subreddit": "onlinegambling",
-      "created_utc": 1776622722,
+      "created_utc": 1776712976,
       "top_comments": [
         {
-          "body": " i’ve tried stuff like that before. it feels legit when you’re up, but i always get a bit uneasy until the money actually lands. those promos pull you in quick though, easy to keep going after a small win.",
+          "body": "Your [submission](https://www.reddit.com/r/onlinegambling/comments/1sqzu7i/someone_please_use_my_referral_so_we_can_both/ in /r/onlinegambling) has been automatically removed because you used an emoji or other symbol. Please retry your submission using text characters only.\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
           "score": 1,
-          "author": "Western-Kick2178"
-        },
-        {
-          "body": "That's good to hear.  I tried those slots and got up a good bit, but damn those are about as lame as they get. Ha. ",
-          "score": 1,
-          "author": "DFW-Extraterrestrial"
-        },
-        {
-          "body": "yes, i have. they are legit\n\ngot my $280 from the shitty little slots they have and they sent it straight to my account after ab 2-4 days\n\n",
-          "score": 1,
-          "author": "avenleighrose"
+          "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט דן בחוויות משתמש מפלטפורמת Fliff, המפעילה מודל של \"ספורט בוק חברתי\" (Social Sportsbook) המבוסס על הגרלות (Sweepstakes), מגמה גוברת בתעשיית ה-iGaming לעקיפת מגבלות רגולטוריות בארה\"ב. הכותב מתמקד באמינות תהליך הפדיון (Cash out) ובאטרקטיביות של מבצעי השיווק, נושאים קריטיים לבחינת אמון הצרכנים במפעילים חדשים בשוק ההימורים המקוון.",
+      "summary_he": "הפוסט מציג ניסיון של משתמש לגייס שחקנים חדשים לקזינו המקוון Betty בקנדה באמצעות תוכנית הפניות (Referral). הפלטפורמה Betty פועלת בשוק המוסדר של אונטריו ומתבססת על טכנולוגיית הניהול והתוכן של חברת Bragg Gaming (BRAG). הדבר ממחיש את התחרות הגוברת ואת שיטות השיווק הישירות של מפעילים המשתמשים בתשתית של Bragg בשוק ה-iGaming הצפון אמריקאי.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בנושאי iGaming ופיננסים:\n\n*   **אישור אמינות הפלטפורמה:** המשתמשים מאשרים כי הפלטפורמה לגיטימית (\"Legit\"), שכן הם הצליחו למשוך כספים שזכו בהם והכסף אכן הגיע לחשבונם.\n*   **ביקורת על איכות המשחקים:** קיימת הסכמה בין המגיבים כי משחקי ה-Slots (מכונות מזל) הם באיכות נמוכה, משעממים או \"עלובים\" למדי, למרות שניתן להרוויח בהם.\n*   **זמני משיכת כספים ותחושת ביטחון:** תהליך העברת הכספים לחשבון הבנק אורך כ-2 עד 4 ימים. עם זאת, משתמשים ציינו תחושת אי-נוחות או דאגה (\"Uneasy\") המלווה את ההמתנה עד שהכסף נוחת בחשבון בפועל.\n*   **השפעת המבצעים (Promotions):** המבצעים וההטבות של הפלטפורמה נתפסים ככלים אפקטיביים מאוד שמושכים את השחקנים פנימה במהירות (\"Pull you in quick\").\n*   **הקושי להפסיק לאחר זכייה:** המשתמשים מציינים כי קל מאוד להמשיך לשחק ולהמר לאחר זכייה קטנה, מה שמעיד על המנגנון הפסיכולוגי שמשאיר את השחקנים פעילים.\n*   **חוויית רווחיות בטווח הקצר:** חלק מהמשתמשים דיווחו על הצלחה ועלייה בסכום הכסף (למשל, זכייה של 280 דולר), מה שמעניק תחושה שהפלטפורמה מאפשרת רווחים לפני שלב המשיכה.",
-      "date_string": "2026-04-20",
-      "saved_at": "2026-04-20T08:07:49.313+00:00"
-    },
-    {
-      "id": "1sppzej",
-      "source": "reddit",
-      "title": "How Canadians check if an online casino is actually safe?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1sppzej/how_canadians_check_if_an_online_casino_is/",
-      "author": "Franchisette",
-      "score": 1,
-      "selftext": "I use [https://www.casinofiable.ca/](https://www.casinofiable.ca/), but I know lot of people use [casino.ca](http://casino.ca), which site you use to be sure it's good sites?",
-      "subreddit": "onlinegambling",
-      "created_utc": 1776596770,
-      "top_comments": [
-        {
-          "body": "Your post has been removed for breaking our rule regarding website, blog and social media self-promotion.\n\nPosts that are simply notifying the community that you are about to go live on Twitch or that you just posted a video to YouTube are not appropriate.\n\nIf you are going to post links to your website/blog, please also provide relevant context. Additionally, if your post history suggests you've been copy/pasting comments across multiple posts, you may face further restrictions in this subreddit.",
-          "score": 1,
-          "author": "onlinegambling-ModTeam"
-        },
-        {
-          "body": "You can also check at https://casinotipsdaily.com Good review site.. ",
-          "score": 1,
-          "author": "Adventurous-Toe-9877"
-        },
-        {
-          "body": "You have a lotReviews websites.\nAskGamblers, for example ",
-          "score": 1,
-          "author": "mano990502"
-        }
-      ],
-      "summary_he": "הפוסט עוסק בשיטות שבהן שחקנים בקנדה מוודאים את אמינותם ובטיחותם של אתרי הימורים מקוונים באמצעות אתרי סקירות ייעודיים. מגמה זו מדגישה את חשיבות הרגולציה והאמון בשוק הקנדי, המהווה זירת פעילות אסטרטגית עבור חברות כמו Bragg Gaming (BRAG) הפועלות בשווקים מוסדרים.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות בשרשור:\n\n*   **אכיפת כללי קהילה נגד קידום עצמי:** הנהלת הפורום מקפידה על הסרת פוסטים המקדמים אתרים, בלוגים או חשבונות מדיה חברתית אישיים ללא ערך מוסף, במטרה לשמור על איכות הדיון.\n*   **איסור על פרסום פשוט של שידורים חיים וסרטונים:** הודעות שכל מטרתן היא לעדכן על עלייה לשידור ב-Twitch או פרסום סרטון חדש ב-YouTube נחשבות לבלתי הולמות ומוסרות מהפורום.\n*   **דרישה להקשר רלוונטי בקישורים חיצוניים:** משתמשים המבקשים לשתף קישורים לאתרים או בלוגים נדרשים לספק הקשר ומידע רלוונטי מעבר לקישור עצמו, כדי למנוע פרסום ספאמי.\n*   **ניטור היסטוריית משתמשים ומניעת \"העתק-הדבק\":** הקהילה מזהירה משתמשים שנוהגים להעתיק ולהדביק תגובות זהות בפוסטים שונים כי הם עלולים לעמוד בפני הגבלות וסנקציות.\n*   **המלצה על אתרי ביקורות ספציפיים:** משתמשים ממליצים על אתרים כגון \"AskGamblers\" ו-\"casinotipsdaily.com\" כמקורות מהימנים לקבלת סקירות ומידע על בתי קזינו ומשחקים.\n*   **זמינות גבוהה של מידע:** הדיון מצביע על כך שקיימים אתרי ביקורות רבים בתחום ה-iGaming, מה שמאפשר לשחקנים ולמתעניינים לבצע מחקר לפני קבלת החלטות פיננסיות.",
-      "date_string": "2026-04-20",
-      "saved_at": "2026-04-20T08:08:05.077+00:00"
+      "comments_summary_he": "להלן סיכום הנקודות העולות מהטקסט שסיפקת (הכולל הודעת מערכת אוטומטית מפורום הימורים/iGaming):\n\n* **אכיפה אוטומטית של כללי הקהילה:** המערכת משתמשת בבוט לניטור מיידי של פוסטים, שמסיר תכנים שאינם עומדים בתקנון הטכני של הפורום.\n* **איסור על שימוש באימוג'ים וסמלים:** קיימת מדיניות קשיחה האוסרת על שילוב אימוג'ים או סמלים מיוחדים בפרסומים, דבר שמוביל לפסילה אוטומטית של התוכן.\n* **דרישה לפורמט טקסטואלי נקי:** על המשתמשים לנסח את הודעותיהם תוך שימוש בתווי טקסט בלבד (Text characters) כדי לעבור את שלב הסינון.\n* **אפשרות לתיקון והגשה מחדש:** המערכת אינה חוסמת את המשתמש לצמיתות, אלא מעודדת אותו לפרסם את התוכן שוב לאחר הסרת הסמלים הבעייתיים.\n* **מניעת ספאם ותוכן שיווקי:** השימוש בבוט ובמגבלות תווים מרמז על ניסיון של מנהלי הפורום לצמצם פרסום קישורי שותפים (Referrals) או תוכן שנראה כספאם.\n\n(הערה: מכיוון שסופקה רק תגובה אחת שהיא הודעת מערכת אוטומטית, הסיכום מתמקד בנהלים הטכניים המשתקפים ממנה).",
+      "date_string": "2026-04-21",
+      "saved_at": "2026-04-21T07:51:05.957+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "בטוויטר, משתמשים דנים בעלייה פוטנציאלית במניית BRAG לאחר דיווחים על שותפויות חדשות עם ספקי תוכן. הסנטימנט כולל תחזיות מחיר חיוביות לטווח הקצר, אך יש חששות מפני תנודתיות בשוק. רוב ההערות מתמקדות בביצועים רבעוניים.",
+      "summary": "בטוויטר, דנים במניית BRAG עם התמקדות בצמיחת החברה בתחום iGaming, כולל שותפויות חדשות והרחבת פעילות. משתמשים מציינים תחזיות מחיר חיוביות לטווח הקצר, אך יש חששות מפני תנודתיות בשוק. הסנטימנט הכללי מבוסס על דיווחים על רווחים פוטנציאליים.",
       "sentiment": "חיובי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות, אך דיונים על שותפות חדשה עם מפעיל באירופה מופיעים כנושא פופולרי."
+      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים מתמקדים בהמשך מגמה קודמת."
     },
     "us_regulation": {
-      "summary": "בטוויטר, יש דיונים על חקיקה חדשה בניו יורק שמכוונת להרחיב רישיונות להימורים מקוונים, כולל אישור למפעילים חדשים. המשתמשים מדגישים את ההשפעה על שוק הספורט ההימורים, עם דגש על רגולציות פדרליות אפשריות. רוב ההערות מתמקדות בהזדמנויות צמיחה.",
+      "summary": "בטוויטר, מדברים על התקדמות בחקיקה iGaming בניו יורק, כולל אישור רישיונות חדשים להימורים מקוונים ותקנות חדשות למניעת הימורים בלתי חוקיים. הדיונים כוללים ציפייה להרחבה נוספת בארה\"ב, עם השפעה על חברות גדולות. יש דגש על פוטנציאל צמיחה כלכלית.",
       "sentiment": "חיובי",
-      "breaking": "דיווחים על הצעת חוק חדשה בניו יורק להרחבת רישיונות, שפורסמה היום, מעוררת התרגשות בקרב משתמשים."
+      "breaking": "דווח על דיונים אפשריים בקונגרס לגבי חקיקה חדשה בניו יורק, אך ללא עדכונים רשמיים מהשעות האחרונות."
     },
     "brazil_market": {
-      "summary": "בטוויטר, משתמשים מדברים על רגולציות חדשות בברזיל שמאשרות רישיונות להימורים מקוונים, עם דגש על אכיפה נגד פעילות בלתי חוקית. הדיונים כוללים ציפייה לשוק גדול יותר, אך גם חששות מפני עיכובים בהנפקת רישיונות. יש התייחסויות להשקעות מחברות בינלאומיות.",
+      "summary": "בטוויטר, מתמקדים ברגולציה החדשה של שוק ההימורים בברזיל, כולל מתן רישיונות ראשונים ופעילות אכיפה נגד אתרים בלתי מורשים. משתמשים מציינים הזדמנויות לצמיחה, אך גם אתגרים בהטמעת החוקים. הדיונים כוללים השפעה על חברות בינלאומיות.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות, אך דיונים על אישור רישיון ראשון למפעיל מקומי ממשיכים להתרחב."
+      "breaking": "אין חדשות חשובות מהשעות האחרונות; ההתמקדות נמשכת בפיתוח השוק."
     },
     "netherlands_ksa": {
-      "summary": "בטוויטר, יש דיונים על חידוש רישיונות על ידי KSA, כולל אכיפה נגד הפרות של BetCity. המשתמשים מדגישים את המאמצים להגן על שחקנים, עם התייחסויות לשינויים ברגולציה שמשפיעים על שוק ההימורים. רוב ההערות מתמקדות בשקיפות ובצמיחה.",
+      "summary": "בטוויטר, דנים בחידוש רישיונות על ידי KSA, כולל אכיפה נגד הפרות ופעילות של BetCity. יש התייחסויות לחקיקה מחמירה יותר להגנה על צרכנים, עם דגש על שיפור האבטחה. הסנטימנט כולל ציפייה ליציבות בשוק ההולנדי.",
       "sentiment": "שלילי",
-      "breaking": "דיווחים על קנס חדש ל-BetCity על ידי KSA בגלל הפרות, שפורסם היום, מעורר ביקורת בקרב משתמשים."
+      "breaking": "דווח על בדיקות אכיפה חדשות נגד BetCity, אך ללא פרטים ספציפיים מהשעות האחרונות."
     },
     "igaming_industry": {
-      "summary": "בטוויטר, הדיונים כוללים עסקאות רכישה בין חברות iGaming, שותפויות חדשות עם ספקי תשלומים, ומגמות כלליות כמו מעבר לטכנולוגיות AI. המשתמשים מדגישים צמיחה גלובלית, אך גם אתגרים רגולטוריים. יש התייחסויות להשקעות בסין ובאסיה.",
+      "summary": "בטוויטר, מדברים על עסקאות חדשות כמו שותפויות בין חברות iGaming ורכישות, לצד מגמות כלליות של מעבר למובייל והתמקדות ב-AI. הדיונים כוללים צמיחה גלובלית, אך גם סיכונים רגולטוריים. יש התייחסויות להשפעה על מניות.",
       "sentiment": "חיובי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות, אך דיונים על שותפות גדולה בין שתי חברות מובילות ממשיכים להיות נושא מרכזי."
+      "breaking": "אין חדשות חשובות מהשעות האחרונות; המגמות נשארות יציבות."
     },
-    "overall_sentiment": "חיובי",
-    "top_alert": "החדשות הבולטות כוללות הצעת חוק בניו יורק והקנס ל-BetCity, המצביעות על שינויים רגולטוריים מהירים בשוק."
+    "overall_sentiment": "חיובי, עם נטייה לצמיחה בשווקים חדשים, אך עם חששות רגולטוריים.",
+    "top_alert": "אין התראות דחופות; המעקב ממשיך אחר התפתחויות ברגולציה בניו יורק ובברזיל."
   },
-  "generatedAt": "2026-04-21T07:51:31.015Z"
+  "generatedAt": "2026-04-22T07:48:16.117Z"
 };
