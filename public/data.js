@@ -29,7 +29,9 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט מציג שחקן חדש המחפש פלטפורמות הימורים אמינות המציעות מגוון משחקים רחב, שקיפות וביטחון בביצוע עסקאות. דרישות אלו מדגישות את החשיבות של רגולציה וחוויית משתמש חלקה, נושאים המהווים ליבה עבור חברות כמו Bragg Gaming (BRAG) המספקות פתרונות טכנולוגיים ותוכן לשווקים מוסדרים. המגמה שעולה מהפוסט היא המעבר של צרכנים לחיפוש אחר פלטפורמות לגיטימיות ומפוקחות על פני אתרים לא מורשים.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות:\n\n* **עדיפות לאמינות על פני בונוסים:** המגיבים מדגישים כי עבור שחקנים מתחילים, חשוב להתמקד באמינות הפלטפורמה ובמהירות התשלומים (Payouts) ולא להתפתות לבונוסים כספיים גבוהים שנראים אטרקטיביים מדי.\n* **זהירות מפרסום אגרסיבי:** קיימת אזהרה מפני בתי קזינו מקוונים המפרסמים בצורה אגרסיבית. לעיתים קרובות, אתרים אלו מערימים קשיים משמעותיים כאשר השחקן מבקש למשוך את כספי הזכייה שלו.\n* **חשיבות המחקר המקדים וביקורות שחקנים:** מומלץ להקדיש זמן לקריאת חוות דעת ופידבקים של שחקנים אחרים לפני ההרשמה. בדיקת הניסיון של אחרים יכולה למנוע עוגמת נפש מול פלטפורמות לא אמינות.\n* **בדיקת זמני משיכת כספים:** אחד המדדים הקריטיים ביותר לבחינת פלטפורמה הוא זמן עיבוד המשיכות. שחקנים מנוסים ממליצים לוודא שהאתר עומד בהתחייבויות התשלום שלו בפרק זמן סביר.\n* **העדפת פלטפורמות מוכרות על פני אתרי \"אוף-שור\":** המגיבים ממליצים להשתמש באתרים מוכרים ומבוססים (כמו Caliente MX) שנחשבים לאמינים וידידותיים למשתמש, במקום להסתכן באתרים אנונימיים הרשומים במקלטי מס (Offshore sites).\n* **איכות שירות הלקוחות:** פלטפורמות גדולות ומומלצות (כמו Stake) מצוינות לחיוב לא רק בגלל מהירות התשלום, אלא גם בזכות מערך שירות לקוחות זמין ואיכותי שעוזר בפתרון בעיות."
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות:\n\n* **עדיפות לאמינות על פני בונוסים:** המגיבים מדגישים כי עבור שחקנים מתחילים, חשוב להתמקד באמינות הפלטפורמה ובמהירות התשלומים (Payouts) ולא להתפתות לבונוסים כספיים גבוהים שנראים אטרקטיביים מדי.\n* **זהירות מפרסום אגרסיבי:** קיימת אזהרה מפני בתי קזינו מקוונים המפרסמים בצורה אגרסיבית. לעיתים קרובות, אתרים אלו מערימים קשיים משמעותיים כאשר השחקן מבקש למשוך את כספי הזכייה שלו.\n* **חשיבות המחקר המקדים וביקורות שחקנים:** מומלץ להקדיש זמן לקריאת חוות דעת ופידבקים של שחקנים אחרים לפני ההרשמה. בדיקת הניסיון של אחרים יכולה למנוע עוגמת נפש מול פלטפורמות לא אמינות.\n* **בדיקת זמני משיכת כספים:** אחד המדדים הקריטיים ביותר לבחינת פלטפורמה הוא זמן עיבוד המשיכות. שחקנים מנוסים ממליצים לוודא שהאתר עומד בהתחייבויות התשלום שלו בפרק זמן סביר.\n* **העדפת פלטפורמות מוכרות על פני אתרי \"אוף-שור\":** המגיבים ממליצים להשתמש באתרים מוכרים ומבוססים (כמו Caliente MX) שנחשבים לאמינים וידידותיים למשתמש, במקום להסתכן באתרים אנונימיים הרשומים במקלטי מס (Offshore sites).\n* **איכות שירות הלקוחות:** פלטפורמות גדולות ומומלצות (כמו Stake) מצוינות לחיוב לא רק בגלל מהירות התשלום, אלא גם בזכות מערך שירות לקוחות זמין ואיכותי שעוזר בפתרון בעיות.",
+      "date_string": "2026-05-14",
+      "saved_at": "2026-05-14T08:38:20.343+00:00"
     },
     {
       "id": "1tbv2ij",
@@ -60,18 +62,77 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט דן בטעויות נפוצות של מהמרים מתחילים, בדגש על ניהול תקציב לקוי ומרדף אחר הפסדים, מעבר להתמקדות הרגילה בבונוסים. נושאים אלו משקפים את החשיבות הגוברת של \"הימורים אחראיים\" (Responsible Gaming) וכלים להגנת השחקן, מגמה קריטית עבור ספקיות טכנולוגיה כמו Bragg Gaming הפועלות תחת רגולציה קפדנית.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המרכז את הנקודות המרכזיות בנושא הימורים וניהול פיננסי:\n\n*   **ניהול תקציב לקוי (Bankroll Management):** הטעות הנפוצה ביותר בקרב מתחילים היא חוסר ניהול נכון של התקציב, מה שמוביל להימורים בסכומים גבוהים מיכולתם הכלכלית ולסיכון פיננסי משמעותי.\n*   **הסכנה שבמרדף אחרי הפסדים:** מהמרים נוטים לנסות \"להחזיר\" כסף שאיבדו על ידי הימורים נוספים, דבר שמחמיר את המצב ומוביל לצרות כלכליות במהירות.\n*   **בלבול בין מזל למיומנות:** זכיות מוקדמות יוצרות אצל המהמר אשליה שהוא \"פיצח את השיטה\". הצלחה קצרת טווח נתפסת בטעות כהוכחה ליכולת, בעוד שמדובר באקראיות מוחלטת.\n*   **השפעת \"רצף הזכיות\" על קבלת החלטות:** הצלחה ראשונית גורמת לאנשים להעלות את סכומי ההימור במהירות ולהאריך את משך המשחק, תוך התעלמות ממגבלות שהציבו לעצמם מראש.\n*   **התמקדות יתרה בבונוסים:** שחקנים חדשים נוטים להתפתות למבצעים ובונוסים, אך שוכחים לבדוק את הפרמטר החשוב באמת – עד כמה קל ואמין תהליך משיכת הכספים מהפלטפורמה.\n*   **מבחן האמינות של הקזינו:** האיכות האמיתית של פלטפורמת הימורים נמדדת רק ברגע האמת – כאשר המשתמש מנסה לפדות זכייה משמעותית. ללא בדיקת תהליך המשיכה, המהמר עלול לגלות שהזכייה קיימת \"על הנייר\" בלבד."
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המרכז את הנקודות המרכזיות בנושא הימורים וניהול פיננסי:\n\n*   **ניהול תקציב לקוי (Bankroll Management):** הטעות הנפוצה ביותר בקרב מתחילים היא חוסר ניהול נכון של התקציב, מה שמוביל להימורים בסכומים גבוהים מיכולתם הכלכלית ולסיכון פיננסי משמעותי.\n*   **הסכנה שבמרדף אחרי הפסדים:** מהמרים נוטים לנסות \"להחזיר\" כסף שאיבדו על ידי הימורים נוספים, דבר שמחמיר את המצב ומוביל לצרות כלכליות במהירות.\n*   **בלבול בין מזל למיומנות:** זכיות מוקדמות יוצרות אצל המהמר אשליה שהוא \"פיצח את השיטה\". הצלחה קצרת טווח נתפסת בטעות כהוכחה ליכולת, בעוד שמדובר באקראיות מוחלטת.\n*   **השפעת \"רצף הזכיות\" על קבלת החלטות:** הצלחה ראשונית גורמת לאנשים להעלות את סכומי ההימור במהירות ולהאריך את משך המשחק, תוך התעלמות ממגבלות שהציבו לעצמם מראש.\n*   **התמקדות יתרה בבונוסים:** שחקנים חדשים נוטים להתפתות למבצעים ובונוסים, אך שוכחים לבדוק את הפרמטר החשוב באמת – עד כמה קל ואמין תהליך משיכת הכספים מהפלטפורמה.\n*   **מבחן האמינות של הקזינו:** האיכות האמיתית של פלטפורמת הימורים נמדדת רק ברגע האמת – כאשר המשתמש מנסה לפדות זכייה משמעותית. ללא בדיקת תהליך המשיכה, המהמר עלול לגלות שהזכייה קיימת \"על הנייר\" בלבד.",
+      "date_string": "2026-05-14",
+      "saved_at": "2026-05-14T08:38:34.507+00:00"
     },
     {
-      "id": "1tbpsrb",
+      "id": "1tdazl8",
       "source": "reddit",
-      "title": "Is using a VPN for online casinos actually safe/ok?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1tbpsrb/is_using_a_vpn_for_online_casinos_actually_safeok/",
-      "author": "LengthinessMotor5570",
+      "title": "Is there anyway to play stake in states where it's banned?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1tdazl8/is_there_anyway_to_play_stake_in_states_where_its/",
+      "author": "Master-Tree-1584",
       "score": 1,
-      "selftext": "Last weekend at poker night a buddy was bragging about “all the soft crypto sites” he can play on just by using a VPN, and it kinda sent me down a late-night google spiral.\n\nI’m in a country where a lot of sites are geo-blocked, but I keep seeing people mention stuff like Xsbets no kyc crypto casino and similar places that say you just need a VPN and a wallet and you’re good. No idea if that’s smart or if I’m asking to get my balance frozen or worse.\n\nI’m not a high roller, just like small stakes blackjack/slots for fun, so I’m trying to figure out if this is worth the risk or I’m being dumb. Maybe I’m overthinking this.  \n  \nQuestions for you guys: do you use VPNs to access blocked casinos? Anyone actually had withdrawals denied because of VPN/geo stuff? And are these no-KYC crypto sites generally safer, sketchier, or basically the same as the licensed fiat ones? Looking for honest experiences, good or bad.\n\n",
+      "selftext": "States like New York, Michigan, Idaho, etc have stake banned from play, while still permitting more traditional casino-style online gambling. I don't particularly care about the legality of it all, just wondering if there's anyway to effectively do it and avoid getting in trouble.",
       "subreddit": "onlinegambling",
-      "created_utc": 1778648705,
+      "created_utc": 1778792084,
+      "top_comments": [
+        {
+          "body": "Any solid VPN will put you in any state you cc want to be in",
+          "score": 1,
+          "author": "LegalSelf5"
+        },
+        {
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "הפוסט משקף את האתגרים באכיפת רגולציית ה-iGaming בארה\"ב, כאשר משתמשים מחפשים דרכים לעקוף מגבלות גיאוגרפיות במדינות שבהן פלטפורמות מסוימות (כמו Stake) חסומות. מגמה זו מדגישה את התחרות שחברות כמו Bragg Gaming, הפועלות בשוק המוסדר והחוקי, חוות אל מול \"השוק האפור\" הממשיך למשוך שחקנים למרות קיומן של חלופות מורשות.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הנקודות והדעות שעלו מהתגובות בשרשור:\n\n* **שימוש ב-VPN למעקף הגבלות:** קיימת טענה כי שימוש ב-VPN איכותי מאפשר למשתמשים להסוות את מיקומם ולהתחבר לאתרי הימורים מכל מדינה או אזור גאוגרפי שבו הם חפצים להיות.\n* **חשיבות חוקי הקהילה:** המנהלים מדגישים בפני משתמשים חדשים את הצורך לקרוא ולפעול בהתאם לכללים המפורטים בקהילה כדי לשמור על סדר ודיון תקין.\n* **הרחבת הקהילה לדיסקורד:** קיימת הזמנה גורפת למשתתפים להצטרף לשרת הדיסקורד הייעודי של הקבוצה כדי להמשיך את הדיונים בפלטפורמה נוספת.\n* **קידום הימורים אחראיים:** הקהילה מצהירה על מחויבותה לקידום הרגלי הימורים בריאים ואחראיים בקרב חבריה.\n* **מודעות לבעיית הימורים:** מודגש כי במקרים בהם ההימורים הופכים לבעיה או יוצאים משליטה, על המשתמשים לפנות למשאבי עזרה ועזרים ייעודיים (כמו דף ה-Wiki של הפורום).\n* **שימוש בכלים אוטומטיים לניהול:** הפורום עושה שימוש בבוטים כדי לספק מידע חיוני למשתמשים, להפנות אותם לכללים ולהציע תמיכה בנושאי התמכרות כבר ברמת התגובה הראשונה."
+    },
+    {
+      "id": "1td7tnn",
+      "source": "reddit",
+      "title": "North casino scammed me out of $5300. Do not play here or casino's licensed by Kahnwake Gaming commission",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1td7tnn/north_casino_scammed_me_out_of_5300_do_not_play/",
+      "author": "Worth_Air_9410",
+      "score": 1,
+      "selftext": "I deposited here.\n\n  \nThey have a rule you cannot bet over 10% of your balance.\n\n  \nOk cool. Whatever. They are licensed by Kahnwake gaming commission so I should be good.\n\n  \nHere is the catch.\n\n  \nWhen your balance gets low enough its impossible not to breach this term. Which Im ok with. Whatever. Im trying to zero out my account so I can play again some time.\n\n  \nI get the account to zero. I redeposit later and win $5300.\n\n  \nThe casino takes my money and says sorry we dont have to pay you because you broke the 10% rule on a prior lost deposit.\n\n  \nSo ya. If you have 80 cents left and bet over 8 cents to get your account to zero and this happens a year ago. A year later you deposit and win. They will take your winnings because you breached their 10% rule.\n\n  \nThis is an obvious scam casino and you can no longer trust ANY casino licensed by the Kahnwake gaming commission because they license and support this scam.\n\n  \nIm writing this thread in hopes thousands of players see this when they search out North Casino or Kahnwake Gaming Commission and avoid being freerolled and scammed like me",
+      "subreddit": "onlinegambling",
+      "created_utc": 1778785313,
+      "top_comments": [
+        {
+          "body": "I did and they sided with the casino because I guess its written in their terms. Not sure why they are licensing a rogue casino",
+          "score": 1,
+          "author": "Worth_Air_9410"
+        },
+        {
+          "body": "I did and North Casino refuses to engage. The gaming commission got involved but said sorry nothing we can do as its in their terms. I asked them why are the licensing and encouraging scam casinos? ",
+          "score": 1,
+          "author": "Worth_Air_9410"
+        },
+        {
+          "body": "yeah file complaint with those sites but also try reaching out to the licensing authority directly - Kahnwake should at least respond if this is legit breach of their standards 💀 that 10% rule retroactive enforcement is sketchy as hell, especially when they let you deposit again after",
+          "score": 1,
+          "author": "Fabulous_Ship_5664"
+        }
+      ],
+      "summary_he": "הפוסט מזהיר מפני North Casino וועדת ההימורים של קהנאווקה (KGC) בעקבות החרמת זכיות בסך 5,300 דולר בגין הפרה טכנית של תנאי \"מגבלת הימור\" מהפקדות קודמות. המקרה מדגיש את הסיכונים ברגולציה חלשה ובסעיפים \"טורפניים\" בתקנון, ומחזק את החשיבות של פעילות בשווקים בעלי רגולציה קפדנית (כגון אלו שבהם פועלת Bragg Gaming) המבטיחים הגנה על השחקן ושקיפות.",
+      "category_he": "רגולציית iGaming",
+      "comments_summary_he": "להלן סיכום הדיון בפורום Reddit בנושא iGaming וגופי רישוי, מבוסס על התגובות שצוינו:\n\n*   **נטיית גופי הרישוי לצדד בקזינו:** המגיבים מציינים כי ועדות ההימורים וגופי הפיקוח נוטים לעמוד לצד בתי הקזינו במחלוקות, כל עוד הפעולה של הקזינו מעוגנת בתנאי השימוש (T&Cs) שלו.\n*   **ביקורת על מדיניות הרישוי:** עולה תהייה קשה מצד המשתמשים לגבי הסיבה שגופי פיקוח מעניקים רישיונות ומעודדים פעילות של בתי קזינו שנתפסים כ\"נוכלים\" (Rogue/Scam Casinos) למרות התנהלותם הבעייתית.\n*   **חוסר היענות מצד בתי הקזינו:** מוזכר מקרה ספציפי (North Casino) שבו הקזינו מסרב לשתף פעולה או לנהל שיח עם הלקוח לגבי התלונה, גם כאשר גורמים חיצוניים מעורבים.\n*   **המלצה לפנייה ישירה לרשות הרישוי:** המגיבים ממליצים לא להסתפק באתרי תלונות צד ג', אלא לפנות ישירות לרשות הרישוי (כמו Kahnawake) במקרים של הפרה בוטה של סטנדרטים מקצועיים.\n*   **אכיפה רטרואקטיבית של חוקים:** קיימת ביקורת חריפה על בתי קזינו שאוכפים חוקים טכניים (כמו \"חוק ה-10%\") באופן רטרואקטיבי רק לאחר שהשחקן זכה, מה שנתפס כצעד לא הוגן וחשוד.\n*   **חוסר עקביות בהפקדות לעומת משיכות:** המשתמשים מצביעים על האבסורד בכך שבתי הקזינו מאפשרים לשחקנים להמשיך להפקיד כספים ללא הפרעה, אך משתמשים בתקנון כדי למנוע משיכות של זכיות בטענה להפרת כללים."
+    },
+    {
+      "id": "1td76v8",
+      "source": "reddit",
+      "title": "Hacksaw finally comes through!",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1td76v8/hacksaw_finally_comes_through/",
+      "author": "EMTguy32",
+      "score": 1,
+      "selftext": "I love hacksaws games, but I feel like I can never hit the bonus. I finally hit it today. Feels good man",
+      "subreddit": "onlinegambling",
+      "created_utc": 1778783989,
       "top_comments": [
         {
           "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
@@ -79,41 +140,39 @@ window.dashboardData = {
           "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט דן בשימוש ב-VPN ובבתי קזינו מבוססי קריפטו ללא אימות (no-KYC) כדי לעקוף חסימות גאוגרפיות, תוך העלאת חששות לגבי בטיחות הכספים והסיכון לסגירת חשבונות. נושא זה מדגיש את האתגר הרגולטורי המשמעותי בתעשיית ה-iGaming ואת התחרות מצד השוק הלא-מוסדר מול חברות ציבוריות הפועלות תחת רגולציה מחמירה, דוגמת Bragg Gaming. המגמה משקפת את הקושי של הרגולטורים באכיפת חוקי הימורים מקומיים מול פלטפורמות דיגיטליות מבוזרות.",
+      "summary_he": "הפוסט מתאר חוויית משתמש חיובית לאחר זכייה בבונוס במשחק של Hacksaw Gaming, ספקית תוכן המשתפת פעולה עם חברת Bragg Gaming (BRAG) בהפצת משחקים דרך הפלטפורמה שלה. הצלחת המותג בקרב שחקנים והביקוש למשחקים בעלי תנודתיות גבוהה מחזקים את פורטפוליו המוצרים של Bragg ומהווים אינדיקציה למגמות המעורבות בתעשיית ה-iGaming.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הנקודות המרכזיות העולות מתוך התגובה בשרשור (בהתבסס על הודעת המערכת והנחיות הקהילה):\n\n* **הקפדה על כללי הקהילה:** קיימת דרישה ברורה מכל המשתתפים, ובמיוחד ממשתמשים חדשים, לקרוא ולהישמע לכללים המפורטים בתקנון הפורום (Sidebar) כדי לשמור על סדר ואיכות הדיון.\n* **קידום הימורים אחראיים:** הקהילה שמה דגש מרכזי על עידוד דפוסי הימורים בריאים ואחראיים בקרב חבריה, מתוך תפיסה שיש למנוע התנהגות סיכונית.\n* **מעורבות והרחבת הקהילה:** ישנה קריאה אקטיבית למשתמשים להירשם לעדכונים ולהצטרף לערוצי תקשורת נוספים, כמו שרת הדיסקורד (Discord), כדי להעמיק את האינטראקציה בין החברים.\n* **מתן סיוע להתמכרויות:** הפורום מספק גישה ישירה למשאבי עזרה עצמית (כמו ה-Wiki של הקהילה) עבור משתמשים המרגישים שהרגלי ההימורים שלהם יוצאים מכלל שליטה.\n* **הכרה בסיכונים הפיננסיים והנפשיים:** המערכת מכירה בכך שהימורים מקוונים עלולים להפוך לבעיה, ומציעה כלים להתמודדות עם התמכרות כבר בנקודת המפגש הראשונה בשרשור.\n* **ניהול ובקרה אוטומטיים:** השימוש בבוט לניהול הקהילה מבטיח שכללי הבטיחות והאזהרות לגבי הימורים אחראיים יוצגו באופן עקבי לכל משתמש, ללא תלות בתוכן הדיון הספציפי.",
-      "date_string": "2026-05-13",
-      "saved_at": "2026-05-13T08:45:01.181+00:00"
+      "comments_summary_he": "ניתוח התגובה מהפורום (שמקורו בהודעת מנהל אוטומטית בקהילת ההימורים) מעלה את הנקודות הבאות בנוגע להתנהלות בקהילת iGaming ומימון:\n\n* **דגש על הימורים אחראיים:** הקהילה מצהירה כי היא שואפת לקדם תרבות של הימורים בריאים ואחראיים בקרב חבריה, תוך ניסיון למנוע הידרדרות להתנהגות הרסנית.\n* **מתן סיוע להתמכרויות:** קיים דגש על הכוונה למשאבי עזרה; הקהילה מספקת קישורים למדריכים (Wiki) עבור משתמשים שחשים שהרגלי ההימורים שלהם יוצאים משליטה.\n* **חשיבות הציות לכללים:** כחלק מהתנהלות בפורום פיננסי/הימורים, המשתמשים נדרשים לקרוא ולהבין את חוקי הקהילה כדי לשמור על שיח תקין ובטוח.\n* **מעורבות חברתית ודיון:** הקהילה מעודדת מעבר מהודעות סטטיות לשיח פעיל בזמן אמת באמצעות פלטפורמות כמו דיסקורד (Discord), מה שמאפשר שיתוף חוויות ומידע.\n* **ניהול ותקשורת אוטומטית:** השימוש בבוטים לניהול התוכן מעיד על צורך באכיפה עקבית של כללי הקהילה ובהנגשת מידע קריטי (כמו אזהרות התמכרות) לכל משתמש חדש באופן מיידי.\n* **יצירת סביבה מבוקרת:** המודל שמוצג משלב בין חופש העיסוק בתחום ה-iGaming לבין פיקוח הדוק, במטרה להגן על המשתתפים מפני הסיכונים הכלכליים והנפשיים הכרוכים בכך."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "משתמשים בטוויטר דנים בירידה קלה במניית BRAG היום, בעקבות דו\"ח רבעוני שמראה צמיחה איטית. יש תחזיות מחיר חיוביות לטווח הארוך, אך חששות מפני תנודתיות בשוק. סנטימנט כללי כולל דיונים על שותפויות חדשות עם מפעילי iGaming.",
-      "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים מתמקדים בנתונים מהבוקר."
+      "summary": "משתמשים ב-X מדברים על יציבות במניית BRAG לאחר דיווחים על שותפויות חדשות בתחום iGaming. תחזיות מחיר מצביעות על עלייה פוטנציאלית אם הרגולציה תתמך, אך יש חששות משוק תנודתי. סנטימנט כללי כולל דיונים על ביצועים רבעוניים.",
+      "sentiment": "חיובי",
+      "breaking": "דיווחים על שותפות חדשה עם ספק תוכנה, שיכולה להשפיע על המחיר בשעות הקרובות."
     },
     "us_regulation": {
-      "summary": "בטוויטר, משתמשים מדברים על הצעת חוק חדשה בניו יורק להרחבת רישיונות iGaming, כולל הימורים מקוונים. הדיונים כוללים דגש על פוטנציאל הכנסות למדינה, אך גם חששות מפני בעיות רגולטוריות. רגולציה בארה\"ב נחשבת להתקדם, עם דיונים על חקיקה דומה במדינות אחרות.",
-      "sentiment": "חיובי",
-      "breaking": "דווח על הצבעה מתוכננת בקונגרס ניו יורק תוך שבועיים, אך אין עדכונים מיידיים מהשעות האחרונות."
+      "summary": "בניו יורק, משתמשים ב-X דנים בהרחבת חקיקה להימורים מקוונים, כולל רישיונות חדשים שצפויים ב-2024. יש דיונים על השפעת זו על שוק הארצי, עם תמיכה מחברות iGaming אך חששות רגולטוריים. רגולציה זו עלולה להגביר את התחרות.",
+      "sentiment": "ניטרלי",
+      "breaking": "אישור ראשוני לחקיקה חדשה בניו יורק, שפורסם היום ויכול להוביל להנפקת רישיונות מהירים יותר."
     },
     "brazil_market": {
-      "summary": "משתמשים בטוויטר מציינים את הרגולציה החדשה בברזיל שמאשרת רישיונות להימורים מקוונים, עם דגש על אכיפה נגד פעילות בלתי חוקית. הדיונים כוללים הזדמנויות חדשות לחברות iGaming, אך גם אתגרים בהטמעת החוקים. שוק ההימורים צפוי לצמוח במהירות.",
+      "summary": "משתמשים ב-X מדגישים התקדמות ברגולציה להימורים בברזיל, כולל הנפקת רישיונות חדשים ופעולות אכיפה נגד אתרים בלתי חוקיים. השוק צופה צמיחה עם כניסת שחקנים בינלאומיים, אך יש דאגות לגבי אכיפה יעילה. זו יכולה להיות הזדמנות גדולה לחברות iGaming.",
       "sentiment": "חיובי",
-      "breaking": "אין חדשות חשובות חדשות; הדיונים ממשיכים מהשבוע שעבר על רישיונות ראשונים."
+      "breaking": "פרסום רשמי על רישיונות חדשים למפעילים, שפורסם היום ומושך תשומת לב רבה."
     },
     "netherlands_ksa": {
-      "summary": "בטוויטר, משתמשים דנים בחידוש רישיונות על ידי KSA, כולל אכיפה נגד אתרי הימורים לא חוקיים כמו BetCity. הדיונים כוללים שבחים על צעדים להגנה על צרכנים, אך גם ביקורת על עיכובים בתהליכים. רגולציה בהולנד נחשבת מחמירה וממוקדת בבטיחות.",
-      "sentiment": "שלילי",
-      "breaking": "דווח על קנס חדש לקראת סוף היום נגד חברה לא מורשית, אך פרטים מוגבלים."
+      "summary": "ב-X, דנים בחידוש רישיונות על ידי KSA ובאכיפה נגד הפרות, כולל התייחסות ספציפית ל-BetCity שממשיכה לפעול כחוק. יש דיונים על שיפורים ברגולציה להגנה על צרכנים, אך גם על אתגרים בהשגת ציות. זו נחשבת ליציבה יחסית.",
+      "sentiment": "ניטרלי",
+      "breaking": "חידוש רישיון ל-BetCity שפורסם לאחרונה, עם דגש על אכיפה מחמירה נגד הפרות."
     },
     "igaming_industry": {
-      "summary": "משתמשים בטוויטר מדברים על עסקאות חדשות כמו שותפויות בין חברות iGaming גדולות, מגמות כלליות של צמיחה בזכות טכנולוגיה חדשה, ודאגות מסביב להשפעות כלכליות. הדיונים כוללים רכישות חברות קטנות ופיתוחים ב-AR/VR להימורים. התעשייה נחשבת דינמית.",
+      "summary": "משתמשים ב-X מדברים על עסקאות חדשות כמו שותפויות בין חברות מובילות ועל מגמות כגון צמיחה במובייל ובשימוש ב-AI. יש דיונים על אתגרים רגולטוריים גלובליים, אך גם על הזדמנויות צמיחה. התעשייה נראית דינמית עם פוטנציאל להרחבה.",
       "sentiment": "חיובי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות; הדיונים מתמקדים במגמות שבועיות."
+      "breaking": "שותפות גדולה בין שתי חברות iGaming מובילות, שדווחה היום ויכולה להשפיע על השוק הכללי."
     },
-    "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות דחופות; הדיונים הכלליים מתמקדים בצמיחה רגולטורית, אך ללא שינויים דרמטיים."
+    "overall_sentiment": "חיובי",
+    "top_alert": "החדשה החשובה ביותר היא ההתקדמות ברגולציה בברזיל, שיכולה להוביל לצמיחה משמעותית בשוק ההימורים."
   },
-  "generatedAt": "2026-05-14T08:38:35.256Z"
+  "generatedAt": "2026-05-15T08:50:47.286Z"
 };
