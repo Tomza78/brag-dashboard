@@ -1,53 +1,6 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1thbsm7",
-      "source": "reddit",
-      "title": "Anybody know legit online casinos with those orb/fireball hold & spin slots?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1thbsm7/anybody_know_legit_online_casinos_with_those/",
-      "author": "FamousInteraction185",
-      "score": 1,
-      "selftext": "Okay y’all know the slots like Howling Wolf, King of Dragons, etc where you gotta land like 5 orbs/fireballs to trigger the bonus, then every extra orb adds money and resets the spins? Those are honestly my favorite kind of slots \n\nI’m trying to find an ONLINE casino/app with games like that — the real casino-style ones you see in actual casinos.\n\nI’m mainly looking for:\n\n\t•\tHold & spin / orb collection bonuses\n\n\t•\tWolf/dragon/buffalo style games\n\n\t•\tBonus rounds that keep resetting when you land another orb\n\n\t•\tBig jackpot style features\n\n\t•\tLegit payouts\n\n\t•\tActually works in the US\n\n\t•\tMobile friendly\n\nIf anybody knows any legit sites/apps with slots similar to these please drop the info below!",
-      "subreddit": "onlinegambling",
-      "created_utc": 1779164119,
-      "top_comments": [
-        {
-          "body": "I know one site. I don’t know about Howling Wolf, but yeah they have King of Dragon. I’ve texted you in the chat.",
-          "score": 1,
-          "author": "Gamble-Lover-3745"
-        },
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט מדגיש את הביקוש הגבוה בקרב שחקנים בארה\"ב למכונות מזל מקוונות המבוססות על מכניקת ה-\"Hold & Spin\" הפופולרית מבתי הקזינו הפיזיים. מגמה זו מייצגת הזדמנות משמעותית עבור ספקיות תוכן כמו Bragg Gaming (BRAG) המציעות משחקים בסגנון קלאסי המותאמים לשוק ה-iGaming המוסדר. בנוסף, הדרישה לפלטפורמות חוקיות ומורשות בארה\"ב מחזקת את חשיבות הרגולציה וההתרחבות של ספקים מורשים בשוק האמריקאי.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות, בעברית:\n\n* **המלצות על משחקים ופלטפורמות ספציפיות:** משתמשים משתפים מידע על זמינות של משחקי הימורים מסוימים (כמו \"King of Dragon\") באתרים שהם מכירים.\n* **מעבר לתקשורת פרטית:** קיים שימוש בהודעות ישירות (צ'אט) כדי לשתף לינקים או המלצות ספציפיות על אתרי הימורים, ייתכן כדי להימנע מחשיפה פומבית או עמידה בכללי הקהילה.\n* **דגש על הימורים אחראיים:** הקהילה מקפידה להציב התראות ומשאבים עבור משתמשים שמרגישים שהרגלי ההימורים שלהם יוצאים משליטה, כולל הפניה לויקי ייעודי בנושא.\n* **חשיבות כללי הקהילה:** קיימת הקפדה על קריאת חוקי הפורום (Sidebar) כדי לשמור על סדר ורלוונטיות של התוכן בקהילת ההימורים המקוונים.\n* **שימוש בפלטפורמות משלימות:** הקהילה מעודדת הצטרפות לערוצים חיצוניים כמו דיסקורד (Discord) לצורך הרחבת הדיון והתקשורת בין המשתמשים.\n* **דיון בזמינות כותרים:** המשתמשים בוחנים ומציינים אילו משחקים קיימים באתרים שונים (למשל, התייחסות ל-\"Howling Wolf\" מול \"King of Dragon\")."
-    },
-    {
-      "id": "1thbnfy",
-      "source": "reddit",
-      "title": "Anybody know legit online casinos with those orb/fireball hold & spin slots?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1thbnfy/anybody_know_legit_online_casinos_with_those/",
-      "author": "FamousInteraction185",
-      "score": 1,
-      "selftext": "Okay y’all know the slots like Howling Wolf, King of Dragons, etc where you gotta land like 5 orbs/fireballs to trigger the bonus, then every extra orb adds money and resets the spins? Those are honestly my favorite kind of slots \n\nI’m trying to find an ONLINE casino/app with games like that — the real casino-style ones you see in actual casinos.\n\nI’m mainly looking for:\n\nHold & spin / orb collection bonuses\n\nWolf/dragon/buffalo style games\n\nBonus rounds that keep resetting when you land another orb\n\nBig jackpot style features\n\nLegit payouts\n\nActually works in the US\n\nMobile friendly\n\nIf anybody knows any legit sites/apps with slots similar these drop the info below! ",
-      "subreddit": "onlinegambling",
-      "created_utc": 1779163721,
-      "top_comments": [
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט מדגיש את הביקוש הגבוה בשוק האמריקאי למכניקות משחק פופולריות מסוג \"Hold & Spin\", המוכרות מבתי הקזינו הפיזיים. מגמה זו רלוונטית במיוחד לחברות כמו Bragg Gaming (BRAG), המתמקדות באספקת תוכן מותאם לשווקים מוסדרים בארה\"ב העונה על העדפות שחקנים למשחקים בעלי תכונות \"Link\" וג'קפוטים.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן ניתוח של הנקודות המרכזיות שעלו מהתגובה בשרשור (המבוסס על הודעת המערכת האוטומטית בקהילת ההימורים):\n\n*   **קידום הימורים אחראיים:** הקהילה שמה דגש מרכזי על הימורים בריאים ואחראיים, תוך ניסיון למנוע התנהגויות של אובדן שליטה.\n*   **סיוע והכוונה למכורים:** קיים דגש על מתן מענה לאנשים שמרגישים שהרגלי ההימורים שלהם הפכו לבעייתיים, כולל הפניה למקורות מידע וסיוע ייעודיים (Wiki בנושא בעיות הימורים).\n*   **חשיבות כללי הקהילה:** המשתתפים החדשים מתבקשים לקרוא ולהבין את חוקי הפורום המופיעים בסרגל הצד כדי לשמור על סדר ואיכות הדיון.\n*   **יצירת קהילה מורחבת:** קיימת הזמנה פעילה למשתמשים להצטרף לערוצי תקשורת נוספים, כמו שרת הדיסקורד (Discord) של הקהילה, כדי להעמיק את האינטראקציה בין החברים.\n*   **ניהול ואוטומציה:** נעשה שימוש בבוטים ובכלים אוטומטיים כדי לספק מידע חיוני באופן מיידי ולנהל את הדיונים בפורום בצורה יעילה."
-    },
-    {
       "id": "1tgjznf",
       "source": "reddit",
       "title": "Online gambling stopped feeling fun once everything became ‘optimized",
@@ -76,51 +29,25 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט מבקר את המגמה הנוכחית בתעשיית ה-iGaming, שבה ה\"אופטימיזציה\" המופרזת והשימוש במנגנונים מניפולטיביים פוגעים בחוויית הבידור של המשתמש. מגמה זו מדגישה את האתגר של חברות כמו בראג גיימינג (Bragg Gaming) לספק תוכן ייחודי ואתי בשוק רווי, ומרמזת על צורך גובר ברגולציה שתתמקד בשקיפות ובהגנת הצרכן.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות ב-Reddit בנושא ענף ה-iGaming וההימורים:\n\n*   **תחושת מניפולציה על חשבון הנאה:** המשתמשים חשים שהמשחקים הפסיקו להיות מהנים ברגע שהם הפכו למוצרים \"מהונדסים\" מדי. במקום בידור, התחושה היא שהאתרים מנסים למקסם את זמן השהות ואת ההפסדים של השחקן בצורה אגרסיבית.\n*   **המעבר מ\"משחק\" ל\"מקסום מעורבות\":** קיימת ביקורת על כך שהתחום הפך לזירה של \"Engagement Farming\" (קצירת מעורבות). המטרה היא כבר לא לספק משחק איכותי, אלא להשאיר את המשתמש בתוך האפליקציה בכל מחיר.\n*   **שימוש בטקטיקות פסיכולוגיות:** המגיבים מציינים לרעה את השימוש הגובר ב\"ניסויים פסיכולוגיים\" המוטמעים באפליקציות, כגון שימוש בטיימרים, התראות בלתי פוסקות ומבצעי \"שחזור הפסדים\" שנועדו להשאיר את המשתמש בלופ של משחק.\n*   **אובדן ה\"תמימות\" של התחום:** ישנו געגוע לתקופה שבה הימורים או משחקים מקוונים הרגישו כמו \"תחביב קטן וטיפשי\" ולא כמו מערכת משומנת ומתוחכמת שנועדה לנצל את המשתמש.\n*   **מודעות גוברת למנגנוני האפליקציה:** ברגע שמשתמשים מתחילים להבחין במנגנונים המהונדסים (כמו הצעות \"בלעדיות\" מתוזמנות), קשה להם \"להפסיק לראות\" זאת. המודעות הזו פוגעת ביכולת שלהם ליהנות מהמשחק כבעבר.\n*   **הבדל בין אתרים ישנים לחדשים:** המשתמשים מציינים שבעבר האתרים הרגישו יותר כמו \"פשוט משחקים\", בעוד שהפלטפורמות המודרניות מרגישות כמו מכונות שיווקיות ומניפולטיביות שמעדיפות רווחים על פני חוויית משתמש הוגנת."
+      "comments_summary_he": "להלן סיכום הדיון והדעות המרכזיות שעלו מהתגובות ב-Reddit בנושא ענף ה-iGaming וההימורים:\n\n*   **תחושת מניפולציה על חשבון הנאה:** המשתמשים חשים שהמשחקים הפסיקו להיות מהנים ברגע שהם הפכו למוצרים \"מהונדסים\" מדי. במקום בידור, התחושה היא שהאתרים מנסים למקסם את זמן השהות ואת ההפסדים של השחקן בצורה אגרסיבית.\n*   **המעבר מ\"משחק\" ל\"מקסום מעורבות\":** קיימת ביקורת על כך שהתחום הפך לזירה של \"Engagement Farming\" (קצירת מעורבות). המטרה היא כבר לא לספק משחק איכותי, אלא להשאיר את המשתמש בתוך האפליקציה בכל מחיר.\n*   **שימוש בטקטיקות פסיכולוגיות:** המגיבים מציינים לרעה את השימוש הגובר ב\"ניסויים פסיכולוגיים\" המוטמעים באפליקציות, כגון שימוש בטיימרים, התראות בלתי פוסקות ומבצעי \"שחזור הפסדים\" שנועדו להשאיר את המשתמש בלופ של משחק.\n*   **אובדן ה\"תמימות\" של התחום:** ישנו געגוע לתקופה שבה הימורים או משחקים מקוונים הרגישו כמו \"תחביב קטן וטיפשי\" ולא כמו מערכת משומנת ומתוחכמת שנועדה לנצל את המשתמש.\n*   **מודעות גוברת למנגנוני האפליקציה:** ברגע שמשתמשים מתחילים להבחין במנגנונים המהונדסים (כמו הצעות \"בלעדיות\" מתוזמנות), קשה להם \"להפסיק לראות\" זאת. המודעות הזו פוגעת ביכולת שלהם ליהנות מהמשחק כבעבר.\n*   **הבדל בין אתרים ישנים לחדשים:** המשתמשים מציינים שבעבר האתרים הרגישו יותר כמו \"פשוט משחקים\", בעוד שהפלטפורמות המודרניות מרגישות כמו מכונות שיווקיות ומניפולטיביות שמעדיפות רווחים על פני חוויית משתמש הוגנת.",
+      "date_string": "2026-05-19",
+      "saved_at": "2026-05-19T09:42:58.028+00:00"
     },
     {
-      "id": "1tgf3bd",
+      "id": "1thbsm7",
       "source": "reddit",
-      "title": "Sometimes when you're up you just gotta smash the $50 button.",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1tgf3bd/sometimes_when_youre_up_you_just_gotta_smash_the/",
-      "author": "DFW-Extraterrestrial",
+      "title": "Anybody know legit online casinos with those orb/fireball hold & spin slots?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1thbsm7/anybody_know_legit_online_casinos_with_those/",
+      "author": "FamousInteraction185",
       "score": 1,
-      "selftext": "In for $200. Was playing mostly $5-$10 spins and got up a bit and tired of the back and forth. Hit that $50 spin 1 time and hear that sweet bonus bubbles sound. When you hear that, some shit is about to go down. \n\nI was a good boy and didn't go full degen mode and cashed out $5400 and left my original $200 deposit in to fuck off...which I quickly did. \n\nGotta go for it sometimes. Lucky day at the horse races, lucky day today online casino. ",
+      "selftext": "Okay y’all know the slots like Howling Wolf, King of Dragons, etc where you gotta land like 5 orbs/fireballs to trigger the bonus, then every extra orb adds money and resets the spins? Those are honestly my favorite kind of slots \n\nI’m trying to find an ONLINE casino/app with games like that — the real casino-style ones you see in actual casinos.\n\nI’m mainly looking for:\n\n\t•\tHold & spin / orb collection bonuses\n\n\t•\tWolf/dragon/buffalo style games\n\n\t•\tBonus rounds that keep resetting when you land another orb\n\n\t•\tBig jackpot style features\n\n\t•\tLegit payouts\n\n\t•\tActually works in the US\n\n\t•\tMobile friendly\n\nIf anybody knows any legit sites/apps with slots similar to these please drop the info below!",
       "subreddit": "onlinegambling",
-      "created_utc": 1779088743,
+      "created_utc": 1779164119,
       "top_comments": [
         {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "body": "I know one site. I don’t know about Howling Wolf, but yeah they have King of Dragon. I’ve texted you in the chat.",
           "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט מתאר חוויית משתמש בקזינו מקוון שבה הימור בודד בסיכון גבוה ($50) הוביל לזכייה משמעותית של $5,400 בזכות מנגנון בונוס. המקרה מדגים את רמת התנודתיות הגבוהה (volatility) ואת הפופולריות של משחקים עתירי ריגוש בתעשיית ה-iGaming, המהווים ליבת פעילותן של ספקיות תוכן כמו Bragg Gaming. בנוסף, התיאור מדגיש את חשיבות חוויית המשתמש והצלילים המלווים את הזכייה ככלי לשימור ומעורבות שחקנים (Player Engagement).",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הנקודות העולות מהתגובה המוצגת (הערה: התגובה שסופקה היא הודעה אוטומטית של מנהל מערכת בפורום הימורים):\n\n* **ציות לכללי הקהילה:** קיימת דרישה ממשתמשים חדשים לקרוא ולהכיר את חוקי הפורום המופיעים בסרגל הצד כדי לשמור על סדר.\n* **הרחבת הקהילה:** המערכת מעודדת את המשתמשים להירשם לערוץ ולהצטרף לשרת הדיסקורד הרשמי לצורך אינטראקציה חברתית נוספת.\n* **קידום הימורים אחראיים:** הקהילה מצהירה על מחויבותה לקידום הרגלי הימורים בריאים ואחראיים בקרב חבריה.\n* **סיוע בהתמכרויות:** קיימת הכרה בכך שהימורים עלולים לצאת משליטה, והפורום מספק הפניה ישירה למשאבי עזרה למי שמרגיש שהרגליו הפכו לבעייתיים.\n* **גישה למידע מקצועי:** המערכת מפנה את המשתמשים ל-\"Wiki\" ייעודי הכולל מידע מפורט על התמודדות עם בעיות הימורים.\n* **ניהול אוטומטי:** ההודעה מבהירה כי היא נוצרה על ידי \"בוט\" (Bot) שמטרתו לספק מענה ראשוני ומידע חיוני לכל פוסט חדש בפורום.",
-      "date_string": "2026-05-18",
-      "saved_at": "2026-05-18T10:02:48.888+00:00"
-    },
-    {
-      "id": "1tga8v5",
-      "source": "reddit",
-      "title": "Online casino roulette play",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1tga8v5/online_casino_roulette_play/",
-      "author": "Various_Quiet_8511",
-      "score": 1,
-      "selftext": "Hi all, I am curious if anyone knows which online casino/s has/have the following capabilities for roulette:\n\n1. Can bet any amount of straight up  numbers. The casino I am playing now limits the number to 28.\n\n2. Has the ability to drag/remove single bets if I have multiple bets on the board.\n\nThanks!",
-      "subreddit": "onlinegambling",
-      "created_utc": 1779073862,
-      "top_comments": [
-        {
-          "body": "Try Evolution Gaming tables via BetMGM or DraftKings. They have more flexibility on bet limits and better bet management interfaces than most.",
-          "score": 1,
-          "author": "Character-Formal565"
-        },
-        {
-          "body": "I’ve been playing on stake.us for a few years now and I think it’s the easiest and most reliable casino. If you wanna sign up use code:hpmark24 and receive $25 for free and 3.5% liftetime rakeback!",
-          "score": 1,
-          "author": "LingonberryWhole"
+          "author": "Gamble-Lover-3745"
         },
         {
           "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
@@ -128,41 +55,64 @@ window.dashboardData = {
           "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט מציג דרישות של שחקנים לשיפור חוויית המשתמש (UI) והסרת מגבלות טכניות במשחקי רולטה מקוונים, כגון הימור על מספר רב של מספרים במקביל וממשק גרירה גמיש. מגמות אלו מדגישות את הצורך של ספקיות פלטפורמה ותוכן, דוגמת Bragg Gaming, בפיתוח פתרונות טכנולוגיים מתקדמים המעניקים חופש פעולה רב יותר לשחקן ותומכים בשימור לקוחות בשוק ה-iGaming התחרותי.",
+      "summary_he": "הפוסט מדגיש את הביקוש הגבוה בקרב שחקנים בארה\"ב למכונות מזל מקוונות המבוססות על מכניקת ה-\"Hold & Spin\" הפופולרית מבתי הקזינו הפיזיים. מגמה זו מייצגת הזדמנות משמעותית עבור ספקיות תוכן כמו Bragg Gaming (BRAG) המציעות משחקים בסגנון קלאסי המותאמים לשוק ה-iGaming המוסדר. בנוסף, הדרישה לפלטפורמות חוקיות ומורשות בארה\"ב מחזקת את חשיבות הרגולציה וההתרחבות של ספקים מורשים בשוק האמריקאי.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון בפורום על בסיס התגובות שהוצגו, בנקודות:\n\n*   **המלצה על ספקי תוכנה ופלטפורמות מוכרות:** משתמשים ממליצים על שולחנות המשחק של Evolution Gaming דרך פלטפורמות מבוססות כמו BetMGM או DraftKings, בשל גמישות גבוהה יותר בגבולות ההימור וממשקי ניהול נוחים למשתמש.\n*   **העדפת פלטפורמות קריפטו/חברתיות:** קיימת המלצה על אתר Stake.us כפלטפורמה קלה לשימוש ואמינה לאורך זמן עבור שחקנים בתחום הקזינו המקוון.\n*   **שימוש בתמריצים ובקודים לרישום:** הדיון כולל שיווק אגרסיבי של \"בונוסים\" למצטרפים חדשים, כגון כסף חינם ללא הפקדה (Sign-up bonus) והחזרי עמלות קבועים (Rakeback) כדי למשוך משתמשים.\n*   **חשיבות הקהילה והכללים:** קיימת הפניה ברורה לכללי הפורום ולהצטרפות לקהילות חיצוניות (כמו דיסקורד) כדי לשמור על שיח מוסדר בין המהמרים.\n*   **דגש על הימורים אחראיים:** חלק משמעותי מהדיון (באמצעות מנהל אוטומטי) מוקדש למניעת התמכרות, עם קריאה לשמור על הרגלי הימורים בריאים והפניה למקורות סיוע ומידע למי שחש שאיבד שליטה.",
-      "date_string": "2026-05-18",
-      "saved_at": "2026-05-18T10:03:03.164+00:00"
+      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות, בעברית:\n\n* **המלצות על משחקים ופלטפורמות ספציפיות:** משתמשים משתפים מידע על זמינות של משחקי הימורים מסוימים (כמו \"King of Dragon\") באתרים שהם מכירים.\n* **מעבר לתקשורת פרטית:** קיים שימוש בהודעות ישירות (צ'אט) כדי לשתף לינקים או המלצות ספציפיות על אתרי הימורים, ייתכן כדי להימנע מחשיפה פומבית או עמידה בכללי הקהילה.\n* **דגש על הימורים אחראיים:** הקהילה מקפידה להציב התראות ומשאבים עבור משתמשים שמרגישים שהרגלי ההימורים שלהם יוצאים משליטה, כולל הפניה לויקי ייעודי בנושא.\n* **חשיבות כללי הקהילה:** קיימת הקפדה על קריאת חוקי הפורום (Sidebar) כדי לשמור על סדר ורלוונטיות של התוכן בקהילת ההימורים המקוונים.\n* **שימוש בפלטפורמות משלימות:** הקהילה מעודדת הצטרפות לערוצים חיצוניים כמו דיסקורד (Discord) לצורך הרחבת הדיון והתקשורת בין המשתמשים.\n* **דיון בזמינות כותרים:** המשתמשים בוחנים ומציינים אילו משחקים קיימים באתרים שונים (למשל, התייחסות ל-\"Howling Wolf\" מול \"King of Dragon\").",
+      "date_string": "2026-05-19",
+      "saved_at": "2026-05-19T09:42:27.505+00:00"
+    },
+    {
+      "id": "1thbnfy",
+      "source": "reddit",
+      "title": "Anybody know legit online casinos with those orb/fireball hold & spin slots?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1thbnfy/anybody_know_legit_online_casinos_with_those/",
+      "author": "FamousInteraction185",
+      "score": 1,
+      "selftext": "Okay y’all know the slots like Howling Wolf, King of Dragons, etc where you gotta land like 5 orbs/fireballs to trigger the bonus, then every extra orb adds money and resets the spins? Those are honestly my favorite kind of slots \n\nI’m trying to find an ONLINE casino/app with games like that — the real casino-style ones you see in actual casinos.\n\nI’m mainly looking for:\n\nHold & spin / orb collection bonuses\n\nWolf/dragon/buffalo style games\n\nBonus rounds that keep resetting when you land another orb\n\nBig jackpot style features\n\nLegit payouts\n\nActually works in the US\n\nMobile friendly\n\nIf anybody knows any legit sites/apps with slots similar these drop the info below! ",
+      "subreddit": "onlinegambling",
+      "created_utc": 1779163721,
+      "top_comments": [
+        {
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "הפוסט מדגיש את הביקוש הגבוה בשוק האמריקאי למכניקות משחק פופולריות מסוג \"Hold & Spin\", המוכרות מבתי הקזינו הפיזיים. מגמה זו רלוונטית במיוחד לחברות כמו Bragg Gaming (BRAG), המתמקדות באספקת תוכן מותאם לשווקים מוסדרים בארה\"ב העונה על העדפות שחקנים למשחקים בעלי תכונות \"Link\" וג'קפוטים.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן ניתוח של הנקודות המרכזיות שעלו מהתגובה בשרשור (המבוסס על הודעת המערכת האוטומטית בקהילת ההימורים):\n\n*   **קידום הימורים אחראיים:** הקהילה שמה דגש מרכזי על הימורים בריאים ואחראיים, תוך ניסיון למנוע התנהגויות של אובדן שליטה.\n*   **סיוע והכוונה למכורים:** קיים דגש על מתן מענה לאנשים שמרגישים שהרגלי ההימורים שלהם הפכו לבעייתיים, כולל הפניה למקורות מידע וסיוע ייעודיים (Wiki בנושא בעיות הימורים).\n*   **חשיבות כללי הקהילה:** המשתתפים החדשים מתבקשים לקרוא ולהבין את חוקי הפורום המופיעים בסרגל הצד כדי לשמור על סדר ואיכות הדיון.\n*   **יצירת קהילה מורחבת:** קיימת הזמנה פעילה למשתמשים להצטרף לערוצי תקשורת נוספים, כמו שרת הדיסקורד (Discord) של הקהילה, כדי להעמיק את האינטראקציה בין החברים.\n*   **ניהול ואוטומציה:** נעשה שימוש בבוטים ובכלים אוטומטיים כדי לספק מידע חיוני באופן מיידי ולנהל את הדיונים בפורום בצורה יעילה.",
+      "date_string": "2026-05-19",
+      "saved_at": "2026-05-19T09:42:41.442+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים היום על BRAG. משתמשים מציינים יציבות ללא תנודות גדולות או תחזיות חדשות.",
+      "summary": "דיונים מוגבלים על BRAG, בעיקר עדכונים שוטפים ללא שינויים דרמטיים. תחזיות מחיר נותרות יציבות.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": "אין חדשות משמעותיות מהשעות האחרונות."
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה או רישיונות שפורסמו היום.",
+      "summary": "שיחות על רגולציה בניו יורק מתמקדות בהארכת רישיונות קיימים. אין חקיקה חדשה בולטת היום.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": "אין עדכונים חדשים."
     },
     "brazil_market": {
-      "summary": "שיחות על רגולציה בברזיל נמשכות ללא עדכונים ספציפיים על רישיונות או אכיפה.",
+      "summary": "דיונים על רגולציה בברזיל סביב מתן רישיונות חדשים. אכיפה נמשכת ללא שינויים דרמטיים.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": "אין חדשות ספציפיות מהיום."
     },
     "netherlands_ksa": {
-      "summary": "אין דיווחים על חידוש רישיונות או אכיפה חדשה בהולנד, כולל BetCity.",
+      "summary": "שיח על חידוש רישיונות ופעולות אכיפה של KSA. BetCity מוזכרת בהקשר שוטף.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": "אין עדכונים חדשים."
     },
     "igaming_industry": {
-      "summary": "מגמות כלליות ללא עסקאות או שותפויות בולטות שדווחו היום.",
+      "summary": "עסקאות ושותפויות כלליות נדונות ללא מגמות חדשות בולטות. השוק נותר יציב.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": "אין חדשות משמעותיות."
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות דחופות"
+    "top_alert": "אין התראות דחופות מהיום."
   },
-  "generatedAt": "2026-05-19T09:42:59.530Z"
+  "generatedAt": "2026-05-20T09:32:09.803Z"
 };
