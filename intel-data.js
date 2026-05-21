@@ -1,82 +1,96 @@
 window.intelData = {
   "stock": {
-    "price": "1.64",
-    "change": "-0.08",
-    "changePercent": "-4.65%",
-    "priceTSX": "2.27",
+    "price": "1.76",
+    "change": "+0.12",
+    "changePercent": "+7.32%",
+    "priceTSX": "2.37",
     "high52w": "$4.78",
-    "low52w": "$1.46",
-    "volume": "43,900",
-    "marketCap": "$50M",
-    "yoyChange": "-66%",
-    "updatedAt": "20.5.2026 · 09:29",
-    "dayHigh": "$1.70",
-    "dayLow": "$1.62",
-    "changeTSX": "+0.05",
-    "changePercentTSX": "+2.25%",
-    "volumeTSX": "20,000"
+    "low52w": "$1.42",
+    "volume": "463,800",
+    "marketCap": "$54M",
+    "yoyChange": "-63%",
+    "updatedAt": "21.5.2026 · 09:38",
+    "dayHigh": "$1.84",
+    "dayLow": "$1.44",
+    "changeTSX": "+0.10",
+    "changePercentTSX": "+4.41%",
+    "volumeTSX": "32,700"
   },
   "chartData": {
     "priceLabels": [
-      "08/05",
       "11/05",
       "12/05",
       "13/05",
       "14/05",
       "15/05",
-      "19/05"
+      "19/05",
+      "20/05"
     ],
     "priceValues": [
-      2.94,
       2.91,
       2.85,
       2.91,
       2.58,
       2.22,
-      2.27
+      2.27,
+      2.37
     ],
     "volumeLabels": [
-      "08/05",
       "11/05",
       "12/05",
       "13/05",
       "14/05",
       "15/05",
-      "19/05"
+      "19/05",
+      "20/05"
     ],
     "volumeValues": [
-      15,
       5,
       6,
       4,
       64,
       100,
-      20
+      20,
+      33
     ]
   },
   "socialMedia": {
-    "sentimentScore": 5,
+    "sentimentScore": 6.2,
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "דיונים מוגבלים על BRAG, בעיקר עדכונים שוטפים ללא שינויים דרמטיים. תחזיות מחיר נותרות יציבות.",
+        "text": "משתמשים מציינים יציבות במניית BRAG לאחר עדכון שותפויות. תחזיות מחיר נותרות ניטרליות לטווח הקצר.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "שיחות על רגולציה בניו יורק מתמקדות בהארכת רישיונות קיימים. אין חקיקה חדשה בולטת היום.",
+        "text": "דיונים על התקדמות רגולציה בניו יורק עם דגש על רישיונות חדשים. חקיקה ממשיכה להתעכב.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "דיונים על רגולציה בברזיל סביב מתן רישיונות חדשים. אכיפה נמשכת ללא שינויים דרמטיים.",
+        "text": "שיחות על אכיפה מוגברת ורישיונות חדשים בשוק הברזילאי. רגולציה מתקדמת בהדרגה.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "שיח על חידוש רישיונות ופעולות אכיפה של KSA. BetCity מוזכרת בהקשר שוטף.",
+        "text": "משתמשים מדווחים על חידוש רישיונות ופעולות אכיפה נגד אתרים לא מורשים. BetCity נזכרת בהקשר חיובי.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "עסקאות ושותפויות כלליות נדונות ללא מגמות חדשות בולטות. השוק נותר יציב.",
+        "text": "עסקאות ושותפויות חדשות נדונות בתעשייה. מגמות כלליות מצביעות על צמיחה מתונה.",
         "platform": "X/Grok · igaming industry"
+      },
+      {
+        "text": "$BRAG going to zero quicker than i thought. let’s give a big thanks to our ceo matz!!",
+        "platform": "StockTwits · $BRAG",
+        "sentiment": null,
+        "date": "2026-05-20T13:35:09Z",
+        "username": "johnnysims15"
+      },
+      {
+        "text": "$BRAG uh oh down 13% pre market",
+        "platform": "StockTwits · $BRAG",
+        "sentiment": null,
+        "date": "2026-05-20T13:11:08Z",
+        "username": "johnnysims15"
       },
       {
         "text": "$BRAG what just happened today?",
@@ -133,20 +147,6 @@ window.intelData = {
         "sentiment": null,
         "date": "2026-05-14T12:57:35Z",
         "username": "chazchem"
-      },
-      {
-        "text": "$BRAG &quot;&quot;1 million dollars of excess cash in this transaction&quot; Whoopie twag&quot;...We are so boned !! Matt Davey bla bla bla...Sold his company for Brag stock.",
-        "platform": "StockTwits · $BRAG",
-        "sentiment": null,
-        "date": "2026-05-14T12:54:38Z",
-        "username": "chazchem"
-      },
-      {
-        "text": "$BRAG Matt Davey did all of that and ended up in our pile of dung !!",
-        "platform": "StockTwits · $BRAG",
-        "sentiment": null,
-        "date": "2026-05-14T12:42:23Z",
-        "username": "chazchem"
       }
     ]
   },
@@ -166,32 +166,32 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "דיונים מוגבלים על BRAG, בעיקר עדכונים שוטפים ללא שינויים דרמטיים. תחזיות מחיר נותרות יציבות.",
+      "summary": "משתמשים מציינים יציבות במניית BRAG לאחר עדכון שותפויות. תחזיות מחיר נותרות ניטרליות לטווח הקצר.",
       "sentiment": "ניטרלי",
       "breaking": "אין חדשות משמעותיות מהשעות האחרונות."
     },
     "us_regulation": {
-      "summary": "שיחות על רגולציה בניו יורק מתמקדות בהארכת רישיונות קיימים. אין חקיקה חדשה בולטת היום.",
+      "summary": "דיונים על התקדמות רגולציה בניו יורק עם דגש על רישיונות חדשים. חקיקה ממשיכה להתעכב.",
       "sentiment": "ניטרלי",
-      "breaking": "אין עדכונים חדשים."
+      "breaking": "אין עדכונים חדשים מהיום."
     },
     "brazil_market": {
-      "summary": "דיונים על רגולציה בברזיל סביב מתן רישיונות חדשים. אכיפה נמשכת ללא שינויים דרמטיים.",
-      "sentiment": "ניטרלי",
-      "breaking": "אין חדשות ספציפיות מהיום."
+      "summary": "שיחות על אכיפה מוגברת ורישיונות חדשים בשוק הברזילאי. רגולציה מתקדמת בהדרגה.",
+      "sentiment": "חיובי",
+      "breaking": "אין חדשות בולטות מהשעות האחרונות."
     },
     "netherlands_ksa": {
-      "summary": "שיח על חידוש רישיונות ופעולות אכיפה של KSA. BetCity מוזכרת בהקשר שוטף.",
+      "summary": "משתמשים מדווחים על חידוש רישיונות ופעולות אכיפה נגד אתרים לא מורשים. BetCity נזכרת בהקשר חיובי.",
       "sentiment": "ניטרלי",
-      "breaking": "אין עדכונים חדשים."
+      "breaking": "אין עדכונים ספציפיים מהיום."
     },
     "igaming_industry": {
-      "summary": "עסקאות ושותפויות כלליות נדונות ללא מגמות חדשות בולטות. השוק נותר יציב.",
-      "sentiment": "ניטרלי",
-      "breaking": "אין חדשות משמעותיות."
+      "summary": "עסקאות ושותפויות חדשות נדונות בתעשייה. מגמות כלליות מצביעות על צמיחה מתונה.",
+      "sentiment": "חיובי",
+      "breaking": "אין חדשות דחופות מהשעות האחרונות."
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות דחופות מהיום."
+    "top_alert": "התקדמות רגולציה בברזיל"
   },
   "sections": {
     "brag_official": {
@@ -201,48 +201,48 @@ window.intelData = {
       "articles": [
         {
           "date": "2026-05-15",
-          "title": "Bragg Gaming expands U.S. presence with Drayton acquisition - igamingbusiness.com",
-          "summary_he": "Bragg Gaming מרחיבה את פעילותה בשוק ה-iGaming בארה\"ב באמצעות רכישת Drayton, צעד אסטרטגי שנועד לחזק את אחיזתה הרגולטורית ולהאיץ את חדירתה לשווקים המקומיים בצפון אמריקה.",
-          "source": "igamingbusiness.com",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWJJSXdtN1BUTTBybTRydTRTYThlektQVnlUN1JsdHRrU1UyNGpndHpEUXAxRnQxWWVOVHZwMGZHelc1cHJtY1VpVzA2UVQ5Njh6RVlTMWdnSXJTOG9JYzVmZXlUOFdlRFh1X1VIbUdoeDZMc1hiN05Ia2FSaGhHdTZwVEdtLUQxNFo2MGFvZ1AyT3R1YW1JRg?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-05-15",
           "title": "Bragg Gaming Group Inc. 2026 Q1 - Results - Earnings Call Presentation (TSX:BRAG:CA) 2026-05-15 - Seeking Alpha",
-          "summary_he": "חברת Bragg Gaming הציגה את תוצאותיה הכספיים לרבעון הראשון של 2026, תוך פירוט האסטרטגיה העסקית והמשך הצמיחה של הקבוצה בשוק ה-iGaming העולמי. הדיווח מספק למשקיעים הצצה לביצועיה התפעוליים ולמיצובה התחרותי של החברה בתעשייה.",
+          "summary_he": "חברת Bragg Gaming הציגה את תוצאותיה הכספיות לרבעון הראשון של 2026, המשקפות את צמיחתה העסקית והמשך התרחבותה בשווקי iGaming מוסדרים ברחבי העולם. הדיווח מדגיש את חוסנה הפיננסי של החברה כספקית טכנולוגיה ותוכן מובילה בתעשייה.",
           "source": "Seeking Alpha",
           "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONzJvcU5PcUN1YU9rQk5NYklOU0RldTRqMGdnQnVhcnJEcTRLQUwzaEN4cmRnUEl4MUpoa0tYT1AwcTBEMWJlMHBhNWozTjFzS0N5SGRNcWdOXzh6OVN6NVFQYjI5UUJPSVRXdGxRTnFrREEtdEpkcXlwM2lLTzByLW8xdXhNLUxpTFowSUd5clVrR21aZFdKaUs1YVE5Zk9kMWJoWTNzMm5MQQ?oc=5",
           "sourceKey": "brag_official"
         },
         {
           "date": "2026-05-15",
+          "title": "Bragg Gaming expands U.S. presence with Drayton acquisition - igamingbusiness.com",
+          "summary_he": "חברת בראג גיימינג (Bragg Gaming) מרחיבה את אחיזתה בשוק ה-iGaming האמריקאי באמצעות רכישת חברת Drayton. המהלך צפוי לחזק את התשתית העסקית והרגולטורית של החברה בארה\"ב ולהאיץ את צמיחתה כספקית טכנולוגיה ותוכן מובילה בשוק זה.",
+          "source": "igamingbusiness.com",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeWJJSXdtN1BUTTBybTRydTRTYThlektQVnlUN1JsdHRrU1UyNGpndHpEUXAxRnQxWWVOVHZwMGZHelc1cHJtY1VpVzA2UVQ5Njh6RVlTMWdnSXJTOG9JYzVmZXlUOFdlRFh1X1VIbUdoeDZMc1hiN05Ia2FSaGhHdTZwVEdtLUQxNFo2MGFvZ1AyT3R1YW1JRg?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-05-15",
+          "title": "Bragg Gaming Group acquires Drayton International for $9 million - WN Hub",
+          "summary_he": "חברת Bragg Gaming Group רכשה את Drayton International תמורת 9 מיליון דולר, במהלך אסטרטגי שנועד להרחיב את דריסת הרגל של הקבוצה בשוק ה-iGaming העולמי ולחזק את צמיחתה העסקית.",
+          "source": "WN Hub",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pb2xtZU92VUFyOU5SY3FJVFdfT1FKRk9OMmZjUDJRV19hTW9YSUtXRUtidWMxU1dDOHBvWlRRcVptdm5qZGtPeHd2X1BSbUk?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-05-15",
           "title": "Bragg Gaming Group Reports Q1 2026 Results: Full Earnings Call Transcript - Sahm",
-          "summary_he": "חברת Bragg Gaming Group פרסמה את תוצאותיה הכספיים לרבעון הראשון של 2026, המעידים על ביצועיה העסקיים והמשך צמיחתה האסטרטגית בשוק ה-iGaming העולמי.",
+          "summary_he": "חברת Bragg Gaming Group פרסמה את דוחותיה הכספיים לרבעון הראשון של 2026, המעידים על ביצועיה העסקיים ועל המשך צמיחתה האסטרטגית בשוק ה-iGaming הבינלאומי.",
           "source": "Sahm",
           "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQT3IyQnROOUNadDdvcllnZlZIWlFCb21aVENUQi1zckFObWk1cElBMG54LXliZW12OHprdHVFTGhqdUZzVXhPa2FtRHJkaG40MVc1QXczTVlzeGhSWjlpbHRYX1owWU9ZMkkzZ21sSjVhVFBjY283c1RuU2ZpQXVxbjNPZm9CMms0RDVacmZRSUlVTTlNSDZodjUyR1k4TkhDMFB5SkNPRzBqdmlBTUIyc0swZE4zUzdHQnRBWXdxVDlLdw?oc=5",
           "sourceKey": "brag_official"
         },
         {
           "date": "2026-05-15",
-          "title": "Bragg Gaming Group to Acquire Drayton in $9M Share Deal - World Casino News",
-          "summary_he": "קבוצת בראג גיימינג (Bragg Gaming) תרכוש את חברת Drayton בעסקת מניות בשווי 9 מיליון דולר, צעד שנועד להרחיב את הפריסה העסקית ופורטפוליו המוצרים של החברה בשוק ה-iGaming העולמי.",
-          "source": "World Casino News",
-          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVdsQktITFNOMFBTbW40cVVKMms0b1hySmR6T1ROWnY2YnFjODhBOHB1bXdLbVoxOTBMaHdLaGxuQ01TWVFHX3RlSXhORlo3WGVMR05nVXNsbnlWQ29IaUJKOEZlb0NHbkktc0tNaWI0Z0VmdzVVSHBxYk56S1hMazVZVm56bjJSejFsaXRQQ2NlMDVrLVVsV3owQXd3Q00xcHc?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-05-15",
-          "title": "Bragg Gaming Group acquires Drayton International for $9 million - WN Hub",
-          "summary_he": "קבוצת Bragg Gaming רכשה את Drayton International תמורת 9 מיליון דולר, במהלך אסטרטגי שנועד להרחיב את פריסתה הגלובלית בשוק ה-iGaming. העסקה מחזקת את מעמדה של בראג כספקית B2B ומעניקה לה דריסת רגל רגולטורית נוספת בשווקים מוסדרים ומרכזיים.",
-          "source": "WN Hub",
-          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9pb2xtZU92VUFyOU5SY3FJVFdfT1FKRk9OMmZjUDJRV19hTW9YSUtXRUtidWMxU1dDOHBvWlRRcVptdm5qZGtPeHd2X1BSbUk?oc=5",
+          "title": "Number of shareholders of Bragg Gaming Group Inc. – NASDAQ:BRAG - TradingView",
+          "summary_he": "פורסמו נתוני בעלי המניות של קבוצת בראג גיימינג (Bragg Gaming) בנאסד\"ק, המעידים על מידת העניין של המשקיעים והנזילות של החברה. נתונים אלו חיוניים להערכת היציבות העסקית ושווי השוק של ספקית הטכנולוגיה המובילה בתעשיית ה-iGaming.",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUndpd1JnZW1XajBwNXg0N1lCVnRsZmRCWmliN3VWYnpLWWVKdUdDS0JzdFZibDNGSjRSaDBmUVppcWFKUGE0ZER4R1VoVVBya3dtb2Q4aTVvODVBSkQ5emxlZzZNTFYzT1JxV2ZIdnZZMkJIeTVZYW1BM3ZsWDNrTkRZRXBCWS1BODV5OGcxUWxpdVdaNTg2M0VpRVR2RzJxOVNiaFM3bw?oc=5",
           "sourceKey": "brag_official"
         },
         {
           "date": "2026-05-14",
           "title": "Bragg Gaming Group Reports First Quarter 2026 Financial Results",
-          "summary_he": "חברת Bragg Gaming דיווחה על צמיחה בהכנסות ברבעון הראשון של 2026, נתון המעיד על המשך התרחבותה העסקית וחיזוק מעמדה כספקית טכנולוגיה ותוכן מובילה בשוק ה-iGaming העולמי.",
+          "summary_he": "חברת Bragg Gaming דיווחה על צמיחה בהכנסות בדוחות הרבעון הראשון של 2026, נתון המעיד על התחזקות מעמדה העסקי והמשך התרחבותה כספקית פתרונות טכנולוגיה ותוכן מובילה בשוק ה-iGaming העולמי.",
           "source": "bragg.group",
           "url": "https://bragg.group/bragg-gaming-group-reports-first-quarter-2026-financial-results/",
           "sourceKey": "brag_official"
@@ -250,7 +250,7 @@ window.intelData = {
         {
           "date": "2026-05-14",
           "title": "Bragg Gaming Group Accelerates Games-First Strategy with Acquisition of Drayton International",
-          "summary_he": "קבוצת בראג גיימינג (Bragg Gaming) רוכשת את Drayton International ומצרפת לשורותיה את המומחה מאט דייווי, במטרה להאיץ את אסטרטגיית ה-\"Games-First\" שלה. המהלך נועד לחזק משמעותית את היצע התוכן של החברה ולהרחיב את צמיחתה העסקית בשוק ה-iGaming.",
+          "summary_he": "קבוצת Bragg Gaming רכשה את חברת Drayton International במטרה להאיץ את אסטרטגיית התוכן שלה (\"Games-first\") ולהרחיב את פריסתה העסקית בשוק ה-iGaming. המהלך, המשלב כוחות עם היזם מאט דייווי, נועד לחזק את הצמיחה והתחרותיות של החברה בתחום פיתוח המשחקים.",
           "source": "bragg.group",
           "url": "https://bragg.group/bragg-gaming-group-accelerates-games-first-strategy-with-acquisition-of-drayton-international/",
           "sourceKey": "brag_official"
@@ -258,7 +258,7 @@ window.intelData = {
         {
           "date": "2026-05-14",
           "title": "Bragg Gaming (NASDAQ: BRAG) holds margins, signs Drayton deal in Q1 2026 - Stock Titan",
-          "summary_he": "חברת בראג גיימינג (Bragg Gaming) שומרת על שולי רווח יציבים וממשיכה בהתרחבותה העסקית עם חתימת הסכם אסטרטגי חדש מול Drayton, צעד המעיד על חוסנה הפיננסי וצמיחתה בשוק ה-iGaming העולמי.",
+          "summary_he": "חברת Bragg Gaming שמרה על שולי הרווח שלה ברבעון הראשון ודיווחה על הסכם אסטרטגי חדש עם Drayton, מהלך המעיד על יציבות פיננסית והמשך התרחבות עסקית בשוק ה-iGaming.",
           "source": "Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLXhpUTlVMzE4LVFEbUxkN2lCZXU1QnAxMUNGbU83WGY5dFJBYktVdkZuNXhqQW45bzVrWFBXNFpTejhaVmFiUkNaZ3o1Z1MwTm1aUE9ZaGhaOGgtYVZmUEVFNTZSV0drQlhRYXc2QkkzRjB1N3ZGZEhmT3hCclR2cnRVVHhoMVZNcldkdmx1RnVPenhkMUN6cHpPVmo3LUdERTRvU2hZQ3ZRd1dlWGc1dkFtTzVwYjJqSnc?oc=5",
           "sourceKey": "brag_official"
@@ -266,18 +266,64 @@ window.intelData = {
         {
           "date": "2026-05-14",
           "title": "Bragg Gaming Group: $9 Million Drayton International Acquisition Accelerates Games-First Strategy - Pulse 2.0",
-          "summary_he": "חברת Bragg Gaming Group רכשה את Drayton International תמורת 9 מיליון דולר, מהלך שנועד להאיץ את אסטרטגיית ה-\"Games-First\" שלה. הרכישה מחזקת את יכולות פיתוח התוכן העצמאי של החברה ומהווה צעד עסקי משמעותי להגדלת רווחיותה בשוק ה-iGaming העולמי.",
+          "summary_he": "חברת Bragg Gaming רכשה את Drayton International תמורת 9 מיליון דולר, מהלך שנועד להאיץ את אסטרטגיית \"המשחקים תחילה\" של הקבוצה ולהעמיק את חדירתה לשוק ה-iGaming המוסדר בארה\"ב. הרכישה צפויה לחזק את יכולות הפיתוח וההפצה של Bragg ולהגדיל את נתח השוק שלה בצפון אמריקה.",
           "source": "Pulse 2.0",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQWRHemFLZ3pvWE11N0R1bGhnaEVXR3AyS1daY1B0MFI0VUVyRzVjZG1uWnE2d29mNFlYQkppV01JaVAzY05Hd1pCUENwbktMN0h0VUdsZFAyeVVRaUVlT2xpZTRYZUw1b0FvbTZ2WGJIMktQYkZjZTZpLUl4MGJJTjM3Tl8xNU5oZFQ2SmMzNFg3X2FwUjZ0SG5DNmNtWkhxbUxBdlpJUjVyQTFlYWRHc29QRHRMQdIBuwFBVV95cUxPek1TWmFzaHg0WlZGaWhSQV9ESE01c2NDQ0tLYXUxb3g5TkFKYTdxTFVCRHA4bEZYOVluS2hlQ1RKa1lDem9OaWkwMi1NM0Mxc0p4X1k5OUpuRHpIdTFIUTg0NUlyM2tGSl8zT19JanZCVzdVSTIxelg4V255Y2tsOF9yQU13TWtlRUN1LXFBSkowWE5SWW5Ob29aX1FlX2Zfc0JPR3ZfeHJ1ZWZnVlBqWnFhWmlabjdzVXhj?oc=5",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-05-14",
-          "title": "Press Release: Bragg Gaming Group Reports First Quarter 2026 Financial Results - Moomoo",
-          "summary_he": "קבוצת Bragg Gaming פרסמה את דוחותיה הכספיים לרבעון הראשון של 2026, המציגים את ביצועיה העסקיים ואת המשך צמיחתה האסטרטגית בשוק ה-iGaming הגלובלי. הדוחות משקפים את מצבה הפיננסי של החברה ואת יכולתה להתרחב תחת תנאי הרגולציה המשתנים בענף.",
-          "source": "Moomoo",
-          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYk41RktiRVZIQVVRTVMwT1JreExpa2tfY0hkbzhxb2cxc0h4OHE2UVVwd29hLWpDZWV0MXNBUk03M0g5TGtoYmdmRzBQTlRiRWZaUmtldEJfd2JHdzh1aFN1QnQzcnJTWUROMGJOX0tDajNWM3liMnBHR1k4TzN6Nlg2RXNnZ3piSG1WM1gxd3lVekd2aVFhVUplRlR5UnhkdjNJdmRGeHo4RzVpNElPb00xNExDQUtuMTdHenNhUWlJMGd5NG1obmtUWUNQNm53eVpPVm5kM0JRTVkxUUdZ?oc=5",
+          "date": "2026-05-11",
+          "title": "Bragg Powers 711’s Sportsbook Expansion with Kambi Integration and Fuze™ Technology in Belgium",
+          "summary_he": "חברת בראג גיימינג (Bragg Gaming) מרחיבה את נוכחותה בשוק הבלגי דרך העמקת השותפות עם המפעיל 711, שתכלול מעתה גם פתרונות הימורי ספורט (Kambi) וכלי גיימיפיקציה מתקדמים. המהלך מחזק את מעמדה העסקי של בראג כספקית טכנולוגיה רב-ערוצית ואת אחיזתה בשוק האירופי המוסדר.",
+          "source": "bragg.group",
+          "url": "https://bragg.group/bragg-powers-711s-sportsbook-expansion-with-kambi-integration-and-fuze-technology-in-belgium/",
           "sourceKey": "brag_official"
+        }
+      ]
+    },
+    "netherlands": {
+      "title": "רגולציה - הולנד",
+      "icon": "🇳🇱",
+      "color": "rgba(255,152,0,0.12)",
+      "articles": [
+        {
+          "date": "2026-05-20",
+          "title": "KSA reminds Dutch operators of its stringent ad rules as countdown to World Cup continues",
+          "summary_he": "רשות ההימורים ההולנדית (KSA) מהדקת את הפיקוח על כללי הפרסום והימורי הספורט לקראת המונדיאל, צעד המגביר את הלחץ הרגולטורי בשוק שבו Bragg Gaming פועלת כספקית טכנולוגיה מרכזית.",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/igaming/2026/05/20/ksa-reminds-dutch-operators-of-its-stringent-ad-rules-as-countdown-to-world-cup-continues/",
+          "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-05-21",
+          "title": "EGT Officially Opened its New Office in the Netherlands",
+          "summary_he": "חברת EGT חנכה משרד חדש בהולנד (Den Bosch) כחלק מהתרחבותה האסטרטגית בשוק המקומי, מהלך שנועד לחזק את נוכחותה העסקית ואת התמיכה במפעילים בשוק ההולנדי המוסדר.",
+          "source": "igamingfuture.com",
+          "url": "https://igamingfuture.com/egt-officially-opened-its-new-office-in-the-netherlands/",
+          "sourceKey": "igaming_future"
+        }
+      ]
+    },
+    "brazil": {
+      "title": "שוק ברזיל",
+      "icon": "🇧🇷",
+      "color": "rgba(76,175,80,0.12)",
+      "articles": [
+        {
+          "date": "2026-05-19",
+          "title": "Brazil, US and Argentina regulators urge enhanced cooperation to tackle illegal online betting challenges",
+          "summary_he": "רגולטורים מברזיל, ארה\"ב וארגנטינה קוראים להידוק שיתוף הפעולה במאבק בהימורים בלתי חוקיים כדי לחזק את שלמות השוק המוסדר. מהלך זה צפוי להיטיב עם ספקיות טכנולוגיה כמו Bragg Gaming, הפועלות בשווקים אלו ונהנות מצמצום התחרות מצד מפעילים ללא רישיון.",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/05/19/121076-brazil-us-and-argentina-regulators-urge-enhanced-cooperation-to-tackle-illegal-online-betting-challenges",
+          "sourceKey": "yogonet"
+        },
+        {
+          "date": "2026-05-21",
+          "title": "BETBY Strengthens Latam Expansion Through Strategic Partnership with Vibra Gaming",
+          "summary_he": "ספקית פתרונות הספורט BETBY מרחיבה את פעילותה באמריקה הלטינית באמצעות שותפות אסטרטגית עם Vibra Gaming. המהלך נועד להעמיק את החדירה העסקית של החברה באזור ולחזק את פריסת פתרונות ה-B2B שלה בשווקים אלו.",
+          "source": "igamingfuture.com",
+          "url": "https://igamingfuture.com/betby-strengthens-latam-expansion-through-strategic-partnership-with-vibra-gaming/",
+          "sourceKey": "igaming_future"
         }
       ]
     },
@@ -288,43 +334,43 @@ window.intelData = {
       "articles": [
         {
           "date": "2026-05-20",
-          "title": "The Hidden Cost of Sports Betting’s Boom in American Sports",
-          "summary_he": "הלגליזציה של הימורי הספורט בארה\"ב הפכה את הענף מתחום שנוי במחלוקת לתעשייה לאומית משגשגת ומוסדרת, המייצרת הזדמנויות עסקיות נרחבות לצד אתגרים רגולטוריים וחברתיים. השינוי המבני הפך את ההימורים לחלק בלתי נפרד מהמודל העסקי של הספורט האמריקאי המודרני.",
+          "title": "Polymarket Opens Door to Private Company Contracts",
+          "summary_he": "פלטפורמת Polymarket מרחיבה את פעילותה ומשיקה חוזים מבוססי ביצועים של חברות פרטיות, כגון סבבי גיוס וקניין רוחני. המהלך מסמן את התרחבות שוקי הניבוי למגזר הפרטי הלא-סחיר, תוך יצירת אפיקי השקעה וסיכון רגולטורי חדשים בתחום הנגזרים.",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/the-hidden-cost-of-sports-bettings-boom-in-american-sports/",
+          "url": "https://www.gamblingnews.com/news/polymarket-opens-door-to-private-company-contracts/",
           "sourceKey": "gambling_news"
         },
         {
           "date": "2026-05-20",
-          "title": "Minnesota Governor Signs Prediction Market Ban &#8211; US’ First",
-          "summary_he": "מושל מינסוטה חתם על חוק האוסר על פעילות שווקי תחזיות (Prediction Markets), ובכך הפכה למדינה הראשונה בארה\"ב שמוציאה אותם מחוץ לחוק. המהלך מסמן החרפה רגולטורית ומאבק סמכויות בין רשויות המדינה לרגולציה הפדרלית בנוגע למוצרי הימורים אלו.",
+          "title": "Light &#038; Wonder CEO Talks About the Gambling Industry and Prediction Markets",
+          "summary_he": "מנכ\"ל Light & Wonder סקר את מצב תעשיית הגיימינג וההזדמנויות העסקיות בשווקי התחזיות (Prediction Markets), תוך דגש על הצורך של ספקיות B2B להסתגל לשינויים רגולטוריים וטכנולוגיים. (הידיעה אינה עוסקת ב-Bragg Gaming).",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/minnesota-governor-signs-prediction-market-ban-us-first/",
+          "url": "https://www.gamblingnews.com/news/light-wonder-ceo-talks-about-the-gambling-industry-and-prediction-markets/",
           "sourceKey": "gambling_news"
         },
         {
           "date": "2026-05-20",
-          "title": "Farm Groups Want to Have a Say in Oversight of Prediction Markets",
-          "summary_he": "ארגוני חקלאות בארה\"ב דורשים מהרגולטורים להדק את הפיקוח על שוקי תחזיות (Prediction Markets), מחשש שהם מערערים את המודלים המסורתיים לניהול סיכונים במסחר בסחורות. המהלך עשוי להוביל להגבלות רגולטוריות חדשות על פלטפורמות המשלבות בין עולמות ההימורים והפיננסים.\n\n(אין רלוונטיות לחברת Bragg Gaming בידיעה זו).",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/farm-groups-want-to-have-a-say-in-oversight-of-prediction-markets/",
-          "sourceKey": "gambling_news"
+          "title": "Minnesota enacts first US state law to ban various prediction markets, CFTC sues state",
+          "summary_he": "מינסוטה חוקקה איסור ראשון מסוגו בארה\"ב על שוקי תחזיות (prediction markets), צעד שהוביל לתביעה מצד ה-CFTC ומחריף את חוסר הוודאות הרגולטורי והמשפטי בתחום ההימורים במדינה. הידיעה אינה נוגעת ישירות לפעילותה של חברת Bragg Gaming.",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/05/20/121155-minnesota-enacts-first-us-state-law-to-ban-various-prediction-markets-cftc-sues-state",
+          "sourceKey": "yogonet"
+        },
+        {
+          "date": "2026-05-20",
+          "title": "Polymarket launches prediction markets on private companies like OpenAI and SpaceX",
+          "summary_he": "פלטפורמת Polymarket מרחיבה את גבולות שוק החיזוי עם השקת אפשרות להימור על ביצועי חברות פרטיות מובילות כמו OpenAI ו-SpaceX. המהלך מאפשר לראשונה ספקולציה ציבורית על ערכן של חברות שאינן נסחרות, דבר המהווה התפתחות משמעותית בתחום ההימורים הפיננסיים.",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/05/20/121166-polymarket-launches-prediction-markets-on-private-companies-like-openai-and-spacex",
+          "sourceKey": "yogonet"
         },
         {
           "date": "2026-05-19",
-          "title": "NFL Sends Letter to CFTC Urging It to Control Prediction Markets More Strictly",
-          "summary_he": "ליגת ה-NFL קוראת לרגולטור האמריקאי (CFTC) להחמיר משמעותית את הפיקוח על שווקי חיזוי (Prediction Markets) בשל צמיחתם המהירה. המהלך נועד להגן על יושרת המשחקים ולצמצם סיכונים רגולטוריים הנובעים מהימורים בלתי מפוקחים על תוצאות ספורט.",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/nfl-sends-letter-to-cftc-urging-it-to-control-prediction-markets-more-strictly/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-05-19",
-          "title": "Macquarie Bullish on US iGaming as the Sector’s Revenues Soar",
-          "summary_he": "בית ההשקעות Macquarie מביע אופטימיות רבה לגבי מגזר ה-iGaming בארה\"ב לאור הזינוק בהכנסות מהקזינו המקוון, מגמה המהווה רוח גבית משמעותית עבור Bragg Gaming כספקית טכנולוגיה ותוכן מרכזית בשוק זה.",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/macquarie-bullish-on-us-igaming-as-the-sectors-revenues-soar/",
-          "sourceKey": "gambling_news"
+          "title": "Sporttrade to exit US online sports betting markets while awaiting CFTC decision",
+          "summary_he": "חברת Sporttrade נסוגה משוק הימורי הספורט המקוונים בארה\"ב בשל אי-ודאות רגולטורית והמתנה להחלטת ה-CFTC. למהלך עשויה להיות השפעה על Bragg Gaming, המשמשת כספקית הטכנולוגיה ופלטפורמת הניהול (PAM) של המפעילה בשוק האמריקאי.",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/05/19/121042-sporttrade-to-exit-us-online-sports-betting-markets-while-awaiting-cftc-decision",
+          "sourceKey": "yogonet"
         }
       ]
     },
@@ -334,43 +380,43 @@ window.intelData = {
       "color": "rgba(156,39,176,0.12)",
       "articles": [
         {
-          "date": "2026-05-19",
-          "title": "EveryMatrix takes North American strategy a step forward with Alberta licence",
-          "summary_he": "חברת EveryMatrix קיבלה רישיון לפעול באלברטה שבקנדה, צעד המרחיב את אחיזתה בשוק הצפון-אמריקאי המוסדר. המהלך מגביר את התחרות מול חברת Bragg Gaming באחד משווקי היעד האסטרטגיים והצומחים ביותר עבורה בקנדה.",
+          "date": "2026-05-21",
+          "title": "Why player education is at the heart of player protection in iGaming",
+          "summary_he": "התעשייה מדגישה את חשיבות חינוך השחקנים ככלי מרכזי להגנה עליהם, תוך הטלת אחריות משותפת על הרגולטורים והספקים (כדוגמת Bragg Gaming) ליצירת סביבת הימורים אחראית ובת-קיימא.",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/igaming/2026/05/19/everymatrix-alberta-licence/",
+          "url": "https://sbcnews.co.uk/features/2026/05/21/player-protection-igaming-webinar/",
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-05-19",
-          "title": "Global unregulated online gambling hit $5.9 trillion in 2025, according to new report",
-          "summary_he": "דוח חדש חושף כי היקף ההימורים המקוונים בשווקים לא מוסדרים צפוי להגיע ל-5.9 טריליון דולר ב-2025, נתון המדגיש את הצורך הגובר ברגולציה ואכיפה גלובלית. עבור חברות כמו Bragg Gaming, הפועלות בשווקים מוסדרים בלבד, מגמה זו מייצגת הזדמנות צמיחה משמעותית ככל שמדינות יפעלו להסטת הפעילות למסגרות חוקיות.",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/05/19/121054-global-unregulated-online-gambling-hit-59-trillion-in-2025-according-to-new-report",
-          "sourceKey": "yogonet"
+          "date": "2026-05-21",
+          "title": "$1B Casino Resort Renovation Comes with a $275 Doghnut- Really?",
+          "summary_he": "שיפוץ הענק ב-Graton Resort בעלות של מיליארד דולר ממחיש את המגמה העסקית של מעבר מהיצע קולינרי עממי לחוויות יוקרה קיצוניות, במטרה למשוך קהל אמיד ולהגדיל הכנסות שאינן ממשחקים. לידיעה זו אין קשר ישיר לפעילותה של Bragg Gaming.",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/1b-casino-resort-renovation-comes-with-a-275-doghnut-really/",
+          "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-05-19",
-          "title": "EveryMatrix Secures Licensing Approval in Alberta Canada",
-          "summary_he": "חברת EveryMatrix קיבלה אישור רגולטורי ראשוני לפעול בשוק ה-iGaming באלברטה, קנדה, צעד המהווה דריסת רגל משמעותית בהתרחבותה בצפון אמריקה. התפתחות זו מגבירה את התחרות בזירה הקנדית עבור ספקיות טכנולוגיה דומות הפועלות באזור, בהן Bragg Gaming.",
+          "date": "2026-05-21",
+          "title": "MozzartBet is Live on Fast Track&#8217;s AI-Native CRM Platform",
+          "summary_he": "מפעילת ההימורים MozzartBet הטמיעה את פלטפורמת ה-CRM מבוססת ה-AI של Fast Track כדי לייעל את ניהול הלקוחות וצמיחתה העסקית. המהלך מחזק את התשתית הטכנולוגית של MozzartBet, הנחשבת לשותפה אסטרטגית מרכזית של Bragg Gaming בדרום-מזרח אירופה.",
           "source": "igamingfuture.com",
-          "url": "https://igamingfuture.com/everymatrix-secures-licensing-approval-in-alberta-canada/",
+          "url": "https://igamingfuture.com/mozzartbet-is-live-on-fast-tracks-ai-native-crm-platform/",
           "sourceKey": "igaming_future"
         },
         {
-          "date": "2026-05-19",
-          "title": "EveryMatrix ready to take off in Alberta iGaming market",
-          "summary_he": "חברת EveryMatrix קיבלה אישור רגולטורי ראשוני באלברטה, המחוז השני שלה בקנדה, שיאפשר לה לספק פלטפורמות קזינו והימורי ספורט למפעילים מקומיים ולהרחיב את אחיזתה בשוק הצפון-אמריקאי.",
+          "date": "2026-05-21",
+          "title": "Pascal Gaming: emotionally engaging content and strong operator partnerships drive 2026 wins",
+          "summary_he": "פסקאל גיימינג (Pascal Gaming) מתמקדת בתוכן חווייתי ובשותפויות אסטרטגיות כדי להתמודד עם הידוק הרגולציה והמעבר לשימור לקוחות בטווח הארוך. הצלחתה רלוונטית ל-Bragg Gaming, המפיצה את תכני החברה דרך הפלטפורמה שלה (Bragg Hub) ובכך מחזקת את היצע המשחקים שלה בשווקים מוסדרים.",
           "source": "igamingexpert.com",
-          "url": "https://igamingexpert.com/news/games/everymatrix-alberta-igaming-licence/",
+          "url": "https://igamingexpert.com/features/pascal-gaming-operator-partnerships/",
           "sourceKey": "igaming_expert"
         },
         {
-          "date": "2026-05-19",
-          "title": "Puerto Rico told to restore ‘transparent rule’ on Gaming Machine licences",
-          "summary_he": "פסיקת בית משפט בפורטו ריקו מורה על השבת השקיפות והתחרותיות לתהליך הרישוי של מכונות משחק (MAJAR), צעד שנועד לתקן ליקויים רגולטוריים ולייצר מסגרת עסקית הוגנת ושוויונית יותר במדינה.",
+          "date": "2026-05-21",
+          "title": "MEPs to debate EU gaming tax backed by Social Democrats of Europe",
+          "summary_he": "הפרלמנט האירופי יחל לדון בהחלת מס מאוחד על מפעילי הימורים מקוונים באיחוד, מהלך רגולטורי שעשוי להשפיע על המודלים העסקיים והרווחיות של חברות הפועלות ביבשת, דוגמת Bragg Gaming.",
           "source": "igamingexpert.com",
-          "url": "https://igamingexpert.com/news/games/puerto-rico-gaming-machines/",
+          "url": "https://igamingexpert.com/features/meps-eu-tax/",
           "sourceKey": "igaming_expert"
         }
       ]
@@ -382,50 +428,50 @@ window.intelData = {
       "articles": [
         {
           "date": "2026-05-20",
-          "title": "Ending the spreadsheet era: ReferOn’s crypto automation to ‘transform iGaming payments’",
-          "summary_he": "פלטפורמת ReferOn משיקה אוטומציית תשלומי קריפטו שנועדה להחליף את הניהול הידני ולצמצם משמעותית טעויות וסכסוכי עמלות מול שותפים (Affiliates). המהלך צפוי לייעל את הפעילות העסקית בענף ה-iGaming ולחזק את האמון והשקיפות בין המפעילים לשותפיהם.",
+          "title": "The hidden cost of stream delay in live betting and iGaming",
+          "summary_he": "הפחתת השהיית הזרמת הנתונים (Latency) קריטית להגדלת הכנסות מהימורים בזמן אמת, המהווים כיום את פלח השוק הגדול ביותר בארה\"ב. עבור ספקיות טכנולוגיה כמו בראג גיימינג (Bragg Gaming), התמודדות עם אתגר זה חיונית לשיפור הביצועים העסקיים של לקוחותיהן והבטחת יתרון תחרותי בשוק.",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/features/2026/05/20/referon-crypto-automation-igaming-payments/",
+          "url": "https://sbcnews.co.uk/latestnews/2026/05/20/cost-stream-delay-live-betting/",
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-05-19",
-          "title": "Bally’s Intralot nearly triples revenue but debt continues to head towards €2bn mark",
-          "summary_he": "המיזוג בין Intralot לחטיבת הדיגיטל של Bally's הזניק את הכנסות הרבעון הראשון ל-268.1 מיליון אירו והרחיב משמעותית את פעילות הגיימינג המקוון, אך מנגד החוב של הקבוצה ממשיך לתפוח לעבר 2 מיליארד אירו. לצמיחה המואצת של Bally's בתחום ה-Online חשיבות רבה עבור Bragg Gaming, הפועלת כשותפה אסטרטגית וספקית תוכן מרכזית של הקבוצה.",
+          "date": "2026-05-20",
+          "title": "First Pitch finalists revealed for SBC Summit Americas start-up competition",
+          "summary_he": "נבחרו חמשת הסטארט-אפים שיעפילו לגמר תחרות ה-First Pitch בכנס SBC Summit Americas, אירוע המדגיש את הדינמיות העסקית והחיפוש אחר פתרונות טכנולוגיים חדשים בענף הימורי הספורט והגיימינג. התחרות צפויה להציג חידושים שישפיעו על פיתוח המוצרים והצמיחה העתידית של השוק ביבשת.",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/europe/2026/05/19/ballys-intralot-q1-revenue-nearly-triples/",
+          "url": "https://sbcnews.co.uk/events/2026/05/20/first-pitch-finalists-sbc-summit-americas/",
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-05-19",
-          "title": "Bally’s quarterly revenue climbs 28% driven by Queen Casino merger, online growth",
-          "summary_he": "הכנסות חברת Bally’s זינקו ב-28% ברבעון האחרון הודות למיזוג עם Queen Casino וצמיחה מואצת בפעילות האונליין. הצלחה זו במגזר הדיגיטלי רלוונטית עבור Bragg Gaming, המשתפת פעולה עם Bally's כספקית תוכן וטכנולוגיית RGS בשווקים מרכזיים.",
+          "date": "2026-05-20",
+          "title": "Playtech powers Americas status as new tax pressures loom",
+          "summary_he": "חברת פלייטק מדווחת על ביצועים חזקים מהצפוי בצפון אמריקה ובמקסיקו המסתמנים כמנועי צמיחה מרכזיים, זאת בצל לחצי מס רגולטוריים חדשים שעלולים להשפיע על פעילותה בשווקים אלו.",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/igaming/2026/05/20/playtech-agm-update/",
+          "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-05-20",
+          "title": "Former Houston mayor links Fertitta to potential Astrodome casino development",
+          "summary_he": "ראש עיריית יוסטון לשעבר קושר את טילמן פרטיטה להקמת קזינו פוטנציאלי באסטרודום, צעד שעשוי לסמן פריצה רגולטורית בטקסס. עבור Bragg Gaming, המספקת תוכן למותגי ההימורים של פרטיטה (Golden Nugget), מדובר בהזדמנות פוטנציאלית להתרחבות עסקית משמעותית בשוק זה.",
           "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/05/19/121045-ballys-quarterly-revenue-climbs-28-driven-by-queen-casino-merger-online-growth",
+          "url": "https://www.yogonet.com/international/news/2026/05/20/121164-former-houston-mayor-links-fertitta-to-potential-astrodome-casino-development",
           "sourceKey": "yogonet"
         },
         {
           "date": "2026-05-19",
-          "title": "Kalshi joins National Council on Problem Gambling with $2 million pledge",
-          "summary_he": "פלטפורמת הניבוי Kalshi הצטרפה למועצה הלאומית להימורים בעייתיים (NCPG) עם התחייבות לתרומה של 2 מיליון דולר, צעד המחזק את מחויבותה הרגולטורית לקידום הימורים אחראיים בשוק האמריקאי.\n\n*(הערה: לא נמצא קשר ישיר בין ידיעה זו לבין Bragg Gaming).*",
+          "title": "Jacobs Entertainment completes $400 million phase one of downtown Reno redevelopment",
+          "summary_he": "חברת Jacobs Entertainment השלימה את השלב הראשון בפרויקט פיתוח מחדש של מרכז העיר רינו בהשקעה של 400 מיליון דולר, מהלך שצפוי להגדיל את התיירות והכנסות תעשיית ההימורים הפיזית באזור. לידיעה זו אין קשר ישיר לפעילותה של Bragg Gaming.",
           "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/05/19/121048-kalshi-joins-national-council-on-problem-gambling-with-2-million-pledge",
+          "url": "https://www.yogonet.com/international/news/2026/05/19/121061-jacobs-entertainment-completes-400-million-phase-one-of-downtown-reno-redevelopment",
           "sourceKey": "yogonet"
         },
         {
           "date": "2026-05-19",
-          "title": "US senators introduce GAME Act targeting sports gambling ads shown to minors",
-          "summary_he": "הצעת חוק חדשה בסנאט האמריקאי (GAME Act) מבקשת להחמיר את הרגולציה על פרסום הימורי ספורט לקטינים, צעד שצפוי להגביר את מגבלות השיווק והציות בשוק. עבור בראג גיימינג (Bragg Gaming), הפועלת בשוק האמריקאי כספקית טכנולוגיה ותוכן, מדובר בצורך בהתאמה רגולטורית הדוקה יותר של כלי השיווק והפלטפורמות שלה.",
+          "title": "FIFA signs Betano as official regional partner for 2026 World Cup across Europe and South America",
+          "summary_he": "פיפ\"א מינתה את Betano כשותפה רשמית למונדיאל 2026 באירופה ובדרום אמריקה, מהלך המדגיש את התרחבות שוק ההימורים בספורט העולמי. עבור Bragg Gaming, מדובר בחיזוק משמעותי לשותפת הפצה אסטרטגית ומרכזית שלה בשווקים אלו.",
           "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/05/19/121041-us-senators-introduce-game-act-targeting-sports-gambling-ads-shown-to-minors",
-          "sourceKey": "yogonet"
-        },
-        {
-          "date": "2026-05-18",
-          "title": "Gitxaala Enterprises reopens Chances Casino under Prince Rupert resort development plan",
-          "summary_he": "חברת Gitxaala Enterprises פתחה מחדש את קזינו Chances בפרינס רופרט כחלק ממיזם פיתוח תיירותי רחב, במטרה להרחיב את הפעילות העסקית ולעודד צמיחה כלכלית בקהילה המקומית. (לידיעה זו אין רלוונטיות ישירה ל-Bragg Gaming).",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/05/18/120922-gitxaala-enterprises-reopens-chances-casino-under-prince-rupert-resort-development-plan",
+          "url": "https://www.yogonet.com/international/news/2026/05/19/121051-fifa-signs-betano-as-official-regional-partner-for-2026-world-cup-across-europe-and-south-america",
           "sourceKey": "yogonet"
         }
       ]
@@ -436,25 +482,18 @@ window.intelData = {
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
-          "date": "2026-05-18",
-          "title": "Reddit: Online gambling stopped feeling fun once everything became ‘optimized",
-          "summary_he": "הפוסט מבקר את המגמה הנוכחית בתעשיית ה-iGaming, שבה ה\"אופטימיזציה\" המופרזת והשימוש במנגנונים מניפולטיביים פוגעים בחוויית הבידור של המשתמש. מגמה זו מדגישה את האתגר של חברות כמו בראג גיימינג (Bragg Gaming) לספק תוכן ייחודי ואתי בשוק רווי, ומרמזת על צורך גובר ברגולציה שתתמקד בשקיפות ובהגנת הצרכן.",
+          "date": "2026-05-21",
+          "title": "Reddit: What's your average per spin bet?",
+          "summary_he": "הפוסט מדגיש את הפער בהתנהגות צרכנים בין בתי קזינו פיזיים למקוונים, כאשר גם מהמרים בסיכון גבוה (High Rollers) נוטים להנמיך משמעותית את סכומי ההימור בפלטפורמות דיגיטליות. מגמה זו רלוונטית לניתוח השוק של חברות iGaming כמו Bragg Gaming, שכן היא משקפת את השוני בפסיכולוגיית השחקן ובהכנסה הממוצעת למשתמש (ARPU) בין הערוצים השונים.",
           "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1tgjznf/online_gambling_stopped_feeling_fun_once/"
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1tj4mjx/whats_your_average_per_spin_bet/"
         },
         {
-          "date": "2026-05-19",
-          "title": "Reddit: Anybody know legit online casinos with those orb/fireball hold & spin slots?",
-          "summary_he": "הפוסט מדגיש את הביקוש הגבוה בקרב שחקנים בארה\"ב למכונות מזל מקוונות המבוססות על מכניקת ה-\"Hold & Spin\" הפופולרית מבתי הקזינו הפיזיים. מגמה זו מייצגת הזדמנות משמעותית עבור ספקיות תוכן כמו Bragg Gaming (BRAG) המציעות משחקים בסגנון קלאסי המותאמים לשוק ה-iGaming המוסדר. בנוסף, הדרישה לפלטפורמות חוקיות ומורשות בארה\"ב מחזקת את חשיבות הרגולציה וההתרחבות של ספקים מורשים בשוק האמריקאי.",
+          "date": "2026-05-21",
+          "title": "Reddit: Looking for someone to Build a Sportsbook/Online Casino Business",
+          "summary_he": "מהנדס IT ורשתות מקוסטה ריקה, בעל ניסיון בבניית תשתיות טכנולוגיות עבור פלטפורמות הימורים וקזינו חי, מחפש שותפים או משקיעים להקמת מיזם iGaming חדש. המפרסם מציע את מומחיותו הטכנית לצד ניצול \"פרצות רגולטוריות\" המקובלות בקוסטה ריקה, דבר המדגיש את המורכבות הרגולטורית בתעשייה ואת קיומם של שווקים אפורים המהווים ניגוד לפעילות המוסדרת של חברות כמו Bragg Gaming.",
           "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1thbsm7/anybody_know_legit_online_casinos_with_those/"
-        },
-        {
-          "date": "2026-05-19",
-          "title": "Reddit: Anybody know legit online casinos with those orb/fireball hold & spin slots?",
-          "summary_he": "הפוסט מדגיש את הביקוש הגבוה בשוק האמריקאי למכניקות משחק פופולריות מסוג \"Hold & Spin\", המוכרות מבתי הקזינו הפיזיים. מגמה זו רלוונטית במיוחד לחברות כמו Bragg Gaming (BRAG), המתמקדות באספקת תוכן מותאם לשווקים מוסדרים בארה\"ב העונה על העדפות שחקנים למשחקים בעלי תכונות \"Link\" וג'קפוטים.",
-          "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1thbnfy/anybody_know_legit_online_casinos_with_those/"
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1tj3qse/looking_for_someone_to_build_a_sportsbookonline/"
         }
       ]
     }
