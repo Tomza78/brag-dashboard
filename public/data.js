@@ -1,128 +1,91 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1tjozim",
+      "id": "1tlvxaa",
       "source": "reddit",
-      "title": "As a VIP, what are you looking for from an online casino? - Asking as an operator of one.",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1tjozim/as_a_vip_what_are_you_looking_for_from_an_online/",
-      "author": "DemDan810",
+      "title": "Online casinos have analytics on players. Players should have analytics for themselves.",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1tlvxaa/online_casinos_have_analytics_on_players_players/",
+      "author": "Ill_Emu8833",
       "score": 1,
-      "selftext": "I used to be a VIP myself on different casinos a few years ago, however since running my own for little over 3 years now, I might have lost touch with what it is that VIPs are actually looking for.\n\nI'd like to hear your opinions on what it is that casinos does that you like as a VIP. What they offer, how they offer it, what makes a casino stand out to you?\n\nI'm always open to feedback and improving, so I'll definitely be taking any genuine replies to the next meeting to discuss.\n\n1 last thing, free money is not something a true VIP asks for haha! I've seen it way too many times.",
+      "selftext": "This is something I’ve been thinking about a lot.\n\nOnline gambling platforms know a ton about user behavior.\n\nThey know when people play, how often they reload, what games keep them engaged, what time they come back, and what patterns lead to more activity.\n\nBut most players barely get a clear picture of their own side.\n\nThey might know:\n\n“I’m up.”  \n“I’m down.”  \n“I deposited too much this week.”\n\nBut not the full picture:\n\nWhere the money actually went  \nWhich platforms get the most action  \nHow often small reloads add up  \nWhich sessions turn into extra sessions  \nWhat days or times create the biggest swings  \nWhether the pattern matches what they remember\n\nThat’s what I’ve been building Gmblr around.\n\nNot picks.  \nNot advice.  \nNot a sportsbook.  \nNot telling anyone what to do.\n\nGmblr turns your gambling history into behavioral analytics — money flow, wins/losses, sessions, platforms, and patterns over time.\n\nI’m giving 6 months free to early Reddit testers who want to try it and give honest feedback.\n\nDo you think players should have clearer analytics on their own gambling activity?",
       "subreddit": "onlinegambling",
-      "created_utc": 1779379287,
+      "created_utc": 1779579964,
       "top_comments": [
         {
-          "body": "Site fluidity, no 6 pop up offers, no bonuses that you have to playthrough to release them,…most people if you treat them right will keep coming back even if you lose on the front end a few times. \n\nI think Stakes business model is incredibly simple stupid good. Thats just my opinion. \n\nIts something akin to customer service rather than taking people for all theyre worth business model. I think both can be done at the same time and atleast if youre gonna lose and win sometimes Ill appreciate the solid service. \n\nI hope that makes sense. ",
-          "score": 1,
-          "author": "mikeockfrankenstein"
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 2,
+          "author": "AutoModerator"
         },
         {
-          "body": "Yup totally agree, treating people like numbers on a screen is what causes people to feel undervalued.",
+          "body": "Appreciate it. Download **Gmblr - Behavioral Analytics** on iOS or Android first, then I’ll help you get the 6-month free access set up.\n\nWould genuinely appreciate honest feedback once you try it — especially whether the money/session picture feels useful or if anything is confusing.",
           "score": 1,
-          "author": "DemDan810"
-        },
-        {
-          "body": " honestly, as a VIP most people care less about free money and more about feeling valued personalized support, fast withdrawals, and special experiences go a long way. clear communication, transparency, and consistency in how rewards are handled also stand out. it’s less about bonuses and more about trust and treatment.",
-          "score": 1,
-          "author": "Western-Kick2178"
+          "author": "Ill_Emu8833"
         }
       ],
-      "summary_he": "הפוסט מציג פנייה של מפעיל קזינו מקוון המבקש להבין לעומק את הצרכים וההעדפות העדכניות של שחקני VIP כדי לשפר את אסטרטגיות השימור והשירות. מגמה זו מדגישה את החשיבות הקריטית של פלטפורמות ניהול שחקנים (PAM) וכלים טכנולוגיים מתקדמים, כגון אלו שמפתחת Bragg Gaming (BRAG), המאפשרים למפעילים להעניק חוויות מותאמות אישית ולייצר בידול בשוק ה-iGaming התחרותי.",
+      "summary_he": "הפוסט מציג את מיזם Gmblr, המנגיש לשחקני iGaming ניתוח נתונים אישי על הרגלי ההימורים שלהם כדי לצמצם את פערי המידע הקיימים מול המפעילים. כלי זה משקף מגמה גוברת בתעשייה של \"משחק אחראי\" (Responsible Gaming) ושקיפות נתונים עבור המשתמש, נושאים המהווים נדבך מרכזי ברגולציה הנוכחית ובפיתוח פלטפורמות טכנולוגיות על ידי חברות מובילות כמו Bragg Gaming. היכולת של שחקנים לנטר דפוסי התנהגות וזרימת כספים הופכת לסטנדרט שמפעילים וספקי טכנולוגיה נדרשים להתייחס אליו.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג את נקודות המבט המרכזיות על המודל העסקי וחוויית המשתמש בעולם ה-iGaming:\n\n*   **חשיבות חוויית המשתמש והפשטות:** המשתמשים מעדיפים אתרים שפועלים בצורה חלקה, ללא הצפה של הצעות קופצות (pop-ups) וללא תנאי בונוס מסובכים (\"playthrough\") שמקשים על מימוש הזכיות.\n*   **מודל עסקי ממוקד שירות לעומת ניצול:** קיימת הערכה למודלים עסקיים (כמו זה של Stake) שמתמקדים בשירות לקוחות ובחוויית משתמש חיובית, במקום לנסות \"לסחוט\" את השחקנים בכל מחיר. גישה כזו בונה נאמנות וגורמת לשחקנים לחזור גם אם הפסידו.\n*   **האנשת המשתמש:** התייחסות לשחקנים כאל \"מספרים על המסך\" גורמת להם להרגיש חסרי ערך. יחס מכבד ואנושי הוא קריטי לשימור לקוחות לאורך זמן.\n*   **סדרי עדיפויות של שחקני VIP:** עבור שחקנים ברמה גבוהה, תמיכה אישית, חוויות ייחודיות ותחושת הערכה חשובות הרבה יותר מאשר קבלת \"כסף בחינם\" או בונוסים כספיים רגילים.\n*   **יעילות ותפעול מהיר:** מהירות משיכת הכספים ועקביות בדרך שבה מוענקים תגמולים הם גורמים מכריעים שמבדילים בין פלטפורמה טובה למתחרותיה.\n*   **אמון ושקיפות כבסיס לקשר:** שקיפות בניהול התגמולים ותקשורת ברורה בונים אמון. המשתמשים מחפשים מערכת יחסים שמבוססת על טיפול הוגן ואמינות ולא רק על גובה הבונוס.",
-      "date_string": "2026-05-22",
-      "saved_at": "2026-05-22T09:02:14.156+00:00"
+      "comments_summary_he": "להלן סיכום התובנות והנקודות המרכזיות מתוך התגובות בשרשור:\n\n* **קידום הימורים אחראיים:** קיימת התייחסות משמעותית לחשיבות של הימורים בריאים ומודעים, כולל הפניה למשאבי עזרה ומידע עבור משתמשים שמרגישים שהרגלי ההימורים שלהם יוצאים משליטה.\n* **הנחיות וכללי קהילה:** דגש על קריאת כללי הפורום והצטרפות לערוצי תקשורת נוספים (כמו דיסקורד) כדי לשמור על שיח מוגן ומסודר בנושאי הימורים ופיננסים.\n* **שימוש בכלי ניתוח התנהגותי:** הצגת אפליקציות ייעודיות (כדוגמת Gmblr) המיועדות לניתוח דפוסי התנהגות של מהמרים, במטרה להעניק להם תמונת מצב מדויקת יותר.\n* **מעקב פיננסי ותצוגת נתונים:** חשיבות המעקב אחר כספים וזמן שהוקדש לכל \"סשן\" (Session) של הימורים, כדי להבין את ההשפעה הכלכלית הכוללת.\n* **ביקורת משתמשים ושיפור מוצרים:** קריאה למשתמשים לספק משוב כנים על כלים טכנולוגיים בתחום ה-iGaming, בדגש על בדיקה האם המידע המוצג ברור או שמא הוא מבלבל את המשתמש.\n* **תמריצים לשימוש בכלים לניהול תקציב:** הצעה של הטבות (כמו גישה חינמית לתקופה מוגבלת) כדי לעודד משתמשים לאמץ כלים לניתוח התנהגותי ופיננסי."
     },
     {
-      "id": "1tjmv45",
+      "id": "1tlfmvf",
       "source": "reddit",
-      "title": "Any help on quitting online gambling",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1tjmv45/any_help_on_quitting_online_gambling/",
-      "author": "Otherwise-Sir-6415",
+      "title": "Is this bonus abuse, are they gonna ban me?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1tlfmvf/is_this_bonus_abuse_are_they_gonna_ban_me/",
+      "author": "iLuvModsNFollowRules",
       "score": 1,
-      "selftext": "So for context i am 19 and have been gambling online since i was 17, throughout this time i have gotten much deeper into gambling then i would’ve liked to and i now lose about half my paychecks or more every night on sports betting, slots, blackjack etc.. (im a server and get paid same day in cash) i know this isnt as bad as it could be but i  really don’t want to continue down this road and fuck up my adult life with a bad gambling addiction. Thanks for reading, if you have any tips that worked for you to cut down on or help quit gambling please let me know. ",
+      "selftext": "So there's a certain popular online casino that does bet 25 dollars get 10 free dollars on baccarat - I recently learnt that if you put a dollar on player and dollar on banker it still counts it, should I just shush about it and keep taking 10 dollars or are they eventually gonna be like you were betting on both sides that's not allowed you're BANNED?",
       "subreddit": "onlinegambling",
-      "created_utc": 1779374996,
+      "created_utc": 1779540608,
       "top_comments": [
         {
-          "body": "Please keep problem gambling submissions in /r/problemgambling. If you believe you have a gambling problem and would like to voluntarily self-exclude yourself from /r/onlinegambling, please send the moderators a message regarding your situation and we will ban you from this subreddit, as well as provide you with some resources regarding the steps to recovery.",
-          "score": 1,
-          "author": "onlinegambling-ModTeam"
-        },
-        {
-          "body": "A lot of gambling sites have self-exclusion features where you can either set a purchase limit for a certain timeframe, or you can essentially ban yourself from the platform for a specific amount of time (or even indefinitely) \n\nAnd if a site doesn't have this feature, you can usually just contact support and have them remove your account and block you from making any new ones \n\nIf gambling is becoming problematic for you, it's better to get it in control before it spirals and becomes a problem you can't recover from easily",
-          "score": 1,
-          "author": "Unusual_Sentence_206"
-        },
-        {
-          "body": "Even though I write about gambling advice on my website, I’m always happy to help someone quit. If you can’t set boundaries and manage your budget, then the best thing you can do is stop. Delete all your online casino accounts, turn to video games or movies, pick up a workout routine outside of work, and keep reminding yourself that gambling only loses you money. You haven't been in the game for long, so you can quit relatively fast the most important thing is having the will to do it.",
-          "score": 1,
-          "author": "Pure_Issue_4459"
-        }
-      ],
-      "summary_he": "הפוסט מתאר עדות של צעיר בן 19 הסובל מהתמכרות קשה להימורים מקוונים שהחלה עוד בהיותו קטין, תוך איבוד חלק ניכר מהכנסותיו. המקרה מדגיש את המגמה המדאיגה של חשיפת צעירים ל-iGaming ואת הצורך הקריטי ברגולציה מחמירה ובכלי הגנה על שחקנים. עבור חברות בתחום, כדוגמת Bragg Gaming, עדות זו ממחישה את חשיבותם של מנגנוני ניטור ואחריות חברתית למניעת נזקים ארוכי טווח למשתמשים.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות בנושא התמודדות עם הימורים והתמכרות:\n\n*   **תמיכה קהילתית וחסימה עצמית מהפורום:** מנהלי הקהילה מעודדים משתמשים הסובלים מבעיות הימורים לפנות לפורומים ייעודיים לנושא. בנוסף, הם מציעים אפשרות של \"חסימה מרצון\" מהפורום עצמו ומתן משאבים לתהליך החלמה למי שמרגיש שהעיסוק בנושא מזיק לו.\n*   **שימוש בכלים טכנולוגיים באתרי ההימורים:** אתרי הימורים רבים כוללים מנגנונים מובנים לשליטה עצמית, המאפשרים למשתמש להגביל את סכומי הרכישה/הפקדה שלו לפרק זמן מסוים, או לחסום את הגישה לחשבון באופן זמני או לצמיתות.\n*   **נקיטת צעדים דרך שירות הלקוחות:** במידה ובאתר מסוים אין אפשרות לחסימה עצמית אוטומטית, מומלץ לפנות ישירות לשירות הלקוחות בבקשה למחוק את החשבון ולחסום את האפשרות לפתיחת חשבונות חדשים בעתיד.\n*   **חשיבות השליטה המוקדמת:** המגיבים מדגישים כי קריטי לזהות את הבעיה ולטפל בה ברגע שהיא הופכת לבעייתית, לפני שהמצב מידרדר לספירלה שקשה לצאת ממנה ולהשתקם ממנה מבחינה כלכלית ואישית.\n*   **אימוץ תחליפים בריאים ושינוי הרגלים:** כחלק מתהליך ההפסקה, מומלץ למחוק את כל חשבונות הקזינו ולמלא את הזמן הפנוי בתחביבים חלופיים כמו משחקי וידאו, צפייה בסרטים או אימוץ שגרת כושר גופני מחוץ לשעות העבודה.\n*   **תפיסה מנטלית וכוח רצון:** הצעד החשוב ביותר לגמילה הוא ההבנה והתזכורת העצמית שהימורים מובילים בהכרח להפסד כספי. המגיבים מציינים כי קל יותר להפסיק כאשר נמצאים \"בתחום\" זמן קצר יחסית, אך הדבר דורש כוח רצון והחלטה נחרצת.",
-      "date_string": "2026-05-22",
-      "saved_at": "2026-05-22T09:02:33.898+00:00"
-    },
-    {
-      "id": "1tjm5vz",
-      "source": "reddit",
-      "title": "Anyone know how to trick online gambling places to matching a vip tier of someone else?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1tjm5vz/anyone_know_how_to_trick_online_gambling_places/",
-      "author": "Inquisitor_709",
-      "score": 1,
-      "selftext": "So of you have like the top tier you get free rooms or cruises it seems….. Ive never at any casino even betting tens of thousands ever got my tier rank up…… I was on an online gambling app that has a physical casino and it says they will match your tier from another casino….. It almost looks like it would be easy to trick it and I really want to experience some benefits after years of losing to casinos…. Anyone able to help me out?",
-      "subreddit": "onlinegambling",
-      "created_utc": 1779373558,
-      "top_comments": [
-        {
-          "body": "Ive been playing on the hardrock one for about 2 months im 3rd from highest tier for the online portion but only minimum rank for the actual casino sadly so I cant even get a free buffet on my birthday lol",
+          "body": "I was wondering this for reward tiers… if play roulette bet red and black your bet counts and you get it back… repeat a bunch and rank up your vip tier until you get big rewards… just not sure the fine print…. Like some casinos if you bet $50,000 within a year they will give you a free cruise ",
           "score": 1,
           "author": "Inquisitor_709"
         },
         {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "body": "id keep quiet but check terms bc casinos love calling stuff abuse after people figure out easy promos",
           "score": 1,
-          "author": "AutoModerator"
+          "author": "Alone-Office-1558"
+        },
+        {
+          "body": "A lot of casinos specifically ban opposite side betting for promos in their terms. Even if it works now, they could easily flag it later when you try withdrawing.",
+          "score": 1,
+          "author": "Present-Ad-9703"
         }
       ],
-      "summary_he": "הפוסט דן בניסיונות של שחקנים להערים על תוכניות \"השוואת דרגות VIP\" בין בתי קזינו פיזיים למקוונים במטרה לזכות בהטבות במרמה. מקרה זה מדגיש את הסיכונים של ניצול לרעה של מבצעים (Promo Abuse) במודל ה-Omnichannel, המהווה אתגר רגולטורי ותפעולי משמעותי עבור מפעילים וספקי טכנולוגיה בתעשיית ה-iGaming.",
+      "summary_he": "הפוסט מתאר מקרה של \"ניצול לרעה של בונוסים\" (Bonus Abuse) מצד שחקן המשתמש באסטרטגיית גידור בבאקרה כדי להבטיח רווח ללא סיכון. התופעה מדגישה את הצורך של מפעילי iGaming וספקי טכנולוגיה כמו Bragg Gaming במערכות ניהול סיכונים ובקרה מתקדמות לזיהוי הונאות ושמירה על רווחיות הפלטפורמות.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות בשרשור:\n\n*   **חוסר סנכרון בין פלטפורמות אונליין לקזינו פיזי:** קיימת הבחנה משמעותית בדירוג השחקן (Tiers) בין הפעילות המקוונת לבין הפעילות בבתי הקזינו הפיזיים של אותו מותג (לדוגמה, Hard Rock), מה שיוצר פער בין הסטטוס בשני העולמות.\n*   **תסכול מהיעדר הטבות מוחשיות:** שחקנים חווים אכזבה מכך שדירוג גבוה באונליין אינו מקנה הטבות בסיסיות בחיים האמיתיים, כגון ארוחות חינם (\"בופה\") ביום ההולדת, בשל חוסר ההכרה בדרגתם בקזינו הפיזי.\n*   **השקעה ממושכת לטובת התקדמות בדירוג:** מהתגובות עולה כי שחקנים משקיעים זמן רב (מספר חודשים) ופעילות ענפה כדי לנסות ולהגיע לדרגות הגבוהות ביותר במועדוני הלקוחות הדיגיטליים.\n*   **קידום הימורים אחראיים:** הקהילה שמה דגש משמעותי על נושא ההימורים האחראיים, כולל הפניה למשאבי תמיכה, ויקי ייעודי וסיוע למי שמרגיש שהרגלי ההימורים שלו יוצאים משליטה.\n*   **חשיבות כללי הקהילה:** ישנה הקפדה על נהלי הדיון בפורום, כולל הפניה לקריאת חוקי ה-Sidebar ושמירה על סביבת דיון מבוקרת.\n*   **הרחבת הקהילה לערוצים נוספים:** הדיון מדגיש את קיומן של פלטפורמות משלימות לקהילת המהמרים/פיננסים, כגון שרתי Discord ייעודיים, לצורך תקשורת ישירה ורציפה יותר בין המשתמשים.",
-      "date_string": "2026-05-22",
-      "saved_at": "2026-05-22T09:02:49.081+00:00"
+      "comments_summary_he": "להלן סיכום הדיון בנקודות (בעברית):\n\n* **אסטרטגיית הימורים נגדיים:** משתמשים מציעים להמר בו-זמנית על צבעים מנוגדים ברולטה (אדום ושחור) כדי להגדיל את נפח ההימורים ללא סיכון ממשי של ההון העצמי.\n* **צבירת הטבות ודירוג VIP:** המטרה המרכזית בשיטה זו היא להתקדם במערכת הדירוג של הקזינו כדי לזכות בהטבות יוקרתיות, כגון חופשות שיט בחינם או בונוסים כספיים, המוענקים למי שמבצע הימורים בסכומים גבוהים.\n* **חשש מ\"ניצול לרעה\" (Abuse):** קיימת אזהרה כי בתי קזינו נוטים להגדיר שיטות כאלו כניצול לרעה של המבצעים ברגע שהם מזהים דפוס פעולה שנועד לעקוף את חוקי הבית.\n* **איסור מפורש בתקנון:** רבים מציינים כי בתי הקזינו כבר מודעים לשיטה זו, ולכן רובם כוללים סעיפים מפורשים בתקנון (T&C) האוסרים על \"הימורים על צדדים מנוגדים\" לצורך צבירת נקודות או בונוסים.\n* **סיכון בשלב משיכת הכספים:** גם אם השיטה נראית כעובדת בזמן אמת, הקזינו עלול לבחון את היסטוריית המשחק ולסמן את החשבון כבעייתי ברגע שהמשתמש ינסה למשוך את כספו או לממש את ההטבה.\n* **המלצה לדיסקרטיות ובדיקה קפדנית:** המשתתפים ממליצים לבדוק היטב את \"האותיות הקטנות\" של כל מבצע ולשמור על פרופיל נמוך, שכן ברגע ששיטה מסוימת הופכת לנפוצה, בתי הקזינו חוסמים אותה במהירות."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים היום על BRAG. דיונים מוגבלים על ביצועים כלליים.",
+      "summary": "אין עדכונים משמעותיים מהיום בטוויטר על BRAG. אין דיונים בולטים על תחזיות מחיר או חדשות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים על רגולציה בניו יורק נמשכים ללא חקיקה חדשה.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה או רישיונות שדווחו היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין חדשות על רישיונות חדשים או אכיפה בברזיל היום.",
+      "summary": "אין אזכורים עדכניים על רגולציה או אכיפה בברזיל. השוק שקט היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על חידוש רישיונות או BetCity.",
+      "summary": "אין חידושי רישיונות או אכיפה מדווחים בהולנד. BetCity לא מוזכר.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "מגמות כלליות ללא עסקאות בולטות.",
+      "summary": "אין עסקאות או שותפויות חדשות שדווחו היום בתעשייה.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-05-23T08:19:58.275Z"
+  "generatedAt": "2026-05-24T08:30:08.713Z"
 };
