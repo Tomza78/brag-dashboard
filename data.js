@@ -1,37 +1,56 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1tmyh3m",
+      "id": "1toeqlk",
       "source": "reddit",
-      "title": "Making $500 a week off a online casino glitch I found",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1tmyh3m/making_500_a_week_off_a_online_casino_glitch_i/",
-      "author": "Lemoner31",
-      "score": 2,
-      "selftext": "Found a bug/glitch whatever on a site I play on that has been earning me an extra $500 a week. Haven’t tried pushing it further than that as I don’t want it to get found out but fuck me it’s been helping out a lot. Basically been just doing $20 deposits which is the minimum amount than turning that into 500 with this glitch and just withdrawing. Haven’t tried doing it more than twice a week at this point but does anyone know how long stuff like this normally lasts ? I’ve only been doing it for a month or so now but am tempted to go even harder on it before what I’m suspecting will get fixed soon.",
+      "title": "Biggest win 62.5k on new account",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1toeqlk/biggest_win_625k_on_new_account/",
+      "author": "KingJarvanVI",
+      "score": 1,
+      "selftext": "I've been playing slots on online casinos for the past 5 years. Tried different casinos like stake, shuffle, roobet, bc, duel, you name it ive been on it. Surprisingly after years of buying this bonus (1000 usd buy) on wanted hacksaw provider, i maxed it in a new account on dual maybe after 4-5 buys. I was down to my last 1.3k and surprisingly hit 62500 max win. I've bought this countless of times, and i was very surprised to get it on a new account even tho i have been chasing losses on other accounts that \"i thought\" owed me return. I can tell you all that hacksaw gaming is random and whatever you lost on these slots and think that the slot owes u, it owes you nothing. Goodluck, hopefully i will be able to stop playing now :))",
       "subreddit": "onlinegambling",
-      "created_utc": 1779683795,
+      "created_utc": 1779818231,
       "top_comments": [
         {
-          "body": "If u don't want it to be know then why even make a post about it in the first place ",
-          "score": 3,
-          "author": "Trick_Scale3546"
+          "body": "Be honest, are you up lifetime pnl after this win or still down? ",
+          "score": 1,
+          "author": "Richter168"
         },
         {
-          "body": "I say Take em for all shes worth ",
-          "score": 2,
-          "author": "Squigz172"
+          "body": " Nope, all they have to do is see this post and see who won 62.5k(assuming it's true)...then go dig and see they have multiple accounts and they will learn a very expensive lesson. Sometimes silence is golden.",
+          "score": 1,
+          "author": "DFW-Extraterrestrial"
         },
+        {
+          "body": "I’ve cashed out multiple 10k+ wins on duel via SOL straight to Coinbase with zero issues 💁‍♂️🤷‍♂️",
+          "score": 1,
+          "author": "gn999mt"
+        }
+      ],
+      "summary_he": "הפוסט מתאר זכייה משמעותית של 62.5 אלף דולר במשחק של ספקית התוכן Hacksaw Gaming, תוך הדגשת הפופולריות של מכניקת ה-\"Bonus Buy\" והתנודתיות הגבוהה האופיינית לתעשיית ה-iGaming כיום. המשתמש מחזק את עקרון האקראיות (RNG) ומפריך את מיתוס \"חוב\" המכונה לשחקן, תובנה המדגישה את חשיבות ההוגנות בתוכן המופץ על ידי חברות כמו Bragg Gaming ופלטפורמות דומות.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit בתחום ה-iGaming וההימורים:\n\n*   **שאלת הרווחיות לטווח ארוך (PnL):** עולה תהייה האם המשתמש באמת נמצא ברווח נקי \"לכל החיים\" לאחר הזכייה הנוכחית, או שמא הוא עדיין נמצא בהפסד מצטבר למרות הסכום הגדול שזכה בו.\n*   **הסיכון בחשיפה פומבית:** קיימת אזהרה שפרסום זכיות גדולות ברשתות חברתיות עלול להוביל את מפעילי אתרי ההימורים לזהות את המשתמש ולבצע בדיקות מעמיקות בחשבונו.\n*   **חיפוש עילות לביטול תשלום:** נטען כי אתרים עלולים לחפש הפרות של תנאי השימוש (כמו החזקת מספר חשבונות במקביל) כדי להימנע מתשלום פרסים גבוהים (במקרה זה, 62.5 אלף דולר).\n*   **הערך שבשתיקה:** אחת העצות המרכזיות היא ש\"השתיקה יפה לחכמים\" – עדיף לא למשוך תשומת לב מיותרת לאחר זכייה גדולה כדי להבטיח שהכסף יגיע ליעדו ללא תקלות.\n*   **חוויות משיכה חיוביות בקריפטו:** משתמש אחר מציין כי הצליח למשוך סכומים של מעל 10,000 דולר ללא בעיות באמצעות מטבע הקריפטו סולנה (SOL) ישירות לבורסת Coinbase.\n*   **אמינות פלטפורמות מסוימות:** קיימת עדות לכך שבפלטפורמות מסוימות (כמו Duel) תהליך פדיון הרווחים עובד בצורה חלקה, בניגוד לחששות שהועלו לגבי חקירות או עיכובים מצד האתרים."
+    },
+    {
+      "id": "1to93wx",
+      "source": "reddit",
+      "title": "One of the best crypto casinos",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1to93wx/one_of_the_best_crypto_casinos/",
+      "author": "Fine-Emu-8173",
+      "score": 1,
+      "selftext": "If you are looking for a good and safe crypto casino then BC Game is for you. \n\nThey have a wide variety of casino games as well as live casino and also wide variety of things to bet on, they also have very nice bonus rewards for playing.\n\nIf u wish to join please use my referral:\n\nLink: https://landingbc.com/bcfreespin/en?i=4cwqxgoe5\n\nCode: 4cwqxgoe5",
+      "subreddit": "onlinegambling",
+      "created_utc": 1779806702,
+      "top_comments": [
         {
           "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 2,
+          "score": 1,
           "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט מתאר ניצול של פרצה טכנית (glitch) באתר הימורים מקוון המאפשרת למשתמש להפיק רווחים קבועים וגבוהים מהפקדות מינימליות. מקרה זה מדגיש את החשיבות הקריטית של אבטחת תוכנה ובקרת איכות עבור ספקיות טכנולוגיה כמו Bragg Gaming, שכן פרצות כאלו פוגעות ברווחיות המפעילים ומחייבות הידוק של הפיקוח הרגולטורי בתעשייה.",
+      "summary_he": "הפוסט מקדם את קזינו הקריפטו BC.Game, תוך שימת דגש על מגוון המשחקים, הימורי הספורט ותוכניות הבונוסים שלו. מדובר בדוגמה למגמת הצמיחה של הימורים מבוססי קריפטו בתעשיית ה-iGaming, תחום המציב אתגרים רגולטוריים ומהווה סגמנט שונה מהפעילות בשווקים המוסדרים שבהם מתמקדת חברת Bragg Gaming.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות בשרשור, המחולק לנקודות מרכזיות בעברית:\n\n* **ביקורת על הסתירה בנושא הפרטיות:** אחד המגיבים תהה לגבי ההיגיון שמאחורי פרסום הפוסט, וציין שאם המשתמש מעוניין לשמור על סודיות, עצם הפרסום בפורום ציבורי נראה תמוה.\n* **גישה אגרסיבית למיקסום רווחים:** הובעה דעה המעודדת את המשתמש לנצל את המצב עד תום ו\"לקחת מהם כל מה שאפשר\" (במשמעות של זכייה או ניצול המערכת).\n* **דגש על כללי הקהילה:** קיימת תזכורת רשמית למשתתפים לקרוא את חוקי הפורום (Subreddit) כדי לשמור על סדר וארגון בקהילה.\n* **הרחבת הדיון לערוצים נוספים:** הפניה של המשתמשים להצטרף לשרת הדיסקורד של הקהילה להמשך אינטראקציה.\n* **קידום הימורים אחראיים:** דגש משמעותי על חשיבות השמירה על הרגלי הימורים בריאים ומניעת מצבים של אובדן שליטה.\n* **מתן משאבי סיוע להתמכרות:** הפניה למקורות מידע (כמו ה-Wiki של הפורום) עבור משתמשים שחשים שהרגלי ההימורים שלהם הופכים לבעייתיים.",
-      "date_string": "2026-05-25",
-      "saved_at": "2026-05-25T10:04:45.068+00:00"
+      "comments_summary_he": "להלן סיכום הנקודות העיקריות מתוך התגובה בשרשור (בהתבסס על הודעת המערכת של הקהילה):\n\n* **חשיבות הציות לכללים:** קיימת דרישה ברורה ממשתמשים חדשים לקרוא ולהבין את חוקי הקהילה בטרם השתתפותם בדיון, במטרה לשמור על סדר בפורום.\n* **טיפוח קהילה חברתית:** הפורום מעודד מעורבות פעילה של המשתמשים לא רק ב-Reddit, אלא גם באמצעות הצטרפות לערוץ הדיסקורד (Discord) הרשמי והרשמה כמנויים.\n* **קידום הימורים אחראיים:** הקהילה שמה לה למטרה לקדם תרבות של הימורים בריאים ואחראיים בקרב חבריה.\n* **תמיכה במקרים של אובדן שליטה:** קיימת התייחסות ישירה למשתמשים שמרגישים שהרגלי ההימורים שלהם הופכים לבעייתיים או יוצאים משליטה.\n* **הנגשת משאבי סיוע:** הקהילה מספקת קישורים ישירים למקורות מידע (כמו ה-Wiki של הפורום) המוקדשים לטיפול בבעיות הימורים ומתן כלים לעזרה עצמית.\n* **ניהול אוטומטי ומבוקר:** השימוש בבוטים לניהול התגובה הראשונית מעיד על ניסיון להנחיל סטנדרטים אחידים והכוונת משתמשים למקורות המידע הרלוונטיים באופן מיידי."
     },
     {
       "id": "1tnyum9",
@@ -62,7 +81,9 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט עוסק במגמה הגוברת של בדיקות נאותות (vetting) קפדניות בבחירת מפעילי iGaming, תוך התמקדות בשקיפות, איכות התנועה ועמידה בסטנדרטים של רגולציה וציות (compliance). מגמה זו מדגישה את החשיבות של ספקי פלטפורמות וטכנולוגיה מובילים כמו Bragg Gaming, המאפשרים למפעילים להציג רמה גבוהה של אמינות ותקינות תפעולית הנחוצה לשותפויות אסטרטגיות ארוכות טווח.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות בנושא שותפויות בתחום ה-iGaming והימורים:\n\n*   **שימוש ברשימת בדיקה (Checklist) קפדנית:** לפני חתימה על חוזה, חשוב לבדוק פרמטרים בסיסיים כמו רישיון בתוקף, היסטוריית תשלומים מוכחת, תנאי שימוש ברורים וזמינות של צוות התמיכה.\n*   **הסתמכות על חוות דעת של עמיתים:** המשתתפים מדגישים כי היסטוריית תשלומים בפועל ופידבק משותפים (Affiliates) אחרים שעבדו עם המותג חשובים הרבה יותר מהבטחות של אנשי מכירות בשיחות רשמיות.\n*   **חשיבות תהליכי ה-KYC (אימות לקוח):** תהליכי אימות שחקנים מסורבלים או איטיים הם \"רוצחי המרות\". שחקנים נוטים לעזוב את הפלטפורמה אם תהליך ההרשמה והאימות מתסכל, מה שפוגע ישירות ברווחי השותף.\n*   **שקיפות בבדיקת נאותות:** מומלץ לבקש מהמפעיל דוגמה חיה של תהליך אימות השחקנים כבר בשלבי המשא ומתן. חוסר רצון להציג את התהליך או התחמקות נחשבים ל\"נורה אדומה\" המעידה על בעיות תפעוליות.\n*   **תשתית מקומית בשוק היעד (Geo):** לא מספיק להחזיק ברישיון פורמלי; יש לוודא שלמפעיל יש תשתיות אמיתיות במדינות היעד, כולל אמצעי תשלום מקומיים נפוצים ושירות לקוחות בשפה המקומית.\n*   **ניהול מחלוקות והחזרי חיוב (Chargebacks):** חשוב לבחון כיצד המפעיל מתמודד עם מחלוקות כספיות. מפעילים מסוימים נוטים להטיל את האחריות וההפסדים על השותף במקום לעבוד יחד לפתרון הבעיה."
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות בנושא שותפויות בתחום ה-iGaming והימורים:\n\n*   **שימוש ברשימת בדיקה (Checklist) קפדנית:** לפני חתימה על חוזה, חשוב לבדוק פרמטרים בסיסיים כמו רישיון בתוקף, היסטוריית תשלומים מוכחת, תנאי שימוש ברורים וזמינות של צוות התמיכה.\n*   **הסתמכות על חוות דעת של עמיתים:** המשתתפים מדגישים כי היסטוריית תשלומים בפועל ופידבק משותפים (Affiliates) אחרים שעבדו עם המותג חשובים הרבה יותר מהבטחות של אנשי מכירות בשיחות רשמיות.\n*   **חשיבות תהליכי ה-KYC (אימות לקוח):** תהליכי אימות שחקנים מסורבלים או איטיים הם \"רוצחי המרות\". שחקנים נוטים לעזוב את הפלטפורמה אם תהליך ההרשמה והאימות מתסכל, מה שפוגע ישירות ברווחי השותף.\n*   **שקיפות בבדיקת נאותות:** מומלץ לבקש מהמפעיל דוגמה חיה של תהליך אימות השחקנים כבר בשלבי המשא ומתן. חוסר רצון להציג את התהליך או התחמקות נחשבים ל\"נורה אדומה\" המעידה על בעיות תפעוליות.\n*   **תשתית מקומית בשוק היעד (Geo):** לא מספיק להחזיק ברישיון פורמלי; יש לוודא שלמפעיל יש תשתיות אמיתיות במדינות היעד, כולל אמצעי תשלום מקומיים נפוצים ושירות לקוחות בשפה המקומית.\n*   **ניהול מחלוקות והחזרי חיוב (Chargebacks):** חשוב לבחון כיצד המפעיל מתמודד עם מחלוקות כספיות. מפעילים מסוימים נוטים להטיל את האחריות וההפסדים על השותף במקום לעבוד יחד לפתרון הבעיה.",
+      "date_string": "2026-05-26",
+      "saved_at": "2026-05-26T09:56:12.048+00:00"
     },
     {
       "id": "1tnk6br",
@@ -83,60 +104,39 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט מציג משתמש מקליפורניה המקדם אתר הימורים הפועל מחוץ למסגרת החוקית, בשל היעדר רגולציה של iGaming במדינה. מקרה זה ממחיש את אתגרי האכיפה בארה\"ב ואת התחרות מצד \"השוק האפור\" מול חברות הממוקדות בשווקים מוסדרים בלבד, דוגמת Bragg Gaming.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הנקודות העולות מהתגובה שפורסמה בשרת (מדובר בהודעת ניהול אוטומטית של קהילת r/onlinegambling):\n\n* **קבלת פנים וציות לכללים:** הקהילה מקבלת בברכה משתמשים חדשים ומדגישה את החשיבות של קריאת חוקי הפורום הנמצאים בסרגל הצד (Sidebar) כדי לשמור על סדר.\n* **הצטרפות לקהילה מורחבת:** קיימת הזמנה פעילה להצטרף לשרת הדיסקורד של הקהילה ולהירשם לעדכונים, במטרה להרחיב את השיח מעבר לפלטפורמת Reddit.\n* **קידום הימורים אחראיים:** תת-הפורום מצהיר על מחויבותו לקידום הימורים בריאים ואחראיים בקרב חבריו.\n* **סיוע בהתמכרויות:** הקהילה מספקת גישה מהירה למשאבי עזרה (Wiki) עבור משתמשים החשים שהרגלי ההימורים שלהם יוצאים משליטה או הופכים לבעייתיים.\n* **ניהול אוטומטי:** ההודעה נשלחה על ידי בוט מתוכנת, מה שמעיד על שימוש בכלי אוטומציה לניהול הקהילה ושמירה על סטנדרטים של בטיחות והסברה."
-    },
-    {
-      "id": "1tmsgyy",
-      "source": "reddit",
-      "title": "Paying $50 to anyone located in PA, NJ, WV, MI or CT to sign up for fandule casino.",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1tmsgyy/paying_50_to_anyone_located_in_pa_nj_wv_mi_or_ct/",
-      "author": "tomass1389",
-      "score": 1,
-      "selftext": "Anyone that hasn't made account with fandule before and located in these states if interested lmk and we can both benefit. I cant show proof that I pay since this is my first time posting here and everyone that's been interested was either in state that doesn't allow online casinos or had already made an account with sports book and was thinking it wouldn't be considered the same. So I have altered the post to include more information.",
-      "subreddit": "onlinegambling",
-      "created_utc": 1779667241,
-      "top_comments": [
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט מציג ניסיון של משתמש פרטי לנצל את תוכניות הבונוס (\"חבר מביא חבר\") של FanDuel כדי לגייס שחקנים חדשים במדינות שבהן ה-iGaming מוסדר בארה\"ב (כמו ניו ג'רזי ומישיגן). המקרה מדגיש את התחרות העזה על רכישת לקוחות בשוק האמריקאי המוסדר ואת המגבלות הגיאוגרפיות הנוקשות של הרגולציה, סביבה שבה פועלות ספקיות תוכן מובילות כמו Bragg Gaming.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הנקודות המרכזיות העולות מהתגובה (המהווה הודעת מערכת אוטומטית) בפורום ההימורים המקוונים:\n\n* **ציות לכללי הקהילה:** קיימת דרישה מכל המשתמשים, ובמיוחד ממשתמשים חדשים, לקרוא ולהבין את חוקי הפורום המופיעים בסרגל הצד (sidebar) לפני ההשתתפות בדיונים.\n* **הצטרפות לקהילה והרחבת המעורבות:** המערכת מעודדת את הגולשים להירשם לעמוד (Subscribe) ולהצטרף לערוץ הדיסקורד הרשמי של הקהילה כדי לשמור על קשר ואינטראקציה.\n* **קידום הימורים אחראיים:** הפורום מצהיר על מחויבותו לקידום תרבות של הימורים בריאים ואחראיים בקרב חברי הקהילה.\n* **זיהוי והכרה בבעיות הימורים:** מועבר מסר ברור המפציר במשתמשים לשים לב אם הרגלי ההימורים שלהם יוצאים משליטה ומאבדים מהאופי הבריא שלהם.\n* **מתן משאבים לעזרה:** המערכת מספקת הפניה ישירה למדריכים (Wiki) ומשאבי עזרה ייעודיים עבור אנשים הסובלים מבעיות הימורים או התמכרות.\n* **אוטומציה וניהול פורום:** ההודעה מדגישה כי מדובר במנגנון אוטומטי (Bot) שנועד לשמור על הסדר, הבטיחות ותקינות הדיון בפורום באופן שוטף.",
-      "date_string": "2026-05-25",
-      "saved_at": "2026-05-25T10:04:59.684+00:00"
+      "comments_summary_he": "להלן סיכום הנקודות העולות מהתגובה שפורסמה בשרת (מדובר בהודעת ניהול אוטומטית של קהילת r/onlinegambling):\n\n* **קבלת פנים וציות לכללים:** הקהילה מקבלת בברכה משתמשים חדשים ומדגישה את החשיבות של קריאת חוקי הפורום הנמצאים בסרגל הצד (Sidebar) כדי לשמור על סדר.\n* **הצטרפות לקהילה מורחבת:** קיימת הזמנה פעילה להצטרף לשרת הדיסקורד של הקהילה ולהירשם לעדכונים, במטרה להרחיב את השיח מעבר לפלטפורמת Reddit.\n* **קידום הימורים אחראיים:** תת-הפורום מצהיר על מחויבותו לקידום הימורים בריאים ואחראיים בקרב חבריו.\n* **סיוע בהתמכרויות:** הקהילה מספקת גישה מהירה למשאבי עזרה (Wiki) עבור משתמשים החשים שהרגלי ההימורים שלהם יוצאים משליטה או הופכים לבעייתיים.\n* **ניהול אוטומטי:** ההודעה נשלחה על ידי בוט מתוכנת, מה שמעיד על שימוש בכלי אוטומציה לניהול הקהילה ושמירה על סטנדרטים של בטיחות והסברה.",
+      "date_string": "2026-05-26",
+      "saved_at": "2026-05-26T09:56:23.849+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים מהיום ב-X לגבי BRAG. אין דיונים בולטים על סנטימנט או תחזיות.",
+      "summary": "אין פעילות משמעותית ב-X היום בנוגע למניית BRAG. אין דיונים בולטים על סנטימנט או תחזיות מחיר.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": "אין חדשות משמעותיות מהשעות האחרונות"
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "אין עדכונים חדשים מ-NY ב-X. דיונים כלליים על רגולציה נמשכים ללא שינויים.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": "אין חדשות משמעותיות מהשעות האחרונות"
     },
     "brazil_market": {
-      "summary": "אין פוסטים עדכניים על רגולציה או רישיונות בברזיל.",
+      "summary": "אין פוסטים עדכניים על רישיונות או אכיפה בברזיל. השוק נשאר בשלב המתנה.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": "אין חדשות משמעותיות מהשעות האחרונות"
     },
     "netherlands_ksa": {
-      "summary": "אין אזכורים חדשים על KSA או BetCity.",
+      "summary": "אין התייחסויות חדשות ל-KSA או BetCity ב-X. רגולציה יציבה.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": "אין חדשות משמעותיות מהשעות האחרונות"
     },
     "igaming_industry": {
-      "summary": "פעילות נמוכה, ללא עסקאות או מגמות בולטות.",
+      "summary": "אין עסקאות או שותפויות שדווחו היום. מגמות כלליות ללא שינוי.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": "אין חדשות משמעותיות מהשעות האחרונות"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין חדשות משמעותיות מהיום"
+    "top_alert": "אין התראות משמעותיות מהיום"
   },
-  "generatedAt": "2026-05-26T09:56:24.376Z"
+  "generatedAt": "2026-05-27T09:45:05.865Z"
 };
