@@ -1,32 +1,35 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1tuuyh6",
+      "id": "1tx21a2",
       "source": "reddit",
-      "title": "Looking for an online gambling app/page/feature to add to my app",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1tuuyh6/looking_for_an_online_gambling_apppagefeature_to/",
-      "author": "UpperImpression3620",
+      "title": "How do you pick the best online slots for yourself? is it RTP, volatility, provider or pure feeling?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1tx21a2/how_do_you_pick_the_best_online_slots_for/",
+      "author": "No_Phase3760",
       "score": 1,
-      "selftext": "I have built a PWA (app) for Advantage Play slots. I have something like 100 and growing 'cheat sheets' for advantage play slots that show users winning or advantageous 'setups'.  \nThe site has cheatsheets and a lot of videos (I share videos made by others, so if you have any advantage play videos, let me know and I'll give you traffic.)\n\n**What I need:**  \nI would love to offer a training area where I have online versions of the advantage play slot machines that my app supports. This way users of my mobile app can practice and at least get to know how the machine works before they enter the casino. \n\nI found a site in the UK that will give me slot games for free but none of them are the ones I support, so it's kind of senseless to promote them as none are advantage play slots.\n\nI have a list of the first 100 advantage play slots I support here: [https://slotcheater.com/#cheats](https://slotcheater.com/#cheats) \\- These are the games I would love to find... even if it's only one of them!\n\nThanks!",
+      "selftext": "there are way too many slots out there. i just stick to providers i trust now. been playing a lot of hacksaw and iconic21 recently, imo like the volatility and how their bonuses are set up. what providers/slots do you guys actually rate and why?   \n  \ni am not much an expert RTP, volatility and stuff like that. is it worth paying attention or just play wherever you like?",
       "subreddit": "onlinegambling",
-      "created_utc": 1780415337,
+      "created_utc": 1780610549,
       "top_comments": [
         {
-          "body": "ur biggest problem is gonna be finding legal demo versions of those exact games since most slot providers keep their content locked behind casino partnerships and licensing deals",
+          "body": "pure feeling and vibes for me. tbh i dont feel the rtp too much, I still lose way lot more than I win 🤣🤣",
+          "score": 1,
+          "author": "Majestic_Biscotti438"
+        },
+        {
+          "body": "rtp and volatility matter a bit but most people still just end up choosing based on how the game feels to play and how fast it burns ur bankroll",
           "score": 1,
           "author": "Alone-Office-1558"
         },
         {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "body": "rtp matters but not as much as people think 💀 like if you're gonna lose money anyway might as well enjoy the ride right? i usually go for high volatility slots because the big hits feel better even if they're rare\n\n  \nbeen trying different providers lately and some just have better feel to them, hard to explain but you know when the game flows nice. the bonus rounds are what keep me interested more than the math behind it tbh 😂",
           "score": 1,
-          "author": "AutoModerator"
+          "author": "mixed_allotment"
         }
       ],
-      "summary_he": "מפתח של אפליקציה המציעה \"דפי עזר\" (cheat sheets) למשחקי סלוטים מסוג Advantage Play מחפש לשלב ביישום שלו גרסאות דמו של משחקים ספציפיים כדי לאפשר למשתמשים לתרגל אסטרטגיות לפני ההימור בקזינו הפיזי. המקרה מדגיש את המגמה של שילוב בין חוויות קזינו פיזיות לדיגיטליות ואת החשיבות של ספקי תוכן וצבירה (כדוגמת Bragg Gaming) בהנגשת משחקים מורשים. עם זאת, השימוש בכלי עזר למיקסום רווחים נותר סוגיה רגולטורית מורכבת עבור מפעילי משחקים וספקי טכנולוגיה בתעשייה.",
+      "summary_he": "הפוסט מדגיש את המגמה בתעשיית ה-iGaming שבה שחקנים מעדיפים לבחור משחקים על בסיס מוניטין הספק (Provider) וחוויית המשחק, על פני נתונים טכניים יבשים כמו RTP או תנודתיות. בשוק רווי בתוכן, היכולת של ספקיות כמו Bragg Gaming לבדל את עצמן דרך מותגים אמינים ומכניקת בונוסים ייחודית הופכת לגורם המכריע בשימור שחקנים ובצמיחה עסקית.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והתגובות מהשרשור, המחולק לנקודות מרכזיות בעברית:\n\n* **קושי במציאת גרסאות דמו:** אחד האתגרים המרכזיים עבור משתמשים הוא מציאת גרסאות דמו (ניסיון) חוקיות של משחקי סלוטים (מכונות מזל) ספציפיים.\n* **בלעדיות ורישוי בתעשיית ה-iGaming:** ספקי משחקים נוטים לנעול את התוכן שלהם מאחורי הסכמי רישוי ושותפויות עסקיות עם בתי קזינו ספציפיים, מה שמונע גישה חופשית למשחקים ללא הרשמה.\n* **חשיבות הציות לכללי הקהילה:** קיימת הקפדה על קריאת חוקי הפורום ושמירה על סדר בקהילות העוסקות בהימורים אונליין כדי להבטיח שיח תקין.\n* **דגש על הימורים אחראיים:** הקהילה שמה דגש רב על קידום הרגלי הימורים בריאים ואחראיים בקרב המשתתפים.\n* **זמינות משאבים לסיוע בהתמכרויות:** קיימת הפניה ברורה למשאבי עזרה, כגון ויקי ייעודי, עבור אנשים המרגישים שהרגלי ההימורים שלהם יוצאים משליטה.\n* **הרחבת הדיון לערוצים נוספים:** עידוד המשתמשים להצטרף לפלטפורמות חברתיות נוספות (כמו דיסקורד) לצורך המשך דיונים בנושאי הימורים ופיננסים.",
-      "date_string": "2026-06-03",
-      "saved_at": "2026-06-03T10:57:46.55+00:00"
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג את נקודות המבט השונות של המשתמשים בנושא משחקי קזינו מקוונים (iGaming):\n\n*   **החוויה וה\"ווייב\" קודמים למתמטיקה:** שחקנים רבים בוחרים משחקים על פי התחושה הכללית והאנרגיה של המשחק (\"Vibes\"), ולאו דווקא על סמך נתונים יבשים כמו אחוז ההחזר לשחקן (RTP).\n*   **חוסר רלוונטיות נתפסת של ה-RTP:** חלק מהמגיבים ציינו כי הם אינם \"מרגישים\" את ה-RTP בפועל, כיוון שבסופו של דבר תחושת ההפסד דומיננטית יותר מכל נתון סטטיסטי.\n*   **העדפה לתנודתיות גבוהה (High Volatility):** קיים רצון מודע לבחור במשחקים שבהם הזכיות נדירות אך גדולות מאוד; הריגוש שב\"מכה הגדולה\" נתפס כמהנה יותר מאשר זכיות קטנות ועקביות.\n*   **קצב \"שריפת\" התקציב:** שיקול מרכזי בבחירת משחק הוא המהירות שבה הוא מכלה את יתרה הכספית של השחקן (Bankroll); שחקנים מחפשים איזון בין הנאה למשך זמן המשחק.\n*   **חשיבות ה\"זרימה\" ואיכות הספק:** השחקנים מבחינים בין ספקי משחקים שונים וטוענים כי חלקם פשוט מייצרים משחקים ש\"זורמים\" טוב יותר, דבר שקשה להסביר במילים אך מורגש מאוד בזמן המשחק.\n*   **סבבי הבונוס כמרכז העניין:** סבבי הבונוס הם גורם המשיכה העיקרי שמשאיר את השחקנים מעורבים, והם נחשבים לחלק המעניין ביותר במשחק, הרבה יותר מהחישובים המתמטיים שעומדים מאחוריו."
     },
     {
       "id": "1twiyqj",
@@ -47,37 +50,39 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט עוסק בפוטנציאל הרווחיות (RPM) של ערוצי יוטיוב המוקדשים לתכני הימורים וקזינו מקוון. העניין הגובר ביצירת תוכן מסוג זה משקף את המגמה בתעשיית ה-iGaming להסתמך על משפיענים ואפיקי שיווק דיגיטליים להנעת תנועת שחקנים, תחום קריטי עבור ספקי תוכן ופלטפורמות כמו Bragg Gaming.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "מכיוון שהטקסט שסיפקת מורכב מהודעת מערכת אוטומטית (AutoModerator), להלן ניתוח של הנקודות והערכים העולים ממנה עבור קהילת ההימורים המקוונים:\n\n*   **דגש על הימורים אחראיים:** הקהילה מציבה בראש סדר העדיפויות את המאבק בהתמכרות ומקדמת דפוסי הימורים בריאים ומבוקרים בקרב חבריה.\n*   **מתן משאבי סיוע:** קיימת הנגשה אקטיבית של כלים ומידע (כמו דף ה-Wiki של הפורום) עבור משתמשים שמרגישים שהרגלי ההימורים שלהם יוצאים מכלל שליטה.\n*   **חשיבות הציות לכללים:** המערכת מדגישה את הצורך של כל משתמש חדש לקרוא ולמלא אחר חוקי הקהילה המופיעים בסרגל הצד (Sidebar) כדי לשמור על סדר.\n*   **בניית קהילה מחוץ לפלטפורמה:** הפורום מעודד מעורבות חברתית רחבה יותר באמצעות הזמנה להצטרף לערוץ הדיסקורד הרשמי של הקהילה.\n*   **ניהול ואוטומציה:** נעשה שימוש בבוטים כדי להבטיח שכל מצטרף חדש יקבל את המידע החיוני והנחיות הבטיחות באופן מיידי עם פרסום הפוסט.\n*   **הכוונה לקהל יעד חדש:** קיימת התייחסות ספציפית למשתמשים חדשים (\"New here\"), במטרה לעזור להם להשתלב בקהילה בצורה בטוחה ומודעת."
+      "comments_summary_he": "מכיוון שהטקסט שסיפקת מורכב מהודעת מערכת אוטומטית (AutoModerator), להלן ניתוח של הנקודות והערכים העולים ממנה עבור קהילת ההימורים המקוונים:\n\n*   **דגש על הימורים אחראיים:** הקהילה מציבה בראש סדר העדיפויות את המאבק בהתמכרות ומקדמת דפוסי הימורים בריאים ומבוקרים בקרב חבריה.\n*   **מתן משאבי סיוע:** קיימת הנגשה אקטיבית של כלים ומידע (כמו דף ה-Wiki של הפורום) עבור משתמשים שמרגישים שהרגלי ההימורים שלהם יוצאים מכלל שליטה.\n*   **חשיבות הציות לכללים:** המערכת מדגישה את הצורך של כל משתמש חדש לקרוא ולמלא אחר חוקי הקהילה המופיעים בסרגל הצד (Sidebar) כדי לשמור על סדר.\n*   **בניית קהילה מחוץ לפלטפורמה:** הפורום מעודד מעורבות חברתית רחבה יותר באמצעות הזמנה להצטרף לערוץ הדיסקורד הרשמי של הקהילה.\n*   **ניהול ואוטומציה:** נעשה שימוש בבוטים כדי להבטיח שכל מצטרף חדש יקבל את המידע החיוני והנחיות הבטיחות באופן מיידי עם פרסום הפוסט.\n*   **הכוונה לקהל יעד חדש:** קיימת התייחסות ספציפית למשתמשים חדשים (\"New here\"), במטרה לעזור להם להשתלב בקהילה בצורה בטוחה ומודעת.",
+      "date_string": "2026-06-04",
+      "saved_at": "2026-06-04T09:56:18.44+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין דיונים משמעותיים על BRAG ב-X היום. אין עדכונים על תחזיות מחיר או חדשות.",
+      "summary": "אין דיונים משמעותיים על BRAG היום. משקיעים ממתינים לתוצאות רבעוניות. אין תחזיות מחיר עדכניות.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת. רישיונות קיימים נשארים יציבים.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין פוסטים עדכניים על רישיונות או אכיפה בברזיל.",
+      "summary": "שוק ברזיל ממתין לאכיפה נוספת. אין רישיונות חדשים היום. רגולציה מתקדמת לאט.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על KSA או BetCity מהשעות האחרונות.",
+      "summary": "אין עדכונים על חידוש רישיונות או BetCity. אכיפה שגרתית.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות חדשות מדווחות.",
+      "summary": "עסקאות ושיתופי פעולה מינימליים. מגמות כלליות יציבות.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין חדשות בולטות מהיום"
+    "top_alert": ""
   },
-  "generatedAt": "2026-06-04T09:56:18.862Z"
+  "generatedAt": "2026-06-05T09:46:17.211Z"
 };
