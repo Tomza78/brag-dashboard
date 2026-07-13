@@ -1,62 +1,55 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1utbjvt",
+      "id": "1uv3dde",
       "source": "reddit",
-      "title": "Blood Suckers RTP, 96.01 or 97.99%",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1utbjvt/blood_suckers_rtp_9601_or_9799/",
-      "author": "Euneek",
+      "title": "Alberta just allowed sports betting on sites like FanDuel, and are running a promotion for a free 200 dollars, read desc for more.",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1uv3dde/alberta_just_allowed_sports_betting_on_sites_like/",
+      "author": "ReaperAntics",
       "score": 1,
-      "selftext": "I've seen both RTPs quoted online. My online casino says 96.01% and I'm wondering why there's a difference?\n\n97.99% would be great for churning through my 10x bonus wagering requirements but I seem to be short 2% RTP for some reason.\n\nAlso would be happy to hear another other suggestions for low volatility/high RTP slots to fulfill wagering requirements!",
+      "selftext": "Use this promotion and bet 100\n\nAlso use this link for an extra 100\n\nGet $100 on FanDuel Sportsbook in Bonus Bets! Terms apply. Make sure to use my invite link! \n\nhttps://fndl.ca/tkky9fs",
       "subreddit": "onlinegambling",
-      "created_utc": 1783748682,
+      "created_utc": 1783923507,
       "top_comments": [
-        {
-          "body": "Originally it was the higher one but I'm pretty sure they allow casinos to lower it if they choose.  ",
-          "score": 1,
-          "author": "AdvanceLow7128"
-        },
         {
           "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
           "score": 1,
           "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט עוסק בפערים בשיעורי ההחזר לשחקן (RTP) באותו משחק, תופעה המשקפת מגמה רווחת בתעשיית ה-iGaming שבה מפעילים מתאימים את אחוזי הרווח בהתאם לרגולציה ומיסוי מקומי. סוגיה זו רלוונטית לחברות כמו Bragg Gaming, שכן היכולת להציע משחקים עם טווחי RTP משתנים הפכה לכלי אסטרטגי עבור ספקי תוכן ומפעילי קזינו לניהול רווחיות אל מול דרישות השוק.",
+      "summary_he": "הפוסט מצביע על התרחבות הרגולציה בשוק ההימורים בקנדה, כאשר אלברטה מאפשרת כעת פעילות למפעילים בינלאומיים כמו FanDuel. מגמה זו של פתיחת שווקים מוסדרים מהווה הזדמנות משמעותית עבור חברות B2B כמו Bragg Gaming (BRAG), המספקות תשתית ותוכן למפעילים באזורים אלו.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והנקודות שעלו מהתגובות:\n\n* **גמישות באחוזי ההחזר (RTP):** נראה כי לבתי קזינו ישנה אפשרות לשנות ולהוריד את אחוזי ההחזר לשחקן מרמתם המקורית (והגבוהה יותר) בהתאם לבחירתם.\n* **קידום הימורים אחראיים:** קיימת דחף משמעותי בקהילה לעודד הרגלי הימורים בריאים ואחראיים בקרב המשתמשים.\n* **תמיכה בבעיות הימורים:** הפורום מספק משאבים ייעודיים (כמו עמוד ויקי) עבור אנשים שמרגישים שהרגלי ההימורים שלהם יוצאים משליטה.\n* **חשיבות חוקי הקהילה:** המשתמשים החדשים מתבקשים לקרוא בעיון את חוקי הפורום המופיעים בסרגל הצד כדי לשמור על סדר והתנהלות נאותה.\n* **הרחבת הקהילה:** ישנה הזמנה פעילה להצטרף לערוצי תקשורת נוספים, כמו שרת הדיסקורד של הקהילה, לצורך המשך הדיונים.",
-      "date_string": "2026-07-11",
-      "saved_at": "2026-07-11T07:54:44.401+00:00"
+      "comments_summary_he": "על פי התגובה שהוצגה (שהיא הודעה אוטומטית של מנהלי קהילת ההימורים באינטרנט), להלן סיכום הנקודות המרכזיות בעברית:\n\n* **ציות לחוקי הקהילה:** קיימת דרישה ממשתמשים חדשים לקרוא ולהבין את חוקי הפורום המופיעים בסרגל הצד לפני שהם מתחילים להשתתף בדיונים.\n* **הרחבת הקהילה לרשתות נוספות:** המנהלים מעודדים את המשתמשים להירשם לערוץ ולהצטרף לשרת הדיסקורד (Discord) הרשמי של הקהילה לצורך תקשורת נוספת.\n* **קידום הימורים אחראיים:** הקהילה מצהירה על מחויבותה לקידום הרגלי הימורים בריאים ואחראיים בקרב חבריה.\n* **מודעות לבעיית הימורים:** ההודעה כוללת אזהרה ופנייה לאלו שחשים שהרגלי ההימורים שלהם יוצאים מכלל שליטה.\n* **מתן משאבי עזרה:** הקהילה מספקת קישור למדריך ייעודי (Wiki) הכולל מידע וסיוע בנושא התמכרות להימורים.\n* **שימוש בכלים אוטומטיים לניהול:** התגובה נכתבה על ידי בוט (Bot), מה שמעיד על שימוש במערכות אוטומטיות לניטור הקהילה והנגשת מידע קריטי למשתמשים באופן מיידי."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG היום. משתמשים מזכירים את הדוחות האחרונים ללא תגובה חזקה.",
+      "summary": "אין פוסטים עדכניים משמעותיים על BRAG היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים על רישיונות בניו יורק ממשיכים, ללא חקיקה חדשה.",
+      "summary": "אין דיונים חדשים על רגולציה בניו יורק.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "רגולציה מתקדמת, אכיפה על אתרים לא מורשים.",
+      "summary": "אין עדכונים על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "חידוש רישיונות שוטף, BetCity מוזכרת בהקשר חיובי.",
+      "summary": "אין מידע חדש על KSA או BetCity.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "עסקאות שותפויות קטנות, מגמה יציבה.",
+      "summary": "אין חדשות על עסקאות או מגמות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-07-12T08:15:42.021Z"
+  "generatedAt": "2026-07-13T09:25:16.474Z"
 };
