@@ -1,29 +1,6 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1v3rysb",
-      "source": "reddit",
-      "title": "Ontario new customer promos",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1v3rysb/ontario_new_customer_promos/",
-      "author": "RaptorMadeit",
-      "score": 1,
-      "selftext": "My ontario folks, i have the big books & casino apps, but what are the smaller apps that have a great new customer promo?\n\n& if an app isnt on igaming is that just useless to sign up to?",
-      "subreddit": "onlinegambling",
-      "created_utc": 1784751752,
-      "top_comments": [
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט עוסק בחיפוש אחר מבצעי הצטרפות במפעילים קטנים בשוק ההימורים של אונטריו, תוך העלאת תהיות לגבי כדאיות השימוש באפליקציות שאינן תחת רגולציית iGaming Ontario. הדיון משקף את התחרותיות הגבוהה בשוק הקנדי, שבו Bragg Gaming פועלת באופן משמעותי, ומדגיש את חשיבות הרישוי המקומי עבור השחקנים.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הנקודות המרכזיות העולות מהתגובה (המבוססת על הודעת ניהול אוטומטית בקהילת ההימורים):\n\n*   **הקפדה על כללי הקהילה:** חשיבות קריאת חוקי הפורום המופיעים בסרגל הצד (Sidebar) עבור משתמשים חדשים כדי להבטיח השתתפות תקינה.\n*   **הרחבת הקהילה לפלטפורמות נוספות:** הזמנה אקטיבית של המשתמשים להצטרף לשרת הדיסקורד של הקהילה לצורך אינטראקציה נוספת.\n*   **קידום הימורים אחראיים:** הדגשת המחויבות של הקהילה לקידום הרגלי הימורים בריאים ואחראיים בקרב חבריה.\n*   **מודעות לבעיות הימורים:** קריאה למשתמשים לבחון את עצמם ולזהות מצבים שבהם הרגלי ההימורים שלהם הופכים לבלתי נשלטים.\n*   **הנגשת משאבי סיוע:** הפניה ישירה למקורות מידע ועזרה, כגון \"וויקי הימורים בעייתיים\", עבור מי שזקוק לתמיכה.\n*   **פיקוח וניהול אוטומטי:** שימוש בבוטים כדי להבטיח שהמידע הקריטי בנושא בטיחות ואחריות יופיע בכל דיון רלוונטי.",
-      "date_string": "2026-07-23",
-      "saved_at": "2026-07-23T08:28:55.242+00:00"
-    },
-    {
       "id": "1v48jgg",
       "source": "reddit",
       "title": "I Built a Casino Featuring Unique, Skill-Based Arcade Games",
@@ -47,37 +24,70 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט מציג פלטפורמת קזינו מקוונת חדשה המתמקדת במשחקי ארקייד מבוססי מיומנות (Skill-based) במקום משחקי מזל מסורתיים, ללא חובת הפקדה בשלב זה. המיזם משקף מגמה בולטת בתעשיית ה-iGaming של אימוץ אלמנטים מעולם הגיימינג כדי למשוך קהל צעיר, נושא שמעסיק חברות כמו Bragg Gaming בחיפושן אחר תוכן חדשני. פיתוחים אלו מדגישים את הטשטוש הרגולטורי והעסקי הגובר בין משחקי וידאו להימורים ברשת.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות, מתורגם לעברית:\n\n* **פוטנציאל למשחקים מבוססי מיומנות:** קיימת הערכה חיובית כלפי הקונספט של שילוב משחקי מיומנות (Skill-based games) בעולם ההימורים, אך הצלחתם תלויה בביצוע טכני מושלם.\n* **חשיבות זמן התגובה (Latency):** צמצום השהיה (Lag) למינימום הוא קריטי; במשחקי ארקייד התלויים בתזמון, כל עיכוב קטן בתגובה עלול להרוס את חוויית המשתמש ולהוביל לעזיבה מהירה של שחקנים.\n* **אתגרים טכניים בדפדפנים בנייד:** יש לשים דגש מיוחד על אופן רישום הקלט (Input) בדפדפנים של מכשירים ניידים, שכן זהו מקום המועד לתקלות טכניות מורכבות.\n* **קידום הימורים אחראיים:** קיימת חשיבות רבה להעלאת המודעות להימורים בריאים ומניעת התמכרויות, כולל הפניה למשאבים ומידע לעזרה עצמית (כמו Wiki המוקדש לנושא).\n* **חשיבות הקהילה והכללים:** המשתתפים נקראים לקרוא את חוקי הפורום ולהצטרף לערוצים חברתיים משלימים (כמו דיסקורד) כדי לשמור על סביבת דיון מסודרת.\n* **חוויית משתמש (UX) ושימור לקוחות:** התחושה של \"זמן אמת\" היא המפתח; אם השחקן מרגיש שהמשחק אינו מגיב בדיוק לביצועיו, האמינות וההנאה מהמשחק נפגעות משמעותית."
+      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות, מתורגם לעברית:\n\n* **פוטנציאל למשחקים מבוססי מיומנות:** קיימת הערכה חיובית כלפי הקונספט של שילוב משחקי מיומנות (Skill-based games) בעולם ההימורים, אך הצלחתם תלויה בביצוע טכני מושלם.\n* **חשיבות זמן התגובה (Latency):** צמצום השהיה (Lag) למינימום הוא קריטי; במשחקי ארקייד התלויים בתזמון, כל עיכוב קטן בתגובה עלול להרוס את חוויית המשתמש ולהוביל לעזיבה מהירה של שחקנים.\n* **אתגרים טכניים בדפדפנים בנייד:** יש לשים דגש מיוחד על אופן רישום הקלט (Input) בדפדפנים של מכשירים ניידים, שכן זהו מקום המועד לתקלות טכניות מורכבות.\n* **קידום הימורים אחראיים:** קיימת חשיבות רבה להעלאת המודעות להימורים בריאים ומניעת התמכרויות, כולל הפניה למשאבים ומידע לעזרה עצמית (כמו Wiki המוקדש לנושא).\n* **חשיבות הקהילה והכללים:** המשתתפים נקראים לקרוא את חוקי הפורום ולהצטרף לערוצים חברתיים משלימים (כמו דיסקורד) כדי לשמור על סביבת דיון מסודרת.\n* **חוויית משתמש (UX) ושימור לקוחות:** התחושה של \"זמן אמת\" היא המפתח; אם השחקן מרגיש שהמשחק אינו מגיב בדיוק לביצועיו, האמינות וההנאה מהמשחק נפגעות משמעותית.",
+      "date_string": "2026-07-24",
+      "saved_at": "2026-07-24T08:26:58.558+00:00"
+    },
+    {
+      "id": "1v5ggg8",
+      "source": "reddit",
+      "title": "I worked in online casino customer support for over 5 years, you can ask me anything",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1v5ggg8/i_worked_in_online_casino_customer_support_for/",
+      "author": "Quiet_Project4499",
+      "score": 1,
+      "selftext": "I can’t share names or anything that could identify customers or the companies I worked for. I also won’t help with getting around verification, casino rules, or the law. Other than that, ask away - I’m here to share what I saw from the support side",
+      "subreddit": "onlinegambling",
+      "created_utc": 1784910853,
+      "top_comments": [
+        {
+          "body": "how many people do you get that are just lonely and go on there to try to talk to you",
+          "score": 1,
+          "author": "kahleepay"
+        },
+        {
+          "body": "What do people complain about the most? Is it the results of a session or a game or stuff related to promotions etc?",
+          "score": 1,
+          "author": "slotmaniac2"
+        },
+        {
+          "body": "Ok.. forgetting about regional specific oversight, what is the most effective way to escalate something to an actual position with the proper permissions to make and change issues? Simply requesting escalation is usually left to the CSR’s discretion. Ty",
+          "score": 1,
+          "author": "Suspicious_Yard3682"
+        }
+      ],
+      "summary_he": "הפוסט מציע הצצה תפעולית \"מאחורי הקלעים\" של עולם ה-iGaming דרך ניסיונו של איש שירות לקוחות ותיק בקזינו מקוון. המידע מדגיש את המורכבות של היבטי רגולציה, תהליכי אימות (KYC) וציות לחוקים, נושאים שהם קריטיים עבור חברות כמו Bragg Gaming המספקות פלטפורמות ותוכן למפעילים בתעשייה.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות המובילות בשרשור, המחולק לנקודות עיקריות:\n\n*   **היבט הבדידות והצורך החברתי:** אחת התופעות שעולות היא שמשתמשים רבים פונים לשירות הלקוחות של פלטפורמות ההימורים לאו דווקא בשל בעיה טכנית, אלא פשוט כדי להפיג את בדידותם ולמצוא אוזן קשבת לשיחה.\n*   **מוקדי התסכול של הלקוחות:** עולה שאלה מרכזית לגבי מהות התלונות הנפוצות ביותר – האם המשתמשים מתלוננים בעיקר על תוצאות המשחקים והפסדים כספיים, או שמא רוב הבעיות נוגעות להיבטים תפעוליים כמו מבצעים, בונוסים והטבות.\n*   **הקושי בהסלמת פניות (Escalation):** קיימת ביקורת על המנגנון שבו פניות מועברות לדרגים בכירים. משתמשים חשים שהאפשרות להגיע לנציג בעל סמכות החלטה תלויה לעיתים קרובות מדי בשיקול דעתו של נציג השירות הראשוני (CSR), מה שיוצר מחסום בפתרון בעיות מורכבות.\n*   **חיפוש אחר ערוצי תקשורת אפקטיביים:** משתמשים מחפשים דרכים מעשיות לעקוף את שירות הלקוחות הסטנדרטי כדי להגיע לאנשים בעלי הרשאות מתאימות לביצוע שינויים במערכת או לתיקון עוולות, מעבר להנחיות הרגולטוריות היבשות.\n*   **הדינמיקה בין הנציג למשתמש:** הדיון מדגיש את המורכבות בעבודת נציגי השירות בתחום ה-iGaming, שצריכים לתמרן בין תלונות על הפסדים, שאלות על מבצעים ומתן מענה רגשי למשתמשים בודדים."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים היום על מניית BRAG ב-X.",
+      "summary": "לא נמצא מידע עדכני ב-X מהיום על BRAG.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "us_regulation": {
-      "summary": "דיונים כלליים על רגולציה בניו יורק ללא חדשות חדשות.",
+      "summary": "לא נמצא מידע עדכני ב-X מהיום על רגולציה בארה\"ב.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "brazil_market": {
-      "summary": "אין דיווחים חדשים על רישיונות או אכיפה בברזיל.",
+      "summary": "לא נמצא מידע עדכני ב-X מהיום על שוק ברזיל.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "netherlands_ksa": {
-      "summary": "אין חידושי רישיונות או אכיפה מדווחים היום.",
+      "summary": "לא נמצא מידע עדכני ב-X מהיום על KSA.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "igaming_industry": {
-      "summary": "מגמות כלליות ללא עסקאות או שותפויות חדשות.",
+      "summary": "לא נמצא מידע עדכני ב-X מהיום על תעשיית iGaming.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": ""
+    "top_alert": "אין התראות"
   },
-  "generatedAt": "2026-07-24T08:27:01.129Z"
+  "generatedAt": "2026-07-25T08:05:36.193Z"
 };
