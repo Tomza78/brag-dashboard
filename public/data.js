@@ -1,67 +1,55 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1v5ggg8",
+      "id": "1v7qi05",
       "source": "reddit",
-      "title": "I worked in online casino customer support for over 5 years, you can ask me anything",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1v5ggg8/i_worked_in_online_casino_customer_support_for/",
-      "author": "Quiet_Project4499",
+      "title": "How long have you waited for online casino international bank transfer withdrawal?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1v7qi05/how_long_have_you_waited_for_online_casino/",
+      "author": "Aggravating_Arm_7497",
       "score": 1,
-      "selftext": "I can’t share names or anything that could identify customers or the companies I worked for. I also won’t help with getting around verification, casino rules, or the law. Other than that, ask away - I’m here to share what I saw from the support side",
+      "selftext": "My winning withdrawals were approved almost a week and a half ago, it’s been six working days when the timeframe given was 3 to 5 business days.   \nTo make things more sketchy I’ve called my bank and provided them with the proof of payment the casino sent me and they said they have nothing inbound so far from them after six working days \n\nAnyone waited so long for a bank transfer to come through after it was approved? ",
       "subreddit": "onlinegambling",
-      "created_utc": 1784910853,
+      "created_utc": 1785127804,
       "top_comments": [
         {
-          "body": "how many people do you get that are just lonely and go on there to try to talk to you",
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
           "score": 1,
-          "author": "kahleepay"
-        },
-        {
-          "body": "What do people complain about the most? Is it the results of a session or a game or stuff related to promotions etc?",
-          "score": 1,
-          "author": "slotmaniac2"
-        },
-        {
-          "body": "Ok.. forgetting about regional specific oversight, what is the most effective way to escalate something to an actual position with the proper permissions to make and change issues? Simply requesting escalation is usually left to the CSR’s discretion. Ty",
-          "score": 1,
-          "author": "Suspicious_Yard3682"
+          "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט מציע הצצה תפעולית \"מאחורי הקלעים\" של עולם ה-iGaming דרך ניסיונו של איש שירות לקוחות ותיק בקזינו מקוון. המידע מדגיש את המורכבות של היבטי רגולציה, תהליכי אימות (KYC) וציות לחוקים, נושאים שהם קריטיים עבור חברות כמו Bragg Gaming המספקות פלטפורמות ותוכן למפעילים בתעשייה.",
+      "summary_he": "הפוסט דן בעיכובי משיכות כספים בקזינו מקוון, נושא המדגיש את החיכוך הקיים במערכות תשלומים בינלאומיות בתעשיית ה-iGaming. אירועים אלו מחזקים את החשיבות של רגולציה ושל פלטפורמות טכנולוגיות אמינות (דוגמת אלו של Bragg Gaming) המבטיחות העברות כספים מהירות ושקיפות מול השחקן, במטרה לשמר את אמון המשתמשים.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות המובילות בשרשור, המחולק לנקודות עיקריות:\n\n*   **היבט הבדידות והצורך החברתי:** אחת התופעות שעולות היא שמשתמשים רבים פונים לשירות הלקוחות של פלטפורמות ההימורים לאו דווקא בשל בעיה טכנית, אלא פשוט כדי להפיג את בדידותם ולמצוא אוזן קשבת לשיחה.\n*   **מוקדי התסכול של הלקוחות:** עולה שאלה מרכזית לגבי מהות התלונות הנפוצות ביותר – האם המשתמשים מתלוננים בעיקר על תוצאות המשחקים והפסדים כספיים, או שמא רוב הבעיות נוגעות להיבטים תפעוליים כמו מבצעים, בונוסים והטבות.\n*   **הקושי בהסלמת פניות (Escalation):** קיימת ביקורת על המנגנון שבו פניות מועברות לדרגים בכירים. משתמשים חשים שהאפשרות להגיע לנציג בעל סמכות החלטה תלויה לעיתים קרובות מדי בשיקול דעתו של נציג השירות הראשוני (CSR), מה שיוצר מחסום בפתרון בעיות מורכבות.\n*   **חיפוש אחר ערוצי תקשורת אפקטיביים:** משתמשים מחפשים דרכים מעשיות לעקוף את שירות הלקוחות הסטנדרטי כדי להגיע לאנשים בעלי הרשאות מתאימות לביצוע שינויים במערכת או לתיקון עוולות, מעבר להנחיות הרגולטוריות היבשות.\n*   **הדינמיקה בין הנציג למשתמש:** הדיון מדגיש את המורכבות בעבודת נציגי השירות בתחום ה-iGaming, שצריכים לתמרן בין תלונות על הפסדים, שאלות על מבצעים ומתן מענה רגשי למשתמשים בודדים.",
-      "date_string": "2026-07-25",
-      "saved_at": "2026-07-25T08:05:35.848+00:00"
+      "comments_summary_he": "להלן סיכום של הנקודות המרכזיות העולות מהתגובה שפורסמה (הודעת מנהל מערכת אוטומטית בפורום הימורים):\n\n* **ציות לכללי הקהילה:** קריאה למשתמשים, ובמיוחד למצטרפים חדשים, לקרוא ולהכיר את חוקי הפורום המופיעים בסרגל הצד כדי להבטיח השתתפות תקינה.\n* **הרחבת המעורבות החברתית:** הזמנה פעילה של הגולשים להירשם לערוץ ולהצטרף לשרת הדיסקורד (Discord) הרשמי של הקהילה לצורך אינטראקציה נוספת.\n* **קידום הימורים אחראיים:** הצהרה על מחויבות הקהילה לעודד הרגלי הימורים בריאים, אחראיים ומבוקרים בקרב חבריה.\n* **זיהוי התנהגות בעייתית:** התייחסות מפורשת למצבים שבהם המשתמש מרגיש שהרגלי ההימורים שלו יוצאים משליטה או הופכים למזיקים.\n* **הפניה למשאבי סיוע:** מתן קישור ישיר למדריך (Wiki) בנושא התמכרות להימורים, הכולל מידע וכלים להתמודדות עם בעיות בתחום.\n* **שימוש באוטומציה לניהול קהילה:** ציון העובדה שמדובר בהודעה שנשלחה אוטומטית על ידי \"בוט\" (Bot), במטרה לספק מידע חיוני וקבוע לכל המשתתפים בדיון."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG היום. משתמשים מזכירים תחזיות שמרניות ללא תנודות גדולות.",
+      "summary": "אין מידע עדכני מהיום ב-X על BRAG.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות."
+      "breaking": "אין"
     },
     "us_regulation": {
-      "summary": "דיונים על רגולציה בניו יורק נמשכים ללא חקיקה חדשה. רישיונות קיימים נשארים יציבים.",
+      "summary": "אין מידע עדכני מהיום ב-X על רגולציית ניו יורק.",
       "sentiment": "ניטרלי",
-      "breaking": "אין עדכונים מהשעות האחרונות."
+      "breaking": "אין"
     },
     "brazil_market": {
-      "summary": "רגולציה בברזיל מתקדמת לאט. אין אכיפה חדשה או רישיונות שפורסמו היום.",
+      "summary": "אין מידע עדכני מהיום ב-X על שוק ברזיל.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות בולטות."
+      "breaking": "אין"
     },
     "netherlands_ksa": {
-      "summary": "KSA ממשיכה בחידוש רישיונות. BetCity לא מוזכרת בעדכונים חדשים.",
+      "summary": "אין מידע עדכני מהיום ב-X על KSA.",
       "sentiment": "ניטרלי",
-      "breaking": "אין אירועים מהשעות האחרונות."
+      "breaking": "אין"
     },
     "igaming_industry": {
-      "summary": "עסקאות ושותפויות שגרתיות בלבד. מגמות כלליות יציבות ללא שינויים גדולים.",
+      "summary": "אין מידע עדכני מהיום ב-X על עסקאות.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות."
+      "breaking": "אין"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות דחופות מהיום."
+    "top_alert": "אין חדשות"
   },
-  "generatedAt": "2026-07-26T08:25:21.392Z"
+  "generatedAt": "2026-07-27T09:50:27.553Z"
 };
