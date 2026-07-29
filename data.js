@@ -1,57 +1,60 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1v7qi05",
+      "id": "1v9hshs",
       "source": "reddit",
-      "title": "How long have you waited for online casino international bank transfer withdrawal?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1v7qi05/how_long_have_you_waited_for_online_casino/",
-      "author": "Aggravating_Arm_7497",
+      "title": "Recommendations of online casino for Australians?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1v9hshs/recommendations_of_online_casino_for_australians/",
+      "author": "KEKW707",
       "score": 1,
-      "selftext": "My winning withdrawals were approved almost a week and a half ago, it’s been six working days when the timeframe given was 3 to 5 business days.   \nTo make things more sketchy I’ve called my bank and provided them with the proof of payment the casino sent me and they said they have nothing inbound so far from them after six working days \n\nAnyone waited so long for a bank transfer to come through after it was approved? ",
+      "selftext": "Hello, looking for a legit/reliable online casino that I can play from Australia. Not interested in slots/pokies want table games such live Baccarat and Roulette. Using crypto or just debit card, thanks.",
       "subreddit": "onlinegambling",
-      "created_utc": 1785127804,
+      "created_utc": 1785288694,
       "top_comments": [
+        {
+          "body": "Just make sure the casino accepts Australian players and that you're comfortable with the terms and conditions before depositing. It's worth reading the withdrawal and verification policies first.",
+          "score": 1,
+          "author": "Strict_Meringue_2972"
+        },
         {
           "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
           "score": 1,
           "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט דן בעיכובי משיכות כספים בקזינו מקוון, נושא המדגיש את החיכוך הקיים במערכות תשלומים בינלאומיות בתעשיית ה-iGaming. אירועים אלו מחזקים את החשיבות של רגולציה ושל פלטפורמות טכנולוגיות אמינות (דוגמת אלו של Bragg Gaming) המבטיחות העברות כספים מהירות ושקיפות מול השחקן, במטרה לשמר את אמון המשתמשים.",
+      "summary_he": "הפוסט מציג דרישה של משתמש אוסטרלי לפלטפורמות הימורים אמינות המתמקדות במשחקי שולחן חיים (Live Casino) ותמיכה בתשלומים בקריפטו. בקשה זו משקפת את המגמה הגוברת בתעשיית ה-iGaming למעבר ממשחקי סלוטים לחוויות \"לייב\" אינטראקטיביות, תחום שבו חברות כמו Bragg Gaming (BRAG) מרחיבות את פעילותן כספקיות תוכן וטכנולוגיה.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום של הנקודות המרכזיות העולות מהתגובה שפורסמה (הודעת מנהל מערכת אוטומטית בפורום הימורים):\n\n* **ציות לכללי הקהילה:** קריאה למשתמשים, ובמיוחד למצטרפים חדשים, לקרוא ולהכיר את חוקי הפורום המופיעים בסרגל הצד כדי להבטיח השתתפות תקינה.\n* **הרחבת המעורבות החברתית:** הזמנה פעילה של הגולשים להירשם לערוץ ולהצטרף לשרת הדיסקורד (Discord) הרשמי של הקהילה לצורך אינטראקציה נוספת.\n* **קידום הימורים אחראיים:** הצהרה על מחויבות הקהילה לעודד הרגלי הימורים בריאים, אחראיים ומבוקרים בקרב חבריה.\n* **זיהוי התנהגות בעייתית:** התייחסות מפורשת למצבים שבהם המשתמש מרגיש שהרגלי ההימורים שלו יוצאים משליטה או הופכים למזיקים.\n* **הפניה למשאבי סיוע:** מתן קישור ישיר למדריך (Wiki) בנושא התמכרות להימורים, הכולל מידע וכלים להתמודדות עם בעיות בתחום.\n* **שימוש באוטומציה לניהול קהילה:** ציון העובדה שמדובר בהודעה שנשלחה אוטומטית על ידי \"בוט\" (Bot), במטרה לספק מידע חיוני וקבוע לכל המשתתפים בדיון.",
-      "date_string": "2026-07-27",
-      "saved_at": "2026-07-27T09:50:23.358+00:00"
+      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות ב-Reddit בתרגום לעברית:\n\n* **בדיקת זמינות גיאוגרפית:** יש לוודא שהקזינו אכן מקבל שחקנים מהמדינה שבה אתם נמצאים (לדוגמה, אוסטרליה) לפני שמתחילים בתהליך.\n* **קריאת תנאי השימוש:** מומלץ מאוד לקרוא ולהבין את התנאים וההתניות (T&C) של האתר לפני ביצוע הפקדה כספית כלשהי.\n* **מדיניות משיכות ואימות:** חשוב לבחון מראש את מדיניות המשיכות של האתר ואת תהליכי אימות הזהות הנדרשים כדי למנוע בעיות בעת קבלת הרווחים.\n* **הימורים אחראיים:** קיימת חשיבות עליונה לשמירה על הרגלי הימורים בריאים ומודעות לסכנת ההתמכרות, כולל הכרת משאבים לעזרה במקרה הצורך.\n* **ציות לכללי הקהילה:** על המשתמשים לקרוא ולהישמע לכללי הפורום הספציפיים כדי לשמור על סביבת דיון נאותה.\n* **ערוצי תקשורת נוספים:** הצטרפות לפלטפורמות משלימות כמו דיסקורד (Discord) יכולה לסייע למשתמשים לקבל מידע נוסף ולהשתלב בקהילה."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין דיונים עדכניים משמעותיים על BRAG ב-X היום. אין חדשות או תחזיות מחיר חדשות.",
+      "summary": "אין עדכונים משמעותיים על מניית BRAG בטוויטר היום. משתמשים לא דנים בתחזיות מחיר או חדשות חדשות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים על רגולציה בניו יורק נמשכים ללא חקיקה חדשה או רישיונות.",
+      "summary": "אין דיונים בולטים על רגולציית ניו יורק או חקיקה חדשה. שיח כללי על רישיונות מינימלי.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "השוק בברזיל ממתין לרגולציה, אין עדכונים על רישיונות או אכיפה.",
+      "summary": "אין פוסטים עדכניים על רגולציה או רישיונות בברזיל. אכיפה לא מוזכרת.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין חידושי רישיונות או אכיפה חדשים מ-KSA.",
+      "summary": "אין חידושי רישיונות או אכיפה מוזכרים לגבי KSA או BetCity.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "מגמות כלליות ניטרליות, ללא עסקאות או שותפויות בולטות.",
+      "summary": "אין עסקאות או שותפויות חדשות שדווחו היום. מגמות כלליות שקטות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-07-28T08:33:03.511Z"
+  "generatedAt": "2026-07-29T08:39:58.245Z"
 };
