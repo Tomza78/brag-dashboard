@@ -1,25 +1,25 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1vhxoc9",
+      "id": "1vjtovt",
       "source": "reddit",
-      "title": "Cashback loophole or breach of T&C",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1vhxoc9/cashback_loophole_or_breach_of_tc/",
-      "author": "Gor0084",
+      "title": "Zombie carnival- pragmatic",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1vjtovt/zombie_carnival_pragmatic/",
+      "author": "IntelligentWave194",
       "score": 1,
-      "selftext": "Online casino I play at (Ontario, licensed iGaming casino) offers 15% cashback for VIP level, which is pretty good. It's Fri-Fri, but if at some point in the week I get a decent win obviously there's no cashback unless I lose everything and are in the red. However, if I opt out after a big win and opt back in right after, suddenly I'm technically at $0 and every $100 I lose means $15 cashback. \n\nThey let me opt out/in but would this still be frowned upon by the casino?",
+      "selftext": "Hey, I was just curious as to what the publics experience with this slot has been?\n\nIt’s been out since 2022 and since then I’ve bought the bonus 30 times (the thirtieth is what prompted me to make this post) and it’s not broke even a single time.\n\nIn 30 bonus buys my highest recorded payout was 0.77x with my average being 0.27x\n\nI’m not very familiar with pragmatic slots since I mostly play hacksaw and relax, but this seems absolutely insane to me?\n\nIt doesent display being an extreme volatility slot anywhere and it doesent strike me as one either, yet it’s not payed over 0.77x a single time in my life (30 buys?)\n\nEven wanted is nice than this, so I came here looking for your guyses experience with this slot, have any of you ever made money back on this slot, or maybe even hit big? Am I just really unlucky with this slot or is just genuinely an ultra extreme volatility slot? That doesent seem plausible to me as it’s got a 5000x cap.",
       "subreddit": "onlinegambling",
-      "created_utc": 1786101110,
+      "created_utc": 1786291524,
       "top_comments": [
         {
-          "body": "Thanks, you're probably right. I did opt out/in today but by the time the cycle ended I won more so no cashback, which is always nice to see",
+          "body": "Sorry, 77x, so I got 77% of the money I paid for it back",
           "score": 1,
-          "author": "Gor0084"
+          "author": "IntelligentWave194"
         },
         {
-          "body": "if it's not explicitly banned in the T&Cs but feels like it's exploiting a gap, a lot of operators will still claw it back under a general 'bonus abuse' clause even if the specific loophole isn't spelled out. those clauses are usually broad on purpose so they can void winnings after the fact. i'd screenshot everything before you play it out just in case you need to dispute it later, and maybe email support directly asking if the specific play is allowed before committing real money to it.",
+          "body": "30 bonus buys with 0.77x max? Walk away, seriously.",
           "score": 1,
-          "author": "Vast_Boat_7287"
+          "author": "Wolffco"
         },
         {
           "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
@@ -27,41 +27,39 @@ window.dashboardData = {
           "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט דן בפרצה בתוכנית ה-VIP של קזינו מקוון באונטריו, המאפשרת לשחקנים למקסם החזרי כספים (Cashback) באמצעות הרשמה מחדש למבצע מיד לאחר זכייה גדולה. המקרה מדגיש את האתגרים התפעוליים והרגולטוריים בשוק המוסדר של אונטריו, שוק מפתח עבור חברות כמו Bragg Gaming (BRAG), וכן את הצורך בשיפור המערכות הטכניות למניעת ניצול לרעה של הטבות (Bonus Abuse).",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות:\n\n*   **העדפת רווח על פני החזר כספי (Cashback):** משתמש מציין כי למרות שלא היה זכאי להחזר כספי בסוף מחזור ההימורים, מדובר בתוצאה חיובית כיוון שהיא מעידה על כך שהוא סיים את הסבב ברווח נקי.\n*   **ניצול פרצות בתקנון (T&Cs):** קיימת אזהרה מפני ניסיון לנצל פרצות במערכת. מפעילי אתרים נוטים להשתמש בסעיפים כלליים של \"שימוש לרעה בבונוס\" (Bonus Abuse) כדי לבטל זכיות, גם אם הפעולה הספציפית לא נאסרה במפורש בתקנון.\n*   **חשיבות התיעוד והוכחות:** מומלץ למהמרים לצלם מסך (Screenshot) של היתרות, התנאים והמשחקים לפני תחילת המשחק, כדי שתהיה להם עדות במקרה של מחלוקת מול המפעיל על זכיות.\n*   **פנייה מוקדמת לשירות הלקוחות:** כדי להימנע מביטול זכיות בדיעבד, מומלץ לשלוח דוא\"ל לשירות הלקוחות ולשאול מראש האם אסטרטגיית משחק מסוימת מותרת, לפני שמשקיעים בה כסף אמיתי.\n*   **הצטרפות לקהילות וקבלת מידע:** ישנה חשיבות להצטרפות לערוצי קהילה (כמו Discord) ולקריאת חוקי הפורום כדי להישאר מעודכנים בשיטות העבודה המומלצות ובאזהרות של משתמשים אחרים.\n*   **מודעות להימורים אחראיים:** הדיון מדגיש את הצורך בהכרה בבעיות הימורים ומפנה למשאבי עזרה (כמו ויקי ייעודי) עבור מי שמרגיש שהרגלי ההימורים שלו יוצאים משליטה.",
-      "date_string": "2026-08-08",
-      "saved_at": "2026-08-08T06:51:21.691+00:00"
+      "summary_he": "הפוסט דן בתסכול של שחקן מהתשלומים הנמוכים בצורה קיצונית במשחק של Pragmatic Play, מה שמעלה שאלות לגבי שקיפות רמת התנודתיות (volatility) במכניקת המשחק. המקרה משקף מגמה בתעשיית ה-iGaming הנוגעת לסיכונים במנגנון ה-\"Bonus Buy\", נושא שנמצא תחת פיקוח רגולטורי גובר לשם הגנת הצרכן. עבור חברות בתחום כמו Bragg Gaming, דיונים אלו מדגישים את החשיבות של הוגנות בתוכן ושמירה על אמון השחקנים אל מול ספקיות משחקים מתחרות.",
+      "category_he": "טכנולוגיית גיימינג",
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מרכזיות:\n\n*   **דיווח על הפסדים משמעותיים:** אחד המשתתפים משתף בחוויה של הפסד כספי, שבה הוא קיבל בחזרה רק 77% מהסכום שהשקיע (החזר של 0.77x), דבר המצביע על חוסר רווחיות בולט בסשן המשחק.\n*   **אזהרה והמלצה לפרישה:** בתגובה לתוצאות העגומות (30 רכישות בונוס עם החזר מקסימלי נמוך מאוד), משתמש אחר ממליץ בנחרצות \"פשוט לקום וללכת\" (Walk away) ולהפסיק את המשחק לאלתר.\n*   **ביקורת על מכניקת ה-\"Bonus Buys\":** הדיון מדגיש את הסיכון הרב הקיים ברכישת בונוסים ישירה במשחקי קזינו מקוונים, כאשר במקרה זה 30 ניסיונות רצופים לא הניבו אפילו החזר מלא של ההשקעה.\n*   **קידום הימורים אחראיים:** הקהילה מדגישה את החשיבות של הימורים בריאים ומבוקרים, תוך מתן תשומת לב למצבים שבהם הרגלי ההימורים הופכים לבלתי נשלטים.\n*   **הפניה למשאבי סיוע:** קיימת התייחסות מפורשת למשאבי עזרה עבור מי שסובל מבעיית הימורים, כולל הפניה למדריכים ייעודיים (Wiki) לטיפול בבעיה.\n*   **סטנדרטים וקהילה:** הדיון מזכיר את חשיבות השמירה על חוקי הפורום ומעודד הצטרפות לערוצי תקשורת נוספים (כמו דיסקורד) כדי לקיים שיח בנושא."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין חדשות עדכניות על רישיונות או אכיפה בברזיל.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין אזכורים חדשים על KSA או BetCity.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות מדווחות היום.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": ""
+    "top_alert": "אין גישה למידע בזמן אמת מ-X"
   },
-  "generatedAt": "2026-08-09T06:55:13.737Z"
+  "generatedAt": "2026-08-10T07:30:47.762Z"
 };
