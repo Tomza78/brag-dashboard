@@ -29,70 +29,70 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט מדגיש את החשיבות הגוברת של מוניטין ספק המשחקים (Provider) בעיני השחקנים, המעדיפים אמינות טכנולוגית וחוויית משתמש חלקה על פני סטודיו אנונימי שעלול לסבול מתקלות. מגמה זו מחזקת את ערכן של חברות מבוססות כמו Bragg Gaming, שכן שחקנים מקשרים בין מותגים מוכרים לבין יציבות המערכת ומניעת עוגמת נפש טכנית בזמן אמת.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט מרכזיות בנושא בחירת משחקי iGaming וספקי תוכנה:\n\n*   **חשיבות ממשק המשתמש (UI):** חוויית המשתמש קריטית להמשך המשחק; אם הממשק \"מסורבל\" או לא נוח, שחקנים ינטשו את המשחק במהירות, ללא קשר לזהות החברה שפיתחה אותו או למוניטין שלה.\n*   **בחירה לפי \"אווירה\" (Vibe):** קיימת מגמה של בחירת משחקים המבוססת קודם כל על התחושה והאסתטיקה שהמשחק משדר, ורק לאחר מכן בדיקה של זהות הספק שעומד מאחוריו.\n*   **ספק התוכנה מול מותג הקזינו:** עבור חלק מהשחקנים, זהות ספק התוכנה (החברה שמפתחת את המשחק) חשובה ומשמעותית יותר מהמותג של הקזינו עצמו שבו הם בוחרים לשחק.\n*   **השפעת הספק על התנודתיות (Volatility):** שחקנים מנוסים מצביעים על כך שמשחקים בעלי שם זהה עשויים להתנהג אחרת לגמרי אצל ספקים שונים, במיוחד בכל הנוגע לרמת התנודתיות של המשחק.\n*   **הבחנה בין סלוטים למשחקים חיים:** קיימת הפרדה בהתייחסות לספקים; בעוד שבמכונות מזל (Slots) שחקנים פחות נוטים לשים לב לזהות המפתח, במשחקים חיים (Live Games) ישנה העדפה ברורה לספקים מוכרים ובעלי שם.\n*   **נתונים טכניים מול תחושת בטן:** הדיון מעלה את השאלה האם שחקנים באמת בודקים נתונים יבשים כמו אחוז ההחזר לשחקן (RTP) לפני שהם מתחילים לשחק, או שהם מסתמכים על אינטואיציה ועל ה\"וייב\" של המשחק."
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המציג 6 נקודות מבט מרכזיות בנושא בחירת משחקי iGaming וספקי תוכנה:\n\n*   **חשיבות ממשק המשתמש (UI):** חוויית המשתמש קריטית להמשך המשחק; אם הממשק \"מסורבל\" או לא נוח, שחקנים ינטשו את המשחק במהירות, ללא קשר לזהות החברה שפיתחה אותו או למוניטין שלה.\n*   **בחירה לפי \"אווירה\" (Vibe):** קיימת מגמה של בחירת משחקים המבוססת קודם כל על התחושה והאסתטיקה שהמשחק משדר, ורק לאחר מכן בדיקה של זהות הספק שעומד מאחוריו.\n*   **ספק התוכנה מול מותג הקזינו:** עבור חלק מהשחקנים, זהות ספק התוכנה (החברה שמפתחת את המשחק) חשובה ומשמעותית יותר מהמותג של הקזינו עצמו שבו הם בוחרים לשחק.\n*   **השפעת הספק על התנודתיות (Volatility):** שחקנים מנוסים מצביעים על כך שמשחקים בעלי שם זהה עשויים להתנהג אחרת לגמרי אצל ספקים שונים, במיוחד בכל הנוגע לרמת התנודתיות של המשחק.\n*   **הבחנה בין סלוטים למשחקים חיים:** קיימת הפרדה בהתייחסות לספקים; בעוד שבמכונות מזל (Slots) שחקנים פחות נוטים לשים לב לזהות המפתח, במשחקים חיים (Live Games) ישנה העדפה ברורה לספקים מוכרים ובעלי שם.\n*   **נתונים טכניים מול תחושת בטן:** הדיון מעלה את השאלה האם שחקנים באמת בודקים נתונים יבשים כמו אחוז ההחזר לשחקן (RTP) לפני שהם מתחילים לשחק, או שהם מסתמכים על אינטואיציה ועל ה\"וייב\" של המשחק.",
+      "date_string": "2026-08-16",
+      "saved_at": "2026-08-16T06:38:38.443+00:00"
     },
     {
-      "id": "1vop37p",
+      "id": "1vpxg5k",
       "source": "reddit",
-      "title": "Trying to figure out if this online casino is a scam or not",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1vop37p/trying_to_figure_out_if_this_online_casino_is_a/",
-      "author": "Beneficial-Slice1020",
+      "title": "Crazy setup with 200x wild in Beast Below (Hacksaw)",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1vpxg5k/crazy_setup_with_200x_wild_in_beast_below_hacksaw/",
+      "author": "Material_Potential_4",
       "score": 1,
-      "selftext": "The name is WinUS777 this is the app opened on my phone  has anyone ever successfully cashed out or anything good or bad thank you so much ",
+      "selftext": "Ended up with 4830x win unfortunately on the smallest betsize…",
       "subreddit": "onlinegambling",
-      "created_utc": 1786756030,
+      "created_utc": 1786887903,
       "top_comments": [
         {
-          "body": "With a domain name like that, it must be a scam.",
+          "body": "Hacksaw only hits 4000x+ when you're testing minimum bet, it's an unwritten law at this point",
           "score": 1,
-          "author": "EmersonEtem"
+          "author": "NewWaveHookerr"
         },
         {
-          "body": "Totally looks to be ..throw the url in chatgtp it will tell you",
+          "body": "Yes I always cash out almost everything when I win bigger. This win came after a long break from gambling and maybe trying with some small deposits here and there but rather keep the wins for something nice now",
           "score": 1,
-          "author": "rtriepke89"
+          "author": "Material_Potential_4"
         },
         {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "body": "That’s the most bittersweet slot feeling ever\n\n4830x is still a monster hit, but seeing 200x wild on the smallest bet would haunt me for a week lol\n\nHope you cashed it and didn’t try to “recreate” the setup after",
           "score": 1,
-          "author": "AutoModerator"
+          "author": "Ok_Strength_2343"
         }
       ],
-      "summary_he": "הפוסט מציג חשש של משתמש מפני הונאה באפליקציית הימורים לא מוכרת בשם WinUS777 ושואל לגבי אמינותה. המקרה מדגיש את חשיבות הרגולציה והגנת הצרכן בתעשיית ה-iGaming, נושאים המהווים נדבך מרכזי בפעילותן של חברות מורשות כמו Bragg Gaming (BRAG) הפועלות בשווקים מוסדרים.",
+      "summary_he": "הפוסט מתאר זכייה חריגה של פי 4,830 מסכום ההימור במשחק Beast Below של ספקית התוכן Hacksaw Gaming. מקרה זה מדגיש את המגמה המתמשכת בתעשיית ה-iGaming של העדפת משחקים בעלי תנודתיות גבוהה, המייצרים עניין רב בקרב שחקנים ומהווים נדבך מרכזי עבור פלטפורמות הפצה מובילות (כגון אלו של Bragg Gaming).",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מהתגובות שפורסמו, המורכב מ-5 נקודות עיקריות:\n\n* **חשד להונאה על בסיס שם הדומיין:** המגיבים מצביעים על כך ששם הדומיין (כתובת האתר) נראה חשוד מאוד, מה שמעיד בסבירות גבוהה שמדובר באתר הונאה (Scam).\n* **הסכמה רחבה לגבי חוסר אמינות:** ישנה תמיכה בטענה שהאתר נראה \"מפוקפק\" לחלוטין ואינו מעורר אמון בקרב המשתמשים.\n* **שימוש בבינה מלאכותית לאימות:** קיימת הצעה מעשית להזין את כתובת ה-URL לתוך ChatGPT כדי לקבל ניתוח או חוות דעת נוספת על מהות האתר ובטיחותו.\n* **קידום הימורים אחראיים:** הקהילה שמה דגש על החשיבות של הימורים אחראיים ומספקת משאבים וקישורים לעזרה עבור משתמשים שמרגישים שאיבדו שליטה על הרגלי ההימורים שלהם.\n* **נהלי הקהילה ומעורבות:** תזכורת למשתתפים לקרוא את חוקי הפורום ולהצטרף לערוצי תקשורת נוספים (כמו דיסקורד) כדי לשמור על שיח מוגן ומעודכן.",
-      "date_string": "2026-08-15",
-      "saved_at": "2026-08-15T06:36:06.846+00:00"
+      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המחולק לנקודות מרכזיות:\n\n*   **\"החוק הלא כתוב\" של מכפילי ענק:** קיימת תחושה (צינית לעיתים) בקרב שחקנים שזכיות ענק (כמו פי 4,000 מההימור ומעלה) קורות כמעט תמיד דווקא כשמהמרים בסכום המינימלי האפשרי.\n*   **התחושה המרירה-מתוקה של זכייה בהימור נמוך:** למרות שזכייה במכפיל גבוה (כמו 4,830x) היא הישג מרשים, היא מלווה בתחושת החמצה וחרטה על כך שההימור המקורי היה נמוך, מה שיוצר מחשבות של \"מה היה קורה אם\".\n*   **חשיבות המשיכה המיידית:** המשתתפים מדגישים את החשיבות של משיכת כספי הזכייה (Cash out) באופן מיידי כדי להבטיח שהרווח לא יחזור לקופה של חברת ההימורים.\n*   **הימנעות מניסיון \"לשחזר\" את ההצלחה:** קיימת אזהרה מפני המלכודת הפסיכולוגית של ניסיון לרדוף אחרי אותה \"נוסחה\" או הגדרות משחק מיד לאחר זכייה גדולה, דבר שלרוב מוביל להפסדים.\n*   **תזמון הזכייה לאחר הפסקה:** אחד המגיבים ציין כי הזכייה הגדולה שלו הגיעה דווקא לאחר תקופה ארוכה שבה לקח הפסקה מהימורים, מה שעשוי להעיד על דפוס של חזרה למשחק.\n*   **תיעול הרווחים לחיים האמיתיים:** קיימת הסכמה שעדיף להשתמש בכסף שזוכים בו לטובת \"משהו נחמד\" בחיים האמיתיים מאשר להפקיד אותו בחזרה ולהמשיך להמר."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין מידע עדכני מהיום ב-X על BRAG.",
+      "summary": "אין דיונים משמעותיים על BRAG ב-X היום. משתמשים מציינים יציבות ללא תנודות חדות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין חדשות חדשות מניו יורק או רגולציה בארה\"ב.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה שדווחה.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין עדכונים על רגולציה או רישיונות בברזיל.",
+      "summary": "שיחות על רישיונות בברזיל נמשכות ללא עדכונים ספציפיים מהיום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין דיונים על KSA או BetCity.",
+      "summary": "אין חידושי רישיונות או אכיפה חדשים שצוינו ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או מגמות חדשות.",
+      "summary": "מגמות כלליות יציבות ללא עסקאות בולטות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-08-16T06:38:39.620Z"
+  "generatedAt": "2026-08-17T06:53:18.970Z"
 };
