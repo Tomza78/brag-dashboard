@@ -1,65 +1,6 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1vpxg5k",
-      "source": "reddit",
-      "title": "Crazy setup with 200x wild in Beast Below (Hacksaw)",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1vpxg5k/crazy_setup_with_200x_wild_in_beast_below_hacksaw/",
-      "author": "Material_Potential_4",
-      "score": 1,
-      "selftext": "Ended up with 4830x win unfortunately on the smallest betsize…",
-      "subreddit": "onlinegambling",
-      "created_utc": 1786887903,
-      "top_comments": [
-        {
-          "body": "Hacksaw only hits 4000x+ when you're testing minimum bet, it's an unwritten law at this point",
-          "score": 1,
-          "author": "NewWaveHookerr"
-        },
-        {
-          "body": "Yes I always cash out almost everything when I win bigger. This win came after a long break from gambling and maybe trying with some small deposits here and there but rather keep the wins for something nice now",
-          "score": 1,
-          "author": "Material_Potential_4"
-        },
-        {
-          "body": "That’s the most bittersweet slot feeling ever\n\n4830x is still a monster hit, but seeing 200x wild on the smallest bet would haunt me for a week lol\n\nHope you cashed it and didn’t try to “recreate” the setup after",
-          "score": 1,
-          "author": "Ok_Strength_2343"
-        }
-      ],
-      "summary_he": "הפוסט מתאר זכייה חריגה של פי 4,830 מסכום ההימור במשחק Beast Below של ספקית התוכן Hacksaw Gaming. מקרה זה מדגיש את המגמה המתמשכת בתעשיית ה-iGaming של העדפת משחקים בעלי תנודתיות גבוהה, המייצרים עניין רב בקרב שחקנים ומהווים נדבך מרכזי עבור פלטפורמות הפצה מובילות (כגון אלו של Bragg Gaming).",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המחולק לנקודות מרכזיות:\n\n*   **\"החוק הלא כתוב\" של מכפילי ענק:** קיימת תחושה (צינית לעיתים) בקרב שחקנים שזכיות ענק (כמו פי 4,000 מההימור ומעלה) קורות כמעט תמיד דווקא כשמהמרים בסכום המינימלי האפשרי.\n*   **התחושה המרירה-מתוקה של זכייה בהימור נמוך:** למרות שזכייה במכפיל גבוה (כמו 4,830x) היא הישג מרשים, היא מלווה בתחושת החמצה וחרטה על כך שההימור המקורי היה נמוך, מה שיוצר מחשבות של \"מה היה קורה אם\".\n*   **חשיבות המשיכה המיידית:** המשתתפים מדגישים את החשיבות של משיכת כספי הזכייה (Cash out) באופן מיידי כדי להבטיח שהרווח לא יחזור לקופה של חברת ההימורים.\n*   **הימנעות מניסיון \"לשחזר\" את ההצלחה:** קיימת אזהרה מפני המלכודת הפסיכולוגית של ניסיון לרדוף אחרי אותה \"נוסחה\" או הגדרות משחק מיד לאחר זכייה גדולה, דבר שלרוב מוביל להפסדים.\n*   **תזמון הזכייה לאחר הפסקה:** אחד המגיבים ציין כי הזכייה הגדולה שלו הגיעה דווקא לאחר תקופה ארוכה שבה לקח הפסקה מהימורים, מה שעשוי להעיד על דפוס של חזרה למשחק.\n*   **תיעול הרווחים לחיים האמיתיים:** קיימת הסכמה שעדיף להשתמש בכסף שזוכים בו לטובת \"משהו נחמד\" בחיים האמיתיים מאשר להפקיד אותו בחזרה ולהמשיך להמר.",
-      "date_string": "2026-08-17",
-      "saved_at": "2026-08-17T06:53:15.301+00:00"
-    },
-    {
-      "id": "1vr4way",
-      "source": "reddit",
-      "title": "What’s your favorite online casino?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1vr4way/whats_your_favorite_online_casino/",
-      "author": "External_Bad6636",
-      "score": 1,
-      "selftext": "I’m curious about other online casinos, Im only playing on fanatics right. I’ve played on hard rock & draft kings before. I’ve been on a winning streak on fanatics & net positive compared to other online casino. What’s your favorite casino? ",
-      "subreddit": "onlinegambling",
-      "created_utc": 1787000797,
-      "top_comments": [
-        {
-          "body": "There can't be a favorite, there are only ones you trust",
-          "score": 1,
-          "author": "Bite-Dust10"
-        },
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט דן בהעדפות משתמשים בין מפעילי קזינו אונליין מובילים בארה\"ב, כגון Fanatics ,DraftKings ו-Hard Rock, ומדגיש את חשיבות חוויית המשתמש לשימור לקוחות. עבור חברות כמו Bragg Gaming (BRAG), מגמה זו מצביעה על הצורך באספקת תוכן איכותי ורב-גוני לפלטפורמות הגדולות כדי למשוך שחקנים בשוק תחרותי. היכולת של שחקן לעבור בקלות בין מפעילים שונים ממחישה את הדינמיות של תעשיית ה-iGaming והצורך של ספקיות הטכנולוגיה להישאר רלוונטיות.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות, מתורגמים לעברית:\n\n* **אמון לפני העדפה אישית:** לא ניתן באמת לבחור \"מועדפים\" בתחום ההימורים המקוונים; הקריטריון המכריע והיחיד שקובע הוא מידת האמון שניתן לתת בפלטפורמה או בשירות.\n* **דגש על הימורים אחראיים:** קיימת חשיבות עליונה לשמירה על הרגלי הימורים בריאים ומבוקרים כדי למנוע מהתחביב להפוך לבעיה.\n* **מודעות להתמכרות וסיוע:** הקהילה מספקת משאבים ומידע (כגון דפי עזרה ו-Wiki) עבור משתמשים שמרגישים שהשליטה שלהם על הרגלי ההימורים מתערערת.\n* **חשיבות הכללים והרגולציה הפנימית:** כדי לשמור על סדר בקהילה, ישנו דגש על קריאת חוקי הפורום והקפדה עליהם מצד המשתתפים.\n* **מעורבות חברתית וקהילתית:** המשתמשים מוזמנים להצטרף לערוצים נוספים כמו Discord כדי להרחיב את הדיון ולשמור על קשר עם קהילת המהמרים/משקיעים.\n* **זהירות מובנית במערכת:** התגובות משקפות סביבה שבה המשתמש נדרש להיות ערני וביקורתי כלפי הפלטפורמות שבהן הוא פועל, תוך הסתמכות על ניסיון הקהילה."
-    },
-    {
       "id": "1vqv7ag",
       "source": "reddit",
       "title": "Online casino freezed my funds. Should I make a complaint to AskGamblers first before eCOGRA?",
@@ -88,37 +29,67 @@ window.dashboardData = {
       ],
       "summary_he": "פוסט זה עוסק בשחקן שחשבונו הוקפא בקזינו מקוון בעל רישיון MGA, תוך החרמת סכום של חמש ספרות ללא מתן הסבר מפורט מצד המפעיל. המקרה מדגיש את האתגרים ברגולציית ה-iGaming ואת חשיבותם של גופי בוררות וצייות (כמו eCOGRA) בשמירה על הגינות התעשייה והגנת הצרכן. עבור חברות כמו Bragg Gaming, אירועים כאלו מדגישים את הצורך בעבודה מול מפעילים העומדים בסטנדרטים רגולטוריים מחמירים למניעת פגיעה במוניטין המגזר.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון בפורום בנושא סכסוכים מול בתי קזינו מקוונים (iGaming):\n\n*   **שימוש בפלטפורמת AskGamblers להגשת תלונות:** מומלץ להגיש תלונה באתר AskGamblers, שכן בתי קזינו בעלי מוניטין עוקבים אחר האתר ומבצעים שם \"בקרת נזקים\". ניתן לעקוב שם אחרי תלונות דומות ולראות כיצד הקזינו פותר (או לא פותר) בעיות של שחקנים אחרים.\n*   **חשיבות קריטית לתיעוד מוקדם:** לפני שפונים לגורם כלשהו, חובה לצלם מסך של כל המידע הרלוונטי: תנאי השימוש (T&Cs) בעת ההרשמה, תיעוד של שיחות צ'אט עם השירות והיסטוריית היתרה בחשבון.\n*   **השוואה בין גופי גישור ובוררות:** האתר AskGamblers נחשב למהיר יותר במתן תגובות, אך לגוף כמו eCOGRA יש משקל רב יותר וסמכות חזקה יותר במידה והקזינו פועל תחת הרישיון שלהם.\n*   **חוסר יעילות של רשויות רגולטוריות מסוימות:** עלתה טענה כי פנייה לגופים רשמיים כמו ה-MGA (רשות ההימורים של מלטה) עלולה להסתיים ללא מענה או טיפול, גם כאשר לשחקן יש הוכחות מוצקות לצדקתו.\n*   **אזהרה מפני מפעילים ספציפיים:** משתמשים שיתפו חוויות שליליות ואיבוד סכומי כסף גדולים (כמו 10,000 דולר) בבתי קזינו המופעלים על ידי חברת \"Skill on Net\" (למשל Mega Casino), והמליצו להימנע מהם.\n*   **טקטיקת \"מחווה של רצון טוב\" (Goodwill Gesture):** בתי קזינו עלולים להציע סכום כסף קטן וסמלי כפיצוי כדי לסגור את התלונה, במקום להחזיר את מלוא הסכום המעוכב או הגזול."
+      "comments_summary_he": "להלן סיכום הדיון בפורום בנושא סכסוכים מול בתי קזינו מקוונים (iGaming):\n\n*   **שימוש בפלטפורמת AskGamblers להגשת תלונות:** מומלץ להגיש תלונה באתר AskGamblers, שכן בתי קזינו בעלי מוניטין עוקבים אחר האתר ומבצעים שם \"בקרת נזקים\". ניתן לעקוב שם אחרי תלונות דומות ולראות כיצד הקזינו פותר (או לא פותר) בעיות של שחקנים אחרים.\n*   **חשיבות קריטית לתיעוד מוקדם:** לפני שפונים לגורם כלשהו, חובה לצלם מסך של כל המידע הרלוונטי: תנאי השימוש (T&Cs) בעת ההרשמה, תיעוד של שיחות צ'אט עם השירות והיסטוריית היתרה בחשבון.\n*   **השוואה בין גופי גישור ובוררות:** האתר AskGamblers נחשב למהיר יותר במתן תגובות, אך לגוף כמו eCOGRA יש משקל רב יותר וסמכות חזקה יותר במידה והקזינו פועל תחת הרישיון שלהם.\n*   **חוסר יעילות של רשויות רגולטוריות מסוימות:** עלתה טענה כי פנייה לגופים רשמיים כמו ה-MGA (רשות ההימורים של מלטה) עלולה להסתיים ללא מענה או טיפול, גם כאשר לשחקן יש הוכחות מוצקות לצדקתו.\n*   **אזהרה מפני מפעילים ספציפיים:** משתמשים שיתפו חוויות שליליות ואיבוד סכומי כסף גדולים (כמו 10,000 דולר) בבתי קזינו המופעלים על ידי חברת \"Skill on Net\" (למשל Mega Casino), והמליצו להימנע מהם.\n*   **טקטיקת \"מחווה של רצון טוב\" (Goodwill Gesture):** בתי קזינו עלולים להציע סכום כסף קטן וסמלי כפיצוי כדי לסגור את התלונה, במקום להחזיר את מלוא הסכום המעוכב או הגזול.",
+      "date_string": "2026-08-18",
+      "saved_at": "2026-08-18T06:41:49.227+00:00"
+    },
+    {
+      "id": "1vr4way",
+      "source": "reddit",
+      "title": "What’s your favorite online casino?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1vr4way/whats_your_favorite_online_casino/",
+      "author": "External_Bad6636",
+      "score": 1,
+      "selftext": "I’m curious about other online casinos, Im only playing on fanatics right. I’ve played on hard rock & draft kings before. I’ve been on a winning streak on fanatics & net positive compared to other online casino. What’s your favorite casino? ",
+      "subreddit": "onlinegambling",
+      "created_utc": 1787000797,
+      "top_comments": [
+        {
+          "body": "There can't be a favorite, there are only ones you trust",
+          "score": 1,
+          "author": "Bite-Dust10"
+        },
+        {
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "הפוסט דן בהעדפות משתמשים בין מפעילי קזינו אונליין מובילים בארה\"ב, כגון Fanatics ,DraftKings ו-Hard Rock, ומדגיש את חשיבות חוויית המשתמש לשימור לקוחות. עבור חברות כמו Bragg Gaming (BRAG), מגמה זו מצביעה על הצורך באספקת תוכן איכותי ורב-גוני לפלטפורמות הגדולות כדי למשוך שחקנים בשוק תחרותי. היכולת של שחקן לעבור בקלות בין מפעילים שונים ממחישה את הדינמיות של תעשיית ה-iGaming והצורך של ספקיות הטכנולוגיה להישאר רלוונטיות.",
+      "category_he": "שוק ההימורים",
+      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות, מתורגמים לעברית:\n\n* **אמון לפני העדפה אישית:** לא ניתן באמת לבחור \"מועדפים\" בתחום ההימורים המקוונים; הקריטריון המכריע והיחיד שקובע הוא מידת האמון שניתן לתת בפלטפורמה או בשירות.\n* **דגש על הימורים אחראיים:** קיימת חשיבות עליונה לשמירה על הרגלי הימורים בריאים ומבוקרים כדי למנוע מהתחביב להפוך לבעיה.\n* **מודעות להתמכרות וסיוע:** הקהילה מספקת משאבים ומידע (כגון דפי עזרה ו-Wiki) עבור משתמשים שמרגישים שהשליטה שלהם על הרגלי ההימורים מתערערת.\n* **חשיבות הכללים והרגולציה הפנימית:** כדי לשמור על סדר בקהילה, ישנו דגש על קריאת חוקי הפורום והקפדה עליהם מצד המשתתפים.\n* **מעורבות חברתית וקהילתית:** המשתמשים מוזמנים להצטרף לערוצים נוספים כמו Discord כדי להרחיב את הדיון ולשמור על קשר עם קהילת המהמרים/משקיעים.\n* **זהירות מובנית במערכת:** התגובות משקפות סביבה שבה המשתמש נדרש להיות ערני וביקורתי כלפי הפלטפורמות שבהן הוא פועל, תוך הסתמכות על ניסיון הקהילה.",
+      "date_string": "2026-08-18",
+      "saved_at": "2026-08-18T06:41:32.083+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין מידע עדכני מהיום ב-X על BRAG.",
+      "summary": "אין עדכונים משמעותיים היום על BRAG. משתמשים מציינים יציבות ללא תנודות חדות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין עדכונים חדשים מניו יורק או חקיקה.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מהשעות האחרונות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין דיווחים חדשים על רגולציה או רישיונות.",
+      "summary": "שיחות על רישיונות חדשים בברזיל ממשיכות. אכיפה נותרת יציבה.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין חידושי רישיונות או אכיפה מדווחים.",
+      "summary": "אין חידושי רישיונות או אכיפה בולטים היום בהולנד. BetCity לא מוזכר.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או מגמות חדשות מהיום.",
+      "summary": "עסקאות ושיתופי פעולה שגרתיים. מגמות כלליות ללא שינויים דרמטיים.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-08-18T06:41:49.543Z"
+  "generatedAt": "2026-08-19T06:42:27.353Z"
 };
