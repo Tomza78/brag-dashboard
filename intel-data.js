@@ -9,7 +9,7 @@ window.intelData = {
     "volume": "15,600",
     "marketCap": "$41M",
     "yoyChange": "-58%",
-    "updatedAt": "6.9.2026 · 10:15",
+    "updatedAt": "7.9.2026 · 11:35",
     "dayHigh": "$1.52",
     "dayLow": "$1.31",
     "changeTSX": "-0.02",
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין מידע עדכני זמין מטוויטר להיום.",
+        "text": "אין עדכונים משמעותיים על מניית BRAG היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "אין מידע עדכני זמין מטוויטר להיום.",
+        "text": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין מידע עדכני זמין מטוויטר להיום.",
+        "text": "אין דיווחים חדשים על רישיונות או אכיפה בברזיל היום.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין מידע עדכני זמין מטוויטר להיום.",
+        "text": "אין עדכונים על חידוש רישיונות או BetCity.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין מידע עדכני זמין מטוויטר להיום.",
+        "text": "אין עסקאות או שותפויות מדווחות מהשעות האחרונות.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,32 +166,32 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין מידע עדכני זמין מטוויטר להיום.",
+      "summary": "אין עדכונים משמעותיים על מניית BRAG היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין מידע עדכני זמין מטוויטר להיום.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין מידע עדכני זמין מטוויטר להיום.",
+      "summary": "אין דיווחים חדשים על רישיונות או אכיפה בברזיל היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין מידע עדכני זמין מטוויטר להיום.",
+      "summary": "אין עדכונים על חידוש רישיונות או BetCity.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין מידע עדכני זמין מטוויטר להיום.",
+      "summary": "אין עסקאות או שותפויות מדווחות מהשעות האחרונות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין גישה למידע בזמן אמת מ-X."
+    "top_alert": ""
   },
   "sections": {
     "brag_official": {
@@ -200,9 +200,17 @@ window.intelData = {
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
+          "date": "2026-09-07",
+          "title": "Bragg Gaming Group Inc. (BRAG) Is Back on the Radar as Investors Hunt for the Next Media Growth Story - kalkine.ca",
+          "summary_he": "חברת Bragg Gaming (BRAG) מעוררת עניין מחודש בקרב משקיעים כמניית צמיחה פוטנציאלית בתחום ה-iGaming והמדיה. המגמה מדגישה את מעמדה העסקי המתחזק של החברה ואת הציפיות להמשך התרחבותה בשוק הגלובלי.",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVExIRndFREpWNFU2dFpGekNuaGlMMndrTkdESzRuUWM4b2hnUVdsM1RWRGhDRkVLY1BDSGdRN0t0ZTd5TzhaekdJeUFiN2lOSWtWb0hrdFRManRXT2p5Sk9CNEZCcVhNQVZyeTVNTFBEWDE3TzJqdHNURVVIREttcmlkWEhkd3pSc0VFeTJ2cXB6VDBtcTQ0akUxa2NsME1ndHQ3VUpuT0RIVk9oMzhBemJOMzl4UmMyaUpWSE5pSHo5YUZhWWcxM1ltbk5rUHd2?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
           "date": "2026-09-04",
           "title": "Bragg Gaming Group Inc (BRAG) Peer Comparison – Compare with Others - Value Research",
-          "summary_he": "דוח השוואת ביצועים חדש בוחן את מעמדה העסקי והפיננסי של חברת Bragg Gaming מול מתחרותיה בענף ה-iGaming. הניתוח מספק למשקיעים תמונת מצב על התחרותיות ופוטנציאל השווי של החברה בשוק הבינלאומי.",
+          "summary_he": "ניתוח שוק חדש משווה את Bragg Gaming למתחרותיה במטרה להעריך את שוויה ומיצובה התחרותי בתעשייה. הדוח מספק תובנות על הפוטנציאל העסקי של בראג ביחס לחברות מקבילות בענף ה-iGaming.",
           "source": "Value Research",
           "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZXlySC01bTR3dlJGcTRudkdZS2xOUDN1RmsxVkZPalRIRTQ5Qlh3TVMyVmEwTmJGZktMa2lxY2pJWHUwRTNZS2UzeUk2RS0yTkdXbzFlazBEWkVZZ2g2MjhFSUE0QmtKWndpMHNHdDdTSnlfVXA1cWhaQmtEZlJENlhTWjNMWWJYU1BOUWtnbkpWNUtWS2JzRW93?oc=5",
           "sourceKey": "brag_official"
@@ -210,23 +218,15 @@ window.intelData = {
         {
           "date": "2026-09-04",
           "title": "Bragg Gaming Group Inc (BRAG) Financials – Balance Sheet, Profit &amp; Loss, Cash Flow - Value Research",
-          "summary_he": "דוחותיה הכספיים של Bragg Gaming חושפים את ביצועיה העסקיים וחוסנה הכלכלי, נתונים המהווים אינדיקטור מרכזי ליכולת הצמיחה וההתרחבות של החברה בשוק ה-iGaming הגלובלי.",
+          "summary_he": "דוחותיה הכספיים של Bragg Gaming חושפים את חוסנה הכלכלי ורמת רווחיותה, נתונים המהווים אינדיקטורים מרכזיים ליציבותה העסקית וליכולת ההתרחבות שלה בשוק ה-iGaming העולמי.",
           "source": "Value Research",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcTNxTC02dkxlOWVrSDgzczNDNkV0YXdMdUhvS09ISjE3aERsbWxGbDkxb2IySmdWSjdRLXR1XzNfbndRVDNYcExhdnRKSVdJY0hiV3d4b01oZW45N2NPVmswckxoYkxmaW5BdFlSMWdTajM5ZS1QLS1OcFNySVZ4MUtoRHp0QzdodzM4NG1kV0RNRjJ3WFF3SXJlNm4?oc=5",
           "sourceKey": "brag_official"
         },
         {
           "date": "2026-09-02",
-          "title": "Play Gun Lake Casino adds Bragg Gaming slots to its library - SportsLine",
-          "summary_he": "חברת Bragg Gaming מרחיבה את נוכחותה בשוק ה-iGaming של מישיגן באמצעות הסכם לאספקת משחקים לקזינו המקוון Play Gun Lake, צעד המחזק את אסטרטגיית הצמיחה והחדירה של החברה לשווקים מוסדרים בארה\"ב.",
-          "source": "SportsLine",
-          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTDkwSHFfcDVPZFZBQnFsQVRpNmE3WGkySGVteG9XVU15RGFsY2NwbTJCdHNWT3pnRndFLUJqVnBmNl9VYUcxUUR3RzFCdWtNSUpXUHhkUUdTS0x1YWpzcXRmdUgyY28zOFVkTWlLQzcwQUxRWjRkT0d3VkwwOXFxVk5faXBPWllBNzQwYjgzVFFBOTlHWkY4Y3Fwdw?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-09-02",
           "title": "Bragg Gaming Group Inc. (TSX: BRAG) Stock Analysis: But Why Did BRAG Pull Its Guidance? - kalkine.ca",
-          "summary_he": "חברת Bragg Gaming הסירה את התחזיות הפיננסיות שלה על רקע בחינה אסטרטגית של עסקיה, מהלך המאותת על אפשרות למכירת החברה או לשינוי מבני משמעותי ומשפיע ישירות על אמון המשקיעים וערך המניה.",
+          "summary_he": "חברת Bragg Gaming משכה את תחזיותיה הפיננסיות לשנת 2024 על רקע בחינה אסטרטגית של עתיד החברה, מהלך המגביר את אי-הוודאות בקרב המשקיעים אך עשוי להוביל למכירתה או למיזוג.",
           "source": "kalkine.ca",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTmhQZ0hpckVldXRIUXlDcnBVRXJuTzlpS0hObEVtY0VMbXAxOERqQkg0NUtMSGkyT0d2V1pIWV92YVZSX2xhclRBZ2R5MWV5aEk2WG55aGs3dEc3VFZDSWh3NnFSdl93NUUtbVFneHdvcElJVFloUlZ2OUZoeVdNQVgwdEMxYk9vemFuc1MtU09MR2U5RldCUE9LN2V6NlEzc1M1TldBcW5oaVlaQ3R3el8ySVVFVDA?oc=5",
           "sourceKey": "brag_official"
@@ -234,7 +234,7 @@ window.intelData = {
         {
           "date": "2026-08-30",
           "title": "Bragg Gaming Group (BRAG) Stock Analysis Report | Ratings, Financials &amp; Performance - Benzinga",
-          "summary_he": "דוח ניתוח מניות חדש של Benzinga בוחן את הביצועים הפיננסיים והדירוגים של קבוצת Bragg Gaming, ומספק למשקיעים הערכה מעודכנת על חוסנה העסקי בשוק ה-iGaming. הממצאים מדגישים את מעמדה התחרותי של החברה ואת פוטנציאל הצמיחה שלה במגזר הטכנולוגי של הענף.",
+          "summary_he": "דוח ניתוח מניות חדש בוחן את הביצועים הפיננסיים והדירוגים של Bragg Gaming Group, ומספק למשקיעים תמונת מצב מעודכנת על חוסנה העסקי של הספקית בשוק ה-iGaming. הסקירה מדגישה את נתוני המפתח של החברה, המשפיעים על פוטנציאל הצמיחה ומעמדה התחרותי בתעשייה.",
           "source": "Benzinga",
           "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9ON0pmdVpPYWFSVUtmOVVuZ3FIQXNtV01YQU5teXFKaGpsN0RBdGdaeGlNUHo1QmlMMnRjUjlGcThTLUNCNmFhUi0yT25sdw?oc=5",
           "sourceKey": "brag_official"
@@ -242,7 +242,7 @@ window.intelData = {
         {
           "date": "2026-08-27",
           "title": "Bragg Gaming (NASDAQ: BRAG) files foreign issuer report - Stock Titan",
-          "summary_he": "חברת Bragg Gaming הגישה דיווח רגולטורי תקופתי (6-K) לרשות ניירות הערך האמריקאית, כחלק מחובות הדיווח והשקיפות החלות עליה כמנפיקה זרה ב-NASDAQ. המהלך מבטיח את המשך הציות של ספקית טכנולוגיית ה-iGaming לסטנדרטים של שוק ההון, עניין מהותי לשמירה על מעמדה הציבורי והעסקי.",
+          "summary_he": "חברת Bragg Gaming (BRAG) הגישה דוח רגולטורי תקופתי (Form 6-K) לרשות לניירות ערך בארה\"ב, צעד שנועד להבטיח את המשך עמידתה של ספקית טכנולוגיית ה-iGaming בתנאי השקיפות והמסחר בבורסת ה-NASDAQ.",
           "source": "Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajVXSzdTd3B5bTl1YmhqUVNDM05yX2cyRGFaTmlHMXJWdHlEd2VsYmJ4WmNmNngwNXo4UHVnVENDbWxPMlFwV01wSFRUS1FobEJJMTBSNmp0YzltajI3eTMzczltelRHdExWQ0xVMFpJd2JkcGpadDB3cHB0NWVRSk5NRXR6TkJKVG1hd2FQSnc2Z0NkQ0pJdFQtMzdibl9JV29Kd2h6NEhWX3MteXF0cmpUME1JY3J5Tmc?oc=5",
           "sourceKey": "brag_official"
@@ -250,7 +250,7 @@ window.intelData = {
         {
           "date": "2026-08-22",
           "title": "Bragg Gaming Group Inc. (BRAG) Upgraded to Buy: What Does It Mean for the Stock? - Eastern Progress",
-          "summary_he": "מניית קבוצת Bragg Gaming שודרגה לדירוג \"קנייה\", צעד המשקף את התחזקות מעמדה העסקי של החברה ואת הציפיות לצמיחה משמעותית בשוק ה-iGaming העולמי.",
+          "summary_he": "מניית Bragg Gaming Group (BRAG) שודרגה לדירוג \"קנייה\" (Buy), מה שמעיד על אמון גובר של המשקיעים בפוטנציאל הצמיחה ובביצועיה העסקיים של החברה בשוק ה-iGaming. המהלך צפוי להשפיע לחיוב על ערך המניה ולחזק את מעמדה הפיננסי של הקבוצה בתעשייה.",
           "source": "Eastern Progress",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNOVc5SkhFZm5GQ2hpTkdBWnJrZGMyOUVqU0JjWElJOTkzdkwxVzI0TEV0UHdHSnhjc3MyZlRWOC1UWWpVUWFYLUxVVEtNaUFTZDJiTENyZzBMQm9yZUpnUlEyaE01cHUzQVBjcXVzYnpVLW9WSFEtQm9KWVVSVnFZNlBucHA0RlNkalFWdXd4U3hCX0xsVTlPUDRfQVhNbUNWdTZ3TFhBN0Z1MUNicjdabndTVGFTcnhmbVNUa0MxamJlUGZWaGw0cmNjU21kbk1senR1MmJFd3JBc3VvSktlSUlwLWM1ZjY0SVpkSG9n?oc=5",
           "sourceKey": "brag_official"
@@ -258,25 +258,25 @@ window.intelData = {
         {
           "date": "2026-08-21",
           "title": "Bragg’s North American Revenue Grows but Total Revenue Falls - PlayMichigan",
-          "summary_he": "הכנסות חברת Bragg Gaming בצפון אמריקה צמחו, אך סך הכנסותיה הכולל רשם ירידה, נתון המדגיש את המעבר האסטרטגי והתלות הגוברת בשוק האמריקאי המוסדר אל מול אתגרים בשווקים אחרים.",
+          "summary_he": "חברת בראג גיימינג (Bragg Gaming) מציגה מגמות מעורבות בדוחותיה הכספיים, עם צמיחה בהכנסות מהשוק הצפון-אמריקאי אל מול ירידה בסך ההכנסות הכולל של הקבוצה. נתונים אלו משקפים את התלות הגוברת של החברה בשוק האמריקאי המתפתח, בעוד היא מתמודדת עם אתגרים עסקיים בשאר שוקי הפעילות שלה.",
           "source": "PlayMichigan",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMG8zRi1XWTlHem0wdUJXc2NBdjB1REJUaVEyUWNqa1JMTk5ZcVlWSldkbS1KYXg2aWlSYkJyTU1IWVlkYW9oM214eXczUG42eHFGb0syYlFKZzJNWXQyS2k1amFoV05ZeUl5R25XWjV5Z1VKM1JBaFNrMEVJczVwRmt0ZHdveHdZOFFkcHc2ZG1TNjBURDdkRXZncklKRHhzTF92RWpLQmk5RTBLUWVOcmZVWGtYNGVrT3Z5TGwwUG9MQU5JNi15Rg?oc=5",
           "sourceKey": "brag_official"
         },
         {
           "date": "2026-08-13",
-          "title": "Bragg Gaming Group Reports Second Quarter 2026 Financial Results",
-          "summary_he": "חברת Bragg Gaming פרסמה את דוחותיה הכספיים לרבעון השני של 2026, המעידים על חוסנה העסקי כספקית מובילה של פתרונות טכנולוגיים ותוכן לתעשיית ה-iGaming. הדו\"ח משקף את ביצועיה הפיננסיים של החברה ואת המשך צמיחתה בשוק ההימורים המקוון הגלובלי.",
-          "source": "bragg.group",
-          "url": "https://bragg.group/bragg-gaming-group-reports-second-quarter-2026-financial-results/",
+          "title": "Bragg Gaming Group Q2 2026 Earnings Call Transcript - Benzinga",
+          "summary_he": "דוחות הרבעון השני של Bragg Gaming סוקרים את ביצועיה הפיננסיים ואת אסטרטגיית הצמיחה של החברה, המעידים על חוסנה העסקי והמשך התרחבותה בשוק ה-iGaming הבינלאומי.",
+          "source": "Benzinga",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1hKZTU5OUdUZzhLekxlbElPdnpKdjd6MTFZbnhZWkFFLUZLWVhlMmFwVE9Xd3l3WktGRk9KNGlEYnNhN1E2R3E1Um5MYXA1YlNFZTA0Z1JfbkpEcjBIYTE0X29iMUY4bTNXLWNKc1k2RVRpVy1wTS1SMWNESWV2N21STXd3bDk2QnY2VEVWcjAybUxoTUdaVTlDaG8?oc=5",
           "sourceKey": "brag_official"
         },
         {
           "date": "2026-08-13",
-          "title": "Bragg Gaming Group Q2 2026 Earnings Call Transcript - Benzinga",
-          "summary_he": "דוח הרווחים של Bragg Gaming לרבעון השני מציג את המשך הצמיחה העסקית והיציבות הפיננסית של החברה כספקית טכנולוגיה ותוכן לתעשיית ה-iGaming. הנתונים משקפים את התרחבותה בשווקים מוסדרים ואת יכולתה להסתגל לשינויים רגולטוריים גלובליים.",
-          "source": "Benzinga",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1hKZTU5OUdUZzhLekxlbElPdnpKdjd6MTFZbnhZWkFFLUZLWVhlMmFwVE9Xd3l3WktGRk9KNGlEYnNhN1E2R3E1Um5MYXA1YlNFZTA0Z1JfbkpEcjBIYTE0X29iMUY4bTNXLWNKc1k2RVRpVy1wTS1SMWNESWV2N21STXd3bDk2QnY2VEVWcjAybUxoTUdaVTlDaG8?oc=5",
+          "title": "Bragg Gaming Group Reports Second Quarter 2026 Financial Results - Yahoo Finance",
+          "summary_he": "חברת Bragg Gaming פרסמה את דוחותיה הכספיים לרבעון השני של 2026, המשקפים את ביצועיה העסקיים ואת חוסנה הכלכלי בשוק ה-iGaming העולמי. הנתונים מהווים מדד מרכזי לבחינת אסטרטגיית הצמיחה של החברה והשפעתה על המגזר העסקי והרגולטורי בענף.",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcjFrVUxYMDBhSzJvZ0d1cE5IS19LVU1ESUFkNl95XzdQU3ktNC1fLUp1Tk5rQTYtV05XRjVsdHB6d2N4ekRFRWcxZ3JKUjRDWDZVM3FPYVE0Y24xdjd4VmpMbmZKRXo5WkxlSmZwb2xDbUZOYkdkNzRQZWhFLThYbzFYdUpETmYtVGliZW9YdUNZZl9Hdng1R0JaNDdRT1E?oc=5",
           "sourceKey": "brag_official"
         }
       ]
@@ -289,18 +289,10 @@ window.intelData = {
         {
           "date": "2026-09-03",
           "title": "Holland Casino CEO: Dutch public sentiment towards gambling is negative, but sector&#8217;s  black market battle is good news",
-          "summary_he": "מנכ\"לית \"הולנד קזינו\" מציינת כי למרות הכבדת הרגולציה והמיסוי בהולנד, שיתוף הפעולה של המגזר נגד השוק השחור ופרסום לא חוקי ב-Meta הוא צעד חיוני לחיזוק התעשייה. הידיעה רלוונטית ל-Bragg Gaming כספקית מרכזית בשוק ההולנדי, המושפעת ישירות מהשינויים הרגולטוריים ומהמאמצים לניקוי השוק.",
+          "summary_he": "מנכ\"לית Holland Casino דנה בהתמודדות עם רגולציה מחמירה והעלאת מסים בהולנד, תוך הדגשת חשיבות המאבק המשותף של המגזר בשוק השחור. להתפתחויות אלו השפעה ישירה על Bragg Gaming, המשמשת כספקית הטכנולוגיה והפלטפורמה המרכזית של המפעיל הממשלתי בשוק ההולנדי.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/offshore-gaming/holland-casino-ceo-fight-against-meta-and-black-market/",
           "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "Dutch gambling debate unveils polarised politics",
-          "summary_he": "הדיון הפוליטי הסוער בהולנד סביב הרפורמות בחוק ההימורים המקוונים (KOA) יוצר אי-ודאות רגולטורית לגבי עתיד השוק. להתפתחויות אלו חשיבות רבה עבור Bragg Gaming, שכן הולנד מהווה שוק אסטרטגי מרכזי עבורה כספקית טכנולוגיה ותוכן מובילה במדינה.",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/europe/2026/09/04/dutch-gambling-debate/",
-          "sourceKey": "sbc_news"
         }
       ]
     },
@@ -312,17 +304,17 @@ window.intelData = {
         {
           "date": "2026-09-03",
           "title": "Brazil Senate Committee approves restrictions on ads and betting sponsorship",
-          "summary_he": "ועדת הסנאט בברזיל אישרה הגבלות מחמירות על פרסום וחסויות הימורים, צעד שעלול לפגוע במפעילים המורשים ולחזק את השוק הלא-חוקי. עבור חברות כמו Bragg Gaming, הפועלות כספקיות טכנולוגיה בשוק המוסדר, המגבלות הללו עלולות להאט את קצב החדירה והצמיחה בברזיל.",
+          "summary_he": "ועדת הסנאט בברזיל אישרה הגבלות מחמירות על פרסום וחסויות בענף ההימורים, מהלך שמהווה מכשול רגולטורי למפעילים המורשים ועלול לחזק את השוק הלא-חוקי. להתפתחויות אלו השפעה ישירה על פוטנציאל הצמיחה של ספקיות טכנולוגיה ומרכיבי תוכן הפועלות בשוק הברזילאי, דוגמת Bragg Gaming.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/marketing-affiliates/marketing-regulation/brazil-approves-restrictions-ads-betting-sponsorship/",
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-09-03",
-          "title": "Brazil Senate plans ambush of Bets Law on death sentence",
-          "summary_he": "הסנאט בברזיל מקדם מהלכים לפירוק המסגרת המסחרית של שוק ההימורים המקוונים המוסדר, מה שמעמיד את חוק ה-\"Bets Law\" בסכנה ויוצר חוסר ודאות רגולטורי ועסקי עמוק לקראת הבחירות באוקטובר. היציבות של השוק הברזילאי קריטית עבור ספקיות טכנולוגיה ו-B2B הפועלות באזור, דוגמת Bragg Gaming, שעלולות להיות מושפעות מהשינויים הדרסטיים במדיניות.",
+          "date": "2026-09-07",
+          "title": "FIRST.bet&#8217;s Tom Light: how to properly localise a sportsbook",
+          "summary_he": "מנכ\"ל FIRST.bet מדגיש את החשיבות של התאמה מקומית (לוקאליזציה) מדויקת בשוק הימורי הספורט, במיוחד באמריקה הלטינית, כאסטרטגיה קריטית להצלחה עסקית וחדירה אפקטיבית לשווקים חדשים. הידיעה אינה נוגעת ישירות ל-Bragg Gaming.",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/featurednews/2026/09/03/brazil-bets-death/",
+          "url": "https://sbcnews.co.uk/features/2026/09/07/first-bet-tom-light-localise-sportsbook/",
           "sourceKey": "sbc_news"
         }
       ]
@@ -335,7 +327,7 @@ window.intelData = {
         {
           "date": "2026-09-03",
           "title": "Will New Jersey lead another charge to SCOTUS, this time against prediction markets?",
-          "summary_he": "ניו ג'רזי עשויה לעתור לבית המשפט העליון בארה\"ב נגד שוקי הניבוי (Prediction Markets), מהלך שעשוי להוביל להסדרה רגולטורית תקדימית שתשפיע על חוקיות הענף ועל המודלים העסקיים בו ברמה הפדרלית.",
+          "summary_he": "ניו ג'רזי עשויה להוביל מהלך משפטי נוסף בבית המשפט העליון בארה\"ב להסדרת שווקי התחזיות (Prediction Markets), במטרה לשחזר את הצלחתה בביטול האיסור על הימורי ספורט מ-2018. פסיקה כזו עשויה לשנות משמעותית את הסטטוס הרגולטורי והעסקי של הענף ברמה הפדרלית.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/prediction-markets/will-new-jersey-lead-another-charge-to-scotus-this-time-against-prediction-markets/",
           "sourceKey": "igaming_market"
@@ -343,81 +335,34 @@ window.intelData = {
         {
           "date": "2026-09-02",
           "title": "Meet the invisible sportsbook powering the prediction market boom",
-          "summary_he": "צמיחתם של שווקי התחזיות (Prediction Markets) נשענת כיום על ספקי נזילות וגופים מוסדיים המנהלים את התמחור והסיכונים, מה שמעביר את התחום ממודל \"עמית לעמית\" (P2P) למבנה עסקי ממוסד ומקצועי יותר.\n\n(אין לידיעה זו רלוונטיות ישירה לפעילותה של חברת Bragg Gaming).",
+          "summary_he": "זירות חיזוי (Prediction markets) עוברות ממודל של מסחר ישיר בין משתמשים (P2P) להסתמכות גוברת על חברות מקצועיות המספקות נזילות ותמחור מאחורי הקלעים. מגמה זו משנה את המבנה העסקי של השוק והופכת אותו לממוסד וריכוזי יותר, כאשר גופים מוסדיים הם אלו שמנהלים בפועל את הסיכונים.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/prediction-markets/meet-sportsboo-white-swan-prediction-market/",
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-09-04",
-          "title": "Fanatics Sports &#038; Casino Launches Prediction Markets as Part of Single App",
-          "summary_he": "חברת Fanatics Sports & Casino הטמיעה \"חוזי אירועים\" (Prediction Markets) באפליקציה המאוחדת שלה, מהלך המרחיב את היצע המוצרים העסקי ומבסס פלטפורמה אחודה להימורי ספורט, קזינו ושווקי חיזוי תחת קורת גג אחת.",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/fanatics-sports-casino-launches-prediction-markets-as-part-of-single-app/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "NFL renews call on prediction markets to drop player-injury and manipulation-prone contracts",
-          "summary_he": "ה-NFL מחדשת את דרישתה משווקי החיזוי להסיר הימורים על פציעות שחקנים וחוזים החשופים למניפולציות, מהלך שעשוי להוביל להגבלות רגולטוריות חדשות במטרה להגן על יושרת הענף. (לידיעה אין קשר ישיר לפעילותה של Bragg Gaming).",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/09/04/126235-nfl-renews-call-on-prediction-markets-to-drop-playerinjury-and-manipulationprone-contracts",
-          "sourceKey": "yogonet"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "SOFTSWISS to highlight iGaming trends report, prediction markets at SBC Lisbon",
-          "summary_he": "חברת SOFTSWISS תציג בכנס SBC ליסבון דוח מגמות ופתרונות בתחום שוקי הניבוי (Prediction Markets), במטרה לספק תובנות אסטרטגיות לצמיחה עסקית וחדשנות בענף ה-iGaming.",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/09/04/126231-softswiss-to-highlight-igaming-trends-report-prediction-markets-at-sbc-lisbon",
-          "sourceKey": "yogonet"
-        }
-      ]
-    },
-    "global_regulation": {
-      "title": "רגולציה עולמית - iGaming",
-      "icon": "🌍",
-      "color": "rgba(156,39,176,0.12)",
-      "articles": [
-        {
-          "date": "2026-09-03",
-          "title": "Uncertainty in Hungary continues as concerns emerge over gambling regulator SZTFH",
-          "summary_he": "הונגריה בוחנת את פירוק רגולטור ההימורים (SZTFH) כחמש שנים בלבד לאחר הקמתו, צעד שיוצר אי-ודאות רגולטורית משמעותית בשוק המקומי. למהלך עשויה להיות השפעה עסקית על חברות הפועלות במדינה, ביניהן בראג גיימינג (Bragg Gaming) הנחשבת לספקית טכנולוגיה מרכזית בשוק ההונגרי.",
+          "date": "2026-09-07",
+          "title": "Prediction markets look to UK as FCA reviews future of binary options",
+          "summary_he": "בחינה מחדש של האיסור על אופציות בינאריות בבריטניה (FCA) עשויה להוביל לשינוי רגולטורי שיסלול את הדרך להשקת \"שוקי חיזוי\" (prediction markets) במדינה כבר בספטמבר הקרוב. (לידיעה זו אין קשר ישיר ל-Bragg Gaming).",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/igaming/2026/09/03/hungary-may-scrap-regulator/",
+          "url": "https://sbcnews.co.uk/europe/uk/2026/09/07/fca-prediction-markets/",
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-09-04",
-          "title": "BLIK Passes Extra Protections to Curb Use of Payment Processor for Illegal Gambling",
-          "summary_he": "שירות התשלומים BLIK החל לחסום עסקאות למפעילי הימורים בלתי חוקיים בהתאם להנחיות הרגולציה, צעד המהדק את האכיפה בשוק המוסדר. המהלך צפוי להיטיב עם ספקיות תוכן וטכנולוגיה הפועלות בזירה המורשית, דוגמת Bragg Gaming, על ידי צמצום התחרות מצד השוק האפור.",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/blik-passes-extra-protections-to-curb-use-of-payment-processor-for-illegal-gambling/",
-          "sourceKey": "gambling_news"
+          "date": "2026-09-07",
+          "title": "LeoVegas’ SVP of Sportsbook: “superior product experience” is the answer in 2026",
+          "summary_he": "חברת LeoVegas מתכננת להתמודד עם אתגרי השוק והתחרות מצד מפעילים לא מורשים באמצעות התמקדות בחוויית מוצר עדיפה ואיזון בין רווחיות לשביעות רצון לקוחות עד שנת 2026. לידיעה זו אין נגיעה ישירה לפעילותה של Bragg Gaming.",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/features/comment/2026/09/07/leovegas-svp-sportsbook-interview/",
+          "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-09-04",
-          "title": "SBC Summit’s Western Europe Track to Examine Regulation, Technology and Market Competition",
-          "summary_he": "כנס SBC Summit יתמקד באתגרים הרגולטוריים והתחרותיים בשווקי מערב אירופה המפותחים, תוך בחינת דרכי התמודדות של מפעילים עם הידוק הפיקוח והשפעות השוק השחור. (הידיעה אינה מזכירה ישירות את Bragg Gaming, אך נושאי הרגולציה בשווקים אלו קריטיים לפעילותה כספקית טכנולוגיה ותוכן באזור).",
-          "source": "igamingfuture.com",
-          "url": "https://igamingfuture.com/sbc-summits-western-europe-track-to-examine-regulation-technology-and-market-competition/",
-          "sourceKey": "igaming_future"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "Meet the EEGS Advisory Board",
-          "summary_he": "כנס EEGS הציג את חברי המועצה המייעצת החדשים, דמויות מפתח שיכוונו את האסטרטגיה העסקית והרגולטורית של ענף ההימורים במזרח אירופה. המהלך נועד לחזק את הסטנדרטים המקצועיים ואת שיתוף הפעולה בין הרגולטורים למפעילים באזור.",
-          "source": "igamingfuture.com",
-          "url": "https://igamingfuture.com/meet-the-eegs-advisory-board/",
-          "sourceKey": "igaming_future"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "How 1X2 Network is Building a Business That is Prepared for the Future",
-          "summary_he": "מנכ\"ל 1X2 Network מציג אסטרטגיה המשלבת צמיחה עסקית עם הקפדה יתרה על רגולציה כדי להבטיח מוכנות לאתגרי השוק העתידיים. המהלך מחזק את איכות היצע התוכן עבור שותפות הפצה מרכזיות כמו Bragg Gaming, המפיצה את משחקי הרשת דרך הפלטפורמות שלה.",
-          "source": "igamingfuture.com",
-          "url": "https://igamingfuture.com/how-1x2-network-is-building-a-business-that-is-prepared-for-the-future/",
-          "sourceKey": "igaming_future"
+          "date": "2026-09-07",
+          "title": "Massachusetts Gaming Commission Investigating Bill Simmons Over Proxy Betting",
+          "summary_he": "ועדת ההימורים של מסצ'וסטס חוקרת את איש התקשורת ביל סימונס בחשד לביצוע \"הימורי פרוקסי\" (הימורים באמצעות צד שלישי), צעד המאותת על החמרת האכיפה הרגולטורית בנושא מיקום המהמרים ויושרת הענף. הידיעה אינה נוגעת ישירות לפעילותה של חברת Bragg Gaming.",
+          "source": "deadspin.com",
+          "url": "https://deadspin.com/legal-betting/",
+          "sourceKey": "deadspin"
         }
       ]
     },
@@ -429,7 +374,7 @@ window.intelData = {
         {
           "date": "2026-09-04",
           "title": "The outsider advantage: Viewing iGaming through a different lens",
-          "summary_he": "ויקטוריה גריגורנקו, מנכ\"לית the Playa, מסבירה כיצד הגעה מחוץ לענף ה-iGaming מעניקה יתרון אסטרטגי ונקודת מבט ייחודית התורמת לחדשנות וצמיחה עסקית במגזר. (הידיעה אינה נוגעת ישירות ל-Bragg Gaming).",
+          "summary_he": "ויקטוריה גריגורנקו, מנכ\"לית Playa, מדגישה את היתרון העסקי שבכניסה לתחום ה-iGaming מנקודת מבט חיצונית לתעשייה. לדבריה, גישה זו מאפשרת זיהוי הזדמנויות וקידום חדשנות המעניקים יתרון אסטרטגי בשוק תחרותי.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/people/outsider-advantage-viewing-igaming-through-different-lens/",
           "sourceKey": "igaming_market"
@@ -437,7 +382,7 @@ window.intelData = {
         {
           "date": "2026-09-03",
           "title": "Spotlight Sports Group enters games vertical with Engage Games partnership",
-          "summary_he": "קבוצת Spotlight Sports מרחיבה את פעילותה העסקית ונכנסת לראשונה לתחום המשחקים (Games) באמצעות שותפות עם Engage Games. מהלך זה מהווה גיוון אסטרטגי עבור החברה, שמתרחבת מעבר לטכנולוגיות המרוצים והימורי הספורט המסורתיות שלה.\n\n*(הערה: הידיעה אינה נוגעת ישירות ל-Bragg Gaming)*",
+          "summary_he": "קבוצת Spotlight Sports Group מרחיבה את פעילותה העסקית וחודרת לתחום המשחקים (Games) באמצעות שותפות עם Engage Games. המהלך מסמן את גיוון היצע המוצרים של החברה מעבר לטכנולוגיות המרוצים והימורי הספורט המסורתיות שלה.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/gaming/spotlight-sports-group-engage-games-partnership/",
           "sourceKey": "igaming_market"
@@ -445,7 +390,7 @@ window.intelData = {
         {
           "date": "2026-09-03",
           "title": "Botswana parliament passes gambling bill retaining proposal to lower age to 18",
-          "summary_he": "הפרלמנט של בוטסואנה אישר רפורמה רגולטורית הכוללת את הורדת גיל ההימורים ל-18, מהלך הצפוי להרחיב משמעותית את פוטנציאל השוק המקומי. עבור ספקיות טכנולוגיה ופתרונות iGaming כדוגמת **Bragg Gaming**, מדובר בהזדמנות לצמיחה בשוק מתפתח עם קהל יעד רחב יותר.",
+          "summary_he": "הפרלמנט בבוטסואנה אישר רפורמה נרחבת בענף ההימורים, הכוללת את הורדת גיל המינימום ל-18. המהלך צפוי להרחיב משמעותית את קהל היעד בשוק המקומי וליצור מסגרת רגולטורית חדשה לפעילות במדינה.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/legal-compliance/botswana-gambling-bill-age-18/",
           "sourceKey": "igaming_market"
@@ -453,7 +398,7 @@ window.intelData = {
         {
           "date": "2026-09-02",
           "title": "Nederlandse Loterij moves to shut down illegal Skyhills platform following Lalabet victory",
-          "summary_he": "מפעיל ההימורים Nederlandse Loterij פועל לחסימת פלטפורמות לא חוקיות ומזהיר כי איסור פרסום גורף יחזק את השוק השחור, מהלך בעל השלכות על Bragg Gaming המשמשת כספקית הטכנולוגיה המרכזית של המפעיל.",
+          "summary_he": "Nederlandse Loterij פועלת לסגירת פלטפורמות לא חוקיות ומזהירה כי איסור פרסום גורף בהולנד יחזק את השוק השחור. המאבק לשימור השוק המוסדר קריטי עבור בראג גיימינג (Bragg Gaming), המשמשת כספקית הטכנולוגיה והפלטפורמה המרכזית של המפעיל במדינה.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/legal-compliance/nederlandse-loterij-shut-down-illegal-skyhills-lalabet-victory/",
           "sourceKey": "igaming_market"
@@ -461,7 +406,7 @@ window.intelData = {
         {
           "date": "2026-09-02",
           "title": "Born to swipe: Casino games made for the TikTok Generation",
-          "summary_he": "חברת Swipe Games משיקה אסטרטגיה לשינוי חוויית המשתמש ב-iGaming על ידי שילוב בינה מלאכותית וממשק \"סוויפים\" המותאם לדור הטיקטוק. המהלך נועד למשוך קהל יעד צעיר יותר ולהגדיל את המעורבות העסקית דרך אימוץ הרגלי צריכה מהרשתות החברתיות לתוך עולם ההימורים המקוונים.",
+          "summary_he": "חברת Swipe Games מפתחת ז'אנר חדש של משחקי קזינו המבוסס על דפוסי הצריכה של \"דור הטיקטוק\", במטרה להגדיל את המעורבות בקרב קהל צעיר באמצעות שילוב של וידאו קצר, הימורים מיידיים ובינה מלאכותית. המהלך מסמן שינוי אסטרטגי בתעשייה לעבר חוויות הימורים מהירות ומותאמות אישית המדמות את הרגלי הגלישה ברשתות החברתיות.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/casino-games/slots/swipe-games-casino-tiktok-generation/",
           "sourceKey": "igaming_market"
@@ -469,7 +414,7 @@ window.intelData = {
         {
           "date": "2026-09-01",
           "title": "Former congressman George Santos first to be permanently banned from Kalshi",
-          "summary_he": "הרחקתו של ג'ורג' סנטוס מפלטפורמות קלשי ופולימרקט מדגישה את החרפת הציות (Compliance) והפיקוח הרגולטורי בשווקי החיזוי, במיוחד בנוגע למעורבות של דמויות פוליטיות. המהלך משקף את רצון המפעילים לצמצם סיכונים תדמיתיים ומשפטיים בתעשייה הנמצאת תחת זכוכית מגדלת.",
+          "summary_he": "פלטפורמת חיזוי האירועים Kalshi הרחיקה לצמיתות את חבר הקונגרס לשעבר ג'ורג' סנטוס, בצעד הממחיש את הקשחת מדיניות הציות (Compliance) והרגולציה בשוקי הניחושים הפוליטיים בארה\"ב. המהלך משקף את רצונן של המפעילות לצמצם סיכונים רגולטוריים ולשמור על תקינות הפעילות בעיצומו של מאבק משפטי על חוקיות ההימורים על בחירות.\n\n(הידיעה אינה רלוונטית ל-Bragg Gaming).",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/prediction-markets/former-congressman-george-santos-first-permanently-banned-kalshi/",
           "sourceKey": "igaming_market"
@@ -482,11 +427,11 @@ window.intelData = {
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
-          "date": "2026-09-04",
-          "title": "Reddit: anyone else struggling to find decent sports betting promos lately?",
-          "summary_he": "הפוסט משקף מגמה של תסכול בקרב מהמרים בשל הרעה בתנאי המבצעים (promos) באתרי הימורי ספורט, הכוללים דרישות גלגול (playthrough) גבוהות ותנאים מגבילים ומסובכים. תופעה זו מצביעה על שינוי בתעשייה לעבר מודלים של רווחיות על פני רכישת משתמשים אגרסיבית, מה שמגביר את החשיבות של פתרונות טכנולוגיים לשימור שחקנים (כגון אלו שמציעה Bragg Gaming) המבוססים על חוויית משתמש ולא רק על תמריצים כספיים.",
+          "date": "2026-09-06",
+          "title": "Reddit: Finally “quit” but I am extremely worried. I never reported my gambling to the IRS.",
+          "summary_he": "הפוסט משקף את האתגרים הרגולטוריים והמיסויים בתחום ה-iGaming בארה\"ב, במיוחד סביב שימוש במטבעות קריפטו ובאתרי \"Sweepstakes\" שאינם מנפיקים טפסי מס מסודרים (W-2G). המקרה מדגיש את החשיבות הגוברת של כלי אחריות חברתית (ESG) וחסימה עצמית, נושאים שהופכים לקריטיים עבור חברות כמו Bragg Gaming הפועלות בשווקים מוסדרים הדורשים שקיפות והגנה על הצרכן.",
           "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1w783jx/anyone_else_struggling_to_find_decent_sports/"
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1w8xgnw/finally_quit_but_i_am_extremely_worried_i_never/"
         },
         {
           "date": "2026-09-05",
@@ -494,13 +439,6 @@ window.intelData = {
           "summary_he": "הפוסט משקף את הביקוש הגובר לפתרונות \"White Label\" להקמת פלטפורמות הימורים מקוונות, תחום ליבה עבור חברות טכנולוגיה כמו Bragg Gaming המספקות שירותי B2B. הדיון מדגיש את המגמה בתעשיית ה-iGaming שבה יזמים מחפשים פלטפורמות אמינות ונגישות המאפשרות כניסה מהירה לשוק תחת רגולציה קיימת.",
           "source": "Reddit r/onlinegambling",
           "url": "https://www.reddit.com/r/onlinegambling/comments/1w8ci74/any_experience_with_white_label_solutions/"
-        },
-        {
-          "date": "2026-09-04",
-          "title": "Reddit: Best online casino for chill gambling?",
-          "summary_he": "הפוסט משקף דרישה של צרכנים לחוויית הימורים מקוונים ללא מגבלות רגולטוריות, בדגש על הימנעות מתהליכי אימות זהות (KYC) ומשיכות כספים מהירות. עבור חברות כמו Bragg Gaming הפועלות בשווקים מוסדרים, מגמה זו מדגישה את האתגר התחרותי מול פלטפורמות \"אפורות\" המציעות למשתמש פחות חיכוך וביורוקרטיה.",
-          "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1w73bia/best_online_casino_for_chill_gambling/"
         }
       ]
     }
