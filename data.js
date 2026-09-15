@@ -1,65 +1,65 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1wek90b",
+      "id": "1wg8dn5",
       "source": "reddit",
-      "title": "Where to find high rollers? Also LFG/FRIEND GROUP",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1wek90b/where_to_find_high_rollers_also_lfgfriend_group/",
-      "author": "Interesting-isnt_it",
+      "title": "Looking for a 5-minute Zoom interview today about gambling psychology — $50 CAD compensation",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1wg8dn5/looking_for_a_5minute_zoom_interview_today_about/",
+      "author": "Many-Rich5347",
       "score": 1,
-      "selftext": "Hi, im a high roller scout for a online casino thats made by another online casino, i have recently been struggling to scout any high rollers since my social circle mostly has friends and family asking me for money.\n\nwe are also taking streamer applications since i saw a post about that\n\n(No this does not involve my referral/affiliate)\n\n**\\[ALSO LFG/FRIEND GROUP TO GAMBLE WITH\\]**",
+      "selftext": "Hi! I’m a high school student in Montreal completing an IB Personal Project about the psychology behind gambling and online sports betting.\n\nI’m looking for **one adult (18+)** who would be available for a short recorded Zoom interview today, September 14. The interview should take approximately five minutes, and I’m offering **$50 CAD** as compensation for your time.\n\nI’m interested in speaking with anyone who fits one of these categories:\n\n* A young adult with personal experience using online gambling or sports-betting platforms\n* An addiction counsellor, psychologist, or gambling-support worker\n* A psychology, economics, or business teacher\n* A researcher or professional familiar with gambling behaviour\n\nThe questions will focus on emotional decision-making, loss-chasing, advertising, promotions, risk perception, and the features gambling platforms use to keep people engaged. The recording will only be used in my school documentary and shown for educational purposes. You may choose to appear on camera, use audio only, or remain anonymous in the documentary.\n\nI’m flexible with timing today and located in the Eastern Time Zone. Please send me a Reddit DM explaining your connection to the topic and your availability. If you are responding as a professional, please include something that allows me to verify your qualifications.\n\nThank you!",
       "subreddit": "onlinegambling",
-      "created_utc": 1789237839,
+      "created_utc": 1789403583,
       "top_comments": [
         {
-          "body": "Yeah lol i get paid 10% of every deposit😃",
+          "body": "Begging for money, clicks, signups, likes, or upvotes will not be tolerated.",
           "score": 1,
-          "author": "Interesting-isnt_it"
+          "author": "onlinegambling-ModTeam"
         },
         {
-          "body": "my uncle had a similar side gig scouting whales for a poker site and his whole strategy was just hanging in crypto discords and luxury watch forums, not even joking",
+          "body": "I would be willing to do it if you still needed someone. I fit into the first catergory",
           "score": 1,
-          "author": "Slight_Archer_6225"
+          "author": "Kandikitty69"
         },
         {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "body": "what's your connection to the topic though? like what angle you coming from, player, counselor, something else. they're pretty clear they want to know upfront and you didn't say",
           "score": 1,
-          "author": "AutoModerator"
+          "author": "RecentDust3837"
         }
       ],
-      "summary_he": "הפוסט מדגיש את המאמצים בתעשיית ה-iGaming לגיוס שחקנים בעלי ערך גבוה (High Rollers) ושיתופי פעולה עם סטרימרים ככלי שיווקי מרכזי. מגמה זו משקפת את התחרות הגוברת על פלח שוק ה-VIP ואת החשיבות של קהילות מקוונות ומשפיענים בתהליכי רכישת משתמשים עבור בתי קזינו מקוונים.",
+      "summary_he": "הפוסט עוסק ביוזמת מחקר הבוחנת את הפסיכולוגיה שמאחורי הימורים מקוונים, תוך התמקדות במנגנוני מעורבות (engagement), פרסום וקבלת החלטות תחת סיכון. נושאים אלו נמצאים במוקד המגמות הרגולטוריות בתעשיית ה-iGaming והימורים אחראיים, תחומים המשפיעים ישירות על הפעילות והפיתוח של חברות טכנולוגיה במגזר כדוגמת Bragg Gaming.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון והתובנות העולות מהתגובות בשרשור ב-Reddit בנושא הימורים מקוונים:\n\n* **מודל תגמול של שותפים (Affiliates):** קיימת עבודה שבה אנשים מקבלים עמלה קבועה (במקרה זה 10%) מכל הפקדה שמבצע מהמר שהם הפנו לאתר ההימורים.\n* **אסטרטגיית \"ציד לווייתנים\":** ישנם \"ציידי לווייתנים\" שתפקידם לאתר מהמרים בסכומים גבוהים (\"whales\") עבור אתרי פוקר והימורים, כסוג של עבודה צדדית רווחית.\n* **איתור קהל יעד בעל הון:** האסטרטגיה למציאת מהמרים כבדים מתמקדת בקהילות מקוונות שבהן נמצאים אנשים עם כסף נזיל, כגון שרתי דיסקורד של קריפטו ופורומים של שעוני יוקרה.\n* **חשיבות הכללים והקהילה:** מנהלי הפורום מדגישים את הצורך לקרוא את חוקי הקהילה ולהצטרף לערוצים חברתיים נוספים (כמו דיסקורד) כדי להישאר מעורבים.\n* **קידום הימורים אחראיים:** קיימת מודעות גבוהה לסכנות שבמרחב ההימורים, עם דגש על הפניית משתמשים למקורות עזרה ומידע (Wiki) עבור אלו הסובלים מהתמכרות להימורים.\n* **שיטות שיווק לא פורמליות:** השיווק בתחום ה-iGaming נשען לעיתים קרובות על שיטות של \"פה לאוזן\" ונוכחות במקומות מפגש דיגיטליים שאינם קשורים ישירות להימורים."
+      "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורטו, בנקודות:\n\n* **מדיניות אפס סובלנות לספאם וקידום עצמי:** קיימת הקפדה יתרה על כללי הקהילה, הכוללת איסור מוחלט על בקשת כספים, לחיצות על קישורים (Clicks), הרשמות לשירותים או בקשת לייקים ודירוגים.\n* **נכונות לשיתוף פעולה וביצוע משימות:** חלק מהמשתמשים מביעים נכונות אקטיבית לקחת חלק במיזם או במחקר המדובר, במידה והם עומדים בקריטריונים הספציפיים שהוגדרו (למשל, השתייכות לקבוצת מיקוד מסוימת).\n* **דרישה לשקיפות וגילוי נאות:** עולה דרישה ברורה כלפי יוזם הדיון לחשוף את הקשר האישי או המקצועי שלו לנושא (iGaming/הימורים) – האם הוא מגיע מזווית של שחקן, יועץ, חוקר או גורם אחר.\n* **חשיבות הצגת ה\"זווית\" (Angle):** המשתמשים מצפים להבין מראש מהו המניע מאחורי הפנייה, שכן זהות הפונה משפיעה על האופן שבו הקהילה תופסת את הבקשה ומגיבה אליה.\n* **צורך בבהירות מוקדמת:** ישנה ביקורת על כך שפרטים מהותיים לגבי זהות הכותב לא נמסרו מראש, למרות שהציפייה בפורום היא להצגת דברים שקופה וגלויה כבר בתחילת הדיון."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר.",
+      "summary": "אין עדכונים משמעותיים ב-X היום על BRAG. אין דיונים בולטים על סנטימנט או תחזיות מחיר.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות."
+      "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "אין חדשות חדשות מ-NY או חקיקה בארה\"ב בטוויטר היום. דיונים כלליים על רישיונות נמשכים אך ללא עדכונים.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות."
+      "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין התייחסויות עדכניות לרגולציה או רישיונות בברזיל.",
+      "summary": "אין פוסטים עדכניים על רגולציה או רישיונות בברזיל. שוק ההימורים נשאר ללא אכיפה חדשה.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות."
+      "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין דיונים על KSA או BetCity מהיום.",
+      "summary": "אין מידע חדש על KSA, חידוש רישיונות או BetCity. אכיפה שקטה.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות."
+      "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות חדשות שצוינו ב-X.",
+      "summary": "אין עסקאות או שותפויות שדווחו היום. מגמות כלליות ללא שינוי.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות."
+      "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות דחופות."
+    "top_alert": ""
   },
-  "generatedAt": "2026-09-14T11:51:22.221Z"
+  "generatedAt": "2026-09-15T11:07:42.933Z"
 };
