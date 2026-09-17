@@ -1,67 +1,60 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1wg8dn5",
+      "id": "1wigtfd",
       "source": "reddit",
-      "title": "Looking for a 5-minute Zoom interview today about gambling psychology — $50 CAD compensation",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1wg8dn5/looking_for_a_5minute_zoom_interview_today_about/",
-      "author": "Many-Rich5347",
+      "title": "Borgata Online Casino (NJ) Withdrawal Issue",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1wigtfd/borgata_online_casino_nj_withdrawal_issue/",
+      "author": "trisifyy",
       "score": 1,
-      "selftext": "Hi! I’m a high school student in Montreal completing an IB Personal Project about the psychology behind gambling and online sports betting.\n\nI’m looking for **one adult (18+)** who would be available for a short recorded Zoom interview today, September 14. The interview should take approximately five minutes, and I’m offering **$50 CAD** as compensation for your time.\n\nI’m interested in speaking with anyone who fits one of these categories:\n\n* A young adult with personal experience using online gambling or sports-betting platforms\n* An addiction counsellor, psychologist, or gambling-support worker\n* A psychology, economics, or business teacher\n* A researcher or professional familiar with gambling behaviour\n\nThe questions will focus on emotional decision-making, loss-chasing, advertising, promotions, risk perception, and the features gambling platforms use to keep people engaged. The recording will only be used in my school documentary and shown for educational purposes. You may choose to appear on camera, use audio only, or remain anonymous in the documentary.\n\nI’m flexible with timing today and located in the Eastern Time Zone. Please send me a Reddit DM explaining your connection to the topic and your availability. If you are responding as a professional, please include something that allows me to verify your qualifications.\n\nThank you!",
+      "selftext": "Withdrew through Visa Card but have not been credited after 24 hours. Wondering if anyone has been through this? I have a few withdrawals from the same night not even 30-45 minutes in between that did process and credited my bank. Contacted support but it seems like a dead end everytime i speak to one",
       "subreddit": "onlinegambling",
-      "created_utc": 1789403583,
+      "created_utc": 1789610457,
       "top_comments": [
         {
-          "body": "Begging for money, clicks, signups, likes, or upvotes will not be tolerated.",
+          "body": "if the status says processed then the casino is done with it, visa direct can take a few extra days depending on your bank even when other ones from the same night hit fast",
           "score": 1,
-          "author": "onlinegambling-ModTeam"
+          "author": "No_Repeat_1150"
         },
         {
-          "body": "I would be willing to do it if you still needed someone. I fit into the first catergory",
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
           "score": 1,
-          "author": "Kandikitty69"
-        },
-        {
-          "body": "what's your connection to the topic though? like what angle you coming from, player, counselor, something else. they're pretty clear they want to know upfront and you didn't say",
-          "score": 1,
-          "author": "RecentDust3837"
+          "author": "AutoModerator"
         }
       ],
-      "summary_he": "הפוסט עוסק ביוזמת מחקר הבוחנת את הפסיכולוגיה שמאחורי הימורים מקוונים, תוך התמקדות במנגנוני מעורבות (engagement), פרסום וקבלת החלטות תחת סיכון. נושאים אלו נמצאים במוקד המגמות הרגולטוריות בתעשיית ה-iGaming והימורים אחראיים, תחומים המשפיעים ישירות על הפעילות והפיתוח של חברות טכנולוגיה במגזר כדוגמת Bragg Gaming.",
+      "summary_he": "הפוסט מתאר בעיה בעיבוד משיכת כספים ב-Borgata Online Casino בניו ג'רזי, המדגישה את האתגרים התפעוליים בשירות לקוחות ובמערכות סליקה בשוק ה-iGaming המוסדר בארה\"ב. עבור חברות כמו בראג גיימינג (BRAG) הפועלות בזירה זו, המקרה ממחיש את החשיבות הקריטית של אמינות התשתית הטכנולוגית וחוויית המשתמש הרציפה לשמירה על אמון השחקנים.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון המבוסס על התגובות שפורטו, בנקודות:\n\n* **מדיניות אפס סובלנות לספאם וקידום עצמי:** קיימת הקפדה יתרה על כללי הקהילה, הכוללת איסור מוחלט על בקשת כספים, לחיצות על קישורים (Clicks), הרשמות לשירותים או בקשת לייקים ודירוגים.\n* **נכונות לשיתוף פעולה וביצוע משימות:** חלק מהמשתמשים מביעים נכונות אקטיבית לקחת חלק במיזם או במחקר המדובר, במידה והם עומדים בקריטריונים הספציפיים שהוגדרו (למשל, השתייכות לקבוצת מיקוד מסוימת).\n* **דרישה לשקיפות וגילוי נאות:** עולה דרישה ברורה כלפי יוזם הדיון לחשוף את הקשר האישי או המקצועי שלו לנושא (iGaming/הימורים) – האם הוא מגיע מזווית של שחקן, יועץ, חוקר או גורם אחר.\n* **חשיבות הצגת ה\"זווית\" (Angle):** המשתמשים מצפים להבין מראש מהו המניע מאחורי הפנייה, שכן זהות הפונה משפיעה על האופן שבו הקהילה תופסת את הבקשה ומגיבה אליה.\n* **צורך בבהירות מוקדמת:** ישנה ביקורת על כך שפרטים מהותיים לגבי זהות הכותב לא נמסרו מראש, למרות שהציפייה בפורום היא להצגת דברים שקופה וגלויה כבר בתחילת הדיון.",
-      "date_string": "2026-09-15",
-      "saved_at": "2026-09-15T11:07:42.515+00:00"
+      "comments_summary_he": "להלן סיכום הדיון והנקודות המרכזיות שעלו מהתגובות בפורום, מתורגם לעברית:\n\n* **משמעות סטטוס המשיכה:** כאשר סטטוס הבקשה בקזינו מוגדר כ-\"Processed\" (עובד/הושלם), המשמעות היא שהקזינו סיים את חלקו בתהליך העברת הכספים והאחריות עוברת למערכת הבנקאית.\n* **עיכובים בבנקים:** גם לאחר אישור הקזינו, ייתכנו עיכובים של מספר ימים מצד הבנק המקבל. משך הזמן עשוי להשתנות בין בנק לבנק.\n* **התנהלות שירות Visa Direct:** שירות Visa Direct עשוי להציג זמני עיבוד משתנים; ייתכן מצב שבו חלק מההעברות יבוצעו באופן מיידי, בעוד שאחרות (באותו הלילה) יתעכבו מספר ימים.\n* **דגש על הימורים אחראיים:** הקהילה מדגישה את החשיבות של שמירה על הרגלי הימורים בריאים ומספקת משאבים, קישורים ומדריכים (Wiki) לעזרה במקרה של זיהוי בעיית התמכרות.\n* **חשיבות חוקי הקהילה:** קיימת קריאה למשתמשים חדשים להכיר את חוקי הפורום ולהצטרף לערוצי תקשורת נוספים כמו דיסקורד (Discord) כדי לשמור על שיח תקין ומעודכן.\n* **חוסר עקביות בזמני העברה:** הדיון מציין כי מהירות העברת הכספים אינה תמיד עקבית, ואין להסתמך על מהירות של העברה אחת כאינדיקציה מדויקת לזמן ההגעה של העברה אחרת."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין מידע עדכני זמין מ-X להיום.",
+      "summary": "אין מידע עדכני מהיום ב-X על BRAG.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "us_regulation": {
-      "summary": "אין מידע עדכני זמין מ-X להיום.",
+      "summary": "אין חדשות חדשות מניו יורק או רגולציה בארה\"ב.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "brazil_market": {
-      "summary": "אין מידע עדכני זמין מ-X להיום.",
+      "summary": "אין דיונים עדכניים על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "netherlands_ksa": {
-      "summary": "אין מידע עדכני זמין מ-X להיום.",
+      "summary": "אין עדכונים על KSA או BetCity.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "igaming_industry": {
-      "summary": "אין מידע עדכני זמין מ-X להיום.",
+      "summary": "אין עסקאות או מגמות חדשות.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין גישה למידע בזמן אמת מ-X."
+    "top_alert": "אין מידע זמין בזמן אמת"
   },
-  "generatedAt": "2026-09-16T10:53:30.939Z"
+  "generatedAt": "2026-09-17T11:01:37.832Z"
 };
