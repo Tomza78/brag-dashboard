@@ -2,32 +2,32 @@ window.dashboardData = {
   "trends": [],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין דיונים משמעותיים על מניית BRAG היום ב-X.",
+      "summary": "אין עדכונים משמעותיים היום על BRAG. הסנטימנט ניטרלי.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין עדכונים חדשים מ-NY או חקיקה בארה\"ב מהשעות האחרונות.",
+      "summary": "דיונים על רגולציה בניו יורק ממשיכים ללא חקיקה חדשה. סנטימנט ניטרלי.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין אזכורים לרגולציה או רישיונות חדשים בברזיל.",
+      "summary": "אין אכיפה או רישיונות חדשים מדווחים היום. סנטימנט ניטרלי.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין חידושי רישיונות או אכיפה מדווחים בהולנד.",
+      "summary": "אין חידושי רישיונות או אכיפה בולטים. סנטימנט ניטרלי.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות חדשות בתעשייה.",
+      "summary": "אין עסקאות או שותפויות חדשות מהיום. מגמות כלליות יציבות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין חדשות עדכניות מהיום"
+    "top_alert": ""
   },
-  "generatedAt": "2026-09-21T12:03:26.485Z"
+  "generatedAt": "2026-09-22T11:01:38.895Z"
 };
