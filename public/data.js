@@ -29,7 +29,9 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט מתאר תלונה של שחקן נגד Unibet על אובדן סבב בונוס בשל תקלה טכנית באפליקציה ויחס מזלזל מצד שירות הלקוחות. המקרה מדגיש את החשיבות הקריטית של יציבות טכנולוגית ואמינות הפלטפורמה לשימור אמון המשתמשים, נושאים המהווים נדבך מרכזי ברגולציה ובפעילותן של ספקיות iGaming דוגמת Bragg Gaming.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום נקודות המבט העיקריות העולות מהתגובות בשרשור:\n\n* **טענות על חוסר הגינות וסגירת חשבונות שרירותית:** משתמשים מלינים על כך שאתרי הימורים מאפשרים להם להפקיד ולהפסיד כסף באין מפריע, אך בוחרים לסגור את החשבון או לבטל את הפעילות בדיוק ברגע שבו מופעל בונוס לטובת השחקן.\n* **חשד לעיתוי מכוון של תקלות טכניות:** עולה חשד כבד מצד הגולשים לגבי ה\"תזמון\" של הודעות כמו \"חשבון לא זמין\" (Account unavailable). לטענתם, העובדה שזה קורה בדיוק בזמן זכייה או הפעלת בונוס מעוררת מחשבה על מניפולציה מצד הפלטפורמה.\n* **סוגיות חוקיות ומוסריות:** השחקנים חשים ששליטה בתוצאות המשחק באמצעות ביטולו או חסימת המשתמש בזמן אמת היא פעולה שצריכה להיחשב כלא חוקית, שכן היא מונעת מהשחקן את האפשרות לזכות לאחר שכבר סיכן את כספו.\n* **תסכול מהתנהלות כלכלית חד-צדדית:** קיימת ביקורת על כך שהאתרים שמחים לקבל הפקדות כספיות (במקרה זה צוין סכום של 30 ליש\"ט), אך מונעים מהשחקן לממש את פוטנציאל הרווח שלו באותה המטבע.\n* **דגש על הימורים אחראיים:** הקהילה מקפידה להציע משאבים וכלים להתמודדות עם התמכרות להימורים, ומדגישה את הצורך בשמירה על דפוסי הימור בריאים ומבוקרים.\n* **חשיבות הכללים והקהילה:** הדיון מדגיש את הצורך בקריאת חוקי הפורום והצטרפות לערוצי תקשורת נוספים (כמו דיסקורד) כדי להישאר מעודכנים ולהימנע מבעיות מול פלטפורמות ההימורים."
+      "comments_summary_he": "להלן סיכום נקודות המבט העיקריות העולות מהתגובות בשרשור:\n\n* **טענות על חוסר הגינות וסגירת חשבונות שרירותית:** משתמשים מלינים על כך שאתרי הימורים מאפשרים להם להפקיד ולהפסיד כסף באין מפריע, אך בוחרים לסגור את החשבון או לבטל את הפעילות בדיוק ברגע שבו מופעל בונוס לטובת השחקן.\n* **חשד לעיתוי מכוון של תקלות טכניות:** עולה חשד כבד מצד הגולשים לגבי ה\"תזמון\" של הודעות כמו \"חשבון לא זמין\" (Account unavailable). לטענתם, העובדה שזה קורה בדיוק בזמן זכייה או הפעלת בונוס מעוררת מחשבה על מניפולציה מצד הפלטפורמה.\n* **סוגיות חוקיות ומוסריות:** השחקנים חשים ששליטה בתוצאות המשחק באמצעות ביטולו או חסימת המשתמש בזמן אמת היא פעולה שצריכה להיחשב כלא חוקית, שכן היא מונעת מהשחקן את האפשרות לזכות לאחר שכבר סיכן את כספו.\n* **תסכול מהתנהלות כלכלית חד-צדדית:** קיימת ביקורת על כך שהאתרים שמחים לקבל הפקדות כספיות (במקרה זה צוין סכום של 30 ליש\"ט), אך מונעים מהשחקן לממש את פוטנציאל הרווח שלו באותה המטבע.\n* **דגש על הימורים אחראיים:** הקהילה מקפידה להציע משאבים וכלים להתמודדות עם התמכרות להימורים, ומדגישה את הצורך בשמירה על דפוסי הימור בריאים ומבוקרים.\n* **חשיבות הכללים והקהילה:** הדיון מדגיש את הצורך בקריאת חוקי הפורום והצטרפות לערוצי תקשורת נוספים (כמו דיסקורד) כדי להישאר מעודכנים ולהימנע מבעיות מול פלטפורמות ההימורים.",
+      "date_string": "2026-09-29",
+      "saved_at": "2026-09-29T12:12:07.164+00:00"
     },
     {
       "id": "1wsyw4l",
@@ -50,103 +52,39 @@ window.dashboardData = {
       ],
       "summary_he": "הפוסט מקדם פלטפורמת Sweepstakes חדשה בשם Bink, המדגישה את המגמה הגוברת של אתרי הימורים חברתיים המשלבים סטרימינג מובנה ותשלומים מהירים בקריפטו כדי להתחרות בשחקנים גדולים כמו Stake. האתר מציע משחקים של ספקים מובילים כמו Hacksaw Gaming, מה שממחיש את התחרות העזה בשוק ה-iGaming ואת החשיבות של זמינות תוכן פופולרי למשיכת משתמשים במודלים רגולטוריים חלופיים.",
       "category_he": "שוק ההימורים",
-      "comments_summary_he": "על סמך התוכן שסיפקת (הודעת המערכת האוטומטית מהפורום r/onlinegambling), להלן סיכום הנקודות המרכזיות בעברית:\n\n* **ציות לנהלי הקהילה:** קיימת דרישה ממשתמשים חדשים לקרוא ולהכיר את חוקי הפורום המופיעים בסרגל הצד (sidebar) כדי להבטיח התנהלות תקינה.\n* **הרחבת הקהילה:** עידוד המשתתפים להירשם לערוץ ולהצטרף לשרת הדיסקורד (Discord) הרשמי לצורך אינטראקציה נוספת.\n* **קידום הימורים אחראיים:** הקהילה מצהירה על מחויבותה לקידום דפוסי הימורים בריאים ואחראיים בקרב חבריה.\n* **סיוע במקרה של התמכרות:** מתן משאבים וגישה למדריכים (כמו ה-Wiki של הפורום) עבור משתמשים שחשים שהרגלי ההימורים שלהם יוצאים מכלל שליטה.\n* **מודעות לבעיות הימורים:** הדגשת החשיבות של זיהוי סימנים להתמכרות והפניה לקבלת עזרה מקצועית במידת הצורך.\n* **אוטומציה וניהול:** הודעה זו היא חלק ממערך הניהול האוטומטי של הפורום, שנועד לספק מידע חיוני לכל משתמש באופן מיידי."
-    },
-    {
-      "id": "1wrmurl",
-      "source": "reddit",
-      "title": "How is Parimatch for slot play?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1wrmurl/how_is_parimatch_for_slot_play/",
-      "author": "_Ronny_23",
-      "score": 1,
-      "selftext": "Thinking about opening an account on parimatch just for slots. Nolimit and hacksaw titles mostly, occasionally pragmatic drops. Anyone playing there regularly and can say how the casino bonus wagering plays out on slots and how the casino games online selection stacks up for variety? ",
-      "subreddit": "onlinegambling",
-      "created_utc": 1790522377,
-      "top_comments": [
-        {
-          "body": "Do your due diligence before creating an account. I’ve heard some negative things about the platform. ",
-          "score": 1,
-          "author": "ChocolateExciting682"
-        },
-        {
-          "body": "Nolimit and hacksaw titles are all in the library. games load up quick on mobile safari, no lag during bonus features",
-          "score": 1,
-          "author": "LincollnForever"
-        },
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט עוסק בבחינת חוויית המשתמש בפלטפורמת Parimatch, תוך התמקדות במגוון משחקי הסלוטים של ספקים מובילים ובתנאי פדיון הבונוסים. הדיון משקף את המגמה בתעשיית ה-iGaming שבה איכות התוכן והיצע המשחקים הם גורמים מכריעים בבחירת מפעיל, נושא המשיק לפעילותה של Bragg Gaming כספקית תוכן ופלטפורמה לשוק הגלובלי.",
-      "category_he": "שוק ההימורים",
-      "comments_summary_he": "להלן סיכום הדיון מתוך התגובות ב-Reddit, המוצג בנקודות:\n\n* **חשיבות הבדיקה המוקדמת:** מומלץ לבצע \"בדיקת נאותות\" (Due Diligence) ומחקר מעמיק לפני פתיחת חשבון, במיוחד לאור שמועות וביקורות שליליות שנשמעו על הפלטפורמה.\n* **מגוון משחקים וספקים:** הפלטפורמה כוללת בספריית המשחקים שלה כותרים של ספקים מוכרים כמו Nolimit ו-Hacksaw.\n* **ביצועים במובייל:** חוויית המשתמש בדפדפן Safari בנייד נחשבת לטובה, כאשר המשחקים נטענים במהירות.\n* **יציבות טכנית:** המשתמשים מציינים כי אין תקיעות (Lags) במהלך הפעלת תכונות הבונוס (Bonus Features) במשחקים, מה שמעיד על פלטפורמה יציבה מבחינה טכנית.\n* **קידום הימורים אחראיים:** קיימת התייחסות משמעותית לנושא ההימורים האחראיים, כולל הפניה למקורות מידע ועזרה עבור מי שחש שאיבד שליטה על הרגלי ההימורים שלו.\n* **קהילה וכללים:** ישנה הזמנה להצטרף לקהילת הדיסקורד של הפורום ודגש על קריאת חוקי הקהילה כדי לשמור על שיח תקין.",
-      "date_string": "2026-09-28",
-      "saved_at": "2026-09-28T12:58:48.883+00:00"
-    },
-    {
-      "id": "1wrkk5j",
-      "source": "reddit",
-      "title": "Internacional platform",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1wrkk5j/internacional_platform/",
-      "author": "GodolasBR",
-      "score": 1,
-      "selftext": "Hello everyone!\n\nThis week the Brazilian government prohibited all gaming platforms. My question is there any way I can play in for example American platforms?\n\nI found Instant Cassino, the sign up part looks very professional and gives 200% first deposit bonus but I'm new to platforms outside Brazil \n\nThanks!",
-      "subreddit": "onlinegambling",
-      "created_utc": 1790516556,
-      "top_comments": [
-        {
-          "body": "Any platform that you play that don't ask for proof of address?",
-          "score": 1,
-          "author": "GodolasBR"
-        },
-        {
-          "body": "Most international casinos still accept Brazillian players even with the new rules, they just block IPs from here. You need a VPN to access them, that's what most people do now. Just be careful with the withdrawal process cause some sites ask for proof of address and that can be tricky if you're not actually in that country.",
-          "score": 1,
-          "author": "Late_Area_479"
-        },
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "הפוסט דן בניסיונות של משתמשים ברזילאים לעקוף את המגבלות הרגולטוריות החדשות בברזיל, שאסרה לאחרונה על פעילותן של פלטפורמות הימורים לא מורשות. מגמה זו מדגישה את המעבר המורכב לשוק מוסדר בברזיל, שוק המהווה יעד אסטרטגי מרכזי עבור חברות כמו Bragg Gaming (BRAG) הפועלות תחת רישוי. המקרה ממחיש את האתגר של הרשויות מול פלטפורמות \"אוף-שור\" המפתות משתמשים בבונוסים גבוהים למרות האיסורים המקומיים.",
-      "category_he": "טכנולוגיית גיימינג",
-      "comments_summary_he": "להלן סיכום הדיון מהתגובות שהוצגו, המרכז את נקודות המפתח שעלו:\n\n* **חיפוש אחר פלטפורמות ללא אימות כתובת (KYC):** משתמשים מחפשים באופן פעיל אתרי הימורים שאינם דורשים הוכחת כתובת (Proof of Address), ככל הנראה כדי לשמור על אנונימיות או לעקוף מגבלות בירוקרטיות.\n* **עקיפת רגולציה מקומית:** למרות חוקים וכללים חדשים במדינות מסוימות (כמו ברזיל), בתי קזינו בינלאומיים רבים ממשיכים לקבל שחקנים מאותן מדינות, גם אם הגישה הרשמית אליהם חסומה.\n* **שימוש ב-VPN כפתרון נפוץ:** השימוש ברשת פרטית וירטואלית (VPN) הפך לכלי סטנדרטי עבור מהמרים המעוניינים לעקוף חסימות IP גיאוגרפיות ולגשת לפלטפורמות בינלאומיות המוגבלות באזורם.\n* **סיכונים בשלב משיכת הכספים:** קיימת אזהרה לגבי הקושי במשיכת כספים; אתרים רבים דורשים הוכחת כתובת רק בשלב המשיכה, מה שעלול להוות בעיה משמעותית עבור מי שמשתמש ב-VPN ואינו נמצא פיזית במדינה המאושרת.\n* **חשיבות ההימורים האחראיים:** הקהילה מדגישה את הצורך בהימורים אחראיים ומספקת משאבים, קישורים ומידע למניעת התמכרות ולסיוע לאלו שחשים שאיבדו שליטה על הרגלי ההימורים שלהם.\n* **הצורך בבדיקת כללי הקהילה:** קיימת הפניה ברורה לקריאת חוקי הפורום והצטרפות לערוצי תקשורת נוספים (כמו דיסקורד) כדי להישאר מעודכנים בנהלים ובבטיחות בתחום.",
-      "date_string": "2026-09-28",
-      "saved_at": "2026-09-28T12:59:05.316+00:00"
+      "comments_summary_he": "על סמך התוכן שסיפקת (הודעת המערכת האוטומטית מהפורום r/onlinegambling), להלן סיכום הנקודות המרכזיות בעברית:\n\n* **ציות לנהלי הקהילה:** קיימת דרישה ממשתמשים חדשים לקרוא ולהכיר את חוקי הפורום המופיעים בסרגל הצד (sidebar) כדי להבטיח התנהלות תקינה.\n* **הרחבת הקהילה:** עידוד המשתתפים להירשם לערוץ ולהצטרף לשרת הדיסקורד (Discord) הרשמי לצורך אינטראקציה נוספת.\n* **קידום הימורים אחראיים:** הקהילה מצהירה על מחויבותה לקידום דפוסי הימורים בריאים ואחראיים בקרב חבריה.\n* **סיוע במקרה של התמכרות:** מתן משאבים וגישה למדריכים (כמו ה-Wiki של הפורום) עבור משתמשים שחשים שהרגלי ההימורים שלהם יוצאים מכלל שליטה.\n* **מודעות לבעיות הימורים:** הדגשת החשיבות של זיהוי סימנים להתמכרות והפניה לקבלת עזרה מקצועית במידת הצורך.\n* **אוטומציה וניהול:** הודעה זו היא חלק ממערך הניהול האוטומטי של הפורום, שנועד לספק מידע חיוני לכל משתמש באופן מיידי.",
+      "date_string": "2026-09-29",
+      "saved_at": "2026-09-29T12:12:21.051+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין ציוצים עדכניים משמעותיים על BRAG היום. הסנטימנט ניטרלי ללא חדשות או תחזיות חדשות.",
+      "summary": "אין ציוצים עדכניים משמעותיים על BRAG היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה או רישיונות שדווחו היום.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין עדכונים חדשים על רגולציה או אכיפה בברזיל. השוק נותר שקט.",
+      "summary": "אין עדכונים חדשים על רישיונות בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין חידושי רישיונות או אכיפה מדווחים היום בהולנד. BetCity לא מוזכר.",
+      "summary": "אין חידושי רישיונות או אכיפה מדווחים.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות בולטות שדווחו. מגמות כלליות שקטות.",
+      "summary": "פעילות שקטה ללא עסקאות בולטות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-09-29T12:12:22.496Z"
+  "generatedAt": "2026-09-30T11:58:45.451Z"
 };
