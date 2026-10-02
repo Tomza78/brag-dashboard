@@ -2,32 +2,32 @@ window.dashboardData = {
   "trends": [],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים היום ב-X על מניית BRAG. אין דיונים בולטים על סנטימנט או תחזיות.",
+      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. דיונים מוגבלים על ביצועי Q3.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין חדשות חדשות מ-X היום על רגולציית iGaming בניו יורק או חקיקה חדשה.",
+      "summary": "דיונים על רישיונות ניו יורק נמשכים ללא חקיקה חדשה. התמקדות באכיפה.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין פוסטים עדכניים על רגולציה או רישיונות בשוק ההימורים בברזיל.",
+      "summary": "רגולציה בברזיל מתקדמת לאט; אין רישיונות חדשים מדווחים היום.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין מידע חדש מ-X על KSA, חידוש רישיונות או BetCity.",
+      "summary": "אין חידושי רישיונות או אכיפה בולטים מ-KSA היום. BetCity שקט.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין דיווחים על עסקאות או מגמות בתעשיית iGaming היום.",
+      "summary": "עסקאות ושותפויות מינוריות; מגמות כלליות יציבות.",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות"
+    "top_alert": ""
   },
-  "generatedAt": "2026-10-01T12:29:53.025Z"
+  "generatedAt": "2026-10-02T11:56:01.995Z"
 };
