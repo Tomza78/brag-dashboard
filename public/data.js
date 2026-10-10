@@ -2,32 +2,32 @@ window.dashboardData = {
   "trends": [],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "לא נמצאו פוסטים עדכניים משמעותיים היום ב-X על BRAG. אין דיונים בולטים על סנטימנט או תחזיות.",
+      "summary": "אין מידע עדכני מהיום ב-X על BRAG.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "us_regulation": {
-      "summary": "אין עדכונים חדשים מהיום בנושא רגולציית iGaming בניו יורק או חקיקה.",
+      "summary": "אין מידע עדכני מהיום ב-X על רגולציה בניו יורק.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "brazil_market": {
-      "summary": "לא זוהו פוסטים עדכניים על רגולציה או רישיונות בברזיל.",
+      "summary": "אין מידע עדכני מהיום ב-X על שוק ברזיל.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "netherlands_ksa": {
-      "summary": "אין מידע חדש מהיום על KSA, חידוש רישיונות או BetCity.",
+      "summary": "אין מידע עדכני מהיום ב-X על KSA.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "igaming_industry": {
-      "summary": "אין דיונים בולטים על עסקאות או מגמות בתעשייה היום ב-X.",
+      "summary": "אין מידע עדכני מהיום ב-X על חדשות תעשייה.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": ""
+    "top_alert": "אין חדשות עדכניות מהיום"
   },
-  "generatedAt": "2026-10-09T12:37:36.012Z"
+  "generatedAt": "2026-10-10T11:59:22.780Z"
 };
