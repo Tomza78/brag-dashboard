@@ -2,32 +2,32 @@ window.dashboardData = {
   "trends": [],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר.",
+      "summary": "אין פוסטים משמעותיים מהיום על BRAG.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "אין עדכונים חדשים מניו יורק או חקיקה.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין חדשות עדכניות על רישיונות או אכיפה בברזיל.",
+      "summary": "אין דיווחים עדכניים על רגולציה או רישיונות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין אזכורים חדשים על KSA או BetCity.",
+      "summary": "אין חידושי רישיונות או אכיפה מדווחים.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או מגמות בולטות מדווחות היום.",
+      "summary": "אין עסקאות או מגמות חדשות מהיום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-10-13T13:37:52.066Z"
+  "generatedAt": "2026-10-14T11:14:13.891Z"
 };
