@@ -1,57 +1,57 @@
 window.intelData = {
   "stock": {
-    "price": "1.10",
-    "change": "-0.02",
-    "changePercent": "-1.79%",
-    "priceTSX": "1.58",
+    "price": "1.09",
+    "change": "-0.01",
+    "changePercent": "-0.91%",
+    "priceTSX": "1.52",
     "high52w": "$2.80",
     "low52w": "$1.07",
-    "volume": "12,700",
-    "marketCap": "$34M",
+    "volume": "1,700",
+    "marketCap": "$33M",
     "yoyChange": "-61%",
-    "updatedAt": "23.10.2026 · 11:00",
-    "dayHigh": "$1.26",
+    "updatedAt": "24.10.2026 · 10:17",
+    "dayHigh": "$1.10",
     "dayLow": "$1.08",
-    "changeTSX": "-0.01",
-    "changePercentTSX": "-0.63%",
-    "volumeTSX": "2,300"
+    "changeTSX": "-0.06",
+    "changePercentTSX": "-3.80%",
+    "volumeTSX": "4,300"
   },
   "chartData": {
     "priceLabels": [
-      "14/10",
       "15/10",
       "16/10",
       "19/10",
       "20/10",
       "21/10",
-      "22/10"
+      "22/10",
+      "23/10"
     ],
     "priceValues": [
-      1.74,
       1.74,
       1.8,
       1.7,
       1.62,
       1.59,
-      1.58
+      1.58,
+      1.52
     ],
     "volumeLabels": [
-      "14/10",
       "15/10",
       "16/10",
       "19/10",
       "20/10",
       "21/10",
-      "22/10"
+      "22/10",
+      "23/10"
     ],
     "volumeValues": [
-      1,
       2,
       2,
       2,
       8,
       7,
-      2
+      2,
+      4
     ]
   },
   "socialMedia": {
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין ציוצים עדכניים משמעותיים על BRAG היום. אין חדשות או תחזיות חדשות.",
+        "text": "אין מידע עדכני זמין",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+        "text": "אין מידע עדכני זמין",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין עדכונים חדשים על רגולציה או רישיונות בברזיל.",
+        "text": "אין מידע עדכני זמין",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין אזכורים על KSA או BetCity מהיום.",
+        "text": "אין מידע עדכני זמין",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "פעילות שקטה בתעשייה, ללא עסקאות או מגמות בולטות.",
+        "text": "אין מידע עדכני זמין",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,32 +166,32 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין ציוצים עדכניים משמעותיים על BRAG היום. אין חדשות או תחזיות חדשות.",
+      "summary": "אין מידע עדכני זמין",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "אין מידע עדכני זמין",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין עדכונים חדשים על רגולציה או רישיונות בברזיל.",
+      "summary": "אין מידע עדכני זמין",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין אזכורים על KSA או BetCity מהיום.",
+      "summary": "אין מידע עדכני זמין",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "igaming_industry": {
-      "summary": "פעילות שקטה בתעשייה, ללא עסקאות או מגמות בולטות.",
+      "summary": "אין מידע עדכני זמין",
       "sentiment": "ניטרלי",
-      "breaking": "אין"
+      "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין חדשות בולטות מהיום"
+    "top_alert": "אין גישה למידע בזמן אמת מ-X"
   },
   "sections": {
     "brag_official": {
@@ -199,6 +199,14 @@ window.intelData = {
       "icon": "🏢",
       "color": "rgba(255,214,0,0.15)",
       "articles": [
+        {
+          "date": "2026-10-24",
+          "title": "Bragg Gaming Group Inc. Estimates – TSX:BRAG - TradingView",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1nYnRUMDRuZmZvamY0R01rX2NtSlBWOUZMeEtyem9NdmZzRDZ6N3Y3UTlUQVJRbUtyZnlhekV1WmFwREdFcy1MRmh1M2g4UTdmZ04xWEg0b0QyX0dSS0VmS0V4R2ktbVZYZkN2LVRranFUT3Fp?oc=5\" target=\"_blank\">Bragg Gaming Group Inc. Estimates – TSX:BRAG</a>&nbsp;&nbsp;<font color",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nYnRUMDRuZmZvamY0R01rX2NtSlBWOUZMeEtyem9NdmZzRDZ6N3Y3UTlUQVJRbUtyZnlhekV1WmFwREdFcy1MRmh1M2g4UTdmZ04xWEg0b0QyX0dSS0VmS0V4R2ktbVZYZkN2LVRranFUT3Fp?oc=5",
+          "sourceKey": "brag_official"
+        },
         {
           "date": "2026-10-21",
           "title": "Bragg Gaming stock: platform growth, regulation and profitability in focus (TSX:BRAG) - kalkine.ca",
@@ -270,14 +278,6 @@ window.intelData = {
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1N0WHV5Y09IRE1ZeXhucU5EUlR2OEVoWjlNWko2bkY3bFBuR0ZWN2dVTXF6VU1pdloxQ1QtTzFRckh4TUtydEpNXzBaNHZxRnpSZDd6RGxSdnhsSVFjTkdlcFlnMzRsN25Pb2psaUJvYTluOXFMdGt4dG9sZzlJSl94dFROd1kwTl94cw?oc=5",
           "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-09-30",
-          "title": "Bragg Gaming Group Stock Slides as Regulatory Pressure and Execution Risks Raise Downside Concerns - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxORjNoeDVmVmZ5Y3Npdk5YV3JzVUFFbENiNnRWN19lZHVXREhGeWd2NVI2RV91VTc1akdEQXdQcWhlclg5NnNlS0s1ZmQxc3FVcC01eGRHT0RzMEdmdkE5dGtVYWRGQ2FsUFB5UkVUM2M1dEVIak5YenV6OTJoa2s5N1FjWERlbm1Sb0I5UTRRZHRIZ1RVSWs5OW9BdnprR1RXMzBEVTM5d1RSRkpudWVReWNtTkFneVVrZF",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORjNoeDVmVmZ5Y3Npdk5YV3JzVUFFbENiNnRWN19lZHVXREhGeWd2NVI2RV91VTc1akdEQXdQcWhlclg5NnNlS0s1ZmQxc3FVcC01eGRHT0RzMEdmdkE5dGtVYWRGQ2FsUFB5UkVUM2M1dEVIak5YenV6OTJoa2s5N1FjWERlbm1Sb0I5UTRRZHRIZ1RVSWs5OW9BdnprR1RXMzBEVTM5d1RSRkpudWVReWNtTkFneVVrZFZ0Unk5VkJhMVltc2ZfcWVvUFIyQQ?oc=5",
-          "sourceKey": "brag_official"
         }
       ]
     },
@@ -288,19 +288,11 @@ window.intelData = {
       "articles": [
         {
           "date": "2026-10-23",
-          "title": "Largest Fine in Its History: Dutch Regulator Slaps Online Operator with €37M Penalty",
-          "summary_he": "The Dutch Gambling Authority (KSA) has imposed a record EUR 37 million ($44.4 million) fine on EOD Code SRL for allegedly providing online gambling to players in the Netherlands without a license.&#160; Largest Penalty So Far&#160; The penalty is the largest ever issued by the regulator for illegal ",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/largest-fine-in-its-history-dutch-regulator-slaps-online-operator-with-e37m-penalty/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-10-22",
-          "title": "Are KSA record fines futile in the Dutch black market fight?",
-          "summary_he": "Kansspelautoriteit (KSA) has once again broken its record fine issued to an illegal operator, but the Netherlands’ escalating black market would suggest financial penalties are proving all but meaningless in the longstanding battle. The KSA fined EOD Code SRL $37m for targeting the Netherlands witho",
-          "source": "igamingexpert.com",
-          "url": "https://igamingexpert.com/regions/europe/ksa-record-fines-dutch-market-black-market/",
-          "sourceKey": "igaming_expert"
+          "title": "KSA imposes record €37 million fine on unlicensed operator managing over 10 sites",
+          "summary_he": "The fine stems from inadequate age verification procedures as well as an acceptance of cryptocurrency as payment.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/ksa-imposed-record-37-million-fine-unlicensed-operator-10-sites/",
+          "sourceKey": "igaming_market"
         }
       ]
     },
@@ -310,27 +302,19 @@ window.intelData = {
       "color": "rgba(76,175,80,0.12)",
       "articles": [
         {
+          "date": "2026-10-23",
+          "title": "Evolution CEO &#8216;flabbergasted&#8217; by Brazil betting ban as company awaits clarity",
+          "summary_he": "Brazil’s regulatory uncertainty, disappointing European performance and cybercrime in Asia were hot topics in Evolution’s latest earnings call.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/finance/evolution-ceo-flabbergasted-brazil-betting-ban/",
+          "sourceKey": "igaming_market"
+        },
+        {
           "date": "2026-10-21",
           "title": "Stake to challenge reversal of injunction against Brazil betting ban",
           "summary_he": "Stake’s challenge could have significant implications for Brazil’s wider betting industry, as licensed operators seek to regain access to the market.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/legal-compliance/stake-to-challenge-reversal-injunction-brazil-betting-ban/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-10-20",
-          "title": "Kambi LatAm director warns ban on betting in Brazil threatens sports integrity",
-          "summary_he": "Kambi’s Mateo Lenoble warned Brazil’s betting ban is damaging investor confidence and threatening progress in the country’s regulated gambling market.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/regulation/kambi-latam-director-warns-ban-on-betting-in-brazil-threatens-sports-integrity/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-10-20",
-          "title": "Codere Online CEO on Brazil: &#8216;We dodged the bullet&#8217;",
-          "summary_he": "Brazil’s betting ban has vindicated Codere Online’s cautious approach, but the company still sees opportunities across Latin America.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/strategy/aviv-sher-codere-online-dodged-bullet-brazil/",
           "sourceKey": "igaming_market"
         },
         {
@@ -343,11 +327,19 @@ window.intelData = {
         },
         {
           "date": "2026-10-22",
-          "title": "FIRST.bet CEO reacts to Brazil betting ban and outlines European &#038; African goals",
-          "summary_he": "When President Lula signed his provisional order to ban online sports betting and online casino in Brazil, it dealt a massive blow to a regulated sector that has steadily been growing since January 2025.&#160; For the operators who have invested significant resources in setting up local entities, hi",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/africa/2026/10/22/first-bet-ceo-brazil-betting-ban-europe-africa/",
-          "sourceKey": "sbc_news"
+          "title": "The Economist says Brazil’s gambling crackdown has failed to address industry concerns",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/22/126970-the-economist-says-brazils-gambling-crackdown-has-failed-to-address-industry-concerns",
+          "sourceKey": "yogonet"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "Evolution Q3 2026 Results: Revenues up 3.7%",
+          "summary_he": "Evolution Q3 2026 results show net revenues up 3.7% to EUR 526.1m, with all regions growing and the Brazilian studio temporarily closed....Read More...",
+          "source": "igamingfuture.com",
+          "url": "https://igamingfuture.com/evolution-q3-2026/",
+          "sourceKey": "igaming_future"
         }
       ]
     },
@@ -357,44 +349,44 @@ window.intelData = {
       "color": "rgba(33,150,243,0.12)",
       "articles": [
         {
-          "date": "2026-10-22",
-          "title": "IG Group confident of UK prediction market launch in 2026",
-          "summary_he": "IG Group is targeting the launch of a UK prediction markets product as early as Q4 2026. The FTSE 100 financial trading services platform sees this as the logical next evolution of its product as prediction markets grow globally, particularly in the US. The company’s IG Consumer arm, its retail inve",
+          "date": "2026-10-23",
+          "title": "Can IG Group stick the landing on UK prediction markets launch?",
+          "summary_he": "IG Group will reignite its sports betting ambitions 16 years after departing the scene, as it sets out ambitious plans to revamp the identity of the current space. Yesterday saw the FTSE 100 firm reveal its plans for a UK prediction market launch, beginning with a rollout in late Q4 2026.&#160; This",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/sportsbook/2026/10/22/ig-group-uk-predictions-launch/",
+          "url": "https://sbcnews.co.uk/features/comment/2026/10/23/can-ig-group-make-uk-predictions-jump/",
           "sourceKey": "sbc_news"
         },
         {
           "date": "2026-10-23",
-          "title": "Encore Boston Harbor Strike Slashes Casino Revenue by 22%",
-          "summary_he": "The Massachusetts casino Encore Boston Harbor saw a steep drop in gaming revenue in September, as a strike by about 1,350 workers continued to affect the property. The slowdown also has taken a bite out of state tax revenue, prompting gambling regulators to underscore the financial impact of the con",
+          "title": "DraftKings’ DKeX Platform May Be the Third-Largest in the US, Company in No Hurry, Though",
+          "summary_he": "DraftKings’ dedicated prediction market platform, DKeX, is doing well, the sportsbook company’s boss has recently commented. In fact, it is doing so well, argues CEO and co-founder Jason Robins, that it may be the third-largest in the United States, speaking at the NEXTPredict Summit in New York Cit",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/encore-boston-harbor-strike-slashes-casino-revenue-by-22/",
+          "url": "https://www.gamblingnews.com/news/draftkings-dkex-platform-may-be-the-third-largest-in-the-us-company-in-no-hurry-though/",
           "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-10-22",
-          "title": "Pennsylvania Lawmakers Launch New Caucus to Combat Gambling Addiction",
-          "summary_he": "Gambling has exploded in Pennsylvania over the last two decades, but this has come at the price of increasing numbers of problem gamblers in the state. However, lawmakers are seeking to develop a new system to combat this with the aid of the newly formed Problem Gambling Caucus. What Is the New Cauc",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/pennsylvania-lawmakers-launch-new-caucus-to-combat-gambling-addiction/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-10-22",
-          "title": "Only Half the Parents Had “the Talk” About Gambling, Survey Says",
-          "summary_he": "For lots of parents, “the talk” about sex, alcohol and drugs is part of raising children. Now, as sports betting and prediction markets are becoming more and more visible and hard to avoid online, gambling advocates want families to add another subject to those sensitive discussions. A survey commis",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/only-half-the-parents-had-the-talk-about-gambling-survey-says/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-10-22",
-          "title": "New Jersey introduces mandatory player monitoring and intervention rules for online gambling",
+          "date": "2026-10-23",
+          "title": "DraftKings CEO says DKeX is now the No. 3 prediction market exchange in the US",
           "summary_he": "",
           "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/22/126959-new-jersey-introduces-mandatory-player-monitoring-and-intervention-rules-for-online-gambling",
+          "url": "https://www.yogonet.com/international/news/2026/10/23/126976-draftkings-ceo-says-dkex-is-now-the-no-3-prediction-market-exchange-in-the-us",
           "sourceKey": "yogonet"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "CFTC warns Novig and ProphetX against listing scorigami, sports micro contracts",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/23/126977-cftc-warns-novig-and-prophetx-against-listing-scorigami-sports-micro-contracts",
+          "sourceKey": "yogonet"
+        },
+        {
+          "date": "2026-10-24",
+          "title": "Sports Betting Giants Pour Millions Into New York’s Political Arena",
+          "summary_he": "",
+          "source": "deadspin.com",
+          "url": "https://deadspin.com/legal-betting/",
+          "sourceKey": "deadspin"
         }
       ]
     },
@@ -403,6 +395,22 @@ window.intelData = {
       "icon": "🌍",
       "color": "rgba(156,39,176,0.12)",
       "articles": [
+        {
+          "date": "2026-10-23",
+          "title": "Spain pushes further towards centralisation with nationwide deposit limits",
+          "summary_he": "The Consumer Affairs alongside the Spanish Directorate General for Gambling Regulation (DGOJ) have launched a player portal for self-assessment.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/igaming/spain-centralisation-nationwide-deposit-limits/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "Namibia advances gambling reform proposals amid regulator staffing concerns",
+          "summary_he": "Namibia has held regional validation workshops on proposed amendments to its Lotteries Regulations and Gambling and Gambling Activities Regulations, following an earlier consultation period in March and April.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/namibia-gambling-reforms-regulator-staffing/",
+          "sourceKey": "igaming_market"
+        },
         {
           "date": "2026-10-22",
           "title": "Former AFL players receive formal warnings over illegal gambling promotion",
@@ -425,22 +433,6 @@ window.intelData = {
           "summary_he": "Rising gambling taxes are taking their toll on the UK betting sector, with Flutter now planning up to 1,400 redundancies.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/people/flutter-job-cuts-uk-tax-pressures/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-10-20",
-          "title": "Curaçao Gaming Authority set to launch temporary licensing portal after data breach",
-          "summary_he": "Curaçao’s gambling regulator is replacing its licensing portal after a data breach exposed confidential information belonging to licence holders.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/curacao-gaming-authority-launch-new-licensing-portal-data-breach/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Hippos ATG announces Finland licence ahead of market launch",
-          "summary_he": "Hippos ATG has become the second company to announce it has been granted a Finnish gambling licence, although the regulator has not yet officially announced any licensee decisions.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/licensing/hippos-atg-announces-finland-licence/",
           "sourceKey": "igaming_market"
         }
       ]
@@ -468,6 +460,14 @@ window.intelData = {
         },
         {
           "date": "2026-10-23",
+          "title": "Evolution’s steady Q3 performance fails to excite CEO",
+          "summary_he": "Evolution AB has reported slight revenue growth in Q3 with Chief Executive Officer, Martin Carlesund, describing the period as “uneventful”. The Sweden-headquartered and -listed business saw net revenue increase 3.7% year-on-year to €526.1m (£440m), driven by 10% growth from RNG games. Adjusted EBIT",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/igaming/2026/10/23/evolution-steady-q3-results/",
+          "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-10-23",
           "title": "SOFTSWISS maps out the successful iGaming market expansion",
           "summary_he": "When an iGaming operator looks at a market expansion, it usually goes one of two ways &#8211; either the move becomes profitable or it creates a level of unnecessary complexity. How to avoid the latter became the main talking point in a discussion between Sergey Kastukevich, Chief Technology Officer",
           "source": "sbcnews.co.uk",
@@ -475,28 +475,20 @@ window.intelData = {
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-10-22",
-          "title": "Betsson boosted by football activity as firm reports record customers and revenue",
-          "summary_he": "Betsson AB has reported record revenue in Q3 2026, as the figure grew 10% year-on-year (YoY) to €326.5m (£273.7m).&#160; Total revenue for the first nine months of the year reached €922.1m, representing 3.2% growth YoY. However, EBITDA for Q3 dipped 23% to €63.4m from €82.5m as pressures such as hig",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/sportsbook/2026/10/22/betsson-record-revenue-q3/",
-          "sourceKey": "sbc_news"
-        },
-        {
-          "date": "2026-10-22",
-          "title": "Las Vegas Sands Posts Underwhelming Q3 Results",
-          "summary_he": "Casino giant Las Vegas Sands (LVS) posted mixed third-quarter results that surprisingly fell short of analyst expectations. Despite cooling investor sentiment, the company remains on course as it refines its Asian strategy and aims to capitalize on its new projects and renovation efforts. With no in",
+          "date": "2026-10-23",
+          "title": "Evoke Posts Trading Update, Highlights 7% Drop in Q3 Revenue",
+          "summary_he": "Gaming and betting giant evoke has published its latest trading update, highlighting a single-digit decrease in revenue for the third quarter of the year. This comes shortly after the company streamlined its business in the UK due to the negative impact of higher taxes. Evoke’s Business Was Impacted",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/las-vegas-sands-posts-underwhelming-q3-results/",
+          "url": "https://www.gamblingnews.com/news/evoke-posts-trading-update-highlights-7-drop-in-q3-revenue/",
           "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-10-22",
-          "title": "California's Hard Rock Casino Tejon breaks ground on $725M hotel expansion",
-          "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/22/126953-california-39s-hard-rock-casino-tejon-breaks-ground-on-725m-hotel-expansion",
-          "sourceKey": "yogonet"
+          "date": "2026-10-23",
+          "title": "Philippines to Reconsider Its Visa-Free Policy for China Amid POGO Concerns",
+          "summary_he": "According to a statement from the Philippines’ Presidential Palace, the country’s Department of Foreign Affairs (DFA) will investigate whether the recently introduced visa-free entry scheme for Chinese citizens is being exploited to revive illicit Philippine Offshore Gaming Operator (POGO) activitie",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/philippines-to-reconsider-its-visa-free-policy-for-china-amid-pogo-concerns/",
+          "sourceKey": "gambling_news"
         }
       ]
     }
