@@ -9,7 +9,7 @@ window.intelData = {
     "volume": "1,700",
     "marketCap": "$33M",
     "yoyChange": "-61%",
-    "updatedAt": "24.10.2026 · 10:17",
+    "updatedAt": "25.10.2026 · 10:43",
     "dayHigh": "$1.10",
     "dayLow": "$1.08",
     "changeTSX": "-0.06",
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין מידע עדכני זמין",
+        "text": "אין ציוצים משמעותיים מהיום על BRAG. אין עדכונים על סנטימנט או תחזיות.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "אין מידע עדכני זמין",
+        "text": "אין דיונים חדשים בניו יורק או חקיקה עדכנית. אין אזכורים לרישיונות חדשים.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין מידע עדכני זמין",
+        "text": "אין מידע חדש על רגולציה או אכיפה בברזיל מהיום.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין מידע עדכני זמין",
+        "text": "אין עדכונים על KSA, חידוש רישיונות או BetCity.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין מידע עדכני זמין",
+        "text": "אין חדשות על עסקאות או מגמות כלליות בתעשייה.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,32 +166,32 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין מידע עדכני זמין",
+      "summary": "אין ציוצים משמעותיים מהיום על BRAG. אין עדכונים על סנטימנט או תחזיות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין מידע עדכני זמין",
+      "summary": "אין דיונים חדשים בניו יורק או חקיקה עדכנית. אין אזכורים לרישיונות חדשים.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין מידע עדכני זמין",
+      "summary": "אין מידע חדש על רגולציה או אכיפה בברזיל מהיום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין מידע עדכני זמין",
+      "summary": "אין עדכונים על KSA, חידוש רישיונות או BetCity.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין מידע עדכני זמין",
+      "summary": "אין חדשות על עסקאות או מגמות כלליות בתעשייה.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין גישה למידע בזמן אמת מ-X"
+    "top_alert": ""
   },
   "sections": {
     "brag_official": {
@@ -205,6 +205,14 @@ window.intelData = {
           "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1nYnRUMDRuZmZvamY0R01rX2NtSlBWOUZMeEtyem9NdmZzRDZ6N3Y3UTlUQVJRbUtyZnlhekV1WmFwREdFcy1MRmh1M2g4UTdmZ04xWEg0b0QyX0dSS0VmS0V4R2ktbVZYZkN2LVRranFUT3Fp?oc=5\" target=\"_blank\">Bragg Gaming Group Inc. Estimates – TSX:BRAG</a>&nbsp;&nbsp;<font color",
           "source": "TradingView",
           "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nYnRUMDRuZmZvamY0R01rX2NtSlBWOUZMeEtyem9NdmZzRDZ6N3Y3UTlUQVJRbUtyZnlhekV1WmFwREdFcy1MRmh1M2g4UTdmZ04xWEg0b0QyX0dSS0VmS0V4R2ktbVZYZkN2LVRranFUT3Fp?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-10-23",
+          "title": "Bragg Gaming Group Q3 2026 Earnings Date and Estimates - MarketBeat",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTU5yWGVWSEMzMFVVXzV3bzJyaHNJQXdVOXBCWWd2eVBhaFlTV2dqT0JQWGwwblpRODE0V19fVWswMlZTVHFDeS1VSko0Q2NIYzlOTFJrY213aDJrVkhCTEo0ekpOWThOdHVzMGp0dU5EZjdCM1VjUWdRYWhhLVBvSkU0Q1kyZURFQmd1OVpVVQ?oc=5\" target=\"_blank\">Bragg Gaming Group Q3 2026 Earnin",
+          "source": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTU5yWGVWSEMzMFVVXzV3bzJyaHNJQXdVOXBCWWd2eVBhaFlTV2dqT0JQWGwwblpRODE0V19fVWswMlZTVHFDeS1VSko0Q2NIYzlOTFJrY213aDJrVkhCTEo0ekpOWThOdHVzMGp0dU5EZjdCM1VjUWdRYWhhLVBvSkU0Q1kyZURFQmd1OVpVVQ?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -240,19 +248,19 @@ window.intelData = {
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-10-18",
-          "title": "Bragg Gaming Group Q3 2026 Earnings Date and Estimates - MarketBeat",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTU5yWGVWSEMzMFVVXzV3bzJyaHNJQXdVOXBCWWd2eVBhaFlTV2dqT0JQWGwwblpRODE0V19fVWswMlZTVHFDeS1VSko0Q2NIYzlOTFJrY213aDJrVkhCTEo0ekpOWThOdHVzMGp0dU5EZjdCM1VjUWdRYWhhLVBvSkU0Q1kyZURFQmd1OVpVVQ?oc=5\" target=\"_blank\">Bragg Gaming Group Q3 2026 Earnin",
-          "source": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTU5yWGVWSEMzMFVVXzV3bzJyaHNJQXdVOXBCWWd2eVBhaFlTV2dqT0JQWGwwblpRODE0V19fVWswMlZTVHFDeS1VSko0Q2NIYzlOTFJrY213aDJrVkhCTEo0ekpOWThOdHVzMGp0dU5EZjdCM1VjUWdRYWhhLVBvSkU0Q1kyZURFQmd1OVpVVQ?oc=5",
+          "date": "2026-10-15",
+          "title": "Bragg Gaming Group Inc. (TSX:BRAG): The Commercial Milestones Investors Need to Watch - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjBGUWw3MkxhUi1vY1dGX0trWjlIUlRYamk1RVFFUHc2V25vS0Rmc29uOFJtM0YyemtCVGlfbFFnX0VUVlNRTzhRdnlucXhjMVdZQzdKcHJLVHFmQlpGQWQ4Yk5xS01GY19RakdBakIwTThOTVowVjNMdjRZTHhyRVZ4aHV1ekl3ZF9ybWhIMkI1X0RTRDN6eFNkQTNzcEFuUkxReXVSMmh0QnpFNWtueUNRUjY2dw?oc=",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjBGUWw3MkxhUi1vY1dGX0trWjlIUlRYamk1RVFFUHc2V25vS0Rmc29uOFJtM0YyemtCVGlfbFFnX0VUVlNRTzhRdnlucXhjMVdZQzdKcHJLVHFmQlpGQWQ4Yk5xS01GY19RakdBakIwTThOTVowVjNMdjRZTHhyRVZ4aHV1ekl3ZF9ybWhIMkI1X0RTRDN6eFNkQTNzcEFuUkxReXVSMmh0QnpFNWtueUNRUjY2dw?oc=5",
           "sourceKey": "brag_official"
         },
         {
           "date": "2026-10-14",
-          "title": "Form 13D/A Bragg Gaming Group Inc. For: 14 October By Investing.com - Investing.com Nigeria",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUw2S29GcVZfTjNDSV9OelpMdFhTRC1ZbDZyVUpBVkl3VE1aSG1STU0tejNNdkE4Q0hTb1o3djRnR0tIUW1fRmtQU0lpUE10ZGtqeC03RGtjay1FRlJnTkZOTVNsRTdnOGEtQ0Q2VHBKVC1wRmJzeUJ3d0wtSTFYYTRHbDk2WFBleWQ2cXVlSlNJMWs0N1lIU0s2eHpjczBfVU13S19oT1JaQkg1?oc=5\" target=\"_bl",
-          "source": "Investing.com Nigeria",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQUw2S29GcVZfTjNDSV9OelpMdFhTRC1ZbDZyVUpBVkl3VE1aSG1STU0tejNNdkE4Q0hTb1o3djRnR0tIUW1fRmtQU0lpUE10ZGtqeC03RGtjay1FRlJnTkZOTVNsRTdnOGEtQ0Q2VHBKVC1wRmJzeUJ3d0wtSTFYYTRHbDk2WFBleWQ2cXVlSlNJMWs0N1lIU0s2eHpjczBfVU13S19oT1JaQkg1?oc=5",
+          "title": "Form 13D/A Bragg Gaming Group Inc. For: 14 October By Investing.com - Investing.com UK",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGFiNk1aUFNIQmhVZGcwMHlxcVRJeDRqXzRBSk5jUk9Pb0FxR1lUaDJpajdTM05uc2FKNFpwZzJUYUtKcmduRUFwY3B3ZEtiUUt4TlYwMnM3Tko2UnA2ZWRfeG5iVjB6N0RvWmV0cklGejUtRktqU0syYldRMVdOU0xtUXQxWjlzODZodGhaYnAzUTNORVhEczdLcnZCOHRCQjF3YmtGWWlZSGNB?oc=5\" target=\"_bl",
+          "source": "Investing.com UK",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdGFiNk1aUFNIQmhVZGcwMHlxcVRJeDRqXzRBSk5jUk9Pb0FxR1lUaDJpajdTM05uc2FKNFpwZzJUYUtKcmduRUFwY3B3ZEtiUUt4TlYwMnM3Tko2UnA2ZWRfeG5iVjB6N0RvWmV0cklGejUtRktqU0syYldRMVdOU0xtUXQxWjlzODZodGhaYnAzUTNORVhEczdLcnZCOHRCQjF3YmtGWWlZSGNB?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -269,14 +277,6 @@ window.intelData = {
           "summary_he": "bragg has signed new agreements with Trustly, CheckIn.com, Mollie and Mindway AI. For operators, that means more choice in how they take deposits, verify players and support safer play, all through one player account management platform. Trustly: deposit and verification capabilities Trustly brings ",
           "source": "bragg.group",
           "url": "https://bragg.group/new-bragg-pam-agreements-trustly-checkin-mindway-ai-and-mollie/",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-10-12",
-          "title": "Operating income of Bragg Gaming Group Inc. – HAN:SL4 - TradingView",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1N0WHV5Y09IRE1ZeXhucU5EUlR2OEVoWjlNWko2bkY3bFBuR0ZWN2dVTXF6VU1pdloxQ1QtTzFRckh4TUtydEpNXzBaNHZxRnpSZDd6RGxSdnhsSVFjTkdlcFlnMzRsN25Pb2psaUJvYTluOXFMdGt4dG9sZzlJSl94dFROd1kwTl94cw?oc=5\" target=\"_blank\">Operating income of Bragg Gaming Grou",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS1N0WHV5Y09IRE1ZeXhucU5EUlR2OEVoWjlNWko2bkY3bFBuR0ZWN2dVTXF6VU1pdloxQ1QtTzFRckh4TUtydEpNXzBaNHZxRnpSZDd6RGxSdnhsSVFjTkdlcFlnMzRsN25Pb2psaUJvYTluOXFMdGt4dG9sZzlJSl94dFROd1kwTl94cw?oc=5",
           "sourceKey": "brag_official"
         }
       ]
@@ -381,7 +381,7 @@ window.intelData = {
           "sourceKey": "yogonet"
         },
         {
-          "date": "2026-10-24",
+          "date": "2026-10-25",
           "title": "Sports Betting Giants Pour Millions Into New York’s Political Arena",
           "summary_he": "",
           "source": "deadspin.com",
