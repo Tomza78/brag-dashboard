@@ -9,7 +9,7 @@ window.intelData = {
     "volume": "1,700",
     "marketCap": "$33M",
     "yoyChange": "-61%",
-    "updatedAt": "25.10.2026 · 10:43",
+    "updatedAt": "26.10.2026 · 12:15",
     "dayHigh": "$1.10",
     "dayLow": "$1.08",
     "changeTSX": "-0.06",
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין ציוצים משמעותיים מהיום על BRAG. אין עדכונים על סנטימנט או תחזיות.",
+        "text": "אין עדכונים משמעותיים על מניית BRAG ב-X היום.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "אין דיונים חדשים בניו יורק או חקיקה עדכנית. אין אזכורים לרישיונות חדשים.",
+        "text": "אין דיונים בולטים על רגולציה בניו יורק או חקיקה חדשה.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין מידע חדש על רגולציה או אכיפה בברזיל מהיום.",
+        "text": "אין חדשות עדכניות על רגולציה או רישיונות בברזיל.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין עדכונים על KSA, חידוש רישיונות או BetCity.",
+        "text": "אין אזכורים חדשים על KSA, BetCity או אכיפה.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין חדשות על עסקאות או מגמות כלליות בתעשייה.",
+        "text": "אין עסקאות או מגמות בולטות שדווחו היום.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,27 +166,27 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין ציוצים משמעותיים מהיום על BRAG. אין עדכונים על סנטימנט או תחזיות.",
+      "summary": "אין עדכונים משמעותיים על מניית BRAG ב-X היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין דיונים חדשים בניו יורק או חקיקה עדכנית. אין אזכורים לרישיונות חדשים.",
+      "summary": "אין דיונים בולטים על רגולציה בניו יורק או חקיקה חדשה.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין מידע חדש על רגולציה או אכיפה בברזיל מהיום.",
+      "summary": "אין חדשות עדכניות על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על KSA, חידוש רישיונות או BetCity.",
+      "summary": "אין אזכורים חדשים על KSA, BetCity או אכיפה.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין חדשות על עסקאות או מגמות כלליות בתעשייה.",
+      "summary": "אין עסקאות או מגמות בולטות שדווחו היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
@@ -199,6 +199,14 @@ window.intelData = {
       "icon": "🏢",
       "color": "rgba(255,214,0,0.15)",
       "articles": [
+        {
+          "date": "2026-10-26",
+          "title": "Bragg Gaming Group Inc. Stock Dips as iGaming Content Supplier Faces Regulatory Uncertainty and Competitive Intensity - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTzZyT21Qck0xdFNCOUpVVGtoRy1PaTBQby0zMnR1NjlIUW9VSkpzb0d6VnpzYm1mbldvdjRSZ0c3OGtWVDlpZFNxbXZyT3p5a3hUTlI5NmNCdFlMd2EyaDlMdXNMS3VnMEE3Vmg3U1Q4RTdxQ0hpSzBNTkVBUkI5SnpESUVKY18ydjdZSE5LUTYwUHBic2NJdHItN29ybVVNbzBxdzVSdmVNaGpad1dWdkYyNzZvdjdlWH",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTzZyT21Qck0xdFNCOUpVVGtoRy1PaTBQby0zMnR1NjlIUW9VSkpzb0d6VnpzYm1mbldvdjRSZ0c3OGtWVDlpZFNxbXZyT3p5a3hUTlI5NmNCdFlMd2EyaDlMdXNMS3VnMEE3Vmg3U1Q4RTdxQ0hpSzBNTkVBUkI5SnpESUVKY18ydjdZSE5LUTYwUHBic2NJdHItN29ybVVNbzBxdzVSdmVNaGpad1dWdkYyNzZvdjdlWHBxLTh6eEY1UEdjWGZHdHRWZGVzNXluVkpaTjJwSDFleDc4b21UcHpOd19JQQ?oc=5",
+          "sourceKey": "brag_official"
+        },
         {
           "date": "2026-10-24",
           "title": "Bragg Gaming Group Inc. Estimates – TSX:BRAG - TradingView",
@@ -237,14 +245,6 @@ window.intelData = {
           "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPNi1rTjBMVkd0MzFtSDNhb3FXaVRkTklxVkNvMTB6NDAxUG5zSDhQLXJqYTFfOGdOT2MzV25mUjczOGlydU5PcU45OWRxSmU1OFRCSWM3TkxTVW05Q3J4LXZiN0RCaWR2ZmxLN3hJcVl4T0h6SkFKQ0pqX3FWQ3JLbUVJZUZhdnZxbHNYMW1GeGlRNmtNamhOd2laYlctRmtsLWZXRWJyZFdoZW1TTDFjYXVwRkMtQ3d1Rl",
           "source": "kalkine.ca",
           "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNi1rTjBMVkd0MzFtSDNhb3FXaVRkTklxVkNvMTB6NDAxUG5zSDhQLXJqYTFfOGdOT2MzV25mUjczOGlydU5PcU45OWRxSmU1OFRCSWM3TkxTVW05Q3J4LXZiN0RCaWR2ZmxLN3hJcVl4T0h6SkFKQ0pqX3FWQ3JLbUVJZUZhdnZxbHNYMW1GeGlRNmtNamhOd2laYlctRmtsLWZXRWJyZFdoZW1TTDFjYXVwRkMtQ3d1RllPVGlwRVo2eS1xdDZ3OUhIRzRPcXM?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Bragg Gaming Group Inc. (TSX:BRAG) Climbs 3.45% as Buyers Revisit Growth Prospects and Sector Momentum - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXNVTEZjYWxaLUR2NW9rWk95SWV4LVlUVWt4TXROUnFvMjBKWVpRbjdaYmNBZERhTnduTkdQNVdleTlLVkxFUjYtSDZSTXM3NHQzc0RDX0VkM0RwbUJTVml5d240eTVENFc3MW1oeE12TkRrN3M5MDBMcmg4ODhtVFJUZU9ESEtxSk5wSlcyOGpoeElEQkFHWS1NdDVmS0hXdEd3QjNXVTI2YWxqblpNTlVZNHlYUDlMUH",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXNVTEZjYWxaLUR2NW9rWk95SWV4LVlUVWt4TXROUnFvMjBKWVpRbjdaYmNBZERhTnduTkdQNVdleTlLVkxFUjYtSDZSTXM3NHQzc0RDX0VkM0RwbUJTVml5d240eTVENFc3MW1oeE12TkRrN3M5MDBMcmg4ODhtVFJUZU9ESEtxSk5wSlcyOGpoeElEQkFHWS1NdDVmS0hXdEd3QjNXVTI2YWxqblpNTlVZNHlYUDlMUHFfVTVzdFJ2bVV5QThZR19xSQ?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -318,11 +318,11 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-10-23",
-          "title": "Bolsonaro accused of gambling embezzlement as Bets turns into zombie regime",
-          "summary_he": "A new scandal hits the final days of Brazil’s presidential race, as Flávio Bolsonaro faces allegations of involvement in a money laundering scheme linked to gambling businesses Lula has seized on the allegations&#8230;Yet beyond campaign battles , Brazil’s Bets regime moves to a zombie existence, sh",
+          "date": "2026-10-26",
+          "title": "Is Lula’s re-election the final nail in Brazil’s betting industry’s coffin?",
+          "summary_he": "Lula da Silva has made Brazilian political history by becoming the first presidential election candidate to win the second round of voting after losing the first, the only time this has happened since the country became a democracy once again in 1985. The left-wing President has been re-elected for ",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/southamerica/2026/10/23/brazil-bolsonaro-gambling/",
+          "url": "https://sbcnews.co.uk/features/comment/2026/10/26/lula-da-silva-online-betting-brazil/",
           "sourceKey": "sbc_news"
         },
         {
@@ -334,11 +334,11 @@ window.intelData = {
           "sourceKey": "yogonet"
         },
         {
-          "date": "2026-10-23",
-          "title": "Evolution Q3 2026 Results: Revenues up 3.7%",
-          "summary_he": "Evolution Q3 2026 results show net revenues up 3.7% to EUR 526.1m, with all regions growing and the Brazilian studio temporarily closed....Read More...",
+          "date": "2026-10-26",
+          "title": "Blow For Bets But Salvation For Amazon As Lula Records Stunning Brazil Victory",
+          "summary_he": "BREAKING NEWS: In a crushing defeat for both its Bets online gambling industry and the reactionary political right wing, Brazil’s charismatic socialist...Read More...",
           "source": "igamingfuture.com",
-          "url": "https://igamingfuture.com/evolution-q3-2026/",
+          "url": "https://igamingfuture.com/blow-for-bets-but-salvation-for-amazon-as-lula-records-stunning-brazil-victory/",
           "sourceKey": "igaming_future"
         }
       ]
@@ -349,12 +349,28 @@ window.intelData = {
       "color": "rgba(33,150,243,0.12)",
       "articles": [
         {
-          "date": "2026-10-23",
-          "title": "Can IG Group stick the landing on UK prediction markets launch?",
-          "summary_he": "IG Group will reignite its sports betting ambitions 16 years after departing the scene, as it sets out ambitious plans to revamp the identity of the current space. Yesterday saw the FTSE 100 firm reveal its plans for a UK prediction market launch, beginning with a rollout in late Q4 2026.&#160; This",
+          "date": "2026-10-24",
+          "title": "Prediction Market roundup: Robins pleased as DraftKings ascends to bronze in rankings",
+          "summary_he": "While DraftKings continues to lag behind Kalshi and Polymarket in notional volume, Robins appears delighted that trading levels have soared in recent weeks",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/prediction-markets/prediction-market-roundup-102426/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "SOFTSWISS: prediction markets vs sportsbook &#8211; a match made in heaven or intense competition?",
+          "summary_he": "Prediction markets have undoubtedly attracted a much wider audience and expanded the boundaries of how players can forecast future events. Despite this, intense scrutiny continues to be placed on the sector. As Kalshi and Polymarket continue to lead the way, obstacles persist in the form of regulato",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/features/comment/2026/10/23/can-ig-group-make-uk-predictions-jump/",
+          "url": "https://sbcnews.co.uk/features/2026/10/26/softswiss-sportsbook-2/",
           "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-10-26",
+          "title": "US Defense Secretary Warns Pentagon Staff Against Insider Trading",
+          "summary_he": "The US Defense Secretary has issued an unusual warning aimed at military personnel and Department of Defense employees.&#160; Namely, Pete Hegseth has urged against the use of confidential information for trading on prediction markets, saying these types of activities could expose sensitive military",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/us-defense-secretary-warns-pentagon-staff-against-insider-trading/",
+          "sourceKey": "gambling_news"
         },
         {
           "date": "2026-10-23",
@@ -371,22 +387,6 @@ window.intelData = {
           "source": "yogonet.com",
           "url": "https://www.yogonet.com/international/news/2026/10/23/126976-draftkings-ceo-says-dkex-is-now-the-no-3-prediction-market-exchange-in-the-us",
           "sourceKey": "yogonet"
-        },
-        {
-          "date": "2026-10-23",
-          "title": "CFTC warns Novig and ProphetX against listing scorigami, sports micro contracts",
-          "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/23/126977-cftc-warns-novig-and-prophetx-against-listing-scorigami-sports-micro-contracts",
-          "sourceKey": "yogonet"
-        },
-        {
-          "date": "2026-10-25",
-          "title": "Sports Betting Giants Pour Millions Into New York’s Political Arena",
-          "summary_he": "",
-          "source": "deadspin.com",
-          "url": "https://deadspin.com/legal-betting/",
-          "sourceKey": "deadspin"
         }
       ]
     },
@@ -428,12 +428,12 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-10-20",
-          "title": "Flutter to cut up to 1,400 jobs amid UK tax pressures",
-          "summary_he": "Rising gambling taxes are taking their toll on the UK betting sector, with Flutter now planning up to 1,400 redundancies.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/people/flutter-job-cuts-uk-tax-pressures/",
-          "sourceKey": "igaming_market"
+          "date": "2026-10-26",
+          "title": "Bulgaria&#8217;s &#8216;protest-ready&#8217; gambling venues seek distancing exemption",
+          "summary_he": "Bulgaria’s gaming hall and casino industry has urged the government to overhaul the Gambling Act, warning it is ready to stage “peaceful protests” if its demands are not met. In 2024, Bulgaria adopted a major package of amendments to the Gambling Act, introducing some of the country’s most significa",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/retail/2026/10/26/bulgaria-gambling-halls/",
+          "sourceKey": "sbc_news"
         }
       ]
     },
@@ -468,14 +468,6 @@ window.intelData = {
         },
         {
           "date": "2026-10-23",
-          "title": "SOFTSWISS maps out the successful iGaming market expansion",
-          "summary_he": "When an iGaming operator looks at a market expansion, it usually goes one of two ways &#8211; either the move becomes profitable or it creates a level of unnecessary complexity. How to avoid the latter became the main talking point in a discussion between Sergey Kastukevich, Chief Technology Officer",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/igaming/2026/10/23/softswiss-tech-race-summit-2/",
-          "sourceKey": "sbc_news"
-        },
-        {
-          "date": "2026-10-23",
           "title": "Evoke Posts Trading Update, Highlights 7% Drop in Q3 Revenue",
           "summary_he": "Gaming and betting giant evoke has published its latest trading update, highlighting a single-digit decrease in revenue for the third quarter of the year. This comes shortly after the company streamlined its business in the UK due to the negative impact of higher taxes. Evoke’s Business Was Impacted",
           "source": "gamblingnews.com",
@@ -483,12 +475,20 @@ window.intelData = {
           "sourceKey": "gambling_news"
         },
         {
+          "date": "2026-10-22",
+          "title": "US commercial gaming revenue slips 0.6% in August as sports betting falls 15.6%",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/22/126964-us-commercial-gaming-revenue-slips-06-in-august-as-sports-betting-falls-156-",
+          "sourceKey": "yogonet"
+        },
+        {
           "date": "2026-10-23",
-          "title": "Philippines to Reconsider Its Visa-Free Policy for China Amid POGO Concerns",
-          "summary_he": "According to a statement from the Philippines’ Presidential Palace, the country’s Department of Foreign Affairs (DFA) will investigate whether the recently introduced visa-free entry scheme for Chinese citizens is being exploited to revive illicit Philippine Offshore Gaming Operator (POGO) activitie",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/philippines-to-reconsider-its-visa-free-policy-for-china-amid-pogo-concerns/",
-          "sourceKey": "gambling_news"
+          "title": "Boyd Gaming misses Q3 earnings estimates as Las Vegas visitor demand weakens",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/23/126975-boyd-gaming-misses-q3-earnings-estimates-as-las-vegas-visitor-demand-weakens",
+          "sourceKey": "yogonet"
         }
       ]
     }
