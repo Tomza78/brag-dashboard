@@ -1,30 +1,20 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1xfn5ak",
+      "id": "1xgs59s",
       "source": "reddit",
-      "title": "Are Online Casinos Real?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1xfn5ak/are_online_casinos_real/",
-      "author": "Maleficent-Toe1374",
-      "score": 4,
-      "selftext": "So I just won $185 on DraftKing’s Blackjack after playing for the first time.\n\nWas that a real game or was it rigged for me to win? And will it be more rigged than a real casino’s blackjack table?",
+      "title": "Which online casino has the widest game selection for crypto players right now?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1xgs59s/which_online_casino_has_the_widest_game_selection/",
+      "author": "Important_End00",
+      "score": 1,
+      "selftext": "Catalog variety is the main thing i look for in online casinos this year since the slot selection gets stale fast when you stick to the same few titles across smaller platforms. Ran a few sessions across different sites this fall and ended up mostly on thrill where the mix of providers keeps things fresh. Pragmatic releases alongside hacksaw and nolimit city titles give enough rotation options that i dont really think about switching platforms anymore. What crypto casinos are you running on and which ones have the best catalog for you? Wondering what other platforms are worth looking at for provider variety ",
       "subreddit": "onlinegambling",
-      "created_utc": 1792988528,
+      "created_utc": 1793106717,
       "top_comments": [
         {
-          "body": "No you won fair and square. Anyone who says otherwise you should not trust. All games on regulated casinos go through 3rd party certifying to confirm that the results are truly fair to the math and random. (We make casino games so I know) ",
-          "score": 3,
-          "author": "916_Gaming"
-        },
-        {
-          "body": "First wins are always the hook, they know exactly what they're doing",
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
           "score": 2,
-          "author": "Fabulous-Clue-7906"
-        },
-        {
-          "body": "do those 3rd party audits look at the live dealer games the same way or is that a different process entirely",
-          "score": 1,
-          "author": "StrichTakeoff"
+          "author": "AutoModerator"
         }
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
@@ -34,32 +24,32 @@ window.dashboardData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים היום על מניית BRAG. דיונים כלליים על ביצועי החברה ללא חדשות ספציפיות. תחזיות מחיר נשארות יציבות.",
+      "summary": "אין פעילות משמעותית ב-X היום בנוגע ל-BRAG. אין עדכונים על תחזיות או חדשות.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציית iGaming בניו יורק. אין חקיקה חדשה או רישיונות שדווחו היום. השוק ממתין לעדכונים.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "brazil_market": {
-      "summary": "אין מידע חדש על רגולציה או רישיונות בברזיל. אכיפה נותרת ללא שינויים מדווחים. השוק שקט יחסית.",
+      "summary": "אין עדכונים חדשים על רישיונות או אכיפה בברזיל.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "netherlands_ksa": {
-      "summary": "אין חידושי רישיונות או אכיפה חדשה בהולנד. BetCity לא מוזכרת בעדכונים מהיום. מצב יציב.",
+      "summary": "אין התייחסויות עדכניות ל-KSA או BetCity.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות חדשות שדווחו. מגמות כלליות ללא שינויים בולטים. התעשייה שומרת על שקט.",
+      "summary": "פעילות שקטה, ללא עסקאות או מגמות בולטות.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": ""
+    "top_alert": "אין התראות חשובות מהיום"
   },
-  "generatedAt": "2026-10-27T11:36:56.710Z"
+  "generatedAt": "2026-10-28T12:07:28.946Z"
 };
