@@ -1,57 +1,33 @@
 window.dashboardData = {
-  "trends": [
-    {
-      "id": "1xgs59s",
-      "source": "reddit",
-      "title": "Which online casino has the widest game selection for crypto players right now?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1xgs59s/which_online_casino_has_the_widest_game_selection/",
-      "author": "Important_End00",
-      "score": 1,
-      "selftext": "Catalog variety is the main thing i look for in online casinos this year since the slot selection gets stale fast when you stick to the same few titles across smaller platforms. Ran a few sessions across different sites this fall and ended up mostly on thrill where the mix of providers keeps things fresh. Pragmatic releases alongside hacksaw and nolimit city titles give enough rotation options that i dont really think about switching platforms anymore. What crypto casinos are you running on and which ones have the best catalog for you? Wondering what other platforms are worth looking at for provider variety ",
-      "subreddit": "onlinegambling",
-      "created_utc": 1793106717,
-      "top_comments": [
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 2,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "תקציר לא זמין (שגיאת AI)",
-      "category_he": "כללי",
-      "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-      "date_string": "2026-10-28",
-      "saved_at": "2026-10-28T12:07:28.272+00:00"
-    }
-  ],
+  "trends": [],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר.",
+      "summary": "אין מידע עדכני מהיום ב-X על BRAG.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "אין מידע עדכני מהיום ב-X על רגולציית iGaming בארה\"ב.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין חדשות על רישיונות או אכיפה בברזיל מהיום.",
+      "summary": "אין מידע עדכני מהיום ב-X על שוק ההימורים בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על KSA או BetCity.",
+      "summary": "אין מידע עדכני מהיום ב-X על רגולציה בהולנד.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "פעילות נמוכה בעסקאות או שותפויות.",
+      "summary": "אין מידע עדכני מהיום ב-X על חדשות תעשיית iGaming.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין חדשות בולטות מהיום"
+    "top_alert": ""
   },
-  "generatedAt": "2026-10-29T12:18:40.585Z"
+  "generatedAt": "2026-10-30T12:08:44.349Z"
 };
