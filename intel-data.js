@@ -1,57 +1,57 @@
 window.intelData = {
   "stock": {
-    "price": "1.02",
-    "change": "-0.05",
-    "changePercent": "-4.67%",
-    "priceTSX": "1.46",
+    "price": "0.95",
+    "change": "-0.07",
+    "changePercent": "-6.86%",
+    "priceTSX": "1.35",
     "high52w": "$2.74",
-    "low52w": "$0.97",
-    "volume": "42,300",
-    "marketCap": "$31M",
-    "yoyChange": "-63%",
-    "updatedAt": "30.10.2026 · 12:08",
-    "dayHigh": "$1.07",
-    "dayLow": "$0.98",
-    "changeTSX": "-0.02",
-    "changePercentTSX": "-1.35%",
-    "volumeTSX": "4,800"
+    "low52w": "$0.92",
+    "volume": "8,300",
+    "marketCap": "$29M",
+    "yoyChange": "-65%",
+    "updatedAt": "31.10.2026 · 11:41",
+    "dayHigh": "$1.02",
+    "dayLow": "$0.92",
+    "changeTSX": "-0.11",
+    "changePercentTSX": "-7.53%",
+    "volumeTSX": "15,100"
   },
   "chartData": {
     "priceLabels": [
-      "21/10",
       "22/10",
       "23/10",
       "26/10",
       "27/10",
       "28/10",
-      "29/10"
+      "29/10",
+      "30/10"
     ],
     "priceValues": [
-      1.59,
       1.58,
       1.52,
       1.52,
       1.51,
       1.48,
-      1.46
+      1.46,
+      1.35
     ],
     "volumeLabels": [
-      "21/10",
       "22/10",
       "23/10",
       "26/10",
       "27/10",
       "28/10",
-      "29/10"
+      "29/10",
+      "30/10"
     ],
     "volumeValues": [
-      7,
       2,
       4,
       2,
       7,
       1,
-      5
+      5,
+      15
     ]
   },
   "socialMedia": {
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין מידע עדכני מהיום ב-X על BRAG.",
+        "text": "אין עדכונים משמעותיים על BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "אין מידע עדכני מהיום ב-X על רגולציית iGaming בארה\"ב.",
+        "text": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין מידע עדכני מהיום ב-X על שוק ההימורים בברזיל.",
+        "text": "אין אזכורים עדכניים על רישיונות או אכיפה בברזיל.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין מידע עדכני מהיום ב-X על רגולציה בהולנד.",
+        "text": "אין חידושי רישיונות או עדכונים על BetCity.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין מידע עדכני מהיום ב-X על חדשות תעשיית iGaming.",
+        "text": "אין עסקאות או מגמות חדשות מדווחות היום.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,27 +166,27 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין מידע עדכני מהיום ב-X על BRAG.",
+      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין מידע עדכני מהיום ב-X על רגולציית iGaming בארה\"ב.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין מידע עדכני מהיום ב-X על שוק ההימורים בברזיל.",
+      "summary": "אין אזכורים עדכניים על רישיונות או אכיפה בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין מידע עדכני מהיום ב-X על רגולציה בהולנד.",
+      "summary": "אין חידושי רישיונות או עדכונים על BetCity.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין מידע עדכני מהיום ב-X על חדשות תעשיית iGaming.",
+      "summary": "אין עסקאות או מגמות חדשות מדווחות היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
@@ -240,6 +240,14 @@ window.intelData = {
           "sourceKey": "brag_official"
         },
         {
+          "date": "2026-10-19",
+          "title": "Bragg Gaming Group Inc. (TSX:BRAG) Climbs 3.45% as Buyers Revisit Growth Prospects and Sector Momentum - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXNVTEZjYWxaLUR2NW9rWk95SWV4LVlUVWt4TXROUnFvMjBKWVpRbjdaYmNBZERhTnduTkdQNVdleTlLVkxFUjYtSDZSTXM3NHQzc0RDX0VkM0RwbUJTVml5d240eTVENFc3MW1oeE12TkRrN3M5MDBMcmg4ODhtVFJUZU9ESEtxSk5wSlcyOGpoeElEQkFHWS1NdDVmS0hXdEd3QjNXVTI2YWxqblpNTlVZNHlYUDlMUH",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXNVTEZjYWxaLUR2NW9rWk95SWV4LVlUVWt4TXROUnFvMjBKWVpRbjdaYmNBZERhTnduTkdQNVdleTlLVkxFUjYtSDZSTXM3NHQzc0RDX0VkM0RwbUJTVml5d240eTVENFc3MW1oeE12TkRrN3M5MDBMcmg4ODhtVFJUZU9ESEtxSk5wSlcyOGpoeElEQkFHWS1NdDVmS0hXdEd3QjNXVTI2YWxqblpNTlVZNHlYUDlMUHFfVTVzdFJ2bVV5QThZR19xSQ?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
           "date": "2026-10-15",
           "title": "Bragg Gaming Group Inc. (TSX:BRAG): The Commercial Milestones Investors Need to Watch - kalkine.ca",
           "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjBGUWw3MkxhUi1vY1dGX0trWjlIUlRYamk1RVFFUHc2V25vS0Rmc29uOFJtM0YyemtCVGlfbFFnX0VUVlNRTzhRdnlucXhjMVdZQzdKcHJLVHFmQlpGQWQ4Yk5xS01GY19RakdBakIwTThOTVowVjNMdjRZTHhyRVZ4aHV1ekl3ZF9ybWhIMkI1X0RTRDN6eFNkQTNzcEFuUkxReXVSMmh0QnpFNWtueUNRUjY2dw?oc=",
@@ -249,10 +257,10 @@ window.intelData = {
         },
         {
           "date": "2026-10-14",
-          "title": "Form 13D/A Bragg Gaming Group Inc. For: 14 October By Investing.com - Investing.com Canada",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNWmttTEt2d1lDTGFLRXBjNlNqUmRnMzIzWDRFS3NHSXdVa3IxalZlUnJiRUpYVmZGTVU3QnNyTzhkbkZDZkcyTy03YWRBNVVZM2NaUFpicEFWY0lHU3RXaFlOV19QRnllcFdUYVFVSkNFOGhSWGIzMkdrRjQ4MXBQZTVBa09ibVd5WHUyRmVKTmwwU2JCa1hFejhPREFQMkZ5a2wtSHFOa1RsSjRG?oc=5\" target=\"_bl",
-          "source": "Investing.com Canada",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWmttTEt2d1lDTGFLRXBjNlNqUmRnMzIzWDRFS3NHSXdVa3IxalZlUnJiRUpYVmZGTVU3QnNyTzhkbkZDZkcyTy03YWRBNVVZM2NaUFpicEFWY0lHU3RXaFlOV19QRnllcFdUYVFVSkNFOGhSWGIzMkdrRjQ4MXBQZTVBa09ibVd5WHUyRmVKTmwwU2JCa1hFejhPREFQMkZ5a2wtSHFOa1RsSjRG?oc=5",
+          "title": "Form 13D/A Bragg Gaming Group Inc. For: 14 October By Investing.com - Investing.com India",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmR4NnRsVnRtSTBuLVFTbGFWRWpNVlpTdm5jbVRLVUZfZG5sVXU2TUlWaTFKdG93Qmw4cVpZWWpEOUpvRUNOQ3dUc3JoWG9Md0lxOHcwVVFWY0F6VnhoV0Q3b2dXX0NQdTNOSG9kczRJemh1TE9tMTRQRkdKSVZZNzBlR1N2Szg4RlgzbzcyNkV2YzNrdEhWN3ZrYmY5X3JUNU45bTNaeWRtLWdQ?oc=5\" target=\"_bl",
+          "source": "Investing.com India",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmR4NnRsVnRtSTBuLVFTbGFWRWpNVlpTdm5jbVRLVUZfZG5sVXU2TUlWaTFKdG93Qmw4cVpZWWpEOUpvRUNOQ3dUc3JoWG9Md0lxOHcwVVFWY0F6VnhoV0Q3b2dXX0NQdTNOSG9kczRJemh1TE9tMTRQRkdKSVZZNzBlR1N2Szg4RlgzbzcyNkV2YzNrdEhWN3ZrYmY5X3JUNU45bTNaeWRtLWdQ?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -270,14 +278,6 @@ window.intelData = {
           "source": "Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXBwOC1rV3ZiUVlRNDA0RVdkdjEzQTRvQVRZWHVUSWtaZ0ZSNVhEZVBYbWs1LUdWMVJOaGxmcExTeWVjYkxGUnZlUWR3WW45ZEdScmV6RzlubjZINDZ4eTBSa0FYVjJPb3BpclZnX1IxYWthLUpxQXZxOHdqakxzS0c0YUN4NmlDNDBpbUpRY0NBc3hDM3VDdXZUNW5uRXZyM1FiS1BNZFlXOHhLYVlLOEJaQ2w4Um9VcHNkWDh4VXd2enlvUmp6YzRHVQ?oc=5",
           "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-10-12",
-          "title": "new bragg PAM agreements: Trustly, CheckIn, Mindway AI and Mollie",
-          "summary_he": "bragg has signed new agreements with Trustly, CheckIn.com, Mollie and Mindway AI. For operators, that means more choice in how they take deposits, verify players and support safer play, all through one player account management platform. Trustly: deposit and verification capabilities Trustly brings ",
-          "source": "bragg.group",
-          "url": "https://bragg.group/new-bragg-pam-agreements-trustly-checkin-mindway-ai-and-mollie/",
-          "sourceKey": "brag_official"
         }
       ]
     },
@@ -288,11 +288,27 @@ window.intelData = {
       "articles": [
         {
           "date": "2026-10-30",
+          "title": "Dutch regulated gambling captures just 59% of market revenue",
+          "summary_he": "The newly published report suggests that illegal-market players were losing more on average than those on licensed platforms.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/dutch-regulated-gambling-captures-59-market-revenue-player-reach/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-10-30",
           "title": "Dutch gambling market still adjusting to 2024 reforms",
           "summary_he": "The mandatory monthly deposit limits introduced in the Netherlands in 2024 have led to a contraction in the online gaming market, regulator Kansspelautoriteit (KSA) has reported. The gambling authority has released two sets of reports covering the entirety of 2025 and the first half of 2026, focusin",
           "source": "sbcnews.co.uk",
           "url": "https://sbcnews.co.uk/igaming/2026/10/30/dutch-gambling-stats/",
           "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "The Netherlands’ Gaming Market Declined in 2025 Amid Taxes &#038; Regulatory Headwinds",
+          "summary_he": "The Dutch Gaming Authority (Kansspelautoriteit/KSA) has published a new report comparing the industry’s performance in 2025 and the first half of 2026. While the 2025 results were weighed down by taxes and regulatory headwinds, the first half of 2026 recorded an increase in accounts, driven by the W",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/the-netherlands-gaming-market-declined-in-2025-amid-taxes-regulatory-headwinds/",
+          "sourceKey": "gambling_news"
         },
         {
           "date": "2026-10-30",
@@ -334,11 +350,11 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-10-28",
-          "title": "Brazil Supreme Court sets November 3 hearing as betting ban remains in force",
+          "date": "2026-10-29",
+          "title": "Brazil's betting ban faces congressional delays as government pushes for December approval",
           "summary_he": "",
           "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/28/127061-brazil-supreme-court-sets-november-3-hearing-as-betting-ban-remains-in-force",
+          "url": "https://www.yogonet.com/international/news/2026/10/29/127084-brazil-39s-betting-ban-faces-congressional-delays-as-government-pushes-for-december-approval",
           "sourceKey": "yogonet"
         }
       ]
@@ -357,36 +373,36 @@ window.intelData = {
           "sourceKey": "sbc_news"
         },
         {
+          "date": "2026-10-30",
+          "title": "Kalshi Sues Missouri Over the State’s Regulatory Attempts",
+          "summary_he": "Earlier this week, Kalshi filed a lawsuit against the Missouri Gaming Commission and several state officials, arguing that the regulation of prediction markets falls exclusively under the Commodity Futures Trading Commission (CFTC), a federal entity, not state authority. What Kalshi Argues? The laws",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/kalshi-sues-missouri-over-the-states-regulatory-attempts/",
+          "sourceKey": "gambling_news"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Coinbase prediction markets top $200M annualized revenue while Q3 net revenue falls 34%",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/30/127095-coinbase-prediction-markets-top-200m-annualized-revenue-while-q3-net-revenue-falls-34-",
+          "sourceKey": "yogonet"
+        },
+        {
           "date": "2026-10-29",
-          "title": "GR8_TECH taps into prediction markets with new offer",
-          "summary_he": "Prediction markets have been taking over the news over the last 12 months, so it is no surprise that GR8_TECH has decided to tap into the billion-dollar market and introduce a tech stack of its own. The iGaming technology and software provider is adding prediction markets to its GREAT_TURNKEY and GR",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/technology/2026/10/29/gr8-tech-prediction-markets/",
-          "sourceKey": "sbc_news"
+          "title": "Nevada gaming win flat at $1.28 billion in September, visitation slightly up",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/29/127089-nevada-gaming-win-flat-at-128-billion-in-september-visitation-slightly-up",
+          "sourceKey": "yogonet"
         },
         {
           "date": "2026-10-30",
-          "title": "$22M in the Bag: Nebraska, Ready for November Sports Betting Vote",
-          "summary_he": "Nebraska&#8217;s attempt to legalize online sports betting has attracted almost $21.7 million in the form of campaign contributions, as major sportsbook operators continued to pour millions of dollars into the effort ahead of a statewide vote on November 3, 2026. Head-Spinning Numbers The freshest c",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/22m-in-the-bag-nebraska-ready-for-november-sports-betting-vote/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Nevada Gaming Revenue in September Remained Flat",
-          "summary_he": "Casinos in Nevada won $1.28 billion in gaming revenue in September of 2026, about the same as the same month a year ago.&#160; Nevada Casino Revenue Dips 0.05% Despite Las Vegas Strip Growth Stronger results on the Las Vegas Strip and gains in a number of smaller markets helped offset weaker results",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/nevada-gaming-revenue-in-september-remained-flat/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "North Fork Mono Casino Opens as Lawsuit Continues",
-          "summary_he": "The $750 million North Fork Mono Casino &#38; Resort in Madera County, California, opened its doors a day early, welcoming its first customers on October 27. The launch comes, however, as a neighboring tribal gaming operator has an unresolved federal lawsuit seeking to stop the property from offerin",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/north-fork-mono-casino-opens-as-lawsuit-continues/",
-          "sourceKey": "gambling_news"
+          "title": "Fanatics Casino and Evolution launch NFL-themed live infinite blackjack in Pennsylvania and New Jersey",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/30/127081-fanatics-casino-and-evolution-launch-nflthemed-live-infinite-blackjack-in-pennsylvania-and-new-jersey",
+          "sourceKey": "yogonet"
         }
       ]
     },
@@ -428,12 +444,12 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-10-28",
-          "title": "The Star Entertainment Group to pay AU$260 million penalty",
-          "summary_he": "The case opened in 2022 and has also led to two former executive being guilty of breaching the Corporations Act 2001.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/the-star-entertainment-group-pay-a260-million-penalty-civil-proceedings/",
-          "sourceKey": "igaming_market"
+          "date": "2026-10-30",
+          "title": "“You can’t hope a problem away” &#8211; Commission finds high use of illegal sites among UK problem gamblers",
+          "summary_he": "Britain’s betting industry has reacted with vindication following the results of a Gambling Commission study into online illegal gambling, though the results may also leave the regulated sector with some food for thought… Coming the same week that the government revealed its budget, with an increase",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/featurednews/2026/10/30/gambling-commission-illegal-gambling/",
+          "sourceKey": "sbc_news"
         }
       ]
     },
@@ -467,28 +483,42 @@ window.intelData = {
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-10-29",
-          "title": "MGM Resorts reports 1% revenue decline in Q3 as Las Vegas Strip results weaken",
-          "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/29/127074-mgm-resorts-reports-1-revenue-decline-in-q3-as-las-vegas-strip-results-weaken",
-          "sourceKey": "yogonet"
+          "date": "2026-10-30",
+          "title": "CreedRoomz teases bold new vision for global iGaming",
+          "summary_he": "Games solution provider CreedRoomz has lifted the curtain on its latest iGaming products and features, promising a new strategic direction as it prepares to move into the new year. Gaming solutions company CreedRoomz has hinted at a “bold strategic direction” which will define where the wider iGamin",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/softconstruct/creedroomz/2026/10/30/creedroomz-new-vision/",
+          "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-10-29",
-          "title": "Entain expects $33M annual cost from UK machine games duty hike, maintains 2026 guidance",
-          "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/29/127067-entain-expects-33m-annual-cost-from-uk-machine-games-duty-hike-maintains-2026-guidance",
-          "sourceKey": "yogonet"
+          "date": "2026-10-30",
+          "title": "Polymarket Had to Pause Trading After Hackers Stole $2.7M from the Platform",
+          "summary_he": "Polymarket was just hit by hackers, who are said to have siphoned roughly $2.7 million from hundreds of accounts on the platform. Polymarket had to temporarily cancel trading due to the attack, although it has since resumed operation. Experts Say Hackers Stole Millions Reports say that Polymarket wa",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/polymarket-had-to-pause-trading-after-hackers-stole-2-7m-from-the-platform/",
+          "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-10-29",
-          "title": "MGM ends takeover talks with largest shareholder People Inc. after $18B bid withdrawal",
-          "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/29/127077-mgm-ends-takeover-talks-with-largest-shareholder-people-inc-after-18b-bid-withdrawal",
-          "sourceKey": "yogonet"
+          "date": "2026-10-30",
+          "title": "Estonian Online Gambling Operator Coolbet Might Lay Off Over 130 Employees",
+          "summary_he": "Estonian online gambling operator Coolbet has notified the country’s Unemployment Insurance Fund (Töötukassa)&#160;that it might lay off over 130 employees at its Tallinn headquarters. Over 130 Jobs at Coolbet HQ at Risk The news comes as the company announced restructuring at VG Estonia OÜ, which i",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/estonian-online-gambling-operator-coolbet-might-lay-off-over-130-employees/",
+          "sourceKey": "gambling_news"
+        }
+      ]
+    },
+    "social_media": {
+      "title": "BRAG ברשתות החברתיות",
+      "icon": "💬",
+      "color": "rgba(255,214,0,0.15)",
+      "articles": [
+        {
+          "date": "2026-10-30",
+          "title": "Reddit: I spent 15 hours calculating expected values for NJ online casino signup bonuses",
+          "summary_he": "תקציר לא זמין (שגיאת AI)",
+          "source": "Reddit r/onlinegambling",
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1xjm19p/i_spent_15_hours_calculating_expected_values_for/"
         }
       ]
     }
