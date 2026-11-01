@@ -9,7 +9,7 @@ window.intelData = {
     "volume": "8,300",
     "marketCap": "$29M",
     "yoyChange": "-65%",
-    "updatedAt": "31.10.2026 · 11:41",
+    "updatedAt": "1.11.2026 · 12:40",
     "dayHigh": "$1.02",
     "dayLow": "$0.92",
     "changeTSX": "-0.11",
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין עדכונים משמעותיים על BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
+        "text": "אין עדכונים משמעותיים על BRAG היום. משתמשים מציינים יציבות ללא תנודות חדות. תחזיות מחיר נותרות ניטרליות.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+        "text": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה או רישיונות בולטים. הסנטימנט שקט.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין אזכורים עדכניים על רישיונות או אכיפה בברזיל.",
+        "text": "המשך דיונים על רגולציה ורישיונות. אכיפה נותרת נושא מרכזי. אין התפתחויות חדשות מהיום.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין חידושי רישיונות או עדכונים על BetCity.",
+        "text": "אין עדכונים על חידוש רישיונות או אכיפה. BetCity לא מוזכרת באופן בולט. פעילות שקטה.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין עסקאות או מגמות חדשות מדווחות היום.",
+        "text": "עסקאות ושיתופי פעולה מינוריים. מגמות כלליות יציבות ללא שינויים גדולים.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,32 +166,32 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
+      "summary": "אין עדכונים משמעותיים על BRAG היום. משתמשים מציינים יציבות ללא תנודות חדות. תחזיות מחיר נותרות ניטרליות.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות חשובות"
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה או רישיונות בולטים. הסנטימנט שקט.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות חשובות"
     },
     "brazil_market": {
-      "summary": "אין אזכורים עדכניים על רישיונות או אכיפה בברזיל.",
+      "summary": "המשך דיונים על רגולציה ורישיונות. אכיפה נותרת נושא מרכזי. אין התפתחויות חדשות מהיום.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות חשובות"
     },
     "netherlands_ksa": {
-      "summary": "אין חידושי רישיונות או עדכונים על BetCity.",
+      "summary": "אין עדכונים על חידוש רישיונות או אכיפה. BetCity לא מוזכרת באופן בולט. פעילות שקטה.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות חשובות"
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או מגמות חדשות מדווחות היום.",
+      "summary": "עסקאות ושיתופי פעולה מינוריים. מגמות כלליות יציבות ללא שינויים גדולים.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות חשובות"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": ""
+    "top_alert": "אין התראות מיוחדות מהיום"
   },
   "sections": {
     "brag_official": {
@@ -199,6 +199,14 @@ window.intelData = {
       "icon": "🏢",
       "color": "rgba(255,214,0,0.15)",
       "articles": [
+        {
+          "date": "2026-10-31",
+          "title": "Bragg Gaming Group Inc. (BRAG.TO) Seasonal returns chart - Yahoo Finance Australia",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJYkFtS0k3Q0pOZ0xJZjBoU1MtMjBfbXdub3M0Vy1uaEgwNU40OFcwYi16bjN6Q2tPTkRVQm1tcnBIQXY5QXAzcjBsT0tJSWtqTDVpVTZOeE16alR1QzJVZ244SFhyQQ?oc=5\" target=\"_blank\">Bragg Gaming Group Inc. (BRAG.TO) Seasonal returns chart</a>&nbsp;&nbsp;<font color=\"#6f6",
+          "source": "Yahoo Finance Australia",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBJYkFtS0k3Q0pOZ0xJZjBoU1MtMjBfbXdub3M0Vy1uaEgwNU40OFcwYi16bjN6Q2tPTkRVQm1tcnBIQXY5QXAzcjBsT0tJSWtqTDVpVTZOeE16alR1QzJVZ244SFhyQQ?oc=5",
+          "sourceKey": "brag_official"
+        },
         {
           "date": "2026-10-26",
           "title": "Bragg Gaming Group Inc. Stock Dips as iGaming Content Supplier Faces Regulatory Uncertainty and Competitive Intensity - kalkine.ca",
@@ -213,14 +221,6 @@ window.intelData = {
           "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxON1RMdzVqaWw3eWpDN2NrWkE0a1pFU0I3emdHZkRQMVdEdVRiVUEwZVVQMFk0S21DdlNCZWNNT0RjSHEzNnJDYWgxc2RHU2FQYjJwQzRhNUdTQkVpaElqUm1OMmxzRnZ2Tmpmc25GNzJVampjX0N3X3FhRjVvY2lMbk00UjZnZFZzd05MbEtKWXc1a2hpTlM1eGpxVTlVR21hUGVUbGFSdUFteEJMODhZZTZjc041Qjhmd1",
           "source": "kalkine.ca",
           "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1RMdzVqaWw3eWpDN2NrWkE0a1pFU0I3emdHZkRQMVdEdVRiVUEwZVVQMFk0S21DdlNCZWNNT0RjSHEzNnJDYWgxc2RHU2FQYjJwQzRhNUdTQkVpaElqUm1OMmxzRnZ2Tmpmc25GNzJVampjX0N3X3FhRjVvY2lMbk00UjZnZFZzd05MbEtKWXc1a2hpTlM1eGpxVTlVR21hUGVUbGFSdUFteEJMODhZZTZjc041Qjhmd1ZHR1B4SmJVbktGTXpDMk5aektfUQ?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-10-24",
-          "title": "Bragg Gaming Group Inc. Estimates – TSX:BRAG - TradingView",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1nYnRUMDRuZmZvamY0R01rX2NtSlBWOUZMeEtyem9NdmZzRDZ6N3Y3UTlUQVJRbUtyZnlhekV1WmFwREdFcy1MRmh1M2g4UTdmZ04xWEg0b0QyX0dSS0VmS0V4R2ktbVZYZkN2LVRranFUT3Fp?oc=5\" target=\"_blank\">Bragg Gaming Group Inc. Estimates – TSX:BRAG</a>&nbsp;&nbsp;<font color",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1nYnRUMDRuZmZvamY0R01rX2NtSlBWOUZMeEtyem9NdmZzRDZ6N3Y3UTlUQVJRbUtyZnlhekV1WmFwREdFcy1MRmh1M2g4UTdmZ04xWEg0b0QyX0dSS0VmS0V4R2ktbVZYZkN2LVRranFUT3Fp?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -286,6 +286,14 @@ window.intelData = {
       "icon": "🇳🇱",
       "color": "rgba(255,152,0,0.12)",
       "articles": [
+        {
+          "date": "2026-10-30",
+          "title": "Prediction market roundup: Saquon forced to unload stake in Polymarket under NFL rules",
+          "summary_he": "The week includes a decision by the Philadelphia Eagles' running back to divest his stake in Polymarket, as well as criminal charges filed by Utah against Kalshi CEO Mansour.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/prediction-markets/prediction-market-roundup-103026/",
+          "sourceKey": "igaming_market"
+        },
         {
           "date": "2026-10-30",
           "title": "Dutch regulated gambling captures just 59% of market revenue",
@@ -436,19 +444,19 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-10-28",
-          "title": "UK gaming operators dodge feared 40% tax shock as MGD rises to 25%",
-          "summary_he": "The industry has held its breath until now, with original rumours suggesting Healey would raise the MGD by 20%.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/finance/uk-gaming-operators-dodge-feared-40-tax-shock-as-mgd-rises-to-25/",
-          "sourceKey": "igaming_market"
-        },
-        {
           "date": "2026-10-30",
           "title": "“You can’t hope a problem away” &#8211; Commission finds high use of illegal sites among UK problem gamblers",
           "summary_he": "Britain’s betting industry has reacted with vindication following the results of a Gambling Commission study into online illegal gambling, though the results may also leave the regulated sector with some food for thought… Coming the same week that the government revealed its budget, with an increase",
           "source": "sbcnews.co.uk",
           "url": "https://sbcnews.co.uk/featurednews/2026/10/30/gambling-commission-illegal-gambling/",
+          "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Treasury banks on simplicity of £655m gaming machine tax raid",
+          "summary_he": "HM Treasury believes that it can secure a total of £655m from a five-year cycle generated by new tax rise on Machine Games Duty (MGD), yet UK gambling remains exposed&#160; to further taxes on its activities.&#160; This morning, the government published the key considerations applied to its decision",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/europe/uk/2026/10/30/treasury-tax-655m-2027/",
           "sourceKey": "sbc_news"
         }
       ]
@@ -513,6 +521,13 @@ window.intelData = {
       "icon": "💬",
       "color": "rgba(255,214,0,0.15)",
       "articles": [
+        {
+          "date": "2026-11-01",
+          "title": "Reddit: Oklahoma online gambling",
+          "summary_he": "תקציר לא זמין (שגיאת AI)",
+          "source": "Reddit r/onlinegambling",
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1xl0noj/oklahoma_online_gambling/"
+        },
         {
           "date": "2026-10-30",
           "title": "Reddit: I spent 15 hours calculating expected values for NJ online casino signup bonuses",
