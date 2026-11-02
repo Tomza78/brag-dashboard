@@ -1,57 +1,57 @@
 window.intelData = {
   "stock": {
-    "price": "0.95",
-    "change": "-0.07",
-    "changePercent": "-6.86%",
-    "priceTSX": "1.35",
+    "price": "1.00",
+    "change": "+0.05",
+    "changePercent": "+5.26%",
+    "priceTSX": "1.36",
     "high52w": "$2.74",
     "low52w": "$0.92",
-    "volume": "8,300",
-    "marketCap": "$29M",
-    "yoyChange": "-65%",
-    "updatedAt": "1.11.2026 · 12:40",
-    "dayHigh": "$1.02",
-    "dayLow": "$0.92",
-    "changeTSX": "-0.11",
-    "changePercentTSX": "-7.53%",
-    "volumeTSX": "15,100"
+    "volume": "1,260",
+    "marketCap": "$31M",
+    "yoyChange": "-64%",
+    "updatedAt": "2.11.2026 · 14:46",
+    "dayHigh": "$1.00",
+    "dayLow": "$0.99",
+    "changeTSX": "+0.01",
+    "changePercentTSX": "+0.74%",
+    "volumeTSX": "1,537"
   },
   "chartData": {
     "priceLabels": [
-      "22/10",
       "23/10",
       "26/10",
       "27/10",
       "28/10",
       "29/10",
-      "30/10"
+      "30/10",
+      "02/11"
     ],
     "priceValues": [
-      1.58,
       1.52,
       1.52,
       1.51,
       1.48,
       1.46,
-      1.35
+      1.35,
+      1.36
     ],
     "volumeLabels": [
-      "22/10",
       "23/10",
       "26/10",
       "27/10",
       "28/10",
       "29/10",
-      "30/10"
+      "30/10",
+      "02/11"
     ],
     "volumeValues": [
-      2,
       4,
       2,
       7,
       1,
       5,
-      15
+      15,
+      2
     ]
   },
   "socialMedia": {
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין עדכונים משמעותיים על BRAG היום. משתמשים מציינים יציבות ללא תנודות חדות. תחזיות מחיר נותרות ניטרליות.",
+        "text": "אין מידע עדכני מ-X להיום.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה או רישיונות בולטים. הסנטימנט שקט.",
+        "text": "אין מידע עדכני מ-X להיום.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "המשך דיונים על רגולציה ורישיונות. אכיפה נותרת נושא מרכזי. אין התפתחויות חדשות מהיום.",
+        "text": "אין מידע עדכני מ-X להיום.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין עדכונים על חידוש רישיונות או אכיפה. BetCity לא מוזכרת באופן בולט. פעילות שקטה.",
+        "text": "אין מידע עדכני מ-X להיום.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "עסקאות ושיתופי פעולה מינוריים. מגמות כלליות יציבות ללא שינויים גדולים.",
+        "text": "אין מידע עדכני מ-X להיום.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,32 +166,32 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG היום. משתמשים מציינים יציבות ללא תנודות חדות. תחזיות מחיר נותרות ניטרליות.",
+      "summary": "אין מידע עדכני מ-X להיום.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה או רישיונות בולטים. הסנטימנט שקט.",
+      "summary": "אין מידע עדכני מ-X להיום.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": ""
     },
     "brazil_market": {
-      "summary": "המשך דיונים על רגולציה ורישיונות. אכיפה נותרת נושא מרכזי. אין התפתחויות חדשות מהיום.",
+      "summary": "אין מידע עדכני מ-X להיום.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על חידוש רישיונות או אכיפה. BetCity לא מוזכרת באופן בולט. פעילות שקטה.",
+      "summary": "אין מידע עדכני מ-X להיום.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": ""
     },
     "igaming_industry": {
-      "summary": "עסקאות ושיתופי פעולה מינוריים. מגמות כלליות יציבות ללא שינויים גדולים.",
+      "summary": "אין מידע עדכני מ-X להיום.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות"
+      "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות מיוחדות מהיום"
+    "top_alert": "אין גישה למידע בזמן אמת מ-X"
   },
   "sections": {
     "brag_official": {
@@ -208,19 +208,27 @@ window.intelData = {
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-10-26",
-          "title": "Bragg Gaming Group Inc. Stock Dips as iGaming Content Supplier Faces Regulatory Uncertainty and Competitive Intensity - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTzZyT21Qck0xdFNCOUpVVGtoRy1PaTBQby0zMnR1NjlIUW9VSkpzb0d6VnpzYm1mbldvdjRSZ0c3OGtWVDlpZFNxbXZyT3p5a3hUTlI5NmNCdFlMd2EyaDlMdXNMS3VnMEE3Vmg3U1Q4RTdxQ0hpSzBNTkVBUkI5SnpESUVKY18ydjdZSE5LUTYwUHBic2NJdHItN29ybVVNbzBxdzVSdmVNaGpad1dWdkYyNzZvdjdlWH",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTzZyT21Qck0xdFNCOUpVVGtoRy1PaTBQby0zMnR1NjlIUW9VSkpzb0d6VnpzYm1mbldvdjRSZ0c3OGtWVDlpZFNxbXZyT3p5a3hUTlI5NmNCdFlMd2EyaDlMdXNMS3VnMEE3Vmg3U1Q4RTdxQ0hpSzBNTkVBUkI5SnpESUVKY18ydjdZSE5LUTYwUHBic2NJdHItN29ybVVNbzBxdzVSdmVNaGpad1dWdkYyNzZvdjdlWHBxLTh6eEY1UEdjWGZHdHRWZGVzNXluVkpaTjJwSDFleDc4b21UcHpOd19JQQ?oc=5",
+          "date": "2026-10-30",
+          "title": "Bragg Gaming Group Inc. (BRAG) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yc1ZLbWV3RGRaWVFKRGF1clNGd2JQdHJJT3JWc1A1NHV5MkJvbEJISXdqamRjUGRhM3lDN3JVZHplclhLNGdaU1JGckRqc1YwbFpPOHhOWlhjNFNoRXA1Q1RR?oc=5\" target=\"_blank\">Bragg Gaming Group Inc. (BRAG) Seasonal Returns Chart - Yahoo Finance</a>&nbsp;&nbsp;<font colo",
+          "source": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yc1ZLbWV3RGRaWVFKRGF1clNGd2JQdHJJT3JWc1A1NHV5MkJvbEJISXdqamRjUGRhM3lDN3JVZHplclhLNGdaU1JGckRqc1YwbFpPOHhOWlhjNFNoRXA1Q1RR?oc=5",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-10-26",
-          "title": "Bragg Gaming Group Inc. (TSX:BRAG): What Is Driving Attention on the Toronto Market and What Comes Next? - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxON1RMdzVqaWw3eWpDN2NrWkE0a1pFU0I3emdHZkRQMVdEdVRiVUEwZVVQMFk0S21DdlNCZWNNT0RjSHEzNnJDYWgxc2RHU2FQYjJwQzRhNUdTQkVpaElqUm1OMmxzRnZ2Tmpmc25GNzJVampjX0N3X3FhRjVvY2lMbk00UjZnZFZzd05MbEtKWXc1a2hpTlM1eGpxVTlVR21hUGVUbGFSdUFteEJMODhZZTZjc041Qjhmd1",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON1RMdzVqaWw3eWpDN2NrWkE0a1pFU0I3emdHZkRQMVdEdVRiVUEwZVVQMFk0S21DdlNCZWNNT0RjSHEzNnJDYWgxc2RHU2FQYjJwQzRhNUdTQkVpaElqUm1OMmxzRnZ2Tmpmc25GNzJVampjX0N3X3FhRjVvY2lMbk00UjZnZFZzd05MbEtKWXc1a2hpTlM1eGpxVTlVR21hUGVUbGFSdUFteEJMODhZZTZjc041Qjhmd1ZHR1B4SmJVbktGTXpDMk5aektfUQ?oc=5",
+          "date": "2026-10-30",
+          "title": "Top Bragg Gaming Group (BRAG) Competitors 2026 - MarketBeat",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFVJcGYzU0JLcTdob29oZ1ZDaVAyRlo2dDJPUWluMmhXMlRvVlJWbHRhRzFBdjh6OTFkQXYwUVhxbkNMdGZxUEFPbnFJU1Q1aHJMRmtKYlJSSklrNHZvT01MN0lPc1BOMHF0ay1pTTVieDhCTVAxTm12NFNwREViXw?oc=5\" target=\"_blank\">Top Bragg Gaming Group (BRAG) Competitors 2026</a>&nb",
+          "source": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeFVJcGYzU0JLcTdob29oZ1ZDaVAyRlo2dDJPUWluMmhXMlRvVlJWbHRhRzFBdjh6OTFkQXYwUVhxbkNMdGZxUEFPbnFJU1Q1aHJMRmtKYlJSSklrNHZvT01MN0lPc1BOMHF0ay1pTTVieDhCTVAxTm12NFNwREViXw?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Bragg Gaming Group Q3 2026 Earnings Date and Estimates - MarketBeat",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPTU5yWGVWSEMzMFVVXzV3bzJyaHNJQXdVOXBCWWd2eVBhaFlTV2dqT0JQWGwwblpRODE0V19fVWswMlZTVHFDeS1VSko0Q2NIYzlOTFJrY213aDJrVkhCTEo0ekpOWThOdHVzMGp0dU5EZjdCM1VjUWdRYWhhLVBvSkU0Q1kyZURFQmd1OVpVVQ?oc=5\" target=\"_blank\">Bragg Gaming Group Q3 2026 Earnin",
+          "source": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTU5yWGVWSEMzMFVVXzV3bzJyaHNJQXdVOXBCWWd2eVBhaFlTV2dqT0JQWGwwblpRODE0V19fVWswMlZTVHFDeS1VSko0Q2NIYzlOTFJrY213aDJrVkhCTEo0ekpOWThOdHVzMGp0dU5EZjdCM1VjUWdRYWhhLVBvSkU0Q1kyZURFQmd1OVpVVQ?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -229,22 +237,6 @@ window.intelData = {
           "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSjJLNHBEc0U2UVhRcHE5WGx0MUZPQ1pOS0dWN292aUtTY2llUHg2anVmSHAzUEpfdkNBeFBESkNDRm56alEyaXpscHA0dWxVVXNz?oc=5\" target=\"_blank\">Bragg Gaming Group (BRAG) Stock Price, News & Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
           "source": "Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSjJLNHBEc0U2UVhRcHE5WGx0MUZPQ1pOS0dWN292aUtTY2llUHg2anVmSHAzUEpfdkNBeFBESkNDRm56alEyaXpscHA0dWxVVXNz?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-10-20",
-          "title": "Intensifying Downside Pressure and Bearish Momentum Grip Bragg Gaming Group as Market Skepticism Mounts on October 19, 2026 - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM01RdzRyMTA0WnpkaU1VN21PZ1Y3WXN3YXl0Uk9kdi1CY284SjJNQzNHelA2WmtpVWJVVlREOGxKaHVEbXZHNVgxZjBSdm5KUG9aUUxQNFAwQ3Z2bzlJbUFJVm5QSGZtTElzWGZMamdaa0xNT01nNHozb3NmNVd3b0JpOV8zM0djM1hFNGpsT0xCMGxIWUo2YXdPZ3RpWVNaZHkxajFwemtYRjhUb01BYWoySXdmU1A3WE",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOM01RdzRyMTA0WnpkaU1VN21PZ1Y3WXN3YXl0Uk9kdi1CY284SjJNQzNHelA2WmtpVWJVVlREOGxKaHVEbXZHNVgxZjBSdm5KUG9aUUxQNFAwQ3Z2bzlJbUFJVm5QSGZtTElzWGZMamdaa0xNT01nNHozb3NmNVd3b0JpOV8zM0djM1hFNGpsT0xCMGxIWUo2YXdPZ3RpWVNaZHkxajFwemtYRjhUb01BYWoySXdmU1A3WEhMQjZZa2c5RndkancySDEybEJtVVBtSkQ2akxLUHJXNzNkU0pEam9VbkJTSVd4bzJJcXpn?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-10-19",
-          "title": "Bragg Gaming Group Inc. (TSX:BRAG) Climbs 3.45% as Buyers Revisit Growth Prospects and Sector Momentum - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXNVTEZjYWxaLUR2NW9rWk95SWV4LVlUVWt4TXROUnFvMjBKWVpRbjdaYmNBZERhTnduTkdQNVdleTlLVkxFUjYtSDZSTXM3NHQzc0RDX0VkM0RwbUJTVml5d240eTVENFc3MW1oeE12TkRrN3M5MDBMcmg4ODhtVFJUZU9ESEtxSk5wSlcyOGpoeElEQkFHWS1NdDVmS0hXdEd3QjNXVTI2YWxqblpNTlVZNHlYUDlMUH",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWXNVTEZjYWxaLUR2NW9rWk95SWV4LVlUVWt4TXROUnFvMjBKWVpRbjdaYmNBZERhTnduTkdQNVdleTlLVkxFUjYtSDZSTXM3NHQzc0RDX0VkM0RwbUJTVml5d240eTVENFc3MW1oeE12TkRrN3M5MDBMcmg4ODhtVFJUZU9ESEtxSk5wSlcyOGpoeElEQkFHWS1NdDVmS0hXdEd3QjNXVTI2YWxqblpNTlVZNHlYUDlMUHFfVTVzdFJ2bVV5QThZR19xSQ?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -278,6 +270,14 @@ window.intelData = {
           "source": "Stock Titan",
           "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXBwOC1rV3ZiUVlRNDA0RVdkdjEzQTRvQVRZWHVUSWtaZ0ZSNVhEZVBYbWs1LUdWMVJOaGxmcExTeWVjYkxGUnZlUWR3WW45ZEdScmV6RzlubjZINDZ4eTBSa0FYVjJPb3BpclZnX1IxYWthLUpxQXZxOHdqakxzS0c0YUN4NmlDNDBpbUpRY0NBc3hDM3VDdXZUNW5uRXZyM1FiS1BNZFlXOHhLYVlLOEJaQ2w4Um9VcHNkWDh4VXd2enlvUmp6YzRHVQ?oc=5",
           "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-10-12",
+          "title": "new bragg PAM agreements: Trustly, CheckIn, Mindway AI and Mollie",
+          "summary_he": "bragg has signed new agreements with Trustly, CheckIn.com, Mollie and Mindway AI. For operators, that means more choice in how they take deposits, verify players and support safer play, all through one player account management platform. Trustly: deposit and verification capabilities Trustly brings ",
+          "source": "bragg.group",
+          "url": "https://bragg.group/new-bragg-pam-agreements-trustly-checkin-mindway-ai-and-mollie/",
+          "sourceKey": "brag_official"
         }
       ]
     },
@@ -301,30 +301,6 @@ window.intelData = {
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/legal-compliance/dutch-regulated-gambling-captures-59-market-revenue-player-reach/",
           "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Dutch gambling market still adjusting to 2024 reforms",
-          "summary_he": "The mandatory monthly deposit limits introduced in the Netherlands in 2024 have led to a contraction in the online gaming market, regulator Kansspelautoriteit (KSA) has reported. The gambling authority has released two sets of reports covering the entirety of 2025 and the first half of 2026, focusin",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/igaming/2026/10/30/dutch-gambling-stats/",
-          "sourceKey": "sbc_news"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "The Netherlands’ Gaming Market Declined in 2025 Amid Taxes &#038; Regulatory Headwinds",
-          "summary_he": "The Dutch Gaming Authority (Kansspelautoriteit/KSA) has published a new report comparing the industry’s performance in 2025 and the first half of 2026. While the 2025 results were weighed down by taxes and regulatory headwinds, the first half of 2026 recorded an increase in accounts, driven by the W",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/the-netherlands-gaming-market-declined-in-2025-amid-taxes-regulatory-headwinds/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "KSA: Dutch account figures may be due to deposit limit dodging",
-          "summary_he": "The number of accounts in the Dutch online gambling market rose in the first half of 2026, but the Netherlands gaming authority has warned that players may be ‘creating multiple accounts to circumvent deposit limits per account’. Deposit limits of €350 per month for adults and €150 for young adults ",
-          "source": "igamingexpert.com",
-          "url": "https://igamingexpert.com/regions/europe/dutch-gambling-data-2025-h1-2026/",
-          "sourceKey": "igaming_expert"
         }
       ]
     },
@@ -373,19 +349,27 @@ window.intelData = {
       "color": "rgba(33,150,243,0.12)",
       "articles": [
         {
-          "date": "2026-10-30",
-          "title": "Kalshi hits its $40bn mark amidst even more state litigation",
-          "summary_he": "Prediction markets giant Kalshi has hit its $40bn valuation target, a milestone the company has had its sights set on for much of 2026. The firm’s meteoric growth is continuing at pace in the latter months of 2026, despite the still-fractured regulatory conditions and highly-litigious environment ar",
+          "date": "2026-11-02",
+          "title": "New licensing home opens up for prediction markets",
+          "summary_he": "Nevis, a federal state part of the Caribbean nation of Saint Kitts and Nevis, has launched its own prediction markets licensing regime. The news was announced by the Nevis Online Gaming Authority (NOGA), which controls the domestic gambling landscape through strict regulations that bar locals from p",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/northamerica/2026/10/30/kalshi-40bn-valuation/",
+          "url": "https://sbcnews.co.uk/northamerica/2026/11/02/nevis-prediction-markets/",
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-10-30",
-          "title": "Kalshi Sues Missouri Over the State’s Regulatory Attempts",
-          "summary_he": "Earlier this week, Kalshi filed a lawsuit against the Missouri Gaming Commission and several state officials, arguing that the regulation of prediction markets falls exclusively under the Commodity Futures Trading Commission (CFTC), a federal entity, not state authority. What Kalshi Argues? The laws",
+          "date": "2026-11-02",
+          "title": "Canada First Nation launches first-ever indigenous prediction markets framework",
+          "summary_he": "A First Nation community in New Brunswick, Canada has become the latest jurisdiction to set up its own prediction markets regulations, perhaps taking a cue from Gibraltar over in Europe. The Tobique First Nation, which has a population of less than 3,000 community members according to a 2025 census,",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/northamerica/2026/11/02/canada-prediction-markets/",
+          "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "No to Sports Betting Abuse: NCAA Joins Initiative to Protect College Athletes",
+          "summary_he": "The National Collegiate Athletic Association (NCAA) has taken one more step in the battle against online harassment by joining the Bad Actor Program in its latest attempt to keep athletes safe and properly protected.&#160; First Sports Governing Body to Join Bad Actor The program, joined by Fanatics",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/kalshi-sues-missouri-over-the-states-regulatory-attempts/",
+          "url": "https://www.gamblingnews.com/news/no-to-sports-betting-abuse-ncaa-joins-initiative-to-protect-college-athletes/",
           "sourceKey": "gambling_news"
         },
         {
@@ -402,14 +386,6 @@ window.intelData = {
           "summary_he": "",
           "source": "yogonet.com",
           "url": "https://www.yogonet.com/international/news/2026/10/29/127089-nevada-gaming-win-flat-at-128-billion-in-september-visitation-slightly-up",
-          "sourceKey": "yogonet"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Fanatics Casino and Evolution launch NFL-themed live infinite blackjack in Pennsylvania and New Jersey",
-          "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/30/127081-fanatics-casino-and-evolution-launch-nflthemed-live-infinite-blackjack-in-pennsylvania-and-new-jersey",
           "sourceKey": "yogonet"
         }
       ]
@@ -453,11 +429,11 @@ window.intelData = {
         },
         {
           "date": "2026-10-30",
-          "title": "Treasury banks on simplicity of £655m gaming machine tax raid",
-          "summary_he": "HM Treasury believes that it can secure a total of £655m from a five-year cycle generated by new tax rise on Machine Games Duty (MGD), yet UK gambling remains exposed&#160; to further taxes on its activities.&#160; This morning, the government published the key considerations applied to its decision",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/europe/uk/2026/10/30/treasury-tax-655m-2027/",
-          "sourceKey": "sbc_news"
+          "title": "Bally’s backs Star Entertainment’s turnaround after $182 million penalty",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/30/127100-ballys-backs-star-entertainments-turnaround-after-182-million-penalty",
+          "sourceKey": "yogonet"
         }
       ]
     },
@@ -483,20 +459,20 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-10-30",
-          "title": "TrafficStars: meet Gryzo AI &#8211; a smarter way to scale iGaming campaigns",
-          "summary_he": "Alexey Sparivak, Head of Media Buying at TrafficStars, explains how the network’s new AI assistant, Gryzo AI, helps media buyers work up to 10x faster. As many traffic sources become harder to scale under stricter advertising policies and rising costs, more media buying teams are looking for alterna",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/features/2026/10/30/trafficstars-ai-igaming/",
-          "sourceKey": "sbc_news"
+          "date": "2026-11-02",
+          "title": "Kalshi Joins Philadelphia 76ers as Official Partner",
+          "summary_he": "The Philadelphia 76ers have become the first NBA franchise to add Kalshi as an official partner, part of a multi-year agreement between the two organizations. This follows a similar partnership between the NBA’s own alliances with Kalshi and Polymarket, a nod to the fact that these types of arrangem",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/kalshi-joins-philadelphia-76ers-as-official-partner/",
+          "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-10-30",
-          "title": "CreedRoomz teases bold new vision for global iGaming",
-          "summary_he": "Games solution provider CreedRoomz has lifted the curtain on its latest iGaming products and features, promising a new strategic direction as it prepares to move into the new year. Gaming solutions company CreedRoomz has hinted at a “bold strategic direction” which will define where the wider iGamin",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/softconstruct/creedroomz/2026/10/30/creedroomz-new-vision/",
-          "sourceKey": "sbc_news"
+          "date": "2026-11-02",
+          "title": "Polymarket Investigates Suspicious Bets on Israeli Elections",
+          "summary_he": "Polymarket is looking into what it calls potentially suspicious trading in relation to Israel&#8217;s general election on October 27. Hundreds of newly registered accounts made successful bets on Prime Minister Benjamin Netanyahu’s Likud party just before voting closed, raising renewed fears of poss",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/polymarket-investigates-suspicious-bets-on-israeli-elections/",
+          "sourceKey": "gambling_news"
         },
         {
           "date": "2026-10-30",
@@ -508,11 +484,11 @@ window.intelData = {
         },
         {
           "date": "2026-10-30",
-          "title": "Estonian Online Gambling Operator Coolbet Might Lay Off Over 130 Employees",
-          "summary_he": "Estonian online gambling operator Coolbet has notified the country’s Unemployment Insurance Fund (Töötukassa)&#160;that it might lay off over 130 employees at its Tallinn headquarters. Over 130 Jobs at Coolbet HQ at Risk The news comes as the company announced restructuring at VG Estonia OÜ, which i",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/estonian-online-gambling-operator-coolbet-might-lay-off-over-130-employees/",
-          "sourceKey": "gambling_news"
+          "title": "Kalshi valuation surges to $40 billion after latest $1 billion funding round",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/30/127098-kalshi-valuation-surges-to-40-billion-after-latest-1-billion-funding-round",
+          "sourceKey": "yogonet"
         }
       ]
     },
@@ -527,13 +503,6 @@ window.intelData = {
           "summary_he": "תקציר לא זמין (שגיאת AI)",
           "source": "Reddit r/onlinegambling",
           "url": "https://www.reddit.com/r/onlinegambling/comments/1xl0noj/oklahoma_online_gambling/"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Reddit: I spent 15 hours calculating expected values for NJ online casino signup bonuses",
-          "summary_he": "תקציר לא זמין (שגיאת AI)",
-          "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1xjm19p/i_spent_15_hours_calculating_expected_values_for/"
         }
       ]
     }
