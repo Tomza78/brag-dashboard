@@ -1,20 +1,20 @@
 window.intelData = {
   "stock": {
-    "price": "1.00",
-    "change": "+0.05",
-    "changePercent": "+5.26%",
-    "priceTSX": "1.36",
+    "price": "0.91",
+    "change": "-0.04",
+    "changePercent": "-4.54%",
+    "priceTSX": "1.29",
     "high52w": "$2.74",
-    "low52w": "$0.92",
-    "volume": "1,260",
-    "marketCap": "$31M",
-    "yoyChange": "-64%",
-    "updatedAt": "2.11.2026 · 14:46",
+    "low52w": "$0.89",
+    "volume": "4,400",
+    "marketCap": "$28M",
+    "yoyChange": "-67%",
+    "updatedAt": "3.11.2026 · 13:38",
     "dayHigh": "$1.00",
-    "dayLow": "$0.99",
-    "changeTSX": "+0.01",
-    "changePercentTSX": "+0.74%",
-    "volumeTSX": "1,537"
+    "dayLow": "$0.89",
+    "changeTSX": "-0.06",
+    "changePercentTSX": "-4.44%",
+    "volumeTSX": "12,100"
   },
   "chartData": {
     "priceLabels": [
@@ -33,7 +33,7 @@ window.intelData = {
       1.48,
       1.46,
       1.35,
-      1.36
+      1.29
     ],
     "volumeLabels": [
       "23/10",
@@ -51,7 +51,7 @@ window.intelData = {
       1,
       5,
       15,
-      2
+      12
     ]
   },
   "socialMedia": {
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין מידע עדכני מ-X להיום.",
+        "text": "אין מידע עדכני מהיום ב-X.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "אין מידע עדכני מ-X להיום.",
+        "text": "אין מידע עדכני מהיום ב-X.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין מידע עדכני מ-X להיום.",
+        "text": "אין מידע עדכני מהיום ב-X.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין מידע עדכני מ-X להיום.",
+        "text": "אין מידע עדכני מהיום ב-X.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין מידע עדכני מ-X להיום.",
+        "text": "אין מידע עדכני מהיום ב-X.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,27 +166,27 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין מידע עדכני מ-X להיום.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין מידע עדכני מ-X להיום.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין מידע עדכני מ-X להיום.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין מידע עדכני מ-X להיום.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין מידע עדכני מ-X להיום.",
+      "summary": "אין מידע עדכני מהיום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
@@ -199,6 +199,38 @@ window.intelData = {
       "icon": "🏢",
       "color": "rgba(255,214,0,0.15)",
       "articles": [
+        {
+          "date": "2026-11-03",
+          "title": "Bragg Gaming Group Inc. Faces Equity Headwinds as B2B iGaming Market Competition and Regulatory Complexity Weigh on Sentiment - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQlotLXhKcGNkTHlfaXNPTEJKeW1zbnlfdXhtZmZVQjh2b1NyZVh4WFNhN1ZpdzlSdkpPTkp4Sl9kSWhEVWdlQ0hmcENBR1M4Y0pLbnJKM1JBZVdnUXRRT2tBSzNLMTJwXzh6Szg3XzNSQjBoZFF5THlMYjdRRUltQmktWnRKYnE2UlRDUkZTMXlzeFA2SGlwdDR6cjdKN2xod19SVmpSUnMyMi1Nd3Y4enNIQ3hCWi15Tk",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQlotLXhKcGNkTHlfaXNPTEJKeW1zbnlfdXhtZmZVQjh2b1NyZVh4WFNhN1ZpdzlSdkpPTkp4Sl9kSWhEVWdlQ0hmcENBR1M4Y0pLbnJKM1JBZVdnUXRRT2tBSzNLMTJwXzh6Szg3XzNSQjBoZFF5THlMYjdRRUltQmktWnRKYnE2UlRDUkZTMXlzeFA2SGlwdDR6cjdKN2xod19SVmpSUnMyMi1Nd3Y4enNIQ3hCWi15TkV5cFB6eDNFMWNadE51UE5ZeGRuWUJRdkJPQlVRdm9DSnVtNWYzVGxhbnpxd09NRldoNDNFYVM?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "Bragg Gaming Group to Release Third Quarter 2026 Results on November 13",
+          "summary_he": "Toronto, November 2, 2026, /CNW/ &#8211; Bragg Gaming Group Inc. (NASDAQ: BRAG, TSX: BRAG) (“bragg” or the “Company”), a leading iGaming content and platform technology solutions provider, today confirmed that it will release its third quarter 2026 financial results prior to the opening of the finan",
+          "source": "bragg.group",
+          "url": "https://bragg.group/bragg-gaming-group-to-release-third-quarter-2026-results-on-november-13/",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "Bragg Gaming Group Q3FY26 Results: Release date set for November 13 - scanx.trade",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWl3QV9pTTA4QTFSTTY3bV9HWlVmUDBwLXVhbGs3TV93MHRJZl9SZVlYbGxUVGNUWGlYSXR5VngxR25iNGw5MW95VF9LNHl3U2cwOXVKbXJySERWd0MxU0hzU280d1M3WDVzZ1g4ZkJkeDFOQ0pnWXpzSm9vZzNTakZxMHVUa0s0YWFjeW5jX2EyemFnMkc1NTc0ZHdRUVI3MVhaQ0Y3c19XNy1zUzZTc2FSRXRhQU8wcF",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWl3QV9pTTA4QTFSTTY3bV9HWlVmUDBwLXVhbGs3TV93MHRJZl9SZVlYbGxUVGNUWGlYSXR5VngxR25iNGw5MW95VF9LNHl3U2cwOXVKbXJySERWd0MxU0hzU280d1M3WDVzZ1g4ZkJkeDFOQ0pnWXpzSm9vZzNTakZxMHVUa0s0YWFjeW5jX2EyemFnMkc1NTc0ZHdRUVI3MVhaQ0Y3c19XNy1zUzZTc2FSRXRhQU8wcFM4?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "Bragg Gaming Group Inc. Slides as iGaming Sector Faces Regulatory and Competition Pressures - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQekZiNG9seGJsaFFlbExrWjN5bGNPYnBFZ0RzOERnVHZQMWhnUkRQdFFtRnd5YWRmdTZuNlE4Wm9YWEFEM3k0MjFQUm91LXNXTmJveF9xODViLWdIS183b1IxQ01EdWMzejlFelF1MTltbVdxaUoxa1lqWVZBSGh0X0k3M0hUUm55UjdHbExtTjMyYkVUSWVZek40S3V2VDhySXRSSFBJQXBnemRDSXZxaXRCU2VmanRST1",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQekZiNG9seGJsaFFlbExrWjN5bGNPYnBFZ0RzOERnVHZQMWhnUkRQdFFtRnd5YWRmdTZuNlE4Wm9YWEFEM3k0MjFQUm91LXNXTmJveF9xODViLWdIS183b1IxQ01EdWMzejlFelF1MTltbVdxaUoxa1lqWVZBSGh0X0k3M0hUUm55UjdHbExtTjMyYkVUSWVZek40S3V2VDhySXRSSFBJQXBnemRDSXZxaXRCU2VmanRST1NTWDZmQTR3U3M?oc=5",
+          "sourceKey": "brag_official"
+        },
         {
           "date": "2026-10-31",
           "title": "Bragg Gaming Group Inc. (BRAG.TO) Seasonal returns chart - Yahoo Finance Australia",
@@ -232,43 +264,11 @@ window.intelData = {
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-10-22",
-          "title": "Bragg Gaming Group (BRAG) Stock Price, News &amp; Analysis - Stock Titan",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSjJLNHBEc0U2UVhRcHE5WGx0MUZPQ1pOS0dWN292aUtTY2llUHg2anVmSHAzUEpfdkNBeFBESkNDRm56alEyaXpscHA0dWxVVXNz?oc=5\" target=\"_blank\">Bragg Gaming Group (BRAG) Stock Price, News & Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
-          "source": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSjJLNHBEc0U2UVhRcHE5WGx0MUZPQ1pOS0dWN292aUtTY2llUHg2anVmSHAzUEpfdkNBeFBESkNDRm56alEyaXpscHA0dWxVVXNz?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-10-15",
-          "title": "Bragg Gaming Group Inc. (TSX:BRAG): The Commercial Milestones Investors Need to Watch - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjBGUWw3MkxhUi1vY1dGX0trWjlIUlRYamk1RVFFUHc2V25vS0Rmc29uOFJtM0YyemtCVGlfbFFnX0VUVlNRTzhRdnlucXhjMVdZQzdKcHJLVHFmQlpGQWQ4Yk5xS01GY19RakdBakIwTThOTVowVjNMdjRZTHhyRVZ4aHV1ekl3ZF9ybWhIMkI1X0RTRDN6eFNkQTNzcEFuUkxReXVSMmh0QnpFNWtueUNRUjY2dw?oc=",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUjBGUWw3MkxhUi1vY1dGX0trWjlIUlRYamk1RVFFUHc2V25vS0Rmc29uOFJtM0YyemtCVGlfbFFnX0VUVlNRTzhRdnlucXhjMVdZQzdKcHJLVHFmQlpGQWQ4Yk5xS01GY19RakdBakIwTThOTVowVjNMdjRZTHhyRVZ4aHV1ekl3ZF9ybWhIMkI1X0RTRDN6eFNkQTNzcEFuUkxReXVSMmh0QnpFNWtueUNRUjY2dw?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-10-14",
-          "title": "Form 13D/A Bragg Gaming Group Inc. For: 14 October By Investing.com - Investing.com India",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmR4NnRsVnRtSTBuLVFTbGFWRWpNVlpTdm5jbVRLVUZfZG5sVXU2TUlWaTFKdG93Qmw4cVpZWWpEOUpvRUNOQ3dUc3JoWG9Md0lxOHcwVVFWY0F6VnhoV0Q3b2dXX0NQdTNOSG9kczRJemh1TE9tMTRQRkdKSVZZNzBlR1N2Szg4RlgzbzcyNkV2YzNrdEhWN3ZrYmY5X3JUNU45bTNaeWRtLWdQ?oc=5\" target=\"_bl",
-          "source": "Investing.com India",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmR4NnRsVnRtSTBuLVFTbGFWRWpNVlpTdm5jbVRLVUZfZG5sVXU2TUlWaTFKdG93Qmw4cVpZWWpEOUpvRUNOQ3dUc3JoWG9Md0lxOHcwVVFWY0F6VnhoV0Q3b2dXX0NQdTNOSG9kczRJemh1TE9tMTRQRkdKSVZZNzBlR1N2Szg4RlgzbzcyNkV2YzNrdEhWN3ZrYmY5X3JUNU45bTNaeWRtLWdQ?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
           "date": "2026-10-13",
           "title": "Bragg Gaming Group Inc. (TSX:BRAG) Jumps 8.81% as Positive Momentum Puts Growth Catalysts in Focus - kalkine.ca",
           "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOckZ6VGpjVzE0TUtVTXIzbnp0X3FNT05oa0hjM1ZUdS1IYXh5UHV0SGNvRGxLa1cwRF9lX2R0T1lRYWhwd1h1SEducTBoaEl3LXQ4NTRKMHo4ay1HVWtKSnNLaGV0NHBiUTNLTmo2bko1Q3RfM19DTEI5SE1QTEFKc25pQUlHbVRkYnlsMVBqN3ZIZjZDUkpZNHdjbU00VmdDZGNGTlBPeFZBUlozM1VwRWxaa0MwbWNHX1",
           "source": "kalkine.ca",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOckZ6VGpjVzE0TUtVTXIzbnp0X3FNT05oa0hjM1ZUdS1IYXh5UHV0SGNvRGxLa1cwRF9lX2R0T1lRYWhwd1h1SEducTBoaEl3LXQ4NTRKMHo4ay1HVWtKSnNLaGV0NHBiUTNLTmo2bko1Q3RfM19DTEI5SE1QTEFKc25pQUlHbVRkYnlsMVBqN3ZIZjZDUkpZNHdjbU00VmdDZGNGTlBPeFZBUlozM1VwRWxaa0MwbWNHX1NGUWVGd3plZmZ5NUE?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-10-13",
-          "title": "4.5M new shares push a holder below 5% at Bragg Gaming (BRAG). - Stock Titan",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXBwOC1rV3ZiUVlRNDA0RVdkdjEzQTRvQVRZWHVUSWtaZ0ZSNVhEZVBYbWs1LUdWMVJOaGxmcExTeWVjYkxGUnZlUWR3WW45ZEdScmV6RzlubjZINDZ4eTBSa0FYVjJPb3BpclZnX1IxYWthLUpxQXZxOHdqakxzS0c0YUN4NmlDNDBpbUpRY0NBc3hDM3VDdXZUNW5uRXZyM1FiS1BNZFlXOHhLYVlLOEJaQ2w4Um9VcH",
-          "source": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXBwOC1rV3ZiUVlRNDA0RVdkdjEzQTRvQVRZWHVUSWtaZ0ZSNVhEZVBYbWs1LUdWMVJOaGxmcExTeWVjYkxGUnZlUWR3WW45ZEdScmV6RzlubjZINDZ4eTBSa0FYVjJPb3BpclZnX1IxYWthLUpxQXZxOHdqakxzS0c0YUN4NmlDNDBpbUpRY0NBc3hDM3VDdXZUNW5uRXZyM1FiS1BNZFlXOHhLYVlLOEJaQ2w4Um9VcHNkWDh4VXd2enlvUmp6YzRHVQ?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -287,6 +287,14 @@ window.intelData = {
       "color": "rgba(255,152,0,0.12)",
       "articles": [
         {
+          "date": "2026-11-02",
+          "title": "KSA launches campaign to encourage early conversations about gambling harm among 16-25-year-olds",
+          "summary_he": "Campaign comes a week after the Ksa published its annual report and separate semi-annual report, which found that people aged 18-23 accounted for around 22% of legal gambling accounts.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/sustainable-gambling/ksa-launch-campaign-gambling-harm-16-25-year-olds/",
+          "sourceKey": "igaming_market"
+        },
+        {
           "date": "2026-10-30",
           "title": "Prediction market roundup: Saquon forced to unload stake in Polymarket under NFL rules",
           "summary_he": "The week includes a decision by the Philadelphia Eagles' running back to divest his stake in Polymarket, as well as criminal charges filed by Utah against Kalshi CEO Mansour.",
@@ -301,6 +309,22 @@ window.intelData = {
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/legal-compliance/dutch-regulated-gambling-captures-59-market-revenue-player-reach/",
           "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Dutch gambling regulator launches youth campaigns amid VNLOK-Meta dispute",
+          "summary_he": "The Dutch Gambling Authority, the Kansspelautoriteit (KSA), has launched two new campaigns seeking to address the impact of gambling advertising and gambling harm on young people. The campaigns come amidst a push by the Dutch government to completely ban gambling advertising. This forms part of a wi",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/social-responsibility/2026/11/03/dutch-gambling-regulator-youth/",
+          "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "EU gambling ad report brings more scrutiny for Meta",
+          "summary_he": "Dutch iGaming trade body VNLOK is intensifying its scrutiny of Meta and similar Big Tech companies in light of a new European Commission (EC) study that identifies potential shortcomings of how advertisers are being verified.&#160; The research identified a total of six fields being used by criminal",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/marketing/2026/11/02/meta-eu-gambling-ads/",
+          "sourceKey": "sbc_news"
         }
       ]
     },
@@ -326,20 +350,12 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-10-28",
-          "title": "Flávio Bolsonaro lands in Miami as betting-linked money laundering probe continues",
-          "summary_he": "Flávio Bolsonaro has arrived in the US, landing in Miami on Wednesday after slipping out of Brazil while under investigation over alleged financial crimes tied to betting companies.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/illegal-money-exchanges/bolsonaro-lands-in-miami-as-betting-linked-aml-probe-continues/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-10-29",
-          "title": "Brazil's betting ban faces congressional delays as government pushes for December approval",
-          "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/29/127084-brazil-39s-betting-ban-faces-congressional-delays-as-government-pushes-for-december-approval",
-          "sourceKey": "yogonet"
+          "date": "2026-11-03",
+          "title": "Colombia new president told to rethink suffocating gambling tax VAT",
+          "summary_he": "Colombia’s Ministry of Finance has been urged to reconsider its proposed 19% VAT on online gambling deposits, as licensed operators face another period of tax uncertainty. Finance Minister Miguel Gómez Martínez is pursuing the measure through the Economic Rescue Law proposed by President Abelardo de",
+          "source": "igamingexpert.com",
+          "url": "https://igamingexpert.com/regions/latin-america/colombia-tax-vat/",
+          "sourceKey": "igaming_expert"
         }
       ]
     },
@@ -350,43 +366,43 @@ window.intelData = {
       "articles": [
         {
           "date": "2026-11-02",
-          "title": "New licensing home opens up for prediction markets",
-          "summary_he": "Nevis, a federal state part of the Caribbean nation of Saint Kitts and Nevis, has launched its own prediction markets licensing regime. The news was announced by the Nevis Online Gaming Authority (NOGA), which controls the domestic gambling landscape through strict regulations that bar locals from p",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/northamerica/2026/11/02/nevis-prediction-markets/",
-          "sourceKey": "sbc_news"
+          "title": "Codere Online CEO &#8216;keeping an eye&#8217; on prediction markets",
+          "summary_he": "Prediction markets remain on Codere Online’s radar as the operator explores opportunities to expand its offering and reach.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/prediction-markets/codere-online-ceo-aviv-sher-prediction-markets/",
+          "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-11-02",
-          "title": "Canada First Nation launches first-ever indigenous prediction markets framework",
-          "summary_he": "A First Nation community in New Brunswick, Canada has become the latest jurisdiction to set up its own prediction markets regulations, perhaps taking a cue from Gibraltar over in Europe. The Tobique First Nation, which has a population of less than 3,000 community members according to a 2025 census,",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/northamerica/2026/11/02/canada-prediction-markets/",
-          "sourceKey": "sbc_news"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "No to Sports Betting Abuse: NCAA Joins Initiative to Protect College Athletes",
-          "summary_he": "The National Collegiate Athletic Association (NCAA) has taken one more step in the battle against online harassment by joining the Bad Actor Program in its latest attempt to keep athletes safe and properly protected.&#160; First Sports Governing Body to Join Bad Actor The program, joined by Fanatics",
+          "date": "2026-11-03",
+          "title": "Nebraska Voters to Decide Fate of Mobile Sports Betting",
+          "summary_he": "Nebraska voters will decide on November 3 whether to legalize statewide mobile sports betting, ending a campaign that has attracted more than $22.5 million in contributions. DraftKings and FanDuel have contributed the bulk of the money, donating about $10.4 million each to back the proposed changes.",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/no-to-sports-betting-abuse-ncaa-joins-initiative-to-protect-college-athletes/",
+          "url": "https://www.gamblingnews.com/news/nebraska-voters-to-decide-fate-of-mobile-sports-betting/",
           "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-10-30",
-          "title": "Coinbase prediction markets top $200M annualized revenue while Q3 net revenue falls 34%",
+          "date": "2026-11-03",
+          "title": "Tom Osborne Joins Opposition to Nebraska Online Sports Betting Ahead of Vote",
           "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/30/127095-coinbase-prediction-markets-top-200m-annualized-revenue-while-q3-net-revenue-falls-34-",
-          "sourceKey": "yogonet"
+          "source": "deadspin.com",
+          "url": "https://deadspin.com/legal-betting/",
+          "sourceKey": "deadspin"
         },
         {
-          "date": "2026-10-29",
-          "title": "Nevada gaming win flat at $1.28 billion in September, visitation slightly up",
+          "date": "2026-11-03",
+          "title": "Michigan Online Gambling Receipts Hit $355.7M as Sports Handle Jumps 65%",
           "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/29/127089-nevada-gaming-win-flat-at-128-billion-in-september-visitation-slightly-up",
-          "sourceKey": "yogonet"
+          "source": "deadspin.com",
+          "url": "https://deadspin.com/legal-betting/",
+          "sourceKey": "deadspin"
+        },
+        {
+          "date": "2026-11-03",
+          "title": "Pennsylvania Lawmakers Target Sports Betting Ads, Live Wagers With New Caucus",
+          "summary_he": "",
+          "source": "deadspin.com",
+          "url": "https://deadspin.com/legal-betting/",
+          "sourceKey": "deadspin"
         }
       ]
     },
@@ -412,28 +428,28 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-10-29",
-          "title": "Italy’s gambling tax: a losing hand?",
-          "summary_he": "Rome wants around €700 million from gambling. Experts disagree on whether it can be done, but agree on the likely consequences.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/finance/italys-gambling-tax-a-losing-hand/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "“You can’t hope a problem away” &#8211; Commission finds high use of illegal sites among UK problem gamblers",
-          "summary_he": "Britain’s betting industry has reacted with vindication following the results of a Gambling Commission study into online illegal gambling, though the results may also leave the regulated sector with some food for thought… Coming the same week that the government revealed its budget, with an increase",
+          "date": "2026-11-03",
+          "title": "Greece stands by player tax increase on gambling winnings",
+          "summary_he": "Kyriakos Pierrakakis, Greece’s Finance Minister, has stood by the decision to increase taxes on online casino game winnings as a means to “grow revenues for public services”. Figures published in October show that taxes withheld from gambling winnings were €369m (£307m) between January-August 2026, ",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/featurednews/2026/10/30/gambling-commission-illegal-gambling/",
+          "url": "https://sbcnews.co.uk/igaming/2026/11/03/greece-gambling-winnings-tax/",
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-10-30",
-          "title": "Bally’s backs Star Entertainment’s turnaround after $182 million penalty",
-          "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/30/127100-ballys-backs-star-entertainments-turnaround-after-182-million-penalty",
-          "sourceKey": "yogonet"
+          "date": "2026-11-03",
+          "title": "Leadstar Media: Finland’s affiliate ban may put player safety at risk",
+          "summary_he": "2027 is a significant year for Finnish gambling as Veikkaus’ long-established monopoly on legal online betting and gaming comes to a close. More than 50 companies have registered interest in obtaining a licence in Finland’s newly regulated sector, and as of the time of writing 18 have secured cleara",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/features/2026/11/03/leadstar-media-finland-affiliate-ban/",
+          "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-11-03",
+          "title": "BetGames Launches Full Portfolio with BET.bg in Bulgaria",
+          "summary_he": "BetGames has expanded further in Europe through a partnership with BET.bg in Bulgaria, further consolidating its footprint in the Southeastern European iGaming market. BET.bg Strengthens Content Diversity in Bulgaria BET.bg players will now receive access to BetGames’ entire portfolio, which spans f",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/betgames-launches-full-portfolio-with-bet-bg-in-bulgaria/",
+          "sourceKey": "gambling_news"
         }
       ]
     },
@@ -443,6 +459,14 @@ window.intelData = {
       "color": "rgba(0,230,118,0.12)",
       "articles": [
         {
+          "date": "2026-11-02",
+          "title": "Build first, shout later: How PRace is closing gaming’s sales-marketing gap",
+          "summary_he": "PRace stayed invisible for its first 12 months. Now with 18 clients, its founders explain why gaming suppliers should judge marketing by pipeline, not press clippings.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/marketing-affiliates/build-first-shout-later-how-prace-is-closing-gamings-sales-marketing-gap/",
+          "sourceKey": "igaming_market"
+        },
+        {
           "date": "2026-10-30",
           "title": "BOS warns AML fine plans risk &#8216;double punishment&#8217; for operators",
           "summary_he": "Swedish trade body wants AML fines based on Swedish GGR, not group-wide turnover or total stakes.",
@@ -451,43 +475,35 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-10-29",
-          "title": "Veikkaus and Viaplay partner for first overseas B2C venture",
-          "summary_he": "Viabet will be launched in both Finland and Denmark via the commercial partnership.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/igaming/veikkaus-and-viaplay-partner-for-first-overseas-b2c-venture/",
-          "sourceKey": "igaming_market"
+          "date": "2026-11-02",
+          "title": "GiG CFO departs just days after release of Q3 results",
+          "summary_he": "The Chief Financial Officer of GiG Software has left his role just days after the business released its Q3 2026 results. Phil Richards’ departure was confirmed by GiG today, with the company confirming that he will leave the position which he took up in July 2024. Throughout Richards’ time as CFO, G",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/igaming/2026/11/02/gig-cfo-departs/",
+          "sourceKey": "sbc_news"
         },
         {
           "date": "2026-11-02",
-          "title": "Kalshi Joins Philadelphia 76ers as Official Partner",
-          "summary_he": "The Philadelphia 76ers have become the first NBA franchise to add Kalshi as an official partner, part of a multi-year agreement between the two organizations. This follows a similar partnership between the NBA’s own alliances with Kalshi and Polymarket, a nod to the fact that these types of arrangem",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/kalshi-joins-philadelphia-76ers-as-official-partner/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "Polymarket Investigates Suspicious Bets on Israeli Elections",
-          "summary_he": "Polymarket is looking into what it calls potentially suspicious trading in relation to Israel&#8217;s general election on October 27. Hundreds of newly registered accounts made successful bets on Prime Minister Benjamin Netanyahu’s Likud party just before voting closed, raising renewed fears of poss",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/polymarket-investigates-suspicious-bets-on-israeli-elections/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Polymarket Had to Pause Trading After Hackers Stole $2.7M from the Platform",
-          "summary_he": "Polymarket was just hit by hackers, who are said to have siphoned roughly $2.7 million from hundreds of accounts on the platform. Polymarket had to temporarily cancel trading due to the attack, although it has since resumed operation. Experts Say Hackers Stole Millions Reports say that Polymarket wa",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/polymarket-had-to-pause-trading-after-hackers-stole-2-7m-from-the-platform/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-10-30",
-          "title": "Kalshi valuation surges to $40 billion after latest $1 billion funding round",
+          "title": "Senators question Kalshi, Polymarket over election betting manipulation and insider trading risks",
           "summary_he": "",
           "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/10/30/127098-kalshi-valuation-surges-to-40-billion-after-latest-1-billion-funding-round",
+          "url": "https://www.yogonet.com/international/news/2026/11/02/127122-senators-question-kalshi-polymarket-over-election-betting-manipulation-and-insider-trading-risks",
+          "sourceKey": "yogonet"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "\"The measure of success is not simply how many people walk through an event's doors. It is what happens after they leave.\"",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/11/02/127108--34the-measure-of-success-is-not-simply-how-many-people-walk-through-an-event-39s-doors-it-is-what-happens-after-they-leave-34",
+          "sourceKey": "yogonet"
+        },
+        {
+          "date": "2026-10-30",
+          "title": "Italy targets $2.13 billion in gambling revenue under 2027 budget plan",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/10/30/127107-italy-targets-213-billion-in-gambling-revenue-under-2027-budget-plan",
           "sourceKey": "yogonet"
         }
       ]
@@ -498,11 +514,11 @@ window.intelData = {
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
-          "date": "2026-11-01",
-          "title": "Reddit: Oklahoma online gambling",
+          "date": "2026-11-02",
+          "title": "Reddit: Oklahoma players.. anyone try this casino yet?",
           "summary_he": "תקציר לא זמין (שגיאת AI)",
           "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1xl0noj/oklahoma_online_gambling/"
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1xlzzn9/oklahoma_players_anyone_try_this_casino_yet/"
         }
       ]
     }
