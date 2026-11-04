@@ -24,37 +24,39 @@ window.dashboardData = {
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
       "category_he": "כללי",
-      "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+      "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+      "date_string": "2026-11-03",
+      "saved_at": "2026-11-03T13:38:54.934+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין מידע עדכני מהיום ב-X.",
+      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. אין דיונים בולטים על סנטימנט או תחזיות.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "us_regulation": {
-      "summary": "אין מידע עדכני מהיום ב-X.",
+      "summary": "אין חדשות חדשות מ-NY או חקיקה בארה\"ב ב-24 השעות האחרונות.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "brazil_market": {
-      "summary": "אין מידע עדכני מהיום ב-X.",
+      "summary": "אין דיווחים עדכניים על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "netherlands_ksa": {
-      "summary": "אין מידע עדכני מהיום ב-X.",
+      "summary": "אין מידע חדש על KSA, חידוש רישיונות או BetCity.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "igaming_industry": {
-      "summary": "אין מידע עדכני מהיום ב-X.",
+      "summary": "אין עסקאות או מגמות שדווחו היום בתעשייה.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין גישה למידע בזמן אמת מ-X"
+    "top_alert": "אין התראות"
   },
-  "generatedAt": "2026-11-03T13:38:55.562Z"
+  "generatedAt": "2026-11-04T13:47:27.977Z"
 };
