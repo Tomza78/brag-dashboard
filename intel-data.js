@@ -9,7 +9,7 @@ window.intelData = {
     "volume": "127,200",
     "marketCap": "$23M",
     "yoyChange": "-72%",
-    "updatedAt": "7.11.2026 · 12:27",
+    "updatedAt": "8.11.2026 · 12:45",
     "dayHigh": "$0.80",
     "dayLow": "$0.69",
     "changeTSX": "-0.09",
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין ציוצים משמעותיים על BRAG מהיום. אין עדכונים על תחזיות או חדשות.",
+        "text": "אין עדכונים משמעותיים על מניית BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "אין דיונים בולטים על רגולציה בניו יורק או חקיקה חדשה.",
+        "text": "דיונים מוגבלים על רגולציית iGaming בניו יורק. אין חקיקה חדשה או רישיונות שדווחו היום.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין מידע עדכני על רגולציה או רישיונות בברזיל.",
+        "text": "אין מידע עדכני על רגולציה או רישיונות חדשים בשוק ההימורים בברזיל.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין ציוצים על חידוש רישיונות או אכיפה בהולנד.",
+        "text": "אין עדכונים על חידוש רישיונות או אכיפה של KSA בהולנד, כולל BetCity.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין חדשות על עסקאות או מגמות כלליות מהיום.",
+        "text": "אין עסקאות או שותפויות חדשות שדווחו בתעשיית iGaming היום.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,27 +166,27 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין ציוצים משמעותיים על BRAG מהיום. אין עדכונים על תחזיות או חדשות.",
+      "summary": "אין עדכונים משמעותיים על מניית BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין דיונים בולטים על רגולציה בניו יורק או חקיקה חדשה.",
+      "summary": "דיונים מוגבלים על רגולציית iGaming בניו יורק. אין חקיקה חדשה או רישיונות שדווחו היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין מידע עדכני על רגולציה או רישיונות בברזיל.",
+      "summary": "אין מידע עדכני על רגולציה או רישיונות חדשים בשוק ההימורים בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין ציוצים על חידוש רישיונות או אכיפה בהולנד.",
+      "summary": "אין עדכונים על חידוש רישיונות או אכיפה של KSA בהולנד, כולל BetCity.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין חדשות על עסקאות או מגמות כלליות מהיום.",
+      "summary": "אין עסקאות או שותפויות חדשות שדווחו בתעשיית iGaming היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
@@ -200,14 +200,6 @@ window.intelData = {
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
-          "date": "2026-11-07",
-          "title": "Morten Tonnesen Becomes Bragg Gaming’s Interim CEO as Matevž Mazij Steps Down - Gambling News",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWctRndGRENLLU5Zbm9vZ0ZZTUNVbXVOajJaclVEc3V6c0llZGhpX1Y2alVCd2RBSDY3V1BGSnY2RkMyNVh2N1JiMUNfb0k1ZW9qNlZzRXlERWxjcS1oZWJYUmxnUUlTenp4bFBGRUdNaFVGaHJ0UHBOZ041a2lNSXdWd0l5c1VOc0lTWHdHTjBLV3VLN1NMeGU1bEJkeDR3QUFpWVR6U2Z3Q1FBcDBhUg?oc=5\" targe",
-          "source": "Gambling News",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUWctRndGRENLLU5Zbm9vZ0ZZTUNVbXVOajJaclVEc3V6c0llZGhpX1Y2alVCd2RBSDY3V1BGSnY2RkMyNVh2N1JiMUNfb0k1ZW9qNlZzRXlERWxjcS1oZWJYUmxnUUlTenp4bFBGRUdNaFVGaHJ0UHBOZ041a2lNSXdWd0l5c1VOc0lTWHdHTjBLV3VLN1NMeGU1bEJkeDR3QUFpWVR6U2Z3Q1FBcDBhUg?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
           "date": "2026-11-06",
           "title": "Bragg Gaming Group Announces Leadership Transition",
           "summary_he": "Morten Tonnesen appointed Interim Chief Executive Officer. Matevž Mazij to serve as Strategic Advisor Toronto, November 6, 2026, /CNW/ &#8211; Bragg Gaming Group Inc. (NASDAQ: BRAG, TSX: BRAG) (“bragg” or the “Company”), a leading iGaming content and platform technology solutions provider, today ann",
@@ -217,66 +209,74 @@ window.intelData = {
         },
         {
           "date": "2026-11-06",
-          "title": "Bragg Gaming appoints Tonnesen as Interim CEO - Yahoo Finance",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhnVUpnMm0zaGgxM0t5UFp5c2hQeHEzMjVWUWNtZFpRNkt4eDhfRGJjc2dvQzhLQUdXZ0JLN0tMU0l5TklwaThvMFJJZkJUcWZIQlVHZ3luWnFxSWpLZEdyUkZsQjlJWG1fcjY0UXR4SUtoeDFqOHJjdUNxSW8tY21XcXN3ZmRaUFQtSXVucGJxeW1HNFhNVjlEci1kQ3BzU2xjWm9R?oc=5\" target=\"_blank\">Bra",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhnVUpnMm0zaGgxM0t5UFp5c2hQeHEzMjVWUWNtZFpRNkt4eDhfRGJjc2dvQzhLQUdXZ0JLN0tMU0l5TklwaThvMFJJZkJUcWZIQlVHZ3luWnFxSWpLZEdyUkZsQjlJWG1fcjY0UXR4SUtoeDFqOHJjdUNxSW8tY21XcXN3ZmRaUFQtSXVucGJxeW1HNFhNVjlEci1kQ3BzU2xjWm9R?oc=5",
+          "title": "Bragg Gaming Group (TSX:BRAG) Drops 9.23%: Withdrawn Guidance and Integration Uncertainty Weigh on Sentiment - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1p4eEhSZ21MVFZsbE9uSl9RX2J2SE5TQmhnRWV5WkdaZHhrY3plM2d0UjZYLVl6bzk3bUVPMGxEbXliMEF3Znk5R0sxRVJIajRSeDh3eHRqaGx2VlRpVUFzaGVXWE1rajJGUkV1MFdyNUNqb2tJQm14VjJ4cVliQ1d4Q2NhRnJ1djVGZmxSUUdOdEVuSGljd1pBaGRISnp2MHZ3RUdNaXdTTDlVTERzOTVRazRIOGZuaE",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1p4eEhSZ21MVFZsbE9uSl9RX2J2SE5TQmhnRWV5WkdaZHhrY3plM2d0UjZYLVl6bzk3bUVPMGxEbXliMEF3Znk5R0sxRVJIajRSeDh3eHRqaGx2VlRpVUFzaGVXWE1rajJGUkV1MFdyNUNqb2tJQm14VjJ4cVliQ1d4Q2NhRnJ1djVGZmxSUUdOdEVuSGljd1pBaGRISnp2MHZ3RUdNaXdTTDlVTERzOTVRazRIOGZuaEpyNjRwM2R2UGVmVi0xUl9VSGJ4UWoybmxZ?oc=5",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-11-06",
-          "title": "Bragg Gaming Group (BRAG) Names Morten Tonnesen Interim CEO Amid Operational Shift - GuruFocus",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVlEeURLRV9PQ0NUQjZ3cEpKdUV3N1ktb1Uwck9RcWFyMEE4X04zVUZZUFEycEtHeTd3STdPOFV1aXJBRWNYNlR5T2Rfbi1Na2hYMG1zSlRKZ05GVGdydmowSnBzZmFDdHM5ekpEcFFqMDlud2pRblFpM2lCRm9lc3NWNTExWk9Gek92dTlZUkt5Q1RYN1ZETGI1andObExZVnR6SUhKMUlWUV9uOGp4UTRocG1JdVV6VU",
-          "source": "GuruFocus",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZVlEeURLRV9PQ0NUQjZ3cEpKdUV3N1ktb1Uwck9RcWFyMEE4X04zVUZZUFEycEtHeTd3STdPOFV1aXJBRWNYNlR5T2Rfbi1Na2hYMG1zSlRKZ05GVGdydmowSnBzZmFDdHM5ekpEcFFqMDlud2pRblFpM2lCRm9lc3NWNTExWk9Gek92dTlZUkt5Q1RYN1ZETGI1andObExZVnR6SUhKMUlWUV9uOGp4UTRocG1JdVV6VUJ3?oc=5",
+          "date": "2026-11-04",
+          "title": "Bragg Gaming Group Q3 2026 Earnings Date and Estimates - MarketBeat",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkFTYlRkejgwX04yVjBsRjNEaWdDTHVIVEZOLW90Z1piN1JNb0o2RzlnQ1M5TjRIR0lJZjhMSjlXbjlEOGNuTU9BME5MVndFQWJZbFZzYmlTcEhfeXE0R2U4WTN6ZnBOTTVIRkc2cXJTRjBWbEVkaW9JNnROOXo0V3ZrLWJLQ0tvVTNjRFVnQQ?oc=5\" target=\"_blank\">Bragg Gaming Group Q3 2026 Earnin",
+          "source": "MarketBeat",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkFTYlRkejgwX04yVjBsRjNEaWdDTHVIVEZOLW90Z1piN1JNb0o2RzlnQ1M5TjRIR0lJZjhMSjlXbjlEOGNuTU9BME5MVndFQWJZbFZzYmlTcEhfeXE0R2U4WTN6ZnBOTTVIRkc2cXJTRjBWbEVkaW9JNnROOXo0V3ZrLWJLQ0tvVTNjRFVnQQ?oc=5",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-11-06",
-          "title": "Bragg Gaming Appoints Morten Tonnesen as Interim CEO - marketscreener.com",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGVLb2RiV1ZRTXNORDV6RkNLSHNXYUpETXVRRGMxOHVPcDhDR1RrMHFWQzd6VUZJbGg4ellrZUZ3ZlEtM3JHSGtlVW5kdEJZc1dSNTNkWHNELWFWLVRLWDZKVHFmWHBuaVR4dENIVjNHYVZJR0htR0xFNkxQajYyb3pmVDFhQUJTYXhiZWt6R2VlYy1BbDV0T1lzdEQ0Vko1YnpPWGR6U3c?oc=5\" target=\"_blank\">",
-          "source": "marketscreener.com",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSGVLb2RiV1ZRTXNORDV6RkNLSHNXYUpETXVRRGMxOHVPcDhDR1RrMHFWQzd6VUZJbGg4ellrZUZ3ZlEtM3JHSGtlVW5kdEJZc1dSNTNkWHNELWFWLVRLWDZKVHFmWHBuaVR4dENIVjNHYVZJR0htR0xFNkxQajYyb3pmVDFhQUJTYXhiZWt6R2VlYy1BbDV0T1lzdEQ0Vko1YnpPWGR6U3c?oc=5",
+          "date": "2026-11-04",
+          "title": "Why Is Bragg Gaming (TSX:BRAG) Down 3.10% at CAD 1.25 With an RSI of 20.73? - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1dFU3BKcXNuQ2JEczhJNHpnMHRteUpJNHdtYWNkb0JNdEgxbk1sNXdwU0ZBNEt0VmtCM0RoSDJlMUkyNTYyMVBPeHBwS294NGFPWnpXdU43aUI1dng1OUpuWnJpYnFpZWdlZldqUnpnRHRaalJ5Rzc1VmlIaHIwTUtsRVNVTDZSbE9pTVJ4U2EtLVB6d3FJWkgtNFRkemhOcmxkUA?oc=5\" target=\"_blank\">Why I",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1dFU3BKcXNuQ2JEczhJNHpnMHRteUpJNHdtYWNkb0JNdEgxbk1sNXdwU0ZBNEt0VmtCM0RoSDJlMUkyNTYyMVBPeHBwS294NGFPWnpXdU43aUI1dng1OUpuWnJpYnFpZWdlZldqUnpnRHRaalJ5Rzc1VmlIaHIwTUtsRVNVTDZSbE9pTVJ4U2EtLVB6d3FJWkgtNFRkemhOcmxkUA?oc=5",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-11-06",
-          "title": "Bragg Gaming Group Appoints Morten Tonnesen As Interim CEO - TradingView",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzNXWFJPbnNILXBRT0o1TzdDUmVGXy1EY1hWejA2N040NDBlTmpNY3F0YjNibjhQcHFIUHBTTzE4T2owMGcxdXl3eHllTG1MMUJYUk1GbzZuUmhwTkJjZHAzcXVzVVNEc2F5QWRIOW9hemhIX3V3cUpBVmVza1Y0alRmZGJ0dFRqd1FEWVg0aE00bTlfbW1BUlY4cV9kRUVoSGlsODZPYnU4aXlHbHdVUFUxRUsza2Y5am",
-          "source": "TradingView",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzNXWFJPbnNILXBRT0o1TzdDUmVGXy1EY1hWejA2N040NDBlTmpNY3F0YjNibjhQcHFIUHBTTzE4T2owMGcxdXl3eHllTG1MMUJYUk1GbzZuUmhwTkJjZHAzcXVzVVNEc2F5QWRIOW9hemhIX3V3cUpBVmVza1Y0alRmZGJ0dFRqd1FEWVg0aE00bTlfbW1BUlY4cV9kRUVoSGlsODZPYnU4aXlHbHdVUFUxRUsza2Y5amhNeFMyYjRURk5DclFR?oc=5",
+          "date": "2026-11-04",
+          "title": "Bragg Gaming Group Inc. Dips as iGaming Technology Sector Navigates Regulatory Complexity and Competitive Pressure - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSjBuX0d4eVJWd2tTZG1WWFhqdDQ1RFZwMHZLOEFjMEl2bU9ueHpZRklKOGRSb0hqN0JfVGtPa2RBN2w1UThqc3lWSGoxZFJrdS05OGNTdm94SndYa0pILVVLdHdKaFZBUnBxZUVkbWc3SXpEZVVmbVdjNWlfTFA3LVVqRWk4Wm00RmIwbHVLUThIOEd6cXBfekMyTHJDMkhwUlVJWk5McVp5NUxWUWc2MVlGRFo0Tmlpc2",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSjBuX0d4eVJWd2tTZG1WWFhqdDQ1RFZwMHZLOEFjMEl2bU9ueHpZRklKOGRSb0hqN0JfVGtPa2RBN2w1UThqc3lWSGoxZFJrdS05OGNTdm94SndYa0pILVVLdHdKaFZBUnBxZUVkbWc3SXpEZVVmbVdjNWlfTFA3LVVqRWk4Wm00RmIwbHVLUThIOEd6cXBfekMyTHJDMkhwUlVJWk5McVp5NUxWUWc2MVlGRFo0Tmlpc292M2dmRExjUl9ud1lDSTY4T3dIRzNnUGVkTUNVWDI1VUJvWmEyTnZB?oc=5",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-11-06",
-          "title": "Bragg Gaming names Morten Tonnesen as interim CEO - Gaming Intelligence",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWY3ZXFRT24wa2IyNXY2dnBXS2lSSl83djd6SFBvWTc5RVFYOWRxRGRiN2dHaXQzOVdGaUMxWktPMGZKOFJ3bl9tRjlwUkVvV3ZyRVpuYks5dDN5QkJNU04xUHR4MFVoREQ1T18wUW9LQzBEMzhlS0JMLWxxYkVZYTd3a2tDWDQ4a19WTk9fazI0Z1BZVlRGc21aWU92QjBV?oc=5\" target=\"_blank\">Bragg Gamin",
-          "source": "Gaming Intelligence",
-          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWY3ZXFRT24wa2IyNXY2dnBXS2lSSl83djd6SFBvWTc5RVFYOWRxRGRiN2dHaXQzOVdGaUMxWktPMGZKOFJ3bl9tRjlwUkVvV3ZyRVpuYks5dDN5QkJNU04xUHR4MFVoREQ1T18wUW9LQzBEMzhlS0JMLWxxYkVZYTd3a2tDWDQ4a19WTk9fazI0Z1BZVlRGc21aWU92QjBV?oc=5",
+          "date": "2026-11-03",
+          "title": "Bragg Gaming Group Inc. Faces Equity Headwinds as B2B iGaming Market Competition and Regulatory Complexity Weigh on Sentiment - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQlotLXhKcGNkTHlfaXNPTEJKeW1zbnlfdXhtZmZVQjh2b1NyZVh4WFNhN1ZpdzlSdkpPTkp4Sl9kSWhEVWdlQ0hmcENBR1M4Y0pLbnJKM1JBZVdnUXRRT2tBSzNLMTJwXzh6Szg3XzNSQjBoZFF5THlMYjdRRUltQmktWnRKYnE2UlRDUkZTMXlzeFA2SGlwdDR6cjdKN2xod19SVmpSUnMyMi1Nd3Y4enNIQ3hCWi15Tk",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQlotLXhKcGNkTHlfaXNPTEJKeW1zbnlfdXhtZmZVQjh2b1NyZVh4WFNhN1ZpdzlSdkpPTkp4Sl9kSWhEVWdlQ0hmcENBR1M4Y0pLbnJKM1JBZVdnUXRRT2tBSzNLMTJwXzh6Szg3XzNSQjBoZFF5THlMYjdRRUltQmktWnRKYnE2UlRDUkZTMXlzeFA2SGlwdDR6cjdKN2xod19SVmpSUnMyMi1Nd3Y4enNIQ3hCWi15TkV5cFB6eDNFMWNadE51UE5ZeGRuWUJRdkJPQlVRdm9DSnVtNWYzVGxhbnpxd09NRldoNDNFYVM?oc=5",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-11-06",
-          "title": "Bragg Gaming names Morten Tonnesen interim CEO - StreetInsider",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQU1PU3J3bmZkVF9YbDN6ZlFFRWpra0xtQ2JOOUFjbWFvVGo0Y3puTTVSbmZkUlp0UDBrMjQ1eThWVzNDN3ZxM0dBeXlqVGxSQ09qM1pkQ1p3YXQ0MEFmcUtaczJqanB3QnVGSVg3UVg5ZGF2aFlDekx0bk1hZ01XT1N5VUd5dHhRZ1g5YjdLMDRVRmpyVDBoelZjTEFqU0Roa0lIWGVMVHE?oc=5\" target=\"_blank\">",
-          "source": "StreetInsider",
-          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQU1PU3J3bmZkVF9YbDN6ZlFFRWpra0xtQ2JOOUFjbWFvVGo0Y3puTTVSbmZkUlp0UDBrMjQ1eThWVzNDN3ZxM0dBeXlqVGxSQ09qM1pkQ1p3YXQ0MEFmcUtaczJqanB3QnVGSVg3UVg5ZGF2aFlDekx0bk1hZ01XT1N5VUd5dHhRZ1g5YjdLMDRVRmpyVDBoelZjTEFqU0Roa0lIWGVMVHE?oc=5",
+          "date": "2026-11-03",
+          "title": "Bragg Gaming Group (TSX:BRAG) Sets November Date for Its Third-Quarter - Kalkine Media",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFQxRXF3WHVTUjFuTXRpYjg0RTQzaFdqa1NpWG5GU3pyOGloZmpqLTV6Y21wcnAzNUljaFY1NGhNZmRZVTJuRFl0elhOcWpFTmlGbnYzNVBLMWZ0YXByY3l0MGFIUGFIRTZxVmFkbENlcmNPVE5tdlowUHliWEJma1dLWmlSUTRmVkNRVVJLLWhUalYxYWFBaVEzWHhya3dUd09KZzdRM1BjQmh5X05aRkJfOA?oc=5\" t",
+          "source": "Kalkine Media",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFQxRXF3WHVTUjFuTXRpYjg0RTQzaFdqa1NpWG5GU3pyOGloZmpqLTV6Y21wcnAzNUljaFY1NGhNZmRZVTJuRFl0elhOcWpFTmlGbnYzNVBLMWZ0YXByY3l0MGFIUGFIRTZxVmFkbENlcmNPVE5tdlowUHliWEJma1dLWmlSUTRmVkNRVVJLLWhUalYxYWFBaVEzWHhya3dUd09KZzdRM1BjQmh5X05aRkJfOA?oc=5",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-11-06",
-          "title": "Bragg Gaming's former CEO becomes an adviser as an interim chief takes over daily operations. - Stock Titan",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNUS1WN1d1d1VONnlWQ2dKcTFCRzZLdS1JRDdvbmZjNlNCMmdNZG9CUGhkZVFtaXpTU1ZmZ0I0S01lSC1vUktFZ0NWZUo2cTluaGc3SDA1cXZWaXhVRTNpam9XaXRLaU14UHFQZXhvam45dXhZcFcyLW5zNHFHR1FHQ0lkNWJGVlQxUnVmcDI0UENuODVpNzRMemtn?oc=5\" target=\"_blank\">Bragg Gaming's form",
-          "source": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUS1WN1d1d1VONnlWQ2dKcTFCRzZLdS1JRDdvbmZjNlNCMmdNZG9CUGhkZVFtaXpTU1ZmZ0I0S01lSC1vUktFZ0NWZUo2cTluaGc3SDA1cXZWaXhVRTNpam9XaXRLaU14UHFQZXhvam45dXhZcFcyLW5zNHFHR1FHQ0lkNWJGVlQxUnVmcDI0UENuODVpNzRMemtn?oc=5",
+          "date": "2026-11-02",
+          "title": "Bragg Gaming Group to Release Third Quarter 2026 Results on November 13",
+          "summary_he": "Toronto, November 2, 2026, /CNW/ &#8211; Bragg Gaming Group Inc. (NASDAQ: BRAG, TSX: BRAG) (“bragg” or the “Company”), a leading iGaming content and platform technology solutions provider, today confirmed that it will release its third quarter 2026 financial results prior to the opening of the finan",
+          "source": "bragg.group",
+          "url": "https://bragg.group/bragg-gaming-group-to-release-third-quarter-2026-results-on-november-13/",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-11-06",
-          "title": "Matevž Mazij exits as CEO of Bragg - NEXT.io",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oRFk4NEx0OG5QemFlWGc3LUtlZ2wxSU1Vdkp4cXJXWjRMa25GQ2QtQnN2c0NUM09Hb1QxWFI3UkpuenZWNEN2SmIteUMyV2xUZG51MGNTZWxwanpncWhKbGFvLUV1VEdL?oc=5\" target=\"_blank\">Matevž Mazij exits as CEO of Bragg</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NEXT.io</font>",
-          "source": "NEXT.io",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oRFk4NEx0OG5QemFlWGc3LUtlZ2wxSU1Vdkp4cXJXWjRMa25GQ2QtQnN2c0NUM09Hb1QxWFI3UkpuenZWNEN2SmIteUMyV2xUZG51MGNTZWxwanpncWhKbGFvLUV1VEdL?oc=5",
+          "date": "2026-11-02",
+          "title": "Bragg Gaming Group Inc. Slides as iGaming Sector Faces Regulatory and Competition Pressures - kalkine.ca",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQekZiNG9seGJsaFFlbExrWjN5bGNPYnBFZ0RzOERnVHZQMWhnUkRQdFFtRnd5YWRmdTZuNlE4Wm9YWEFEM3k0MjFQUm91LXNXTmJveF9xODViLWdIS183b1IxQ01EdWMzejlFelF1MTltbVdxaUoxa1lqWVZBSGh0X0k3M0hUUm55UjdHbExtTjMyYkVUSWVZek40S3V2VDhySXRSSFBJQXBnemRDSXZxaXRCU2VmanRST1",
+          "source": "kalkine.ca",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQekZiNG9seGJsaFFlbExrWjN5bGNPYnBFZ0RzOERnVHZQMWhnUkRQdFFtRnd5YWRmdTZuNlE4Wm9YWEFEM3k0MjFQUm91LXNXTmJveF9xODViLWdIS183b1IxQ01EdWMzejlFelF1MTltbVdxaUoxa1lqWVZBSGh0X0k3M0hUUm55UjdHbExtTjMyYkVUSWVZek40S3V2VDhySXRSSFBJQXBnemRDSXZxaXRCU2VmanRST1NTWDZmQTR3U3M?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-02",
+          "title": "Bragg Gaming Group Q3FY26 Results: Release date set for November 13 - scanx.trade",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWl3QV9pTTA4QTFSTTY3bV9HWlVmUDBwLXVhbGs3TV93MHRJZl9SZVlYbGxUVGNUWGlYSXR5VngxR25iNGw5MW95VF9LNHl3U2cwOXVKbXJySERWd0MxU0hzU280d1M3WDVzZ1g4ZkJkeDFOQ0pnWXpzSm9vZzNTakZxMHVUa0s0YWFjeW5jX2EyemFnMkc1NTc0ZHdRUVI3MVhaQ0Y3c19XNy1zUzZTc2FSRXRhQU8wcF",
+          "source": "scanx.trade",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWl3QV9pTTA4QTFSTTY3bV9HWlVmUDBwLXVhbGs3TV93MHRJZl9SZVlYbGxUVGNUWGlYSXR5VngxR25iNGw5MW95VF9LNHl3U2cwOXVKbXJySERWd0MxU0hzU280d1M3WDVzZ1g4ZkJkeDFOQ0pnWXpzSm9vZzNTakZxMHVUa0s0YWFjeW5jX2EyemFnMkc1NTc0ZHdRUVI3MVhaQ0Y3c19XNy1zUzZTc2FSRXRhQU8wcFM4?oc=5",
           "sourceKey": "brag_official"
         }
       ]
@@ -467,18 +467,11 @@ window.intelData = {
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
-          "date": "2026-11-05",
-          "title": "Reddit: ISO AB sites",
+          "date": "2026-11-07",
+          "title": "Reddit: Online casino in New Jersey with Spanish 21",
           "summary_he": "תקציר לא זמין (שגיאת AI)",
           "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1xoqrxt/iso_ab_sites/"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "Reddit: No VPN",
-          "summary_he": "תקציר לא זמין (שגיאת AI)",
-          "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1xp49yi/no_vpn/"
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1xqdtti/online_casino_in_new_jersey_with_spanish_21/"
         }
       ]
     }
