@@ -19,37 +19,39 @@ window.dashboardData = {
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
       "category_he": "כללי",
-      "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+      "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+      "date_string": "2026-11-08",
+      "saved_at": "2026-11-08T12:46:27.624+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על מניית BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
+      "summary": "אין עדכונים משמעותיים ב-X היום על BRAG. אין דיונים בולטים על סנטימנט או תחזיות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציית iGaming בניו יורק. אין חקיקה חדשה או רישיונות שדווחו היום.",
+      "summary": "אין חדשות חדשות מ-NY או חקיקה בארה\"ב ב-X היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין מידע עדכני על רגולציה או רישיונות חדשים בשוק ההימורים בברזיל.",
+      "summary": "אין פוסטים עדכניים על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על חידוש רישיונות או אכיפה של KSA בהולנד, כולל BetCity.",
+      "summary": "אין אזכורים חדשים ל-KSA או BetCity ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות חדשות שדווחו בתעשיית iGaming היום.",
+      "summary": "אין עסקאות או מגמות שדווחו היום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-11-08T12:46:28.150Z"
+  "generatedAt": "2026-11-09T15:11:48.478Z"
 };
