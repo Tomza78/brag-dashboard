@@ -1,57 +1,57 @@
 window.intelData = {
   "stock": {
-    "price": "0.77",
-    "change": "-0.05",
-    "changePercent": "-5.89%",
-    "priceTSX": "1.09",
+    "price": "0.76",
+    "change": "-0.01",
+    "changePercent": "-0.91%",
+    "priceTSX": "1.07",
     "high52w": "$2.74",
     "low52w": "$0.69",
-    "volume": "127,200",
+    "volume": "2,130",
     "marketCap": "$23M",
     "yoyChange": "-72%",
-    "updatedAt": "8.11.2026 · 12:45",
-    "dayHigh": "$0.80",
-    "dayLow": "$0.69",
-    "changeTSX": "-0.09",
-    "changePercentTSX": "-7.63%",
-    "volumeTSX": "88,100"
+    "updatedAt": "9.11.2026 · 15:10",
+    "dayHigh": "$0.78",
+    "dayLow": "$0.76",
+    "changeTSX": "-0.02",
+    "changePercentTSX": "-1.83%",
+    "volumeTSX": "6,398"
   },
   "chartData": {
     "priceLabels": [
-      "29/10",
       "30/10",
       "02/11",
       "03/11",
       "04/11",
       "05/11",
-      "06/11"
+      "06/11",
+      "09/11"
     ],
     "priceValues": [
-      1.46,
       1.35,
       1.29,
       1.25,
       1.3,
       1.18,
-      1.09
+      1.09,
+      1.07
     ],
     "volumeLabels": [
-      "29/10",
       "30/10",
       "02/11",
       "03/11",
       "04/11",
       "05/11",
-      "06/11"
+      "06/11",
+      "09/11"
     ],
     "volumeValues": [
-      5,
       15,
       12,
       2,
       16,
       20,
-      88
+      88,
+      6
     ]
   },
   "socialMedia": {
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין עדכונים משמעותיים על מניית BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
+        "text": "אין עדכונים משמעותיים ב-X היום על BRAG. אין דיונים בולטים על סנטימנט או תחזיות.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "דיונים מוגבלים על רגולציית iGaming בניו יורק. אין חקיקה חדשה או רישיונות שדווחו היום.",
+        "text": "אין חדשות חדשות מ-NY או חקיקה בארה\"ב ב-X היום.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין מידע עדכני על רגולציה או רישיונות חדשים בשוק ההימורים בברזיל.",
+        "text": "אין פוסטים עדכניים על רגולציה או רישיונות בברזיל.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין עדכונים על חידוש רישיונות או אכיפה של KSA בהולנד, כולל BetCity.",
+        "text": "אין אזכורים חדשים ל-KSA או BetCity ב-X.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין עסקאות או שותפויות חדשות שדווחו בתעשיית iGaming היום.",
+        "text": "אין עסקאות או מגמות שדווחו היום ב-X.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,27 +166,27 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על מניית BRAG ב-X היום. אין דיונים בולטים על תחזיות מחיר או חדשות.",
+      "summary": "אין עדכונים משמעותיים ב-X היום על BRAG. אין דיונים בולטים על סנטימנט או תחזיות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציית iGaming בניו יורק. אין חקיקה חדשה או רישיונות שדווחו היום.",
+      "summary": "אין חדשות חדשות מ-NY או חקיקה בארה\"ב ב-X היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין מידע עדכני על רגולציה או רישיונות חדשים בשוק ההימורים בברזיל.",
+      "summary": "אין פוסטים עדכניים על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על חידוש רישיונות או אכיפה של KSA בהולנד, כולל BetCity.",
+      "summary": "אין אזכורים חדשים ל-KSA או BetCity ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות חדשות שדווחו בתעשיית iGaming היום.",
+      "summary": "אין עסקאות או מגמות שדווחו היום ב-X.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
@@ -200,6 +200,62 @@ window.intelData = {
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
+          "date": "2026-11-09",
+          "title": "Morten Tonnesen appointed as Bragg Gaming interim CEO as Matevž Mazij shifts to advisory role - Focus Gaming News",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5jZzJSemN2Y2wyLU5LWjNGazRtdjlxZ2JZREVmdC0yX2UxNTRCY1E0eDRHNTkwN0J6N2QtdkhxcTNTTGZ1eXFGY1MyMG50YnJRdGpMQkNoTWZmd0JIYnVfZUx0cVgtaGNRVVkwcA?oc=5\" target=\"_blank\">Morten Tonnesen appointed as Bragg Gaming interim CEO as Matevž Mazij shifts to a",
+          "source": "Focus Gaming News",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jZzJSemN2Y2wyLU5LWjNGazRtdjlxZ2JZREVmdC0yX2UxNTRCY1E0eDRHNTkwN0J6N2QtdkhxcTNTTGZ1eXFGY1MyMG50YnJRdGpMQkNoTWZmd0JIYnVfZUx0cVgtaGNRVVkwcA?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-09",
+          "title": "Bragg taps COO Morten Tonnesen for chief executive officer as Mazij steps aside - iGaming Business",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUndsdHotUzRVQWM0MnM0cnAwRHJTZl9PdF9td1U5TGF2ZXVwaEdFN3Eta3JibkJBNGd3YTJJQmxsbUd2Vm1OOEJ5Zi1zT25SbDlDYWlDa1Z0MXUyeGQwUy1faGY5QkpIUVFQal9VTlNJOUlTNnRGdElTRG5yVFZCT0hzaFpJMFBmcTRQQ3pMV2lkU050?oc=5\" target=\"_blank\">Bragg taps COO Morten Tonne",
+          "source": "iGaming Business",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUndsdHotUzRVQWM0MnM0cnAwRHJTZl9PdF9td1U5TGF2ZXVwaEdFN3Eta3JibkJBNGd3YTJJQmxsbUd2Vm1OOEJ5Zi1zT25SbDlDYWlDa1Z0MXUyeGQwUy1faGY5QkpIUVFQal9VTlNJOUlTNnRGdElTRG5yVFZCT0hzaFpJMFBmcTRQQ3pMV2lkU050?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-09",
+          "title": "Bragg transitions CEO role - InterGame Online",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTFBEWlpTdF80V3dZYVNvVEIxcXBwSlZIbmhZUjV3cFdWeVM2cTZEQl9IUVlQeHV2am0xM3I2bWR3MVR4MHN1MXhBTERtUk55SU8xclJZSm9Hb0I4a0RKdlNPS1VwLXlOUU1xN0JKN2VrdXBCRWVFS0x0ZFJsWQ?oc=5\" target=\"_blank\">Bragg transitions CEO role</a>&nbsp;&nbsp;<font color=\"#6f6f6",
+          "source": "InterGame Online",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEWlpTdF80V3dZYVNvVEIxcXBwSlZIbmhZUjV3cFdWeVM2cTZEQl9IUVlQeHV2am0xM3I2bWR3MVR4MHN1MXhBTERtUk55SU8xclJZSm9Hb0I4a0RKdlNPS1VwLXlOUU1xN0JKN2VrdXBCRWVFS0x0ZFJsWQ?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-09",
+          "title": "Bragg Gaming names Morten Tonnesen interim CEO as Mazij steps down - European Gaming",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNN3Rmb1RQWVJGRDktZ2RQZW5kY3lxMFpvdzlzWkJETUFKeUx1YVY1dHMyS3g2OXFQTDJtNTAyQ2FKR0VkNHNrNWdZNkZBRHdzcXNXNDBKQklsNnByRjlSVG5zSl9vU0VoOXcwOEd6aTZ6NjVTWWktcFh6QnVPWkdGNWFUZHI5S2JPNWxPQmY1YURaZUNqMjdvWDJKSUlhUQ?oc=5\" target=\"_blank\">Bragg Gaming ",
+          "source": "European Gaming",
+          "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN3Rmb1RQWVJGRDktZ2RQZW5kY3lxMFpvdzlzWkJETUFKeUx1YVY1dHMyS3g2OXFQTDJtNTAyQ2FKR0VkNHNrNWdZNkZBRHdzcXNXNDBKQklsNnByRjlSVG5zSl9vU0VoOXcwOEd6aTZ6NjVTWWktcFh6QnVPWkdGNWFUZHI5S2JPNWxPQmY1YURaZUNqMjdvWDJKSUlhUQ?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-09",
+          "title": "Bragg Names Morten Tonnesen Interim CEO as Mazij Steps Down - RG.org",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHFOT1RNN3p5YWtkU01EYkg5d19pSUhPQ3o1WmlRQXVCVTNLNFhHS2R4YzIxUzYzZDZjRFlLNFc0WWZrbEE2ZGFVV0R4djVSanZkSzAzUjZ0S0txNi1nWm5GVU4zVG12bDFhazY0ZEYzMFItR3Jyam5mZV9uV0xaMFJtWFJDWlYyOXJQaHMwMktNemZYZ2o2c1hsR0tqQ0I3cHlISGpDUklkSWRZYXhFOTN3?oc=5\" tar",
+          "source": "RG.org",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHFOT1RNN3p5YWtkU01EYkg5d19pSUhPQ3o1WmlRQXVCVTNLNFhHS2R4YzIxUzYzZDZjRFlLNFc0WWZrbEE2ZGFVV0R4djVSanZkSzAzUjZ0S0txNi1nWm5GVU4zVG12bDFhazY0ZEYzMFItR3Jyam5mZV9uV0xaMFJtWFJDWlYyOXJQaHMwMktNemZYZ2o2c1hsR0tqQ0I3cHlISGpDUklkSWRZYXhFOTN3?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-08",
+          "title": "Morten Tonnesen becomes Bragg Gaming’s interim CEO as Matevž Mazij steps down - CDC Gaming",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVNrT3NmTHJQQWNrQmRPNlllY3RfX3hULWkzWXBMbU9vS3JOOG81WEZib0hyQllIbi1BTlFtUVl1aXFPWDJMZDhSTFc4RVdKZEJ0R3NJcWdjejNJUmVfTWRGNW1UaUNYckhZWUNLVzNxeDFsRGQwemZIN29Dd3ZnOUhVV1E2MXdpcHlsZXlOR3FLbkNhaHdMTGd4QXJ5R2dmUkFUWURzMlo?oc=5\" target=\"_blank\">",
+          "source": "CDC Gaming",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVNrT3NmTHJQQWNrQmRPNlllY3RfX3hULWkzWXBMbU9vS3JOOG81WEZib0hyQllIbi1BTlFtUVl1aXFPWDJMZDhSTFc4RVdKZEJ0R3NJcWdjejNJUmVfTWRGNW1UaUNYckhZWUNLVzNxeDFsRGQwemZIN29Dd3ZnOUhVV1E2MXdpcHlsZXlOR3FLbkNhaHdMTGd4QXJ5R2dmUkFUWURzMlo?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-08",
+          "title": "Bragg Gaming Group CEO Matevž Mazij Steps Down - Canadian Gaming Business",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5wTENCWTY5ZGJSZkVZVHI3ZlZ3SVNQUUdYb0xzRlhpRThxUjJLYjJrZlNkSFFVV1FGZ0dtQ1RJeWNsbTBpQWZkSlVSVzE2Uks3Z3hjZk92UHhnYXNsbEgyT2UxaFUyRjJnbEpSZllOUHItSXVpZGUzcW5FT2ZVZw?oc=5\" target=\"_blank\">Bragg Gaming Group CEO Matevž Mazij Steps Down</a>&nbsp;&",
+          "source": "Canadian Gaming Business",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5wTENCWTY5ZGJSZkVZVHI3ZlZ3SVNQUUdYb0xzRlhpRThxUjJLYjJrZlNkSFFVV1FGZ0dtQ1RJeWNsbTBpQWZkSlVSVzE2Uks3Z3hjZk92UHhnYXNsbEgyT2UxaFUyRjJnbEpSZllOUHItSXVpZGUzcW5FT2ZVZw?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
           "date": "2026-11-06",
           "title": "Bragg Gaming Group Announces Leadership Transition",
           "summary_he": "Morten Tonnesen appointed Interim Chief Executive Officer. Matevž Mazij to serve as Strategic Advisor Toronto, November 6, 2026, /CNW/ &#8211; Bragg Gaming Group Inc. (NASDAQ: BRAG, TSX: BRAG) (“bragg” or the “Company”), a leading iGaming content and platform technology solutions provider, today ann",
@@ -209,75 +265,34 @@ window.intelData = {
         },
         {
           "date": "2026-11-06",
-          "title": "Bragg Gaming Group (TSX:BRAG) Drops 9.23%: Withdrawn Guidance and Integration Uncertainty Weigh on Sentiment - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1p4eEhSZ21MVFZsbE9uSl9RX2J2SE5TQmhnRWV5WkdaZHhrY3plM2d0UjZYLVl6bzk3bUVPMGxEbXliMEF3Znk5R0sxRVJIajRSeDh3eHRqaGx2VlRpVUFzaGVXWE1rajJGUkV1MFdyNUNqb2tJQm14VjJ4cVliQ1d4Q2NhRnJ1djVGZmxSUUdOdEVuSGljd1pBaGRISnp2MHZ3RUdNaXdTTDlVTERzOTVRazRIOGZuaE",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPU1p4eEhSZ21MVFZsbE9uSl9RX2J2SE5TQmhnRWV5WkdaZHhrY3plM2d0UjZYLVl6bzk3bUVPMGxEbXliMEF3Znk5R0sxRVJIajRSeDh3eHRqaGx2VlRpVUFzaGVXWE1rajJGUkV1MFdyNUNqb2tJQm14VjJ4cVliQ1d4Q2NhRnJ1djVGZmxSUUdOdEVuSGljd1pBaGRISnp2MHZ3RUdNaXdTTDlVTERzOTVRazRIOGZuaEpyNjRwM2R2UGVmVi0xUl9VSGJ4UWoybmxZ?oc=5",
+          "title": "Bragg Gaming appoints Tonnesen as Interim CEO - Yahoo Finance",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhnVUpnMm0zaGgxM0t5UFp5c2hQeHEzMjVWUWNtZFpRNkt4eDhfRGJjc2dvQzhLQUdXZ0JLN0tMU0l5TklwaThvMFJJZkJUcWZIQlVHZ3luWnFxSWpLZEdyUkZsQjlJWG1fcjY0UXR4SUtoeDFqOHJjdUNxSW8tY21XcXN3ZmRaUFQtSXVucGJxeW1HNFhNVjlEci1kQ3BzU2xjWm9R?oc=5\" target=\"_blank\">Bra",
+          "source": "Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhnVUpnMm0zaGgxM0t5UFp5c2hQeHEzMjVWUWNtZFpRNkt4eDhfRGJjc2dvQzhLQUdXZ0JLN0tMU0l5TklwaThvMFJJZkJUcWZIQlVHZ3luWnFxSWpLZEdyUkZsQjlJWG1fcjY0UXR4SUtoeDFqOHJjdUNxSW8tY21XcXN3ZmRaUFQtSXVucGJxeW1HNFhNVjlEci1kQ3BzU2xjWm9R?oc=5",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-11-04",
-          "title": "Bragg Gaming Group Q3 2026 Earnings Date and Estimates - MarketBeat",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkFTYlRkejgwX04yVjBsRjNEaWdDTHVIVEZOLW90Z1piN1JNb0o2RzlnQ1M5TjRIR0lJZjhMSjlXbjlEOGNuTU9BME5MVndFQWJZbFZzYmlTcEhfeXE0R2U4WTN6ZnBOTTVIRkc2cXJTRjBWbEVkaW9JNnROOXo0V3ZrLWJLQ0tvVTNjRFVnQQ?oc=5\" target=\"_blank\">Bragg Gaming Group Q3 2026 Earnin",
-          "source": "MarketBeat",
-          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYkFTYlRkejgwX04yVjBsRjNEaWdDTHVIVEZOLW90Z1piN1JNb0o2RzlnQ1M5TjRIR0lJZjhMSjlXbjlEOGNuTU9BME5MVndFQWJZbFZzYmlTcEhfeXE0R2U4WTN6ZnBOTTVIRkc2cXJTRjBWbEVkaW9JNnROOXo0V3ZrLWJLQ0tvVTNjRFVnQQ?oc=5",
+          "date": "2026-11-06",
+          "title": "Bragg Gaming Group Appoints Morten Tonnesen As Interim CEO - TradingView",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzNXWFJPbnNILXBRT0o1TzdDUmVGXy1EY1hWejA2N040NDBlTmpNY3F0YjNibjhQcHFIUHBTTzE4T2owMGcxdXl3eHllTG1MMUJYUk1GbzZuUmhwTkJjZHAzcXVzVVNEc2F5QWRIOW9hemhIX3V3cUpBVmVza1Y0alRmZGJ0dFRqd1FEWVg0aE00bTlfbW1BUlY4cV9kRUVoSGlsODZPYnU4aXlHbHdVUFUxRUsza2Y5am",
+          "source": "TradingView",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTzNXWFJPbnNILXBRT0o1TzdDUmVGXy1EY1hWejA2N040NDBlTmpNY3F0YjNibjhQcHFIUHBTTzE4T2owMGcxdXl3eHllTG1MMUJYUk1GbzZuUmhwTkJjZHAzcXVzVVNEc2F5QWRIOW9hemhIX3V3cUpBVmVza1Y0alRmZGJ0dFRqd1FEWVg0aE00bTlfbW1BUlY4cV9kRUVoSGlsODZPYnU4aXlHbHdVUFUxRUsza2Y5amhNeFMyYjRURk5DclFR?oc=5",
           "sourceKey": "brag_official"
-        },
+        }
+      ]
+    },
+    "netherlands": {
+      "title": "רגולציה - הולנד",
+      "icon": "🇳🇱",
+      "color": "rgba(255,152,0,0.12)",
+      "articles": [
         {
-          "date": "2026-11-04",
-          "title": "Why Is Bragg Gaming (TSX:BRAG) Down 3.10% at CAD 1.25 With an RSI of 20.73? - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1dFU3BKcXNuQ2JEczhJNHpnMHRteUpJNHdtYWNkb0JNdEgxbk1sNXdwU0ZBNEt0VmtCM0RoSDJlMUkyNTYyMVBPeHBwS294NGFPWnpXdU43aUI1dng1OUpuWnJpYnFpZWdlZldqUnpnRHRaalJ5Rzc1VmlIaHIwTUtsRVNVTDZSbE9pTVJ4U2EtLVB6d3FJWkgtNFRkemhOcmxkUA?oc=5\" target=\"_blank\">Why I",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1dFU3BKcXNuQ2JEczhJNHpnMHRteUpJNHdtYWNkb0JNdEgxbk1sNXdwU0ZBNEt0VmtCM0RoSDJlMUkyNTYyMVBPeHBwS294NGFPWnpXdU43aUI1dng1OUpuWnJpYnFpZWdlZldqUnpnRHRaalJ5Rzc1VmlIaHIwTUtsRVNVTDZSbE9pTVJ4U2EtLVB6d3FJWkgtNFRkemhOcmxkUA?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-04",
-          "title": "Bragg Gaming Group Inc. Dips as iGaming Technology Sector Navigates Regulatory Complexity and Competitive Pressure - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSjBuX0d4eVJWd2tTZG1WWFhqdDQ1RFZwMHZLOEFjMEl2bU9ueHpZRklKOGRSb0hqN0JfVGtPa2RBN2w1UThqc3lWSGoxZFJrdS05OGNTdm94SndYa0pILVVLdHdKaFZBUnBxZUVkbWc3SXpEZVVmbVdjNWlfTFA3LVVqRWk4Wm00RmIwbHVLUThIOEd6cXBfekMyTHJDMkhwUlVJWk5McVp5NUxWUWc2MVlGRFo0Tmlpc2",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSjBuX0d4eVJWd2tTZG1WWFhqdDQ1RFZwMHZLOEFjMEl2bU9ueHpZRklKOGRSb0hqN0JfVGtPa2RBN2w1UThqc3lWSGoxZFJrdS05OGNTdm94SndYa0pILVVLdHdKaFZBUnBxZUVkbWc3SXpEZVVmbVdjNWlfTFA3LVVqRWk4Wm00RmIwbHVLUThIOEd6cXBfekMyTHJDMkhwUlVJWk5McVp5NUxWUWc2MVlGRFo0Tmlpc292M2dmRExjUl9ud1lDSTY4T3dIRzNnUGVkTUNVWDI1VUJvWmEyTnZB?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Bragg Gaming Group Inc. Faces Equity Headwinds as B2B iGaming Market Competition and Regulatory Complexity Weigh on Sentiment - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQlotLXhKcGNkTHlfaXNPTEJKeW1zbnlfdXhtZmZVQjh2b1NyZVh4WFNhN1ZpdzlSdkpPTkp4Sl9kSWhEVWdlQ0hmcENBR1M4Y0pLbnJKM1JBZVdnUXRRT2tBSzNLMTJwXzh6Szg3XzNSQjBoZFF5THlMYjdRRUltQmktWnRKYnE2UlRDUkZTMXlzeFA2SGlwdDR6cjdKN2xod19SVmpSUnMyMi1Nd3Y4enNIQ3hCWi15Tk",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQlotLXhKcGNkTHlfaXNPTEJKeW1zbnlfdXhtZmZVQjh2b1NyZVh4WFNhN1ZpdzlSdkpPTkp4Sl9kSWhEVWdlQ0hmcENBR1M4Y0pLbnJKM1JBZVdnUXRRT2tBSzNLMTJwXzh6Szg3XzNSQjBoZFF5THlMYjdRRUltQmktWnRKYnE2UlRDUkZTMXlzeFA2SGlwdDR6cjdKN2xod19SVmpSUnMyMi1Nd3Y4enNIQ3hCWi15TkV5cFB6eDNFMWNadE51UE5ZeGRuWUJRdkJPQlVRdm9DSnVtNWYzVGxhbnpxd09NRldoNDNFYVM?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-03",
-          "title": "Bragg Gaming Group (TSX:BRAG) Sets November Date for Its Third-Quarter - Kalkine Media",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFQxRXF3WHVTUjFuTXRpYjg0RTQzaFdqa1NpWG5GU3pyOGloZmpqLTV6Y21wcnAzNUljaFY1NGhNZmRZVTJuRFl0elhOcWpFTmlGbnYzNVBLMWZ0YXByY3l0MGFIUGFIRTZxVmFkbENlcmNPVE5tdlowUHliWEJma1dLWmlSUTRmVkNRVVJLLWhUalYxYWFBaVEzWHhya3dUd09KZzdRM1BjQmh5X05aRkJfOA?oc=5\" t",
-          "source": "Kalkine Media",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOFQxRXF3WHVTUjFuTXRpYjg0RTQzaFdqa1NpWG5GU3pyOGloZmpqLTV6Y21wcnAzNUljaFY1NGhNZmRZVTJuRFl0elhOcWpFTmlGbnYzNVBLMWZ0YXByY3l0MGFIUGFIRTZxVmFkbENlcmNPVE5tdlowUHliWEJma1dLWmlSUTRmVkNRVVJLLWhUalYxYWFBaVEzWHhya3dUd09KZzdRM1BjQmh5X05aRkJfOA?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "Bragg Gaming Group to Release Third Quarter 2026 Results on November 13",
-          "summary_he": "Toronto, November 2, 2026, /CNW/ &#8211; Bragg Gaming Group Inc. (NASDAQ: BRAG, TSX: BRAG) (“bragg” or the “Company”), a leading iGaming content and platform technology solutions provider, today confirmed that it will release its third quarter 2026 financial results prior to the opening of the finan",
-          "source": "bragg.group",
-          "url": "https://bragg.group/bragg-gaming-group-to-release-third-quarter-2026-results-on-november-13/",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "Bragg Gaming Group Inc. Slides as iGaming Sector Faces Regulatory and Competition Pressures - kalkine.ca",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQekZiNG9seGJsaFFlbExrWjN5bGNPYnBFZ0RzOERnVHZQMWhnUkRQdFFtRnd5YWRmdTZuNlE4Wm9YWEFEM3k0MjFQUm91LXNXTmJveF9xODViLWdIS183b1IxQ01EdWMzejlFelF1MTltbVdxaUoxa1lqWVZBSGh0X0k3M0hUUm55UjdHbExtTjMyYkVUSWVZek40S3V2VDhySXRSSFBJQXBnemRDSXZxaXRCU2VmanRST1",
-          "source": "kalkine.ca",
-          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQekZiNG9seGJsaFFlbExrWjN5bGNPYnBFZ0RzOERnVHZQMWhnUkRQdFFtRnd5YWRmdTZuNlE4Wm9YWEFEM3k0MjFQUm91LXNXTmJveF9xODViLWdIS183b1IxQ01EdWMzejlFelF1MTltbVdxaUoxa1lqWVZBSGh0X0k3M0hUUm55UjdHbExtTjMyYkVUSWVZek40S3V2VDhySXRSSFBJQXBnemRDSXZxaXRCU2VmanRST1NTWDZmQTR3U3M?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "Bragg Gaming Group Q3FY26 Results: Release date set for November 13 - scanx.trade",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWl3QV9pTTA4QTFSTTY3bV9HWlVmUDBwLXVhbGs3TV93MHRJZl9SZVlYbGxUVGNUWGlYSXR5VngxR25iNGw5MW95VF9LNHl3U2cwOXVKbXJySERWd0MxU0hzU280d1M3WDVzZ1g4ZkJkeDFOQ0pnWXpzSm9vZzNTakZxMHVUa0s0YWFjeW5jX2EyemFnMkc1NTc0ZHdRUVI3MVhaQ0Y3c19XNy1zUzZTc2FSRXRhQU8wcF",
-          "source": "scanx.trade",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYWl3QV9pTTA4QTFSTTY3bV9HWlVmUDBwLXVhbGs3TV93MHRJZl9SZVlYbGxUVGNUWGlYSXR5VngxR25iNGw5MW95VF9LNHl3U2cwOXVKbXJySERWd0MxU0hzU280d1M3WDVzZ1g4ZkJkeDFOQ0pnWXpzSm9vZzNTakZxMHVUa0s0YWFjeW5jX2EyemFnMkc1NTc0ZHdRUVI3MVhaQ0Y3c19XNy1zUzZTc2FSRXRhQU8wcFM4?oc=5",
-          "sourceKey": "brag_official"
+          "date": "2026-11-09",
+          "title": "SBC Summit Europe: The State of Dutch Gaming in 2027",
+          "summary_he": "When people say ‘The Netherlands’, several things spring to mind. The beautiful canals of Amsterdam, the defiant orange hue of the national...Read More...",
+          "source": "igamingfuture.com",
+          "url": "https://igamingfuture.com/sbc-summit-europe-the-state-of-dutch-gaming-in-2027-2/",
+          "sourceKey": "igaming_future"
         }
       ]
     },
@@ -309,6 +324,22 @@ window.intelData = {
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/offshore-gaming/brazil-betting-ban-raises-concerns-growth-illegal-market/",
           "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-11-09",
+          "title": "Supreme Court suspends legal challenges against Brazil gambling ban",
+          "summary_he": "Brazil’s Supreme Federal Court (STF) has suspended further proceedings around President Lula da Silva’s federal ban on online betting while awaiting a ruling on the measure’s constitution. In Brasilia, news breaks that Justice Luiz Fux has granted an appeal from Prosecutor-General Paulo Gonet, who s",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/featurednews/2026/11/09/supreme-court-brazil-betting/",
+          "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-11-09",
+          "title": "Supreme Court halts 19 lawsuits against Brazil’s betting ban, blocking operators’ return",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/11/09/127232-supreme-court-halts-19-lawsuits-against-brazils-betting-ban-blocking-operators-return",
+          "sourceKey": "yogonet"
         }
       ]
     },
@@ -326,35 +357,35 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-11-06",
-          "title": "Inspired Entertainment shows Q3 resilience amid UK tax headwinds",
-          "summary_he": "With last year’s increase in Remote Gaming Duty (RGD), the UK gambling sector was once again put in a position to prove it is resilient. Seven months into the new tax regime, this has rang true for some companies like B2B technology firm Inspired Entertainment, which reported Q3 growth in the UK des",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/retail/2026/11/06/inspired-entertainment-q3/",
-          "sourceKey": "sbc_news"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "UKGC Steps Up Action Against Illegal Gambling, Removes Millions of URLs",
-          "summary_he": "In continuing to increase its efforts to disrupt illegal online gambling, the United Kingdom Gambling Commission (UKGC) referred 7.7 million URLs linked to illegal gambling activities to search engines between July and September this year. UKGC Referred Millions of Illegal Gambling URLs According to",
+          "date": "2026-11-09",
+          "title": "DraftKings Denies Using Tech to Exploit Vulnerable Consumers in Letter to Congress",
+          "summary_he": "DraftKings is one of the companies that have been sought out by Congress in the United States and has defended its practices when it comes to using technology to target customers. DraftKings Responds to Congressional Scrutiny&#160; Sen. Richard Blumenthal and Reps. Paul Tonko and Valerie Foushee sen",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/ukgc-steps-up-action-against-illegal-gambling-removes-millions-of-urls/",
+          "url": "https://www.gamblingnews.com/news/draftkings-denies-using-tech-to-exploit-vulnerable-consumers-in-letter-to-congress/",
           "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-11-05",
-          "title": "Ninth Circuit rejects Kalshi's rehearing bid, leaving Nevada free to enforce gambling laws",
-          "summary_he": "",
-          "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/11/05/127192-ninth-circuit-rejects-kalshi-39s-rehearing-bid-leaving-nevada-free-to-enforce-gambling-laws",
-          "sourceKey": "yogonet"
+          "date": "2026-11-09",
+          "title": "Sports Event Contracts on Their Way Out in Ohio",
+          "summary_he": "The Ohio Casino Control Commission (OCCC) has sent numerous cease-and-desist letters to companies in the state offering sports event contracts, which the regulator maintains are illegal under local laws. OCCC Sees More Companies Comply with Its Cease-and-Desist Letter A total of 10 companies have be",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/sports-event-contracts-on-their-way-out-in-ohio/",
+          "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-11-06",
-          "title": "Nevada regulators recommend five new sportsbook licenses for William Hill, Boomer's",
+          "date": "2026-11-09",
+          "title": "Two $92,500 Kalshi Trades Target Cincinnati&#8217;s NCAA Tournament Qualification",
+          "summary_he": "Two unusually large trades on Kalshi have put the Cincinnati Bearcats in the spotlight of the growing US prediction market industry, with $185,000 committed to contracts predicting the team will qualify for the 2027 NCAA men&#8217;s basketball tournament. 19 Minutes Apart Both trades took place on W",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/two-92500-kalshi-trades-target-cincinnatis-ncaa-tournament-qualification/",
+          "sourceKey": "gambling_news"
+        },
+        {
+          "date": "2026-11-09",
+          "title": "CFTC gives prediction markets 30 days to lift geofencing restrictions",
           "summary_he": "",
           "source": "yogonet.com",
-          "url": "https://www.yogonet.com/international/news/2026/11/06/127187-nevada-regulators-recommend-five-new-sportsbook-licenses-for-william-hill-boomer-39s",
+          "url": "https://www.yogonet.com/international/news/2026/11/09/127225-cftc-gives-prediction-markets-30-days-to-lift-geofencing-restrictions",
           "sourceKey": "yogonet"
         }
       ]
@@ -364,6 +395,14 @@ window.intelData = {
       "icon": "🌍",
       "color": "rgba(156,39,176,0.12)",
       "articles": [
+        {
+          "date": "2026-11-09",
+          "title": "Dominican Republic names seven authorised online gambling operators",
+          "summary_he": "The Dominican Republic’s gambling regulator has identified seven authorised online operators and warned that approximately 81 operators lack state permission, as it develops licensing rules under the country’s new gambling framework.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/dominican-republic-seven-authorised-online-gambling-operators/",
+          "sourceKey": "igaming_market"
+        },
         {
           "date": "2026-11-06",
           "title": "GC says illegal gambling websites used by 2.5% of UK online gamblers but GCI questions survey method",
@@ -389,19 +428,11 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-11-04",
-          "title": "Austrian gambling reform delayed at EU level after Malta intervention",
-          "summary_he": "A last-minute extension to the EU notification period means Austria’s gambling act amendments cannot be ratified until the second week of December.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/austrian-gambling-reform-delayed-at-eu-level-after-malta-intervention/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "Commission confident of fuller UK illegal gambling picture but key detail needed…",
-          "summary_he": "Gambling Commission data shows that illegal gambling consumption in the UK remains low overall, but the big question is not how many people are using unlicensed, offshore platforms, but how much money they are staking. The Commission has been conducting research into illegal gambling activity over t",
+          "date": "2026-11-09",
+          "title": "Lithuania eyes &#8216;progressive reset&#8217; of gambling taxes by 2028",
+          "summary_he": "Parties forming the new coalition government of Lithuania have agreed in principle to impose a ‘progressive gambling tax system’ with the end goal of optimising revenues for state causes. October saw&#160; PM Mindaugas Sinkevičius of the Social Democratic Party (LSDP) renegotiated terms of the “For ",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/igaming/2026/11/06/commission-illegal-gambling/",
+          "url": "https://sbcnews.co.uk/europe/2026/11/09/lithuania-gaming-taxes-2028/",
           "sourceKey": "sbc_news"
         }
       ]
@@ -428,6 +459,14 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
+          "date": "2026-11-09",
+          "title": "Betway renews full Spanish status until 2029",
+          "summary_he": "Betway the flagship sportsbook brand of Super Group (SGHC) has renewed its Spanish .es online gambling licence for a further three-years.&#160; The extension of the licence was disclosed by the registry of Spain’s Directorate General of Gambling (DGOJ) which granted Betway Spain authorisation until ",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/sportsbook/2026/11/09/betway-spain-status/",
+          "sourceKey": "sbc_news"
+        },
+        {
           "date": "2026-11-06",
           "title": "GR8_TECH on building champions, Jose Mourinho partnership and emerging markets",
           "summary_he": "Partnering with Real Madrid manager Jose Mourinho is a match made in heaven given his dedication to building serial winning teams, according to GR8_TECH’s Chief Sales Officer Yevhen Krazhan. Mourinho, generally considered one of the greatest football managers of the 21st Century, became a brand amba",
@@ -436,28 +475,20 @@ window.intelData = {
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-11-06",
-          "title": "Italy sets final call for gambling info.site consultation",
-          "summary_he": "AGCOM, Italy’s Media and Communications Agency, requires urgent feedback from relevant stakeholders on its consultation on proposed changes to bring transparency to gambling advertising laws and guidelines. The Agency is consulting on “cumulative conditions under which activities using brands linked",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/europe/italy/2026/11/06/italy-agcom-call/",
-          "sourceKey": "sbc_news"
-        },
-        {
-          "date": "2026-11-07",
-          "title": "Morten Tonnesen Becomes Bragg Gaming’s Interim CEO as Matevž Mazij Steps Down",
-          "summary_he": "A few months after appointing a new chairman, iGaming content provider Bragg Gaming Group has announced another leadership transition, parting ways with its current chief executive officer and appointing a new one on an interim basis. The one up to the task is the experienced Morten Tonnesen, who br",
+          "date": "2026-11-09",
+          "title": "University of New Hampshire Digs Into Data from Problem Gambling Helpline",
+          "summary_he": "The University of New Hampshire has linked the legalization of online sports betting to increases in calls to the National Problem Gambling Helpline, citing a 23% spike. Gambling-Related Harm Is Spiking as More Calls Are Placed to Helplines The study further focused on the demographics of the caller",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/morten-tonnesen-becomes-bragg-gamings-interim-ceo-as-matevz-mazij-steps-down/",
+          "url": "https://www.gamblingnews.com/news/university-of-new-hampshire-digs-into-data-from-problem-gambling-helpline/",
           "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-11-07",
-          "title": "Insider Bets on Polymarket May Have Targeted the Ballon d’Or Award",
-          "summary_he": "Insider trading activity on the prediction platform Polymarket may have targeted the French Ballon d’Or (Golden Ball) soccer award. Twelve accounts created between October 1 and October 20 wagered a total of $264,000 on the final top-five ranking of athletes, guessing their exact placement. They wer",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/insider-bets-on-polymarket-may-have-targeted-the-ballon-dor-award/",
-          "sourceKey": "gambling_news"
+          "date": "2026-11-09",
+          "title": "Dina Titus urges House leaders to fast-track FAIR BET Act before year-end adjournment",
+          "summary_he": "",
+          "source": "yogonet.com",
+          "url": "https://www.yogonet.com/international/news/2026/11/09/127226-dina-titus-urges-house-leaders-to-fasttrack-fair-bet-act-before-yearend-adjournment",
+          "sourceKey": "yogonet"
         }
       ]
     },
