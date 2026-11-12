@@ -2,32 +2,32 @@ window.dashboardData = {
   "trends": [],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים היום על BRAG. סנטימנט ניטרלי עם מעט אזכורים.",
+      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. דיונים כלליים על ביצועי המניה ללא חדשות ספציפיות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים על רגולציה בניו יורק נמשכים ללא חקיקה חדשה.",
+      "summary": "דיונים מוגבלים על רגולציית ניו יורק. אין חקיקה חדשה מדווחת.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין חדשות עדכניות על רישיונות או אכיפה בברזיל.",
+      "summary": "שיחות על רגולציה בברזיל ללא עדכונים חדשים. אכיפה ורישיונות נשארים ללא שינוי.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על KSA או BetCity מהיום.",
+      "summary": "אין חידושי רישיונות או אכיפה מדווחים היום. BetCity לא מוזכר.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "פעילות שגרתית ללא עסקאות בולטות.",
+      "summary": "מגמות כלליות ללא עסקאות או שותפויות חדשות. שיח שקט יחסית.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-11-11T13:33:59.962Z"
+  "generatedAt": "2026-11-12T14:38:19.493Z"
 };
