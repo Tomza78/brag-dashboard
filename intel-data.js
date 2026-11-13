@@ -1,20 +1,20 @@
 window.intelData = {
   "stock": {
-    "price": "0.67",
-    "change": "-0.02",
-    "changePercent": "-3.46%",
-    "priceTSX": "0.96",
+    "price": "0.68",
+    "change": "+0.01",
+    "changePercent": "+2.09%",
+    "priceTSX": "1.01",
     "high52w": "$2.74",
     "low52w": "$0.63",
-    "volume": "83,100",
-    "marketCap": "$20M",
-    "yoyChange": "-76%",
-    "updatedAt": "12.11.2026 · 14:37",
-    "dayHigh": "$0.78",
+    "volume": "32,600",
+    "marketCap": "$21M",
+    "yoyChange": "-75%",
+    "updatedAt": "13.11.2026 · 13:55",
+    "dayHigh": "$0.70",
     "dayLow": "$0.65",
-    "changeTSX": "-0.03",
-    "changePercentTSX": "-3.03%",
-    "volumeTSX": "41,800"
+    "changeTSX": "+0.05",
+    "changePercentTSX": "+5.21%",
+    "volumeTSX": "36,700"
   },
   "chartData": {
     "priceLabels": [
@@ -33,7 +33,7 @@ window.intelData = {
       1.04,
       0.99,
       0.96,
-      null
+      1.01
     ],
     "volumeLabels": [
       "04/11",
@@ -51,7 +51,7 @@ window.intelData = {
       60,
       61,
       42,
-      0
+      37
     ]
   },
   "socialMedia": {
@@ -59,24 +59,45 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין עדכונים משמעותיים על BRAG ב-X היום. דיונים כלליים על ביצועי המניה ללא חדשות ספציפיות.",
+        "text": "אין ציוצים עדכניים משמעותיים על BRAG היום. אין חדשות או תחזיות חדשות.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "דיונים מוגבלים על רגולציית ניו יורק. אין חקיקה חדשה מדווחת.",
+        "text": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "שיחות על רגולציה בברזיל ללא עדכונים חדשים. אכיפה ורישיונות נשארים ללא שינוי.",
+        "text": "אין עדכונים על רישיונות או אכיפה בברזיל מהיום.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין חידושי רישיונות או אכיפה מדווחים היום. BetCity לא מוזכר.",
+        "text": "אין דיווחים על חידוש רישיונות או אכיפה בהולנד.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "מגמות כלליות ללא עסקאות או שותפויות חדשות. שיח שקט יחסית.",
+        "text": "אין עסקאות או שותפויות חדשות מדווחות בתעשייה.",
         "platform": "X/Grok · igaming industry"
+      },
+      {
+        "text": "$BRAG This is actually going to get uglier than it&#39;s been. The hole is dug deeper and the shovel is broke. Salvage what you have left and put it somewhere else...Sorry ! What a bad bet I made. Selling my last shares at even $1.11 feels really good right now.",
+        "platform": "StockTwits · $BRAG",
+        "sentiment": null,
+        "date": "2026-11-13T13:19:01Z",
+        "username": "chazchem"
+      },
+      {
+        "text": "$BRAG WOW another Disaster quarter.",
+        "platform": "StockTwits · $BRAG",
+        "sentiment": null,
+        "date": "2026-11-13T13:06:07Z",
+        "username": "chazchem"
+      },
+      {
+        "text": "#earnings before the open on Friday, November 13, 2026  \n \nhttps://www.earningswhispers.com/calendar  \n \n$BFRI $BRAG $BKYI $VNRX $SBC",
+        "platform": "StockTwits · $BRAG",
+        "sentiment": null,
+        "date": "2026-11-12T18:14:17Z",
+        "username": "eWhispers"
       },
       {
         "text": "$BRAG - Looks like Bragg turned out to be a ShitCo after all...at least if wasn&#39;t quite the FUNFF level of ShitCo.",
@@ -126,27 +147,6 @@ window.intelData = {
         "sentiment": null,
         "date": "2026-09-29T20:48:22Z",
         "username": "chazchem"
-      },
-      {
-        "text": "$BRAG Outstanding article that hits the mark on BRAG&#39;s current state. So if you want to refresh your BRAG insights or learn about BRAG from scratch, this is a must read. https://everyticker.com/quote/BRAG/analysis/bragg-gaming-s-proprietary-gamble-can-ai-and-adw-transform-a-b2b-supplier-into-an-",
-        "platform": "StockTwits · $BRAG",
-        "sentiment": null,
-        "date": "2026-09-14T21:52:23Z",
-        "username": "NVDAMillionaire"
-      },
-      {
-        "text": "$BRAG $1.29 and the beat goes on !!",
-        "platform": "StockTwits · $BRAG",
-        "sentiment": null,
-        "date": "2026-09-08T15:16:04Z",
-        "username": "chazchem"
-      },
-      {
-        "text": "$BRAG This Pile of Dung needs another shareholder activist. Doesn&#39;t seem likely. We were lucky to have Jeremy Raper but when he saw his efforts were futile he sold at 5 and change. That was the time to head for the hills. Unfortunately I wasn&#39;t smart enough 🤮",
-        "platform": "StockTwits · $BRAG",
-        "sentiment": null,
-        "date": "2026-09-04T19:17:38Z",
-        "username": "chazchem"
       }
     ]
   },
@@ -166,27 +166,27 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. דיונים כלליים על ביצועי המניה ללא חדשות ספציפיות.",
+      "summary": "אין ציוצים עדכניים משמעותיים על BRAG היום. אין חדשות או תחזיות חדשות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציית ניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "שיחות על רגולציה בברזיל ללא עדכונים חדשים. אכיפה ורישיונות נשארים ללא שינוי.",
+      "summary": "אין עדכונים על רישיונות או אכיפה בברזיל מהיום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין חידושי רישיונות או אכיפה מדווחים היום. BetCity לא מוזכר.",
+      "summary": "אין דיווחים על חידוש רישיונות או אכיפה בהולנד.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "מגמות כלליות ללא עסקאות או שותפויות חדשות. שיח שקט יחסית.",
+      "summary": "אין עסקאות או שותפויות חדשות מדווחות בתעשייה.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
@@ -200,19 +200,35 @@ window.intelData = {
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
-          "date": "2026-11-11",
-          "title": "Bragg Gaming CEO Exits Ahead of Q3 Earnings - Casino.org",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1LYUdDUGhsMHBZV1A1M3ZtOENTUHV5Z0R4ZFN2Z28xT29zWnRmSHlkeFZIUE52SkY5UlZ2UDkzWnJtakg2bGNDa1Z6VHhSVG1FYk1ReFJISjlyTEZrZlNXR0hWV0FobE5NYmR4QTM0SQ?oc=5\" target=\"_blank\">Bragg Gaming CEO Exits Ahead of Q3 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f",
-          "source": "Casino.org",
-          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LYUdDUGhsMHBZV1A1M3ZtOENTUHV5Z0R4ZFN2Z28xT29zWnRmSHlkeFZIUE52SkY5UlZ2UDkzWnJtakg2bGNDa1Z6VHhSVG1FYk1ReFJISjlyTEZrZlNXR0hWV0FobE5NYmR4QTM0SQ?oc=5",
+          "date": "2026-11-13",
+          "title": "Bragg Gaming Group Reports Third Quarter 2026 Financial Results",
+          "summary_he": "TORONTO, November 13, 2026 /CNW/ &#8211; Bragg Gaming Group (NASDAQ: BRAG; TSX: BRAG) (“bragg” or the “Company”), a leading igaming content and platform technology solutions provider, today announced its financial results for the third quarter of 2026. Third Quarter 2026 Financial Highlights Revenue",
+          "source": "bragg.group",
+          "url": "https://bragg.group/bragg-gaming-group-reports-third-quarter-2026-financial-results/",
           "sourceKey": "brag_official"
         },
         {
-          "date": "2026-11-09",
-          "title": "Bragg Names Morten Tonnesen Interim CEO as Mazij Steps Down - RG.org",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHFOT1RNN3p5YWtkU01EYkg5d19pSUhPQ3o1WmlRQXVCVTNLNFhHS2R4YzIxUzYzZDZjRFlLNFc0WWZrbEE2ZGFVV0R4djVSanZkSzAzUjZ0S0txNi1nWm5GVU4zVG12bDFhazY0ZEYzMFItR3Jyam5mZV9uV0xaMFJtWFJDWlYyOXJQaHMwMktNemZYZ2o2c1hsR0tqQ0I3cHlISGpDUklkSWRZYXhFOTN3?oc=5\" tar",
-          "source": "RG.org",
-          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdHFOT1RNN3p5YWtkU01EYkg5d19pSUhPQ3o1WmlRQXVCVTNLNFhHS2R4YzIxUzYzZDZjRFlLNFc0WWZrbEE2ZGFVV0R4djVSanZkSzAzUjZ0S0txNi1nWm5GVU4zVG12bDFhazY0ZEYzMFItR3Jyam5mZV9uV0xaMFJtWFJDWlYyOXJQaHMwMktNemZYZ2o2c1hsR0tqQ0I3cHlISGpDUklkSWRZYXhFOTN3?oc=5",
+          "date": "2026-11-13",
+          "title": "Bragg Gaming misses on third quarter revenue, earnings estimates - Investing.com",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHcwdWZuN3hib1BlMXRvQWVPRUlHa0prRldudFhrdl9oSlRBU3RUVWlrSHREdmlCdFktRXZXOENvS3FFSWROSkU4VHJNN29lcXFmdFpDdjVaRV9tR0ZzXzJxZ0FRVDhWbXZNODRHZjFzUG4xdzhGQlc5TFhsR2ZXOEpqcnBMRER0UUJQVnctdE02M1A5OHpsaDBnUG13ZU8xM0gwQ2JrY0RwVm5LV0pMRQ?oc=5\" targe",
+          "source": "Investing.com",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbHcwdWZuN3hib1BlMXRvQWVPRUlHa0prRldudFhrdl9oSlRBU3RUVWlrSHREdmlCdFktRXZXOENvS3FFSWROSkU4VHJNN29lcXFmdFpDdjVaRV9tR0ZzXzJxZ0FRVDhWbXZNODRHZjFzUG4xdzhGQlc5TFhsR2ZXOEpqcnBMRER0UUJQVnctdE02M1A5OHpsaDBnUG13ZU8xM0gwQ2JrY0RwVm5LV0pMRQ?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Bragg Gaming Group Inc. (BRAG) Misses Q3 EPS by 13c - StreetInsider",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWQ2b3J6TXQyUUJyNHFYRURBWENRWWZNY2pfRVRISG9EU3QzS1hMVzFYc0trRU5WY0NmUFRYQjlwbm55eEtrWm05Rm1TWTFWTGdWYmx4TUZfWU9DSU90aVNlRE1Pdm5DLS1IREgwMi1MdWtMOV9mYmFkeXh2ZVpsdGloMGJRRmNCQmlEbDlFNndpc2JuSE9QcjRXUTl6eWRRVTlQMVowZDJnUW8x?oc=5\" target=\"_bl",
+          "source": "StreetInsider",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWQ2b3J6TXQyUUJyNHFYRURBWENRWWZNY2pfRVRISG9EU3QzS1hMVzFYc0trRU5WY0NmUFRYQjlwbm55eEtrWm05Rm1TWTFWTGdWYmx4TUZfWU9DSU90aVNlRE1Pdm5DLS1IREgwMi1MdWtMOV9mYmFkeXh2ZVpsdGloMGJRRmNCQmlEbDlFNndpc2JuSE9QcjRXUTl6eWRRVTlQMVowZDJnUW8x?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Bragg Gaming Schedules Q3 Results Release and 9 a.m. ET Call - www.tokenpost.com",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tVHc4bkhhbm1wVVI4ZHVqTFFreHIxczJCalp5SWxoblJvbVJIQ3VIbVF1SWxlTl9RVjhNMWRKWWtCcXktdXJrVzkwOEZKQzFEcGxrTnNBVjA?oc=5\" target=\"_blank\">Bragg Gaming Schedules Q3 Results Release and 9 a.m. ET Call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.tokenp",
+          "source": "www.tokenpost.com",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tVHc4bkhhbm1wVVI4ZHVqTFFreHIxczJCalp5SWxoblJvbVJIQ3VIbVF1SWxlTl9RVjhNMWRKWWtCcXktdXJrVzkwOEZKQzFEcGxrTnNBVjA?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -232,6 +248,14 @@ window.intelData = {
           "sourceKey": "brag_official"
         },
         {
+          "date": "2026-11-06",
+          "title": "Bragg Gaming Group (BRAG) Stock Price, News &amp; Analysis - Stock Titan",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSjJLNHBEc0U2UVhRcHE5WGx0MUZPQ1pOS0dWN292aUtTY2llUHg2anVmSHAzUEpfdkNBeFBESkNDRm56alEyaXpscHA0dWxVVXNz?oc=5\" target=\"_blank\">Bragg Gaming Group (BRAG) Stock Price, News & Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "source": "Stock Titan",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSjJLNHBEc0U2UVhRcHE5WGx0MUZPQ1pOS0dWN292aUtTY2llUHg2anVmSHAzUEpfdkNBeFBESkNDRm56alEyaXpscHA0dWxVVXNz?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
           "date": "2026-11-02",
           "title": "Bragg Gaming Group to Release Third Quarter 2026 Results on November 13",
           "summary_he": "Toronto, November 2, 2026, /CNW/ &#8211; Bragg Gaming Group Inc. (NASDAQ: BRAG, TSX: BRAG) (“bragg” or the “Company”), a leading iGaming content and platform technology solutions provider, today confirmed that it will release its third quarter 2026 financial results prior to the opening of the finan",
@@ -246,6 +270,14 @@ window.intelData = {
       "icon": "🇧🇷",
       "color": "rgba(76,175,80,0.12)",
       "articles": [
+        {
+          "date": "2026-11-12",
+          "title": "Stake targets regulated markets as LatAm takes centre stage",
+          "summary_he": "Stake's CMO Akhil Sarin and director Jarrod Febbraio tell iGB how the operator plans to balance its global brand identity and unconventional marketing strategy with the demands of regulated expansion.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/strategy/stake-targets-regulated-markets-latam-takes-centre-stage/",
+          "sourceKey": "igaming_market"
+        },
         {
           "date": "2026-11-12",
           "title": "Colombia opens talks on 19% online gambling VAT plan",
@@ -263,12 +295,12 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-11-11",
-          "title": "Brazil trade body identifies over 800 influencers promoting illegal betting on Instagram",
-          "summary_he": "The Legitbet platform, from the National Association of Games and Lotteries, shows that 73% of profiles have between 10,000 and 100,000 followers.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/offshore-gaming/over-800-influencers-promoting-illegal-betting-instagram-brazil-anjl/",
-          "sourceKey": "igaming_market"
+          "date": "2026-11-13",
+          "title": "Brazil Extends Nationwide Internet Gambling Ban Until March 2027",
+          "summary_he": "Brazil’s National Congress has given lawmakers another 60 days to consider the government’s nationwide ban on online gambling. The extension keeps Provisional Measure 1,394/2026 in force while Parliament discusses what to do with it. The measure could be in effect until March 4, 2027, due to the upc",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/brazil-extends-nationwide-internet-gambling-ban-until-march-2027/",
+          "sourceKey": "gambling_news"
         }
       ]
     },
@@ -278,44 +310,44 @@ window.intelData = {
       "color": "rgba(33,150,243,0.12)",
       "articles": [
         {
-          "date": "2026-11-11",
-          "title": "Gibraltar stakes its claim as Europe’s home for prediction markets",
-          "summary_he": "With two operators authorised and more in the pipeline, Gibraltar used Europe’s first prediction markets summit to court an industry its neighbours are blocking.",
+          "date": "2026-11-12",
+          "title": "Krolicki takes IAGR presidency as body steps up work on illegal gambling",
+          "summary_he": "The Nevada Gaming Commission member succeeds Ben Haden, with the AGCO’s David Phillips stepping up as vice president.",
           "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/uncategorized/gibraltar-hosts-first-european-summit-on-prediction-markets/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-11-10",
-          "title": "Rio opens renovated sportsbook by William Hill as predictions war escalates in Nevada",
-          "summary_he": "The off-strip resort is opening a renovated retail sportsbook just as a US senator from Nevada escalated a war of words on prediction markets.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/sports-betting/rio-opens-renovated-sportsbook-2026/",
+          "url": "https://igamingbusiness.com/legal-compliance/krolicki-takes-iagr-presidency-as-body-steps-up-work-on-illegal-gambling/",
           "sourceKey": "igaming_market"
         },
         {
           "date": "2026-11-12",
-          "title": "Is a Polymarket IPO on the horizon? Fresh restructuring may suggest so",
-          "summary_he": "A reorganisation of Polymarket’s leadership and wider workforce has further fueled rumours that the prediction markets platform is eyeing an IPO. Reported job cuts &#8211; over 50% of which affected contractors according to Reuters &#8211; follow the recent appointments of two senior executives, one",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/features/comment/2026/11/12/polymarket-ipo-murmurings/",
-          "sourceKey": "sbc_news"
+          "title": "Suspected Ballon d&#8217;Or leak exposes Europe&#8217;s prediction markets enforcement gap",
+          "summary_he": "The suspected Ballon d’Or scandal has put renewed scrutiny on Europe’s fragmented approach to prediction market regulation.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/prediction-markets/ballon-dor-leak-exposes-europes-prediction-market-enforcement-gap/",
+          "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-11-12",
-          "title": "Former Nevada Lt-Governor ascends to IAGR Presidency",
-          "summary_he": "The International Association of Gaming Regulators (IAGR) has appointed veteran Nevada politician Brian Krolick as its new President. Krolick’s appointment marks a transatlantic pivot in the leadership of IAGR. Krolick succeeds Ben Haden, Director of Research and Statistics at Britain&#8217;s Gambli",
-          "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/igaming/2026/11/12/nevada-lt-governor-gambling/",
-          "sourceKey": "sbc_news"
-        },
-        {
-          "date": "2026-11-12",
-          "title": "Polymarket Cuts Jobs Amid Reorganization Efforts",
-          "summary_he": "Prediction market giant Polymarket has confirmed a round of layoffs as it prepares to “build what’s next.” The company did not disclose details about the number of affected employees, but dismissed rumors that the layoffs will affect a third of its workforce. Polymarket Confirms Company-Wide Reducti",
+          "date": "2026-11-13",
+          "title": "Underdog Teams up with Plaee to Expand Access to Prediction Market",
+          "summary_he": "Underdog has formed a strategic partnership with Plaee, which will allow operators using the technology provider’s white-label infrastructure to offer event contracts through Underdog’s Commodity Futures Trading Commission (CFTC)-regulated exchange. The agreement aims to make it easier for companies",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/polymarket-cuts-jobs-amid-reorganization-efforts/",
+          "url": "https://www.gamblingnews.com/news/underdog-teams-up-with-plaee-to-expand-access-to-prediction-market/",
           "sourceKey": "gambling_news"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "Prediction Platforms Ramp Up Lobbying Efforts as States Push to Regulate the Sector",
+          "summary_he": "Prediction market operators Kalshi and Polymarket are ramping up lobbying efforts and recruiting political figures from both sides of the aisle as they fight US states’ attempts to regulate sports-event contracts as gambling. Any ruling allowing state laws to apply to prediction markets could force ",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/prediction-platforms-ramp-up-lobbying-efforts-as-states-push-to-regulate-the-sector/",
+          "sourceKey": "gambling_news"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "DraftKings and FanDuel Are Now Neck and Neck in US Sports Betting",
+          "summary_he": "",
+          "source": "deadspin.com",
+          "url": "https://deadspin.com/legal-betting/",
+          "sourceKey": "deadspin"
         }
       ]
     },
@@ -325,6 +357,14 @@ window.intelData = {
       "color": "rgba(156,39,176,0.12)",
       "articles": [
         {
+          "date": "2026-11-12",
+          "title": "KwaZulu-Natal opens hearings on gaming and betting tax overhaul",
+          "summary_he": "KwaZulu-Natal's proposed gambling tax overhaul has sparked warnings from operators that significant increases could force businesses to close.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/finance/kwazulu-natal-gaming-betting-tax-bill-hearings/",
+          "sourceKey": "igaming_market"
+        },
+        {
           "date": "2026-11-11",
           "title": "Chile deputies back curbs on online betting tax collection",
           "summary_he": "A new legislative battle over online gambling taxation has emerged in Chile, following a decisive vote in the Chamber of Deputies.",
@@ -333,35 +373,27 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-11-11",
-          "title": "Egypt folds online betting crackdown into new digital safety bill",
-          "summary_he": "Egypt’s online betting crackdown moves into a wider Digital Safety Law, due in Parliament within six weeks, with brokers and promoters now in the firing line.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/egypt-online-betting-digital-safety-bill/",
-          "sourceKey": "igaming_market"
+          "date": "2026-11-13",
+          "title": "Will EU digital fairness make international gambling clashes more likely?",
+          "summary_he": "The trade body representing European gambling companies has cautioned Brussels that regulation “does not automatically mean better consumer protection”. This week, the European Commission (EC) added new articles to the Digital Fairness Act (DFA), a proposed EU-wide Act that seeks to make consumer pr",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/igaming/2026/11/13/eu-digital-fairness-gambling/",
+          "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-11-11",
-          "title": "Chilean Senate committee backs online gambling ban",
-          "summary_he": "Chilean senators are considering amendments that could replace a proposed regulatory framework with an outright ban on online betting.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/chile-senate-committee-online-gambling-ban/",
-          "sourceKey": "igaming_market"
+          "date": "2026-11-13",
+          "title": "Under-18s steer clear of UK gambling companies",
+          "summary_he": "British gambling companies compliance teams will be feeling a sense of vindication this week as regulatory data suggests efforts and resources poured into age verification are paying off. According to the Gambling Commission, the number of under-18s participating in gambling in the UK has declined o",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/social-responsibility/2026/11/13/uk-gambling-young-people/",
+          "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-11-12",
-          "title": "After 18 Years: GAN Drops UK Gambling License Amid Restructuring",
-          "summary_he": "The global supplier of casino content, gaming systems, and turnkey social gaming, GameAccount Network (GAN) has officially surrendered its UK Gambling Commission (UKGC) Business-to-Business (B2B) licence.&#160; The decision comes as its parent company, Sega Sammy, continues a broad restructuring of ",
+          "date": "2026-11-13",
+          "title": "IAGR Allows Canadians to Now Check If Their Gambling Website Is Legal",
+          "summary_he": "The International Association of Gaming Regulators (IAGR) has launched a dedicated tool that allows consumers in Canada to quickly verify whether a website is actually licensed to run its business operations locally in a province. IAGR Helps Canadians Find Their Way in Sea of Gambling Options Flaggi",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/after-18-years-gan-drops-uk-gambling-license-amid-restructuring/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-11-12",
-          "title": "Bulgaria Bans All Gambling Advertising",
-          "summary_he": "The Bulgarian government has approved draft amendments that include an overall ban on gambling advertising and increased taxes and fees throughout the gaming sector. The proposals, approved by the Council of Ministers on November 11, will now be forwarded to Parliament for consideration. Bulgaria Se",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/bulgaria-bans-all-gambling-advertising/",
+          "url": "https://www.gamblingnews.com/news/iagr-allows-canadians-to-now-check-if-their-gambling-website-is-legal/",
           "sourceKey": "gambling_news"
         }
       ]
@@ -372,6 +404,22 @@ window.intelData = {
       "color": "rgba(0,230,118,0.12)",
       "articles": [
         {
+          "date": "2026-11-12",
+          "title": "US House subcommittee seeks to curb problem gambling on campus amid elevated sports betting",
+          "summary_he": "A lengthy hearing on Capitol Hill delved into methods that can mitigate the risks of athlete harassment, match manipulation and excessive sports betting on college campuses nationwide",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/sports-betting/us-house-subcommittee-seeks-to-curb-pg-rates/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-11-12",
+          "title": "EU Digital Fairness Act would tighten rules on loot boxes and gambling influencer marketing",
+          "summary_he": "The European Commission’s draft would require clearer odds and spending limits on paid loot boxes, ban some paid mechanics for minors and extend ad bans to influencers.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/eu-digital-fairness-act-tighten-rules-loot-boxes-gambling-influencer-marketing/",
+          "sourceKey": "igaming_market"
+        },
+        {
           "date": "2026-11-11",
           "title": "Accor and Hard Rock agree global hotel partnership",
           "summary_he": "Properties would gain access to Accor's global sales and distribution network.",
@@ -380,44 +428,42 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-11-11",
-          "title": "World Cup first-time bettors felt under-informed, says Gambling Commission",
-          "summary_he": "The Gambling Commission's report found that the majority of respondents relied on their instincts when placing bets, with 7% using AI.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/sports-betting/world-cup-first-time-bettors-felt-under-informed-says-gambling-commission/",
-          "sourceKey": "igaming_market"
-        },
-        {
           "date": "2026-11-12",
-          "title": "GR8_TECH: What makes crypto a dealmaker for operators",
-          "summary_he": "In an op-ed for SBC News, Vardan Hakobyan, Head of Sales at GR8_TECH, outlines the current use cases for cryptocurrencies in iGaming. Hakobyan explains that crypto is not always the main payment method for many players, but operators must get it right when implementing crypto for those digitally-nat",
+          "title": "Codere Online CEO cautious despite 30% revenue rise in Q3",
+          "summary_he": "Codere Online’s leadership remains cautious of the global challenges facing the gambling industry despite the firm’s significant progress during Q3 2026. The third quarter was a positive one for Codere Online, with the online sportsbook and iGaming group declaring a 30% increase in net gaming revenu",
           "source": "sbcnews.co.uk",
-          "url": "https://sbcnews.co.uk/features/2026/11/12/gr8-tech-makes-crypto-dealmaker-oped/",
+          "url": "https://sbcnews.co.uk/sportsbook/2026/11/12/codere-online-q3/",
           "sourceKey": "sbc_news"
         },
         {
-          "date": "2026-11-12",
-          "title": "Evenbeter Launches CardRealm to Strengthen iGaming Casino Experience",
-          "summary_he": "Evenbeter, a global iGaming software provider, has launched its CardRealm solution, which brings together an innovative collection of card-led casino games that feature traditional table classics as well as unique mechanics designed to elevate the experience. Evenbeter Rolls Out CardRealm to Boost O",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/evenbeter-launches-cardrealm-to-strengthen-igaming-casino-experience/",
-          "sourceKey": "gambling_news"
+          "date": "2026-11-13",
+          "title": "Congress Turns Spotlight on Sports Betting’s Impact on College Students",
+          "summary_he": "",
+          "source": "deadspin.com",
+          "url": "https://deadspin.com/legal-betting/",
+          "sourceKey": "deadspin"
         },
         {
-          "date": "2026-11-11",
-          "title": "Juroszek Family Takes Majority Stake in iGaming Giant Gentoo Media",
-          "summary_he": "Polish gambling tycoons, the Juroszeks, have taken a majority stake in affiliate iGaming company Gentoo Media following a EUR 100 million (about $111 million) refinancing deal, which boosted the family’s stake in the company from 26.8% to 59.3%. Juroszek Moved Strategically to Acquire This Share Las",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/juroszek-family-takes-majority-stake-in-igaming-giant-gentoo-media/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-11-12",
+          "date": "2026-11-13",
           "title": "Texas Sports Betting Push Gains Momentum After Dan Patrick Defeat",
           "summary_he": "",
           "source": "deadspin.com",
           "url": "https://deadspin.com/legal-betting/",
           "sourceKey": "deadspin"
+        }
+      ]
+    },
+    "social_media": {
+      "title": "BRAG ברשתות החברתיות",
+      "icon": "💬",
+      "color": "rgba(255,214,0,0.15)",
+      "articles": [
+        {
+          "date": "2026-11-13",
+          "title": "Reddit: Am I doing this wrong or are casino welcome bonuses a trap? (Need advice)",
+          "summary_he": "תקציר לא זמין (שגיאת AI)",
+          "source": "Reddit r/onlinegambling",
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1xv5ktx/am_i_doing_this_wrong_or_are_casino_welcome/"
         }
       ]
     }
