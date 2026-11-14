@@ -1,57 +1,57 @@
 window.intelData = {
   "stock": {
-    "price": "0.68",
-    "change": "+0.01",
-    "changePercent": "+2.09%",
-    "priceTSX": "1.01",
+    "price": "0.64",
+    "change": "-0.04",
+    "changePercent": "-6.30%",
+    "priceTSX": "0.91",
     "high52w": "$2.74",
     "low52w": "$0.63",
-    "volume": "32,600",
-    "marketCap": "$21M",
-    "yoyChange": "-75%",
-    "updatedAt": "13.11.2026 · 13:55",
-    "dayHigh": "$0.70",
-    "dayLow": "$0.65",
-    "changeTSX": "+0.05",
-    "changePercentTSX": "+5.21%",
-    "volumeTSX": "36,700"
+    "volume": "79,900",
+    "marketCap": "$20M",
+    "yoyChange": "-77%",
+    "updatedAt": "14.11.2026 · 12:57",
+    "dayHigh": "$0.69",
+    "dayLow": "$0.63",
+    "changeTSX": "-0.10",
+    "changePercentTSX": "-9.90%",
+    "volumeTSX": "28,000"
   },
   "chartData": {
     "priceLabels": [
-      "04/11",
       "05/11",
       "06/11",
       "09/11",
       "10/11",
       "11/11",
-      "12/11"
+      "12/11",
+      "13/11"
     ],
     "priceValues": [
-      1.3,
       1.18,
       1.09,
       1.04,
       0.99,
       0.96,
-      1.01
+      1.01,
+      0.91
     ],
     "volumeLabels": [
-      "04/11",
       "05/11",
       "06/11",
       "09/11",
       "10/11",
       "11/11",
-      "12/11"
+      "12/11",
+      "13/11"
     ],
     "volumeValues": [
-      16,
       20,
       88,
       60,
       61,
       42,
-      37
+      37,
+      28
     ]
   },
   "socialMedia": {
@@ -59,24 +59,38 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין ציוצים עדכניים משמעותיים על BRAG היום. אין חדשות או תחזיות חדשות.",
+        "text": "אין עדכונים משמעותיים על BRAG ב-X היום.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+        "text": "אין חדשות חדשות על רגולציה בניו יורק.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין עדכונים על רישיונות או אכיפה בברזיל מהיום.",
+        "text": "אין דיונים עדכניים על רגולציה בברזיל.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין דיווחים על חידוש רישיונות או אכיפה בהולנד.",
+        "text": "אין מידע חדש על KSA או BetCity.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין עסקאות או שותפויות חדשות מדווחות בתעשייה.",
+        "text": "אין עסקאות או מגמות בולטות היום.",
         "platform": "X/Grok · igaming industry"
+      },
+      {
+        "text": "$BRAG rolled snake eyes. Game over.",
+        "platform": "StockTwits · $BRAG",
+        "sentiment": null,
+        "date": "2026-11-13T15:28:26Z",
+        "username": "Stonkosauruss"
+      },
+      {
+        "text": "https://www.marketbeat.com/earnings/reports/2026-11-13-bragg-gaming-group-inc-stock-2/\n\n$BRAG Bragg Gaming Group Earnings Transcript",
+        "platform": "StockTwits · $BRAG",
+        "sentiment": null,
+        "date": "2026-11-13T14:47:49Z",
+        "username": "EarningsInsider"
       },
       {
         "text": "$BRAG This is actually going to get uglier than it&#39;s been. The hole is dug deeper and the shovel is broke. Salvage what you have left and put it somewhere else...Sorry ! What a bad bet I made. Selling my last shares at even $1.11 feels really good right now.",
@@ -133,20 +147,6 @@ window.intelData = {
         "sentiment": null,
         "date": "2026-10-29T18:41:10Z",
         "username": "johnnysims15"
-      },
-      {
-        "text": "$BRAG Looking like we&#39;re going out of business here...also looks like I&#39;m the last one left here...LOL 😂",
-        "platform": "StockTwits · $BRAG",
-        "sentiment": null,
-        "date": "2026-10-01T20:27:38Z",
-        "username": "chazchem"
-      },
-      {
-        "text": "$BRAG Global Gaming EXPO in Vegas today. Did we go? We lose another 5% today. An all time low. At least the management is keeping their fucking mouths shut and stopped spitting out their worthless immaterial PR&#39;s. Well it shouldn&#39;t be long now 🤮.",
-        "platform": "StockTwits · $BRAG",
-        "sentiment": null,
-        "date": "2026-09-29T20:48:22Z",
-        "username": "chazchem"
       }
     ]
   },
@@ -166,27 +166,27 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין ציוצים עדכניים משמעותיים על BRAG היום. אין חדשות או תחזיות חדשות.",
+      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "אין חדשות חדשות על רגולציה בניו יורק.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין עדכונים על רישיונות או אכיפה בברזיל מהיום.",
+      "summary": "אין דיונים עדכניים על רגולציה בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין דיווחים על חידוש רישיונות או אכיפה בהולנד.",
+      "summary": "אין מידע חדש על KSA או BetCity.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות חדשות מדווחות בתעשייה.",
+      "summary": "אין עסקאות או מגמות בולטות היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
@@ -200,11 +200,35 @@ window.intelData = {
       "color": "rgba(255,214,0,0.15)",
       "articles": [
         {
+          "date": "2026-11-14",
+          "title": "Bragg Gaming Group Inc. 2026 Q3 - Results - Earnings Call Presentation (TSX:BRAG:CA) 2026-11-14 - Seeking Alpha",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQNGdEd2p6b1F4LS12d1loWUdUSE5jVlRINDI1WWxwUTFBeWVsQXhYdEpka1pEdHY4MjNzM3ZfZXNtVWNQdWxaalBKamF3dnFiSnhIb2tfZGZKR01icVlmbDlpcnFPWThZMk90d1RsWkpTZmR3dTVxRWdmeVNscGdWLWdXUDBBZk5ldXkxWjk4bWwzZzBQNjk3SjJkQjNPc2ZZZ18wZ2UySHhVME9FVDJlVGRHMkY2UlJCcU",
+          "source": "Seeking Alpha",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNGdEd2p6b1F4LS12d1loWUdUSE5jVlRINDI1WWxwUTFBeWVsQXhYdEpka1pEdHY4MjNzM3ZfZXNtVWNQdWxaalBKamF3dnFiSnhIb2tfZGZKR01icVlmbDlpcnFPWThZMk90d1RsWkpTZmR3dTVxRWdmeVNscGdWLWdXUDBBZk5ldXkxWjk4bWwzZzBQNjk3SjJkQjNPc2ZZZ18wZ2UySHhVME9FVDJlVGRHMkY2UlJCcUVYcHAwZ3VhWmd4SGp3d0tUVQ?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
           "date": "2026-11-13",
           "title": "Bragg Gaming Group Reports Third Quarter 2026 Financial Results",
           "summary_he": "TORONTO, November 13, 2026 /CNW/ &#8211; Bragg Gaming Group (NASDAQ: BRAG; TSX: BRAG) (“bragg” or the “Company”), a leading igaming content and platform technology solutions provider, today announced its financial results for the third quarter of 2026. Third Quarter 2026 Financial Highlights Revenue",
           "source": "bragg.group",
           "url": "https://bragg.group/bragg-gaming-group-reports-third-quarter-2026-financial-results/",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Bragg Gaming Group Inc. (BRAG.TO) Stock Price, News, Quote &amp; History - Yahoo! Finance Canada",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE83Sk8wQXgwck01RWZLb0FrN1BvbW82bVJFaHZ2OEVLM1hWWG5jM2N0MF9WQ0FVMGUxQnc0RnlLcHZZUG55S2pyZVREcVVwMFNqT2h3MjlB?oc=5\" target=\"_blank\">Bragg Gaming Group Inc. (BRAG.TO) Stock Price, News, Quote & History</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo",
+          "source": "Yahoo! Finance Canada",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83Sk8wQXgwck01RWZLb0FrN1BvbW82bVJFaHZ2OEVLM1hWWG5jM2N0MF9WQ0FVMGUxQnc0RnlLcHZZUG55S2pyZVREcVVwMFNqT2h3MjlB?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Bragg Gaming's Margin Gains Can't Offset A Shrinking Business As Cash Dwindles And The CEO Exits - Finviz",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGQ4elY1bHpCY2FTMEdVSGR6YjFCRE11dFhLMVVmYm42bWVvQUdoUlNjaWdsMEU2RTdiV2xUbmUtWUtlOUoyWFM4N1FlZUVmRGVseUt5Y0ZSVkxseGZDbzhnX1NRNXcwUGdVUlowaTNaUC1FZXE0R2UySFplU0h5aVpYWVFOMU16WmNneU5DNnZWSnpvS2x2YWNWcTV0X3l4ZEFjUlVWajRENl8tQU5WM3g2U0RoN2RFQm",
+          "source": "Finviz",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVGQ4elY1bHpCY2FTMEdVSGR6YjFCRE11dFhLMVVmYm42bWVvQUdoUlNjaWdsMEU2RTdiV2xUbmUtWUtlOUoyWFM4N1FlZUVmRGVseUt5Y0ZSVkxseGZDbzhnX1NRNXcwUGdVUlowaTNaUC1FZXE0R2UySFplU0h5aVpYWVFOMU16WmNneU5DNnZWSnpvS2x2YWNWcTV0X3l4ZEFjUlVWajRENl8tQU5WM3g2U0RoN2RFQmJKem1yWkwwY00?oc=5",
           "sourceKey": "brag_official"
         },
         {
@@ -217,6 +241,30 @@ window.intelData = {
         },
         {
           "date": "2026-11-13",
+          "title": "Bragg Gaming Group revenue drops 23% in third quarter - Gaming Intelligence",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVVIYVllWFJWS3pqX2VCSVNQVGJNVVVhbTluMUJPcWtyTlA5QVpyZUVsN3c3dmlIME1ycnVTdWtfaEJTRXJLU0VJcHBDS1NJdktDQXZyVUlQVXk2X0pkQUd2VmZ5Z1BOOHVlQkNKRUsxOWJqRUJWUXZSZGRsSGxYd0dNVnBWWXh5YjNqVE5qZlpYQ2FTQWRNdXZRWkQzTXhid1Q2TDV3?oc=5\" target=\"_blank\">Bra",
+          "source": "Gaming Intelligence",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVVIYVllWFJWS3pqX2VCSVNQVGJNVVVhbTluMUJPcWtyTlA5QVpyZUVsN3c3dmlIME1ycnVTdWtfaEJTRXJLU0VJcHBDS1NJdktDQXZyVUlQVXk2X0pkQUd2VmZ5Z1BOOHVlQkNKRUsxOWJqRUJWUXZSZGRsSGxYd0dNVnBWWXh5YjNqVE5qZlpYQ2FTQWRNdXZRWkQzTXhid1Q2TDV3?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Bragg Gaming Q3 2026 losses widen as revenue falls 23% - NEXT.io",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNemhtaUdBTzQ4QmY0MGNtb1pNRGthV1hMTmlZVmNTcDloVUdoY3gxbHJzcVRkbWRDTFFjdF84SnF5a2NTamlZS096Wnk1VjdoSjJSVzFMdW5zWW5BMnZ3MGFpNzIxY2VhQ0pFRmtCUG51dzB6OFBnV3RrSVJwc2tHUQ?oc=5\" target=\"_blank\">Bragg Gaming Q3 2026 losses widen as revenue falls 23",
+          "source": "NEXT.io",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemhtaUdBTzQ4QmY0MGNtb1pNRGthV1hMTmlZVmNTcDloVUdoY3gxbHJzcVRkbWRDTFFjdF84SnF5a2NTamlZS096Wnk1VjdoSjJSVzFMdW5zWW5BMnZ3MGFpNzIxY2VhQ0pFRmtCUG51dzB6OFBnV3RrSVJwc2tHUQ?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Bragg Gaming Group reports revenue of EUR 20.6m in Q3 - Focus Gaming News",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lS2dqTWI3VGJwYVZ2VDlfdTZMVUgyQW4yWWJFZ2R4VWd3d1pwcVNiXzhFRVdxbERUVXBpUVB3dHRBa3RsT1BYenpDVkRydHpQS1RMd3lYU0FoTFp2dnpsT005MA?oc=5\" target=\"_blank\">Bragg Gaming Group reports revenue of EUR 20.6m in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fo",
+          "source": "Focus Gaming News",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lS2dqTWI3VGJwYVZ2VDlfdTZMVUgyQW4yWWJFZ2R4VWd3d1pwcVNiXzhFRVdxbERUVXBpUVB3dHRBa3RsT1BYenpDVkRydHpQS1RMd3lYU0FoTFp2dnpsT005MA?oc=5",
+          "sourceKey": "brag_official"
+        },
+        {
+          "date": "2026-11-13",
           "title": "Bragg Gaming Group Inc. (BRAG) Misses Q3 EPS by 13c - StreetInsider",
           "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPdWQ2b3J6TXQyUUJyNHFYRURBWENRWWZNY2pfRVRISG9EU3QzS1hMVzFYc0trRU5WY0NmUFRYQjlwbm55eEtrWm05Rm1TWTFWTGdWYmx4TUZfWU9DSU90aVNlRE1Pdm5DLS1IREgwMi1MdWtMOV9mYmFkeXh2ZVpsdGloMGJRRmNCQmlEbDlFNndpc2JuSE9QcjRXUTl6eWRRVTlQMVowZDJnUW8x?oc=5\" target=\"_bl",
           "source": "StreetInsider",
@@ -225,42 +273,10 @@ window.intelData = {
         },
         {
           "date": "2026-11-13",
-          "title": "Bragg Gaming Schedules Q3 Results Release and 9 a.m. ET Call - www.tokenpost.com",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tVHc4bkhhbm1wVVI4ZHVqTFFreHIxczJCalp5SWxoblJvbVJIQ3VIbVF1SWxlTl9RVjhNMWRKWWtCcXktdXJrVzkwOEZKQzFEcGxrTnNBVjA?oc=5\" target=\"_blank\">Bragg Gaming Schedules Q3 Results Release and 9 a.m. ET Call</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">www.tokenp",
-          "source": "www.tokenpost.com",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tVHc4bkhhbm1wVVI4ZHVqTFFreHIxczJCalp5SWxoblJvbVJIQ3VIbVF1SWxlTl9RVjhNMWRKWWtCcXktdXJrVzkwOEZKQzFEcGxrTnNBVjA?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "Bragg Gaming Group Announces Leadership Transition",
-          "summary_he": "Morten Tonnesen appointed Interim Chief Executive Officer. Matevž Mazij to serve as Strategic Advisor Toronto, November 6, 2026, /CNW/ &#8211; Bragg Gaming Group Inc. (NASDAQ: BRAG, TSX: BRAG) (“bragg” or the “Company”), a leading iGaming content and platform technology solutions provider, today ann",
-          "source": "bragg.group",
-          "url": "https://bragg.group/bragg-gaming-group-announces-leadership-transition/",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "Bragg Gaming appoints Tonnesen as Interim CEO - Yahoo Finance",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhnVUpnMm0zaGgxM0t5UFp5c2hQeHEzMjVWUWNtZFpRNkt4eDhfRGJjc2dvQzhLQUdXZ0JLN0tMU0l5TklwaThvMFJJZkJUcWZIQlVHZ3luWnFxSWpLZEdyUkZsQjlJWG1fcjY0UXR4SUtoeDFqOHJjdUNxSW8tY21XcXN3ZmRaUFQtSXVucGJxeW1HNFhNVjlEci1kQ3BzU2xjWm9R?oc=5\" target=\"_blank\">Bra",
-          "source": "Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeVhnVUpnMm0zaGgxM0t5UFp5c2hQeHEzMjVWUWNtZFpRNkt4eDhfRGJjc2dvQzhLQUdXZ0JLN0tMU0l5TklwaThvMFJJZkJUcWZIQlVHZ3luWnFxSWpLZEdyUkZsQjlJWG1fcjY0UXR4SUtoeDFqOHJjdUNxSW8tY21XcXN3ZmRaUFQtSXVucGJxeW1HNFhNVjlEci1kQ3BzU2xjWm9R?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-06",
-          "title": "Bragg Gaming Group (BRAG) Stock Price, News &amp; Analysis - Stock Titan",
-          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSjJLNHBEc0U2UVhRcHE5WGx0MUZPQ1pOS0dWN292aUtTY2llUHg2anVmSHAzUEpfdkNBeFBESkNDRm56alEyaXpscHA0dWxVVXNz?oc=5\" target=\"_blank\">Bragg Gaming Group (BRAG) Stock Price, News & Analysis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+          "title": "Q3 net loss widens to €4.29M as revenue falls at Bragg Gaming (BRAG). - Stock Titan",
+          "summary_he": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWENvQTJXeFZtdGdOQUw3Y21HTHAzeHByM1RBQ19XSEVtUE5mOUthN2FHVlhzTDdMS0RNWGZSMlNIcG5tT29mYnl2c2ZPanNWZnBCTG1qMWV4ZEY5c1hmMlctWVdiRmE4V2tIazVVRDJLODJQU1h1YlFSLVpCNUJfczdrWWpfZXgzUnpadktQTDNWLXBScll3TlVPMDZHbU1zdE1mZHMtSnVfSmIxN0lYWGV1VlFNNkhPeV",
           "source": "Stock Titan",
-          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qSjJLNHBEc0U2UVhRcHE5WGx0MUZPQ1pOS0dWN292aUtTY2llUHg2anVmSHAzUEpfdkNBeFBESkNDRm56alEyaXpscHA0dWxVVXNz?oc=5",
-          "sourceKey": "brag_official"
-        },
-        {
-          "date": "2026-11-02",
-          "title": "Bragg Gaming Group to Release Third Quarter 2026 Results on November 13",
-          "summary_he": "Toronto, November 2, 2026, /CNW/ &#8211; Bragg Gaming Group Inc. (NASDAQ: BRAG, TSX: BRAG) (“bragg” or the “Company”), a leading iGaming content and platform technology solutions provider, today confirmed that it will release its third quarter 2026 financial results prior to the opening of the finan",
-          "source": "bragg.group",
-          "url": "https://bragg.group/bragg-gaming-group-to-release-third-quarter-2026-results-on-november-13/",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWENvQTJXeFZtdGdOQUw3Y21HTHAzeHByM1RBQ19XSEVtUE5mOUthN2FHVlhzTDdMS0RNWGZSMlNIcG5tT29mYnl2c2ZPanNWZnBCTG1qMWV4ZEY5c1hmMlctWVdiRmE4V2tIazVVRDJLODJQU1h1YlFSLVpCNUJfczdrWWpfZXgzUnpadktQTDNWLXBScll3TlVPMDZHbU1zdE1mZHMtSnVfSmIxN0lYWGV1VlFNNkhPeVE?oc=5",
           "sourceKey": "brag_official"
         }
       ]
@@ -270,6 +286,14 @@ window.intelData = {
       "icon": "🇧🇷",
       "color": "rgba(76,175,80,0.12)",
       "articles": [
+        {
+          "date": "2026-11-13",
+          "title": "Brazil Supreme Court set to resume case on constitutionality of betting ban",
+          "summary_he": "Brazil’s Supreme Court is considering a joint hearing on disputes involving sports betting, gambling legislation and municipal lotteries.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/brazil-supreme-court-constitutionality-betting-ban/",
+          "sourceKey": "igaming_market"
+        },
         {
           "date": "2026-11-12",
           "title": "Stake targets regulated markets as LatAm takes centre stage",
@@ -285,22 +309,6 @@ window.intelData = {
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/finance/colombia-online-gambling-vat-talks-bill-477/",
           "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-11-11",
-          "title": "Brazil National Congress extends provisional measure banning betting for a further 60 days",
-          "summary_he": "Senate President Davi Alcolumbre has extended Provisional Measure No. 1,394 by another 60 days, although its joint committee has yet to meet.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/brazil-government-extends-provisional-measure-banning-betting/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "Brazil Extends Nationwide Internet Gambling Ban Until March 2027",
-          "summary_he": "Brazil’s National Congress has given lawmakers another 60 days to consider the government’s nationwide ban on online gambling. The extension keeps Provisional Measure 1,394/2026 in force while Parliament discusses what to do with it. The measure could be in effect until March 4, 2027, due to the upc",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/brazil-extends-nationwide-internet-gambling-ban-until-march-2027/",
-          "sourceKey": "gambling_news"
         }
       ]
     },
@@ -309,6 +317,22 @@ window.intelData = {
       "icon": "🇺🇸",
       "color": "rgba(33,150,243,0.12)",
       "articles": [
+        {
+          "date": "2026-11-13",
+          "title": "Donald Trump Jr. ends advisory role with Kalshi after VC firm doubles down on Polymarket",
+          "summary_he": "Prediction market giant and son of sitting US president agree to mutually part ways",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/prediction-markets/donald-trump-jr-ends-kalshi-advisory-role/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Fraud moves at the speed of light. How can crime fighters keep up?",
+          "summary_he": "Europe’s financial-crime fighters tell gambling operators that the fight against fraud will be won or lost by speed – and that closer co-operation with law enforcement and investigators is paramount.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/cyberfraud/fraud-moves-at-the-speed-of-light-how-can-crime-fighters-keep-up/",
+          "sourceKey": "igaming_market"
+        },
         {
           "date": "2026-11-12",
           "title": "Krolicki takes IAGR presidency as body steps up work on illegal gambling",
@@ -327,27 +351,11 @@ window.intelData = {
         },
         {
           "date": "2026-11-13",
-          "title": "Underdog Teams up with Plaee to Expand Access to Prediction Market",
-          "summary_he": "Underdog has formed a strategic partnership with Plaee, which will allow operators using the technology provider’s white-label infrastructure to offer event contracts through Underdog’s Commodity Futures Trading Commission (CFTC)-regulated exchange. The agreement aims to make it easier for companies",
+          "title": "Massachusetts Raises Fresh Concerns over Prediction Markets",
+          "summary_he": "Massachusetts Gaming Commission chair Jordan Maynard revealed that the regulator regularly receives complaints from consumers who believe prediction markets fall under state law. The complaints highlight growing confusion about which authorities are responsible for protecting customers using platfor",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/underdog-teams-up-with-plaee-to-expand-access-to-prediction-market/",
+          "url": "https://www.gamblingnews.com/news/massachusetts-raises-fresh-concerns-over-prediction-markets/",
           "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-11-12",
-          "title": "Prediction Platforms Ramp Up Lobbying Efforts as States Push to Regulate the Sector",
-          "summary_he": "Prediction market operators Kalshi and Polymarket are ramping up lobbying efforts and recruiting political figures from both sides of the aisle as they fight US states’ attempts to regulate sports-event contracts as gambling. Any ruling allowing state laws to apply to prediction markets could force ",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/prediction-platforms-ramp-up-lobbying-efforts-as-states-push-to-regulate-the-sector/",
-          "sourceKey": "gambling_news"
-        },
-        {
-          "date": "2026-11-13",
-          "title": "DraftKings and FanDuel Are Now Neck and Neck in US Sports Betting",
-          "summary_he": "",
-          "source": "deadspin.com",
-          "url": "https://deadspin.com/legal-betting/",
-          "sourceKey": "deadspin"
         }
       ]
     },
@@ -362,14 +370,6 @@ window.intelData = {
           "summary_he": "KwaZulu-Natal's proposed gambling tax overhaul has sparked warnings from operators that significant increases could force businesses to close.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/finance/kwazulu-natal-gaming-betting-tax-bill-hearings/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-11-11",
-          "title": "Chile deputies back curbs on online betting tax collection",
-          "summary_he": "A new legislative battle over online gambling taxation has emerged in Chile, following a decisive vote in the Chamber of Deputies.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/chile-online-betting-tax-sii-budget-amendment/",
           "sourceKey": "igaming_market"
         },
         {
@@ -395,6 +395,14 @@ window.intelData = {
           "source": "gamblingnews.com",
           "url": "https://www.gamblingnews.com/news/iagr-allows-canadians-to-now-check-if-their-gambling-website-is-legal/",
           "sourceKey": "gambling_news"
+        },
+        {
+          "date": "2026-11-13",
+          "title": "Black Market Bookies to Take £500m in Jump Racing Bets",
+          "summary_he": "The BGC estimates black market bookies will take £500m in bets during Britain's National Hunt season, warning of the growing illegal gambling threat....Read More...",
+          "source": "igamingfuture.com",
+          "url": "https://igamingfuture.com/black-market-bookies/",
+          "sourceKey": "igaming_future"
         }
       ]
     },
@@ -420,12 +428,12 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-11-11",
-          "title": "Accor and Hard Rock agree global hotel partnership",
-          "summary_he": "Properties would gain access to Accor's global sales and distribution network.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/nongaming-amenities/accor-and-hard-rock-agree-global-hotel-partnership/",
-          "sourceKey": "igaming_market"
+          "date": "2026-11-13",
+          "title": "Finland’s upcoming betting market keeps expanding",
+          "summary_he": "Finland’s soon-to-be-launched gambling market is gaining more and more prospectors by the day with 711 and Play North both securing licences this week. Belgium-based 711 confirmed on 13 November 2025 that the National Police Board of Finland had approved the company’s licence application. Finland wi",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/igaming/2026/11/13/finlands-711-play-north/",
+          "sourceKey": "sbc_news"
         },
         {
           "date": "2026-11-12",
@@ -437,15 +445,15 @@ window.intelData = {
         },
         {
           "date": "2026-11-13",
-          "title": "Congress Turns Spotlight on Sports Betting’s Impact on College Students",
-          "summary_he": "",
-          "source": "deadspin.com",
-          "url": "https://deadspin.com/legal-betting/",
-          "sourceKey": "deadspin"
+          "title": "Mystery US Buyer Wanted to Buy iGaming Company DoubleDown Interactive",
+          "summary_he": "An unknown US-listed company recently tried to purchase South Korea-registered social casino developer and B2C iGaming operator DoubleDown Interactive. However, financial issues and shareholder interest seem to have thwarted the deal. Info About a Potential Deal Comes Up in M&#38;A Disclosures Earli",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/mystery-us-buyer-wanted-to-buy-igaming-company-doubledown-interactive/",
+          "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-11-13",
-          "title": "Texas Sports Betting Push Gains Momentum After Dan Patrick Defeat",
+          "date": "2026-11-14",
+          "title": "Rhode Island Faces Renewed Pressure to Expand Sports Betting Market",
           "summary_he": "",
           "source": "deadspin.com",
           "url": "https://deadspin.com/legal-betting/",
@@ -464,6 +472,20 @@ window.intelData = {
           "summary_he": "תקציר לא זמין (שגיאת AI)",
           "source": "Reddit r/onlinegambling",
           "url": "https://www.reddit.com/r/onlinegambling/comments/1xv5ktx/am_i_doing_this_wrong_or_are_casino_welcome/"
+        },
+        {
+          "date": "2026-11-14",
+          "title": "Reddit: FREE PLAY",
+          "summary_he": "תקציר לא זמין (שגיאת AI)",
+          "source": "Reddit r/onlinegambling",
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1xvr3eu/free_play/"
+        },
+        {
+          "date": "2026-11-14",
+          "title": "Reddit: How to play live casino in state restricted websites",
+          "summary_he": "תקציר לא זמין (שגיאת AI)",
+          "source": "Reddit r/onlinegambling",
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1xvpsvt/how_to_play_live_casino_in_state_restricted/"
         }
       ]
     }

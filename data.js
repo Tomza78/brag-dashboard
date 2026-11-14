@@ -19,37 +19,91 @@ window.dashboardData = {
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
       "category_he": "כללי",
+      "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+      "date_string": "2026-11-13",
+      "saved_at": "2026-11-13T13:56:35.054+00:00"
+    },
+    {
+      "id": "1xvr3eu",
+      "source": "reddit",
+      "title": "FREE PLAY",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1xvr3eu/free_play/",
+      "author": "JagsLandBr0s",
+      "score": 1,
+      "selftext": "Can someone who is not located in a state where Hacksaw games are not prohibited please help me out?\n\nLong story short: I was gifted 100 promotional free plays on Miami Mayhem, a slot game provided by Hacksaw. The problem is I live in Iowa where I can play all of the other slots but not from Hacksaw, Relax gaming and some other providers.\n\nCan I have someone who is not located in Iowa log into my account and play them for me?",
+      "subreddit": "onlinegambling",
+      "created_utc": 1794623840,
+      "top_comments": [
+        {
+          "body": "I am also in Iowa and I was able to play all hacksaw games until a couple days ago, super annoying. \n\nThis has happened to me several times with multiple casinos and they usually always switch it or give me a credit if I email them with screenshots. ",
+          "score": 2,
+          "author": "WhaleAndWhimsy"
+        },
+        {
+          "body": "Thank you for the advice. I was able to get the free spins switched to a different game. I guess it doesn't hurt to ask!",
+          "score": 1,
+          "author": "JagsLandBr0s"
+        },
+        {
+          "body": "I have tried using 4 different VPN apps and still have had no luck. I will ask ti maybe get it switched. Thanks!",
+          "score": 1,
+          "author": "JagsLandBr0s"
+        }
+      ],
+      "summary_he": "תקציר לא זמין (שגיאת AI)",
+      "category_he": "כללי",
+      "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+    },
+    {
+      "id": "1xvpsvt",
+      "source": "reddit",
+      "title": "How to play live casino in state restricted websites",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1xvpsvt/how_to_play_live_casino_in_state_restricted/",
+      "author": "Problemsmustbesolved",
+      "score": 1,
+      "selftext": "You dont have to tell me about how bit coin sending works. But how to play live casino in state restricted without being detected and verification? \n\nWhat vpn do you recommend\n",
+      "subreddit": "onlinegambling",
+      "created_utc": 1794619913,
+      "top_comments": [
+        {
+          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
+          "score": 1,
+          "author": "AutoModerator"
+        }
+      ],
+      "summary_he": "תקציר לא זמין (שגיאת AI)",
+      "category_he": "כללי",
       "comments_summary_he": "סיכום תגובות לא זמין כרגע."
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין ציוצים עדכניים משמעותיים על BRAG היום. אין חדשות או תחזיות חדשות.",
+      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
+      "summary": "אין חדשות חדשות על רגולציה בניו יורק.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין עדכונים על רישיונות או אכיפה בברזיל מהיום.",
+      "summary": "אין דיונים עדכניים על רגולציה בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין דיווחים על חידוש רישיונות או אכיפה בהולנד.",
+      "summary": "אין מידע חדש על KSA או BetCity.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או שותפויות חדשות מדווחות בתעשייה.",
+      "summary": "אין עסקאות או מגמות בולטות היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-11-13T13:56:35.497Z"
+  "generatedAt": "2026-11-14T12:58:43.276Z"
 };
