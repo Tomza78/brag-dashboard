@@ -1,16 +1,26 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1xv5ktx",
+      "id": "1xw4snj",
       "source": "reddit",
-      "title": "Am I doing this wrong or are casino welcome bonuses a trap? (Need advice)",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1xv5ktx/am_i_doing_this_wrong_or_are_casino_welcome/",
-      "author": "TacomaSuite",
-      "score": 1,
-      "selftext": "Hey guys, \n\nPretty new to online slots and could use some advice from any veteran players. \n\nI deposited 50€ last weekend at an online casino and they auto-credited me a 100% match. Great, now I have 100€ to play with! I ended up getting a pretty sweet 450€ win on Book of the Dead and tried to cash out right away.   \nThis is where I hit a wall. I was told I couldn't withdraw anything because I still needed to wager 3.500€ to clear the bonus. I tried to grind it out but ended up losing it all. \n\nIs this just how it always works? Do you guys actually use these deposit matches or do you prefer playing with your own raw cash so you can withdraw whenever you want?\n\nTBH the most infuriating part is that every review site just pushes these \"Huge 200% Bonus\" links and I have to now start spending 20 minutes in Live Chat to beg support to remove the bonus before i spin and my funds wont get locked. I wish they just had \"give me zero bonuses\" links so that I can just deposit and play in peace...\n\nJust curious to how you guys handle this. Do you take the free money and try and beat the wagering or is raw cash the only way to keep my winnings?",
+      "title": "VPN ?",
+      "url": "https://www.reddit.com/r/onlinegambling/comments/1xw4snj/vpn/",
+      "author": "Fantastic_Reply6199",
+      "score": 2,
+      "selftext": "Do they work on certain online casinos platforms? ",
       "subreddit": "onlinegambling",
-      "created_utc": 1794569766,
+      "created_utc": 1794669309,
       "top_comments": [
+        {
+          "body": "You’d still probably run into issues trying to withdraw when they see your banking is in another state or country if going from Canada to us kinda thing.",
+          "score": 2,
+          "author": "Sufficient_Resiliant"
+        },
+        {
+          "body": "I figured! I am not going to risk it. Thank you ",
+          "score": 1,
+          "author": "Fantastic_Reply6199"
+        },
         {
           "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
           "score": 1,
@@ -19,9 +29,7 @@ window.dashboardData = {
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
       "category_he": "כללי",
-      "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-      "date_string": "2026-11-13",
-      "saved_at": "2026-11-13T13:56:35.054+00:00"
+      "comments_summary_he": "סיכום תגובות לא זמין כרגע."
     },
     {
       "id": "1xvr3eu",
@@ -52,7 +60,9 @@ window.dashboardData = {
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
       "category_he": "כללי",
-      "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+      "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+      "date_string": "2026-11-14",
+      "saved_at": "2026-11-14T12:58:42.219+00:00"
     },
     {
       "id": "1xvpsvt",
@@ -73,37 +83,39 @@ window.dashboardData = {
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
       "category_he": "כללי",
-      "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+      "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+      "date_string": "2026-11-14",
+      "saved_at": "2026-11-14T12:58:43.019+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום.",
+      "summary": "אין עדכונים משמעותיים על BRAG ב-X היום. דיונים מוגבלים על ביצועי הרבעון.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "אין חדשות חדשות על רגולציה בניו יורק.",
+      "summary": "דיונים על רגולציה בניו יורק נמשכים ללא חקיקה חדשה. מיקוד ברישיונות קיימים.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין דיונים עדכניים על רגולציה בברזיל.",
+      "summary": "אין דיווחים חדשים על רגולציה או אכיפה בברזיל מהיום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין מידע חדש על KSA או BetCity.",
+      "summary": "אין חידושי רישיונות או אכיפה מדווחים ב-KSA.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "אין עסקאות או מגמות בולטות היום.",
+      "summary": "מגמות כלליות שקטות, ללא עסקאות בולטות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
     "top_alert": ""
   },
-  "generatedAt": "2026-11-14T12:58:43.276Z"
+  "generatedAt": "2026-11-15T13:27:15.067Z"
 };
