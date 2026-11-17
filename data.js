@@ -29,40 +29,9 @@ window.dashboardData = {
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
       "category_he": "כללי",
-      "comments_summary_he": "סיכום תגובות לא זמין כרגע."
-    },
-    {
-      "id": "1xw4snj",
-      "source": "reddit",
-      "title": "VPN ?",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1xw4snj/vpn/",
-      "author": "Fantastic_Reply6199",
-      "score": 2,
-      "selftext": "Do they work on certain online casinos platforms? ",
-      "subreddit": "onlinegambling",
-      "created_utc": 1794669309,
-      "top_comments": [
-        {
-          "body": "You’d still probably run into issues trying to withdraw when they see your banking is in another state or country if going from Canada to us kinda thing.",
-          "score": 2,
-          "author": "Sufficient_Resiliant"
-        },
-        {
-          "body": "I figured! I am not going to risk it. Thank you ",
-          "score": 1,
-          "author": "Fantastic_Reply6199"
-        },
-        {
-          "body": "\nThank you for posting to /r/onlinegambling! If you are new here, please remember to read the rules in the sidebar. Don't forget to subscribe and [join our Discord](https://discord.gg/dZCqv4P4DG)!\n\n*Have a gambling problem? We strive to promote healthy, responsible gambling in this subreddit. If you feel like your gambling habits are getting out of control, please read our [Problem Gambling Wiki](https://www.reddit.com/r/gambling/wiki/problem-gambling/).*\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/onlinegambling) if you have any questions or concerns.*",
-          "score": 1,
-          "author": "AutoModerator"
-        }
-      ],
-      "summary_he": "תקציר לא זמין (שגיאת AI)",
-      "category_he": "כללי",
       "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
-      "date_string": "2026-11-15",
-      "saved_at": "2026-11-15T13:27:13.681+00:00"
+      "date_string": "2026-11-16",
+      "saved_at": "2026-11-16T14:48:36.165+00:00"
     },
     {
       "id": "1xxfswl",
@@ -83,37 +52,39 @@ window.dashboardData = {
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
       "category_he": "כללי",
-      "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+      "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+      "date_string": "2026-11-16",
+      "saved_at": "2026-11-16T14:48:37.91+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים על מניית BRAG היום ב-X. משתמשים מציינים ביצועים יציבים ללא חדשות חדשות. תחזיות מחיר נשארות זהירות.",
+      "summary": "אין מידע עדכני משמעותי על מניית BRAG מהיום.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות"
+      "breaking": "אין"
     },
     "us_regulation": {
-      "summary": "דיונים מוגבלים על רגולציית iGaming בניו יורק. אין חקיקה חדשה או רישיונות שדווחו היום. השיחה מתמקדת במגמות כלליות.",
+      "summary": "אין עדכונים חדשים על רגולציית iGaming בניו יורק.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות"
+      "breaking": "אין"
     },
     "brazil_market": {
-      "summary": "אין דיווחים חדשים על רגולציה או רישיונות בברזיל היום. משתמשים מתייחסים לאכיפה קיימת ללא שינויים. השוק נשאר יציב.",
+      "summary": "אין דיווחים חדשים על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות"
+      "breaking": "אין"
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על חידוש רישיונות או אכיפה של KSA. BetCity לא מוזכרת בהקשר חדש. השיחה כללית בלבד.",
+      "summary": "אין חידושים על רישיונות או אכיפה בהולנד.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות"
+      "breaking": "אין"
     },
     "igaming_industry": {
-      "summary": "עסקאות ושותפויות לא דווחו היום. מגמות כלליות נשארות ללא שינויים בולטים. השוק שקט יחסית.",
+      "summary": "אין חדשות על עסקאות או מגמות כלליות מהיום.",
       "sentiment": "ניטרלי",
-      "breaking": "אין חדשות חשובות מהשעות האחרונות"
+      "breaking": "אין"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות דחופות"
+    "top_alert": "אין חדשות בולטות"
   },
-  "generatedAt": "2026-11-16T14:48:38.605Z"
+  "generatedAt": "2026-11-17T15:30:12.176Z"
 };
