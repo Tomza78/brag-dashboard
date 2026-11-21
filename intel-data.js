@@ -1,20 +1,20 @@
 window.intelData = {
   "stock": {
-    "price": "0.66",
-    "change": "+0.01",
-    "changePercent": "+1.07%",
-    "priceTSX": "0.95",
+    "price": "0.59",
+    "change": "-0.06",
+    "changePercent": "-9.80%",
+    "priceTSX": "0.80",
     "high52w": "$2.74",
     "low52w": "$0.56",
-    "volume": "39,784",
-    "marketCap": "$20M",
-    "yoyChange": "-76%",
-    "updatedAt": "20.11.2026 · 14:53",
+    "volume": "152,000",
+    "marketCap": "$18M",
+    "yoyChange": "-79%",
+    "updatedAt": "21.11.2026 · 14:12",
     "dayHigh": "$0.67",
-    "dayLow": "$0.61",
-    "changeTSX": "+0.00",
-    "changePercentTSX": "+0.00%",
-    "volumeTSX": "33,406"
+    "dayLow": "$0.57",
+    "changeTSX": "-0.15",
+    "changePercentTSX": "-15.79%",
+    "volumeTSX": "92,200"
   },
   "chartData": {
     "priceLabels": [
@@ -33,7 +33,7 @@ window.intelData = {
       1.01,
       1.04,
       0.95,
-      0.95
+      0.8
     ],
     "volumeLabels": [
       "12/11",
@@ -51,7 +51,7 @@ window.intelData = {
       110,
       16,
       53,
-      33
+      92
     ]
   },
   "socialMedia": {
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "אין עדכונים משמעותיים היום על BRAG. דיונים מוגבלים על ביצועים כלליים.",
+        "text": "לא נמצאו ציוצים עדכניים משמעותיים על BRAG היום.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "דיונים על רגולציה בניו יורק נמשכים ללא חקיקה חדשה. התמקדות ברישיונות קיימים.",
+        "text": "אין דיונים בולטים על רגולציה בניו יורק או חקיקה חדשה.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין חדשות על רגולציה או רישיונות חדשים בברזיל היום.",
+        "text": "אין עדכונים חדשים על רגולציה או רישיונות בברזיל.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "אין עדכונים על KSA או BetCity. אכיפה שגרתית.",
+        "text": "לא דווח על חידוש רישיונות או אכיפה ב-KSA.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "מגמות כלליות ללא עסקאות בולטות היום.",
+        "text": "אין חדשות על עסקאות או שותפויות בולטות.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,32 +166,32 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "אין עדכונים משמעותיים היום על BRAG. דיונים מוגבלים על ביצועים כלליים.",
+      "summary": "לא נמצאו ציוצים עדכניים משמעותיים על BRAG היום.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "us_regulation": {
-      "summary": "דיונים על רגולציה בניו יורק נמשכים ללא חקיקה חדשה. התמקדות ברישיונות קיימים.",
+      "summary": "אין דיונים בולטים על רגולציה בניו יורק או חקיקה חדשה.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "brazil_market": {
-      "summary": "אין חדשות על רגולציה או רישיונות חדשים בברזיל היום.",
+      "summary": "אין עדכונים חדשים על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "netherlands_ksa": {
-      "summary": "אין עדכונים על KSA או BetCity. אכיפה שגרתית.",
+      "summary": "לא דווח על חידוש רישיונות או אכיפה ב-KSA.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "igaming_industry": {
-      "summary": "מגמות כלליות ללא עסקאות בולטות היום.",
+      "summary": "אין חדשות על עסקאות או שותפויות בולטות.",
       "sentiment": "ניטרלי",
       "breaking": ""
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": ""
+    "top_alert": "אין התראות חשובות מהיום"
   },
   "sections": {
     "brag_official": {
@@ -263,12 +263,12 @@ window.intelData = {
       "color": "rgba(255,152,0,0.12)",
       "articles": [
         {
-          "date": "2026-11-19",
-          "title": "FDJ takes Meta to court over adverts promoting illegal online casinos",
-          "summary_he": "French giant FDJ joins Dutch trade association VNLOK in launching action against the tech giant over its use of advertisements.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/marketing-affiliates/fdj-takes-meta-court-adverts-promoting-illegal-online-casinos/",
-          "sourceKey": "igaming_market"
+          "date": "2026-11-20",
+          "title": "Fake Website Poses as Dutch Gambling Regulator, Promotes Illegal Gambling",
+          "summary_he": "The Netherlands Gambling Authority, or Kansspelautoriteit (KSA), has reported to the police that a copycat version of its official website is online and has been promoting illegal gambling sites for at least half a year now. What Does the Fake Site Promote? The regulator stated that the imitation op",
+          "source": "gamblingnews.com",
+          "url": "https://www.gamblingnews.com/news/fake-website-poses-as-dutch-gambling-regulator-promotes-illegal-gambling/",
+          "sourceKey": "gambling_news"
         }
       ]
     },
@@ -277,6 +277,14 @@ window.intelData = {
       "icon": "🇧🇷",
       "color": "rgba(76,175,80,0.12)",
       "articles": [
+        {
+          "date": "2026-11-20",
+          "title": "An uncertain future for Brazilian betting",
+          "summary_he": "Even if betting returns, experts warn the sudden suspension could lastingly hurt investor confidence, jobs and Brazil’s business reputation.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/uncertain-future-brazilian-betting/",
+          "sourceKey": "igaming_market"
+        },
         {
           "date": "2026-11-19",
           "title": "Allwyn confident Betano can weather Brazil betting shutdown",
@@ -301,40 +309,40 @@ window.intelData = {
       "color": "rgba(33,150,243,0.12)",
       "articles": [
         {
-          "date": "2026-11-19",
-          "title": "Prediction markets top of mind as CFTC nominees testify before Senate committee",
-          "summary_he": "It is a critical time for the CFTC and two new commissioners could soon be taking office.",
+          "date": "2026-11-20",
+          "title": "Arizona sports betting handle slips 1.7% as FanDuel leads September wagering",
+          "summary_he": "Bettors staked $836.7 million in September 2026. Operators recorded $33 million in receipts subject to state fees, with mobile wagers accounting for almost all activity.",
           "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/prediction-markets/prediction-markets-top-of-mind-as-cftc-nominees-testify-before-senate-committee/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-11-18",
-          "title": "Novig inks NHL partnerships with defending Cup champion Canes, six other teams",
-          "summary_he": "The prediction market operator announced its first wave of deals with NHL clubs, while targeting the Northeast region.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/prediction-markets/novig-inks-nhl-partnerships-with-seven-teams/",
+          "url": "https://igamingbusiness.com/finance/arizona-sports-betting-handle-slips-fanduel-leads-september-wagering/",
           "sourceKey": "igaming_market"
         },
         {
           "date": "2026-11-20",
-          "title": "South Korea Seizes $116M, Arrests 6,310 in 2026 over Illegal Gambling",
-          "summary_he": "South Korean police have released details on operations conducted against illegal gambling between November 1, 2025, and October 31, 2026, with the results ranking among the most ambitious on record. The news comes only a few days after South Korea announced that it has busted an illegal gambling ri",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/south-korea-seizes-116m-arrests-6310-in-2026-over-illegal-gambling/",
-          "sourceKey": "gambling_news"
+          "title": "Ashton suicide ruling narrows route to negligence claims against gambling operators, says legal expert",
+          "summary_he": "Bethan Lloyd, Partner of Wiggin Law spoke to iGB about the recent ruling where negligence claims against Betfair were dismissed due to insufficient evidence around the claimant's, Luke Ashton, gambling disorder",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/legal-compliance/ashton-negligence-claims-against-gambling-operators-says-lawyer/",
+          "sourceKey": "igaming_market"
         },
         {
           "date": "2026-11-20",
-          "title": "43 States Ask CFTC to Drop Sports Prediction Markets Rule",
-          "summary_he": "The attorneys general of 43 states and Washington, D.C., have come out against a federal proposal to put markets for sports predictions under the jurisdiction of the Commodity Futures Trading Commission (CFTC). The bipartisan coalition is calling on the regulator to withdraw the measure, arguing tha",
+          "title": "Coinbase Plans to Launch Its Own Prediction Markets Platform in the US",
+          "summary_he": "According to a Bloomberg report, the American cryptocurrency exchange Coinbase Global Inc. plans to roll out its own prediction markets platform for US customers sometime in the first half of 2027. Why Coinbase Wants to Further Expand Into Prediction Markets? Coinbase’s expansion into prediction mar",
           "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/43-states-ask-cftc-to-drop-sports-prediction-markets-rule/",
+          "url": "https://www.gamblingnews.com/news/coinbase-plans-to-launch-its-own-prediction-markets-platform-in-the-us/",
           "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-11-20",
-          "title": "BetMGM’s ‘Mullet Time’ Puts Spotlight On Responsible Gaming Tools",
+          "date": "2026-11-21",
+          "title": "Michigan Online Casino Growth Drove $388.8 Million Gaming Month",
+          "summary_he": "",
+          "source": "deadspin.com",
+          "url": "https://deadspin.com/legal-betting/",
+          "sourceKey": "deadspin"
+        },
+        {
+          "date": "2026-11-21",
+          "title": "D.C. Online Casino Bill Moves Forward With $73 Million in Revenue at Stake and December Deadlines",
           "summary_he": "",
           "source": "deadspin.com",
           "url": "https://deadspin.com/legal-betting/",
@@ -348,11 +356,19 @@ window.intelData = {
       "color": "rgba(156,39,176,0.12)",
       "articles": [
         {
-          "date": "2026-11-18",
-          "title": "Pokémon cards should face greater gambling scrutiny, says Lord Foster",
-          "summary_he": "Peers for Gambling Reform calls for scrutiny of resalable cards, but the regulator says this does not mean their sale constitutes gambling.",
+          "date": "2026-11-20",
+          "title": "UK rejects Lords’ call for gambling ad ban but agrees to widen ministers’ online powers",
+          "summary_he": "The government turned down most of the committee’s proposals, but agreed to fix a legal gap that limits what ministers can do about online gambling ads.",
           "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/pokemon-cards-face-gambling-scrutiny-lord-foster/",
+          "url": "https://igamingbusiness.com/legal-compliance/uk-rejects-lords-call-for-gambling-ad-ban-but-agrees-to-widen-ministers-online-powers/",
+          "sourceKey": "igaming_market"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "Italy’s coalition parties move to shift gambling tax burden from slots to online",
+          "summary_he": "Amendments from Lega and Forza Italia would delay the slot levy rise and fund cuts for machine operators with higher taxes on online gaming.",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/finance/italys-coalition-parties-move-to-shift-gambling-tax-burden-from-slots-to-online/",
           "sourceKey": "igaming_market"
         },
         {
@@ -378,14 +394,6 @@ window.intelData = {
           "source": "sbcnews.co.uk",
           "url": "https://sbcnews.co.uk/europe/2026/11/20/eu-malta-bill-55/",
           "sourceKey": "sbc_news"
-        },
-        {
-          "date": "2026-11-20",
-          "title": "Despite Prison Time and $20M Loss: Mathew Bowyer Says He Has No Regrets",
-          "summary_he": "Mathew Bowyer, the illegal bookmaker at the center of the Shohei Ohtani gambling scandal, says he has no regrets about his past, despite serving prison time and losing much of his fortune.&#160; In a recent Casino.org interview, he opened up about his gambling operation, the casino investigations th",
-          "source": "gamblingnews.com",
-          "url": "https://www.gamblingnews.com/news/despite-prison-time-and-20m-loss-mathew-bowyer-says-he-has-no-regrets/",
-          "sourceKey": "gambling_news"
         }
       ]
     },
@@ -395,9 +403,17 @@ window.intelData = {
       "color": "rgba(0,230,118,0.12)",
       "articles": [
         {
+          "date": "2026-11-20",
+          "title": "Clase Trial: Jurors review improbable Pages strike that cost bettors thousands",
+          "summary_he": "A key witness claims he received inside info that the bet was rigged, claims the defense believes are patently wrong",
+          "source": "igamingbusiness.com",
+          "url": "https://igamingbusiness.com/sports-betting/clase-trial-improbable-pages-strike/",
+          "sourceKey": "igaming_market"
+        },
+        {
           "date": "2026-11-19",
           "title": "Protest at Entain headquarters aimed to challenge message of Safer Gambling Week",
-          "summary_he": "The protesters were part of a campaign named 'Shut Down Romford' which takes aim at the greyhound racing course in Romford",
+          "summary_he": "The protesters were part of a campaign named 'Shut Down Romford' which takes aim at the greyhound racetrack in Romford.",
           "source": "igamingbusiness.com",
           "url": "https://igamingbusiness.com/sports-betting/protest-entain-headquarters-aimed-challenge-safer-gambling-week/",
           "sourceKey": "igaming_market"
@@ -419,28 +435,41 @@ window.intelData = {
           "sourceKey": "igaming_market"
         },
         {
-          "date": "2026-11-19",
-          "title": "Buenos Aires online betting bill clears first committee as deputies split over funds",
-          "summary_he": "Buenos Aires province’s online betting bill has passed its first committee with three competing texts, as deputies clash over who pays for a clubs fund.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/buenos-aires-online-betting-bill-funding-dispute/",
-          "sourceKey": "igaming_market"
-        },
-        {
-          "date": "2026-11-19",
-          "title": "Ecuador receives 16 applications for sports betting licences",
-          "summary_he": "Operators that missed the 21 October deadline cannot get one.",
-          "source": "igamingbusiness.com",
-          "url": "https://igamingbusiness.com/legal-compliance/ecuador-sports-betting-licence-applications/",
-          "sourceKey": "igaming_market"
-        },
-        {
           "date": "2026-11-20",
           "title": "Better Collective puts US drive at centre of Søgaard’s CEO playbook",
           "summary_he": "Better Collective moves to aggressively expand its US commercial pipeline as the solution to temporary adjustments across Europe and other markets. Yesterday, analysts listened carefully as management reviewed the Q3 activities and developments of Better Collective AS. The firm’s headlines were domi",
           "source": "sbcnews.co.uk",
           "url": "https://sbcnews.co.uk/featurednews/2026/11/20/better-collective-playbook/",
           "sourceKey": "sbc_news"
+        },
+        {
+          "date": "2026-11-20",
+          "title": "JONUM&#8230; the dream that died for French gaming",
+          "summary_he": "JONUMs were meant to herald a brand new era of iGaming in France this decade, yet hope of a new market has faded reports Jake Pollard for SBC The rise and subsequent plateauing out of JONUMs (Games with Monetisable Digital Objects) over the last three years has been as noteworthy as the analysis pub",
+          "source": "sbcnews.co.uk",
+          "url": "https://sbcnews.co.uk/latestnews/2026/11/20/jonum-france-2026/",
+          "sourceKey": "sbc_news"
+        }
+      ]
+    },
+    "social_media": {
+      "title": "BRAG ברשתות החברתיות",
+      "icon": "💬",
+      "color": "rgba(255,214,0,0.15)",
+      "articles": [
+        {
+          "date": "2026-11-20",
+          "title": "Reddit: What I wish I knew before my first online casino cash-out",
+          "summary_he": "תקציר לא זמין (שגיאת AI)",
+          "source": "Reddit r/onlinegambling",
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1y0v7vm/what_i_wish_i_knew_before_my_first_online_casino/"
+        },
+        {
+          "date": "2026-11-21",
+          "title": "Reddit: Slots",
+          "summary_he": "תקציר לא זמין (שגיאת AI)",
+          "source": "Reddit r/onlinegambling",
+          "url": "https://www.reddit.com/r/onlinegambling/comments/1y1u4ii/slots/"
         }
       ]
     }
