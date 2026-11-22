@@ -1,21 +1,6 @@
 window.dashboardData = {
   "trends": [
     {
-      "id": "1y0v7vm",
-      "source": "reddit",
-      "title": "What I wish I knew before my first online casino cash-out",
-      "url": "https://www.reddit.com/r/onlinegambling/comments/1y0v7vm/what_i_wish_i_knew_before_my_first_online_casino/",
-      "author": "OCCGambling",
-      "score": 2,
-      "selftext": "A few things that would've saved me a lot of stress the first time I withdrew:\n\n1. Verify your account (ID/KYC) BEFORE you need to cash out. Doing it after a win is what causes most of the \"why is my withdrawal stuck\" posts.\n2. Read the bonus wagering requirements before you accept a bonus. An active bonus can lock your withdrawal until the playthrough is done.\n3. Withdraw with the same method you deposited with when you can. Switching methods often adds extra checks.\n4. Crypto is usually the fastest way out; card and check withdrawals can take a lot longer.\n5. Your first withdrawal is almost always the slowest. Later ones tend to go quicker once you're verified.\n6. Set a cash-out number before you play and actually stick to it.\n\nAnything you'd add for people doing their first withdrawal?",
-      "subreddit": "onlinegambling",
-      "created_utc": 1795152188,
-      "top_comments": [],
-      "summary_he": "תקציר לא זמין (שגיאת AI)",
-      "category_he": "כללי",
-      "comments_summary_he": "אין תגובות משמעותיות."
-    },
-    {
       "id": "1y1u4ii",
       "source": "reddit",
       "title": "Slots",
@@ -34,37 +19,39 @@ window.dashboardData = {
       ],
       "summary_he": "תקציר לא זמין (שגיאת AI)",
       "category_he": "כללי",
-      "comments_summary_he": "סיכום תגובות לא זמין כרגע."
+      "comments_summary_he": "סיכום תגובות לא זמין כרגע.",
+      "date_string": "2026-11-21",
+      "saved_at": "2026-11-21T14:13:40.349+00:00"
     }
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "לא נמצאו ציוצים עדכניים משמעותיים על BRAG היום.",
+      "summary": "אין דיונים בולטים על BRAG ב-X היום. אין עדכונים על תחזיות או חדשות.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "us_regulation": {
-      "summary": "אין דיונים בולטים על רגולציה בניו יורק או חקיקה חדשה.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "brazil_market": {
-      "summary": "אין עדכונים חדשים על רגולציה או רישיונות בברזיל.",
+      "summary": "אין עדכונים משמעותיים על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "netherlands_ksa": {
-      "summary": "לא דווח על חידוש רישיונות או אכיפה ב-KSA.",
+      "summary": "אין אזכורים חדשים על KSA או BetCity.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "igaming_industry": {
-      "summary": "אין חדשות על עסקאות או שותפויות בולטות.",
+      "summary": "אין עסקאות או שותפויות מדווחות היום.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות חשובות מהיום"
+    "top_alert": "אין התראות משמעותיות מהיום"
   },
-  "generatedAt": "2026-11-21T14:13:40.587Z"
+  "generatedAt": "2026-11-22T14:03:24.672Z"
 };

@@ -9,7 +9,7 @@ window.intelData = {
     "volume": "152,000",
     "marketCap": "$18M",
     "yoyChange": "-79%",
-    "updatedAt": "21.11.2026 · 14:12",
+    "updatedAt": "22.11.2026 · 14:02",
     "dayHigh": "$0.67",
     "dayLow": "$0.57",
     "changeTSX": "-0.15",
@@ -59,23 +59,23 @@ window.intelData = {
     "sentimentLabel": "מעורב-חיובי",
     "opinions": [
       {
-        "text": "לא נמצאו ציוצים עדכניים משמעותיים על BRAG היום.",
+        "text": "אין דיונים בולטים על BRAG ב-X היום. אין עדכונים על תחזיות או חדשות.",
         "platform": "X/Grok · brag stock"
       },
       {
-        "text": "אין דיונים בולטים על רגולציה בניו יורק או חקיקה חדשה.",
+        "text": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
         "platform": "X/Grok · us regulation"
       },
       {
-        "text": "אין עדכונים חדשים על רגולציה או רישיונות בברזיל.",
+        "text": "אין עדכונים משמעותיים על רגולציה או רישיונות בברזיל.",
         "platform": "X/Grok · brazil market"
       },
       {
-        "text": "לא דווח על חידוש רישיונות או אכיפה ב-KSA.",
+        "text": "אין אזכורים חדשים על KSA או BetCity.",
         "platform": "X/Grok · netherlands ksa"
       },
       {
-        "text": "אין חדשות על עסקאות או שותפויות בולטות.",
+        "text": "אין עסקאות או שותפויות מדווחות היום.",
         "platform": "X/Grok · igaming industry"
       },
       {
@@ -166,32 +166,32 @@ window.intelData = {
   ],
   "xIntelligence": {
     "brag_stock": {
-      "summary": "לא נמצאו ציוצים עדכניים משמעותיים על BRAG היום.",
+      "summary": "אין דיונים בולטים על BRAG ב-X היום. אין עדכונים על תחזיות או חדשות.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "us_regulation": {
-      "summary": "אין דיונים בולטים על רגולציה בניו יורק או חקיקה חדשה.",
+      "summary": "דיונים מוגבלים על רגולציה בניו יורק. אין חקיקה חדשה מדווחת.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "brazil_market": {
-      "summary": "אין עדכונים חדשים על רגולציה או רישיונות בברזיל.",
+      "summary": "אין עדכונים משמעותיים על רגולציה או רישיונות בברזיל.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "netherlands_ksa": {
-      "summary": "לא דווח על חידוש רישיונות או אכיפה ב-KSA.",
+      "summary": "אין אזכורים חדשים על KSA או BetCity.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "igaming_industry": {
-      "summary": "אין חדשות על עסקאות או שותפויות בולטות.",
+      "summary": "אין עסקאות או שותפויות מדווחות היום.",
       "sentiment": "ניטרלי",
-      "breaking": ""
+      "breaking": "אין חדשות"
     },
     "overall_sentiment": "ניטרלי",
-    "top_alert": "אין התראות חשובות מהיום"
+    "top_alert": "אין התראות משמעותיות מהיום"
   },
   "sections": {
     "brag_official": {
@@ -333,7 +333,7 @@ window.intelData = {
           "sourceKey": "gambling_news"
         },
         {
-          "date": "2026-11-21",
+          "date": "2026-11-22",
           "title": "Michigan Online Casino Growth Drove $388.8 Million Gaming Month",
           "summary_he": "",
           "source": "deadspin.com",
@@ -341,7 +341,7 @@ window.intelData = {
           "sourceKey": "deadspin"
         },
         {
-          "date": "2026-11-21",
+          "date": "2026-11-22",
           "title": "D.C. Online Casino Bill Moves Forward With $73 Million in Revenue at Stake and December Deadlines",
           "summary_he": "",
           "source": "deadspin.com",
@@ -457,13 +457,6 @@ window.intelData = {
       "icon": "💬",
       "color": "rgba(255,214,0,0.15)",
       "articles": [
-        {
-          "date": "2026-11-20",
-          "title": "Reddit: What I wish I knew before my first online casino cash-out",
-          "summary_he": "תקציר לא זמין (שגיאת AI)",
-          "source": "Reddit r/onlinegambling",
-          "url": "https://www.reddit.com/r/onlinegambling/comments/1y0v7vm/what_i_wish_i_knew_before_my_first_online_casino/"
-        },
         {
           "date": "2026-11-21",
           "title": "Reddit: Slots",
